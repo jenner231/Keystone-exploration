@@ -1,0 +1,801 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,310,303443229,9,The Dawnbreaker,2024-10-28T17:00:09.000Z,1016508,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",贰纯丶,Monk,Brewmaster,tank,Scarlet Crusade
+1,310,303443229,9,The Dawnbreaker,2024-10-28T17:00:09.000Z,1016508,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",头孢克亏,Death Knight,Frost,dps,Shadowmourne
+1,310,303443229,9,The Dawnbreaker,2024-10-28T17:00:09.000Z,1016508,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小笨蛋,Shaman,Restoration,healer,Silver Hand
+1,310,303443229,9,The Dawnbreaker,2024-10-28T17:00:09.000Z,1016508,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小雨抱抱,Shaman,Enhancement,dps,Burning Blade
+1,310,303443229,9,The Dawnbreaker,2024-10-28T17:00:09.000Z,1016508,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",淳晕晕,Warlock,Affliction,dps,Isillien
+2,310,306079849,9,The Dawnbreaker,2024-10-28T07:52:38.000Z,1104592,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吸着氧打本,Druid,Restoration,healer,Al'ar
+2,310,306079849,9,The Dawnbreaker,2024-10-28T07:52:38.000Z,1104592,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",捷卡林娜,Demon Hunter,Havoc,dps,The Great Sea
+2,310,306079849,9,The Dawnbreaker,2024-10-28T07:52:38.000Z,1104592,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",七灬歌,Paladin,Protection,tank,Bleeding Hollow
+2,310,306079849,9,The Dawnbreaker,2024-10-28T07:52:38.000Z,1104592,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕真冷呀,Hunter,Survival,dps,The Great Sea
+2,310,306079849,9,The Dawnbreaker,2024-10-28T07:52:38.000Z,1104592,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶胖仔丶,Paladin,Retribution,dps,Al'ar
+3,310,303828161,9,The Dawnbreaker,2024-10-30T11:57:23.000Z,1122143,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尐尼龟,Demon Hunter,Vengeance,tank,Barrens
+3,310,303828161,9,The Dawnbreaker,2024-10-30T11:57:23.000Z,1122143,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小只,Shaman,Restoration,healer,World Tree
+3,310,303828161,9,The Dawnbreaker,2024-10-30T11:57:23.000Z,1122143,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",帕拉丁丷,Paladin,Retribution,dps,Silver Hand
+3,310,303828161,9,The Dawnbreaker,2024-10-30T11:57:23.000Z,1122143,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光斩首,Shaman,Enhancement,dps,Pandaren
+3,310,303828161,9,The Dawnbreaker,2024-10-30T11:57:23.000Z,1122143,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玛玛哈哈,Warrior,Fury,dps,Aerie Peak
+4,310,303811105,9,The Dawnbreaker,2024-10-30T08:28:05.000Z,1123153,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大天使泰瑞尓,Paladin,Retribution,dps,Eldre'Thalas
+4,310,303811105,9,The Dawnbreaker,2024-10-30T08:28:05.000Z,1123153,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",睡狗,Demon Hunter,Havoc,dps,Eldre'Thalas
+4,310,303811105,9,The Dawnbreaker,2024-10-30T08:28:05.000Z,1123153,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",火柴法,Mage,Frost,dps,Eldre'Thalas
+4,310,303811105,9,The Dawnbreaker,2024-10-30T08:28:05.000Z,1123153,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小心夹熊饼干,Priest,Discipline,healer,Eldre'Thalas
+4,310,303811105,9,The Dawnbreaker,2024-10-30T08:28:05.000Z,1123153,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",怀言者星夜,Paladin,Protection,tank,Eldre'Thalas
+5,310,303622107,9,The Dawnbreaker,2024-10-29T12:09:08.000Z,1129743,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我要睡着了,Mage,Frost,dps,Burning Blade
+5,310,303622107,9,The Dawnbreaker,2024-10-29T12:09:08.000Z,1129743,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",獄寺零,Death Knight,Frost,dps,Rhonin
+5,310,303622107,9,The Dawnbreaker,2024-10-29T12:09:08.000Z,1129743,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",坚如磐石,Druid,Guardian,tank,Isillien
+5,310,303622107,9,The Dawnbreaker,2024-10-29T12:09:08.000Z,1129743,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宝宝来了没,Paladin,Retribution,dps,Arthas
+5,310,303622107,9,The Dawnbreaker,2024-10-29T12:09:08.000Z,1129743,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",萨萨摩耶,Shaman,Restoration,healer,Burning Blade
+6,310,302975122,9,The Dawnbreaker,2024-10-26T17:41:28.000Z,1144707,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Onas,Druid,Balance,dps,Al'ar
+6,310,302975122,9,The Dawnbreaker,2024-10-26T17:41:28.000Z,1144707,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Florades,Shaman,Elemental,dps,Al'ar
+6,310,302975122,9,The Dawnbreaker,2024-10-26T17:41:28.000Z,1144707,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",澄橙憕,Death Knight,Frost,dps,Dragonblight
+6,310,302975122,9,The Dawnbreaker,2024-10-26T17:41:28.000Z,1144707,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶阿远阿,Demon Hunter,Vengeance,tank,The Master's Glaive
+6,310,302975122,9,The Dawnbreaker,2024-10-26T17:41:28.000Z,1144707,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",事了拂衣丶,Paladin,Holy,healer,Al'ar
+7,310,302925992,9,The Dawnbreaker,2024-10-26T13:38:59.000Z,1145322,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奥尔斯帝德,Evoker,Devastation,dps,The Master's Glaive
+7,310,302925992,9,The Dawnbreaker,2024-10-26T13:38:59.000Z,1145322,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",王師服丶,Rogue,Assassination,dps,The Master's Glaive
+7,310,302925992,9,The Dawnbreaker,2024-10-26T13:38:59.000Z,1145322,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",朴昌范,Paladin,Protection,tank,Al'ar
+7,310,302925992,9,The Dawnbreaker,2024-10-26T13:38:59.000Z,1145322,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",千瓦十欧,Shaman,Elemental,dps,The Master's Glaive
+7,310,302925992,9,The Dawnbreaker,2024-10-26T13:38:59.000Z,1145322,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我的心如枯木,Priest,Discipline,healer,Al'ar
+8,310,303770074,9,The Dawnbreaker,2024-10-30T02:20:44.000Z,1146995,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",迷路小可可,Paladin,Retribution,dps,Valley of Kings
+8,310,303770074,9,The Dawnbreaker,2024-10-30T02:20:44.000Z,1146995,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一颗小泡泡,Priest,Holy,healer,Valley of Kings
+8,310,303770074,9,The Dawnbreaker,2024-10-30T02:20:44.000Z,1146995,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Lioshaman,Shaman,Elemental,dps,Valley of Kings
+8,310,303770074,9,The Dawnbreaker,2024-10-30T02:20:44.000Z,1146995,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",那我无敌了呀,Paladin,Retribution,dps,Valley of Kings
+8,310,303770074,9,The Dawnbreaker,2024-10-30T02:20:44.000Z,1146995,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿伦,Paladin,Protection,tank,Valley of Kings
+9,310,302612920,9,The Dawnbreaker,2024-10-25T03:57:25.000Z,1155560,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天才北极星,Rogue,Assassination,dps,The Master's Glaive
+9,310,302612920,9,The Dawnbreaker,2024-10-25T03:57:25.000Z,1155560,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Xzmage,Mage,Frost,dps,Al'ar
+9,310,302612920,9,The Dawnbreaker,2024-10-25T03:57:25.000Z,1155560,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小欧好蓝啊,Shaman,Elemental,dps,Silver Hand
+9,310,302612920,9,The Dawnbreaker,2024-10-25T03:57:25.000Z,1155560,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",良水生烟,Paladin,Protection,tank,Silver Hand
+9,310,302612920,9,The Dawnbreaker,2024-10-25T03:57:25.000Z,1155560,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",未老先衰,Shaman,Restoration,healer,Illidan
+10,310,302823834,9,The Dawnbreaker,2024-10-26T01:59:18.000Z,1172133,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",憨豆特工,Hunter,Marksmanship,dps,Tol Barad
+10,310,302823834,9,The Dawnbreaker,2024-10-26T01:59:18.000Z,1172133,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",浮沉如斯灬,Priest,Discipline,healer,Zalazane
+10,310,302823834,9,The Dawnbreaker,2024-10-26T01:59:18.000Z,1172133,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Xuexiweiyuan,Paladin,Protection,tank,Burning Blade
+10,310,302823834,9,The Dawnbreaker,2024-10-26T01:59:18.000Z,1172133,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣无双,Paladin,Retribution,dps,The Great Sea
+10,310,302823834,9,The Dawnbreaker,2024-10-26T01:59:18.000Z,1172133,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",戰殁,Death Knight,Unholy,dps,Burning Blade
+11,309.9,303429133,9,The Dawnbreaker,2024-10-28T15:49:08.000Z,1173996,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",逐鹿在西元前,Hunter,Survival,dps,Thunder Bluff
+11,309.9,303429133,9,The Dawnbreaker,2024-10-28T15:49:08.000Z,1173996,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿里曼,Shaman,Restoration,healer,Thunder Bluff
+11,309.9,303429133,9,The Dawnbreaker,2024-10-28T15:49:08.000Z,1173996,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",紫色有韵味,Evoker,Augmentation,dps,Zealot Blade
+11,309.9,303429133,9,The Dawnbreaker,2024-10-28T15:49:08.000Z,1173996,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",麻西,Warrior,Protection,tank,Al'ar
+11,309.9,303429133,9,The Dawnbreaker,2024-10-28T15:49:08.000Z,1173996,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",晨澜澜,Paladin,Retribution,dps,Silver Hand
+12,309.7,303374389,9,The Dawnbreaker,2024-10-28T06:06:19.000Z,1186051,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",钓以清心,Rogue,Assassination,dps,Al'ar
+12,309.7,303374389,9,The Dawnbreaker,2024-10-28T06:06:19.000Z,1186051,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Alexii,Paladin,Protection,tank,Deathwing
+12,309.7,303374389,9,The Dawnbreaker,2024-10-28T06:06:19.000Z,1186051,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Payton,Evoker,Augmentation,dps,Echo Ridge
+12,309.7,303374389,9,The Dawnbreaker,2024-10-28T06:06:19.000Z,1186051,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灵魂行者黑角,Druid,Restoration,healer,Arygos
+12,309.7,303374389,9,The Dawnbreaker,2024-10-28T06:06:19.000Z,1186051,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",广州尼格,Shaman,Elemental,dps,Deathwing
+13,309.6,303143922,9,The Dawnbreaker,2024-10-27T09:46:33.000Z,1189397,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",自闭的小老弟,Rogue,Assassination,dps,Frostmane
+13,309.6,303143922,9,The Dawnbreaker,2024-10-27T09:46:33.000Z,1189397,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",追灬龙,Warrior,Fury,dps,Frostmane
+13,309.6,303143922,9,The Dawnbreaker,2024-10-27T09:46:33.000Z,1189397,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",妈惹法克侠,Druid,Restoration,healer,Al'ar
+13,309.6,303143922,9,The Dawnbreaker,2024-10-27T09:46:33.000Z,1189397,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老气蓬勃,Druid,Guardian,tank,Frostmane
+13,309.6,303143922,9,The Dawnbreaker,2024-10-27T09:46:33.000Z,1189397,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",锻造铭文小东,Paladin,Retribution,dps,Al'ar
+14,309.6,303124389,9,The Dawnbreaker,2024-10-27T06:49:50.000Z,1190567,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风后奇门丶,Paladin,Holy,healer,Chillwind Point
+14,309.6,303124389,9,The Dawnbreaker,2024-10-27T06:49:50.000Z,1190567,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",保险掌控者,Death Knight,Frost,dps,Isillien
+14,309.6,303124389,9,The Dawnbreaker,2024-10-27T06:49:50.000Z,1190567,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Aacee,Mage,Frost,dps,Thunder Axe Fortress
+14,309.6,303124389,9,The Dawnbreaker,2024-10-27T06:49:50.000Z,1190567,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鸡丶蘑菇,Death Knight,Blood,tank,Shadowmourne
+14,309.6,303124389,9,The Dawnbreaker,2024-10-27T06:49:50.000Z,1190567,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蒂斯缇尼,Paladin,Retribution,dps,Shadowmourne
+15,309.4,303641429,9,The Dawnbreaker,2024-10-29T14:57:19.000Z,1202730,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",临青,Priest,Discipline,healer,Burning Blade
+15,309.4,303641429,9,The Dawnbreaker,2024-10-29T14:57:19.000Z,1202730,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Furina,Paladin,Protection,tank,Frostmourne
+15,309.4,303641429,9,The Dawnbreaker,2024-10-29T14:57:19.000Z,1202730,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",瓦不服丶,Hunter,Beast Mastery,dps,Kel'Thuzad
+15,309.4,303641429,9,The Dawnbreaker,2024-10-29T14:57:19.000Z,1202730,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱利希雅,Mage,Frost,dps,Burning Blade
+15,309.4,303641429,9,The Dawnbreaker,2024-10-29T14:57:19.000Z,1202730,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",唯识无境,Shaman,Elemental,dps,Isillien
+16,309.3,302998185,9,The Dawnbreaker,2024-10-26T19:18:53.000Z,1207219,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",兔剑秋丶,Death Knight,Frost,dps,Burning Blade
+16,309.3,302998185,9,The Dawnbreaker,2024-10-26T19:18:53.000Z,1207219,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",青山同云雨,Mage,Frost,dps,Rhonin
+16,309.3,302998185,9,The Dawnbreaker,2024-10-26T19:18:53.000Z,1207219,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",骚气夕阳红,Monk,Mistweaver,healer,Scarlet Crusade
+16,309.3,302998185,9,The Dawnbreaker,2024-10-26T19:18:53.000Z,1207219,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凡凡大傻狗,Evoker,Augmentation,dps,Burning Blade
+16,309.3,302998185,9,The Dawnbreaker,2024-10-26T19:18:53.000Z,1207219,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手蓝莓,Paladin,Protection,tank,Rhonin
+17,309,302494305,9,The Dawnbreaker,2024-10-24T15:07:10.000Z,1221644,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苍龙濯世,Evoker,Augmentation,dps,Al'ar
+17,309,302494305,9,The Dawnbreaker,2024-10-24T15:07:10.000Z,1221644,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Bbwl,Shaman,Restoration,healer,Deathwing
+17,309,302494305,9,The Dawnbreaker,2024-10-24T15:07:10.000Z,1221644,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吃龍蝦不剥壳,Druid,Guardian,tank,Burning Blade
+17,309,302494305,9,The Dawnbreaker,2024-10-24T15:07:10.000Z,1221644,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Leoyudk,Death Knight,Frost,dps,Burning Blade
+17,309,302494305,9,The Dawnbreaker,2024-10-24T15:07:10.000Z,1221644,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Impriority,Death Knight,Unholy,dps,Al'ar
+18,308.9,302944864,9,The Dawnbreaker,2024-10-26T15:10:41.000Z,1227429,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",佩露薇利,Death Knight,Blood,tank,Deathwing
+18,308.9,302944864,9,The Dawnbreaker,2024-10-26T15:10:41.000Z,1227429,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月海鱼鱼猫,Paladin,Retribution,dps,Deathwing
+18,308.9,302944864,9,The Dawnbreaker,2024-10-26T15:10:41.000Z,1227429,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Melisandre,Priest,Shadow,dps,Deathwing
+18,308.9,302944864,9,The Dawnbreaker,2024-10-26T15:10:41.000Z,1227429,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Owlcat,Shaman,Enhancement,dps,Deathwing
+18,308.9,302944864,9,The Dawnbreaker,2024-10-26T15:10:41.000Z,1227429,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",教主玩萨满咯,Shaman,Restoration,healer,Booty Bay
+19,308.6,302682958,9,The Dawnbreaker,2024-10-25T15:14:59.000Z,1244819,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",訫囿萌虍,Rogue,Assassination,dps,Deathwing
+19,308.6,302682958,9,The Dawnbreaker,2024-10-25T15:14:59.000Z,1244819,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",乄槑冫貓貓乀,Monk,Windwalker,dps,Al'ar
+19,308.6,302682958,9,The Dawnbreaker,2024-10-25T15:14:59.000Z,1244819,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鸿运丨陈卷毛,Druid,Balance,dps,Deathwing
+19,308.6,302682958,9,The Dawnbreaker,2024-10-25T15:14:59.000Z,1244819,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宇文术学,Shaman,Restoration,healer,Deathwing
+19,308.6,302682958,9,The Dawnbreaker,2024-10-25T15:14:59.000Z,1244819,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",泷泽丶萝拉,Warrior,Protection,tank,Deathwing
+20,308.2,302880958,9,The Dawnbreaker,2024-10-26T09:47:08.000Z,1264313,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",傍山屯小诸葛,Shaman,Restoration,healer,Blanchard
+20,308.2,302880958,9,The Dawnbreaker,2024-10-26T09:47:08.000Z,1264313,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",布莱德尼,Paladin,Retribution,dps,Dark Iron
+20,308.2,302880958,9,The Dawnbreaker,2024-10-26T09:47:08.000Z,1264313,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Fraux,Death Knight,Blood,tank,Blanchard
+20,308.2,302880958,9,The Dawnbreaker,2024-10-26T09:47:08.000Z,1264313,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",对唔嗨住大佬,Death Knight,Frost,dps,Valley of Kings
+20,308.2,302880958,9,The Dawnbreaker,2024-10-26T09:47:08.000Z,1264313,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",壹野捅瓜你,Rogue,Assassination,dps,Al'ar
+21,307.9,303427348,9,The Dawnbreaker,2024-10-28T15:21:11.000Z,1281128,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Idea,Hunter,Survival,dps,Isillien
+21,307.9,303427348,9,The Dawnbreaker,2024-10-28T15:21:11.000Z,1281128,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超越两百亿,Shaman,Restoration,healer,Isillien
+21,307.9,303427348,9,The Dawnbreaker,2024-10-28T15:21:11.000Z,1281128,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冰豆浆呀,Rogue,Assassination,dps,Isillien
+21,307.9,303427348,9,The Dawnbreaker,2024-10-28T15:21:11.000Z,1281128,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",易遥,Death Knight,Blood,tank,Isillien
+21,307.9,303427348,9,The Dawnbreaker,2024-10-28T15:21:11.000Z,1281128,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Fireholic,Mage,Frost,dps,Isillien
+22,307.7,303419785,9,The Dawnbreaker,2024-10-28T14:15:34.000Z,1291779,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月之优雅,Shaman,Enhancement,dps,Stonetalon Peak
+22,307.7,303419785,9,The Dawnbreaker,2024-10-28T14:15:34.000Z,1291779,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爆炒小白菜,Druid,Balance,dps,Barrens
+22,307.7,303419785,9,The Dawnbreaker,2024-10-28T14:15:34.000Z,1291779,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",墨染流年,Shaman,Restoration,healer,Eldre'Thalas
+22,307.7,303419785,9,The Dawnbreaker,2024-10-28T14:15:34.000Z,1291779,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",乌拉的贼,Rogue,Assassination,dps,Anzu
+22,307.7,303419785,9,The Dawnbreaker,2024-10-28T14:15:34.000Z,1291779,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿洛哈莫拉,Warrior,Protection,tank,Alterac Mountains
+23,307.6,303196970,9,The Dawnbreaker,2024-10-27T15:01:09.000Z,1296203,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烟雨平生丶,Paladin,Protection,tank,Kel'Thuzad
+23,307.6,303196970,9,The Dawnbreaker,2024-10-27T15:01:09.000Z,1296203,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",睦头人,Paladin,Retribution,dps,Kel'Thuzad
+23,307.6,303196970,9,The Dawnbreaker,2024-10-27T15:01:09.000Z,1296203,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",洛君珩,Shaman,Enhancement,dps,Kel'Thuzad
+23,307.6,303196970,9,The Dawnbreaker,2024-10-27T15:01:09.000Z,1296203,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Nyxwarlock,Warlock,Destruction,dps,Silver Hand
+23,307.6,303196970,9,The Dawnbreaker,2024-10-27T15:01:09.000Z,1296203,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尐情调,Priest,Holy,healer,Lethon
+24,307.4,303380633,9,The Dawnbreaker,2024-10-28T07:09:26.000Z,1304965,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",喵柱,Paladin,Retribution,dps,Echo Ridge
+24,307.4,303380633,9,The Dawnbreaker,2024-10-28T07:09:26.000Z,1304965,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿花,Mage,Frost,dps,Deathwing
+24,307.4,303380633,9,The Dawnbreaker,2024-10-28T07:09:26.000Z,1304965,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我喝药贼快,Shaman,Elemental,dps,Duskwood
+24,307.4,303380633,9,The Dawnbreaker,2024-10-28T07:09:26.000Z,1304965,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",饅頭丶,Shaman,Restoration,healer,Barrens
+24,307.4,303380633,9,The Dawnbreaker,2024-10-28T07:09:26.000Z,1304965,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胤嗣,Demon Hunter,Vengeance,tank,Feathermoon
+25,306.8,302504111,9,The Dawnbreaker,2024-10-24T16:30:27.000Z,1338113,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超级电电電,Shaman,Elemental,dps,Zalazane
+25,306.8,302504111,9,The Dawnbreaker,2024-10-24T16:30:27.000Z,1338113,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",朱砂变,Druid,Restoration,healer,Zalazane
+25,306.8,302504111,9,The Dawnbreaker,2024-10-24T16:30:27.000Z,1338113,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",羊胖胖,Warrior,Protection,tank,The Master's Glaive
+25,306.8,302504111,9,The Dawnbreaker,2024-10-24T16:30:27.000Z,1338113,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶睡叔叔,Evoker,Augmentation,dps,Silver Hand
+25,306.8,302504111,9,The Dawnbreaker,2024-10-24T16:30:27.000Z,1338113,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",羽觞修罗,Paladin,Retribution,dps,Silver Hand
+26,306.6,302916032,9,The Dawnbreaker,2024-10-26T12:32:27.000Z,1346149,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",萌萌丶兔,Mage,Frost,dps,Eldre'Thalas
+26,306.6,302916032,9,The Dawnbreaker,2024-10-26T12:32:27.000Z,1346149,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宝宝别跑,Warrior,Protection,tank,Silver Hand
+26,306.6,302916032,9,The Dawnbreaker,2024-10-26T12:32:27.000Z,1346149,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",朵蓝鹿,Shaman,Elemental,dps,Deathwing
+26,306.6,302916032,9,The Dawnbreaker,2024-10-26T12:32:27.000Z,1346149,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鹿訤朵,Priest,Discipline,healer,Silver Hand
+26,306.6,302916032,9,The Dawnbreaker,2024-10-26T12:32:27.000Z,1346149,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Miskye,Warlock,Affliction,dps,Azshara
+27,306.6,303635477,9,The Dawnbreaker,2024-10-29T14:11:10.000Z,1347238,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",克里汉娜,Paladin,Retribution,dps,Echo Ridge
+27,306.6,303635477,9,The Dawnbreaker,2024-10-29T14:11:10.000Z,1347238,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕刺客,Mage,Frost,dps,Aerie Peak
+27,306.6,303635477,9,The Dawnbreaker,2024-10-29T14:11:10.000Z,1347238,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛妈妈爱你唷,Shaman,Restoration,healer,Deepfury
+27,306.6,303635477,9,The Dawnbreaker,2024-10-29T14:11:10.000Z,1347238,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",挽歌丶丿,Demon Hunter,Havoc,dps,Anzu
+27,306.6,303635477,9,The Dawnbreaker,2024-10-29T14:11:10.000Z,1347238,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",半巨人没怒,Demon Hunter,Vengeance,tank,Marrowgar
+28,306.4,302975437,9,The Dawnbreaker,2024-10-26T17:44:58.000Z,1355851,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",倾丶心,Paladin,Retribution,dps,Burning Blade
+28,306.4,302975437,9,The Dawnbreaker,2024-10-26T17:44:58.000Z,1355851,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+28,306.4,302975437,9,The Dawnbreaker,2024-10-26T17:44:58.000Z,1355851,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Carlsm,Shaman,Elemental,dps,Deathwing
+28,306.4,302975437,9,The Dawnbreaker,2024-10-26T17:44:58.000Z,1355851,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",聖光者,Paladin,Retribution,dps,Isillien
+28,306.4,302975437,9,The Dawnbreaker,2024-10-26T17:44:58.000Z,1355851,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",諾諾吖,Shaman,Restoration,healer,Shadowmourne
+29,305.9,302867972,9,The Dawnbreaker,2024-10-26T07:35:05.000Z,1385764,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",这有山,Rogue,Assassination,dps,Eldre'Thalas
+29,305.9,302867972,9,The Dawnbreaker,2024-10-26T07:35:05.000Z,1385764,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",也許回到過去,Paladin,Protection,tank,Eldre'Thalas
+29,305.9,302867972,9,The Dawnbreaker,2024-10-26T07:35:05.000Z,1385764,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tammysm,Shaman,Elemental,dps,Eldre'Thalas
+29,305.9,302867972,9,The Dawnbreaker,2024-10-26T07:35:05.000Z,1385764,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",呲喇喇,Shaman,Elemental,dps,Rhonin
+29,305.9,302867972,9,The Dawnbreaker,2024-10-26T07:35:05.000Z,1385764,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",性感酷酷德,Druid,Restoration,healer,Burning Blade
+30,305.4,303640932,9,The Dawnbreaker,2024-10-29T14:53:05.000Z,1407495,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玉桂狗,Priest,Holy,healer,Chillwind Point
+30,305.4,303640932,9,The Dawnbreaker,2024-10-29T14:53:05.000Z,1407495,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨小书丨,Evoker,Devastation,dps,Burning Blade
+30,305.4,303640932,9,The Dawnbreaker,2024-10-29T14:53:05.000Z,1407495,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",零分,Paladin,Retribution,dps,Fenris
+30,305.4,303640932,9,The Dawnbreaker,2024-10-29T14:53:05.000Z,1407495,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",伤感羍也,Paladin,Protection,tank,Al'ar
+30,305.4,303640932,9,The Dawnbreaker,2024-10-29T14:53:05.000Z,1407495,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",排骨锅底,Paladin,Retribution,dps,Scarlet Crusade
+31,305.1,303635671,9,The Dawnbreaker,2024-10-29T14:13:07.000Z,1425790,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",想做偷心贼丶,Rogue,Assassination,dps,Burning Blade
+31,305.1,303635671,9,The Dawnbreaker,2024-10-29T14:13:07.000Z,1425790,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Enhancement,dps,Burning Blade
+31,305.1,303635671,9,The Dawnbreaker,2024-10-29T14:13:07.000Z,1425790,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tribeillidan,Demon Hunter,Vengeance,tank,Grim Batol
+31,305.1,303635671,9,The Dawnbreaker,2024-10-29T14:13:07.000Z,1425790,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",箭走偏疯,Hunter,Beast Mastery,dps,The Mechanar
+31,305.1,303635671,9,The Dawnbreaker,2024-10-29T14:13:07.000Z,1425790,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",肺找肺,Shaman,Restoration,healer,Bronze Dragonflight
+32,305.1,302434592,9,The Dawnbreaker,2024-10-24T05:56:40.000Z,1427139,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",秋天的夏,Shaman,Restoration,healer,Silver Hand
+32,305.1,302434592,9,The Dawnbreaker,2024-10-24T05:56:40.000Z,1427139,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龙心阿兰,Death Knight,Blood,tank,Al'ar
+32,305.1,302434592,9,The Dawnbreaker,2024-10-24T05:56:40.000Z,1427139,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶致命的小寳,Hunter,Marksmanship,dps,Pandaren
+32,305.1,302434592,9,The Dawnbreaker,2024-10-24T05:56:40.000Z,1427139,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",菜刀火车侠,Warrior,Fury,dps,Cenarius
+32,305.1,302434592,9,The Dawnbreaker,2024-10-24T05:56:40.000Z,1427139,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蓝霹雳,Paladin,Retribution,dps,Cenarius
+33,305,303097843,9,The Dawnbreaker,2024-10-27T03:19:03.000Z,1430991,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",前尘如梦,Death Knight,Blood,tank,Kel'Thuzad
+33,305,303097843,9,The Dawnbreaker,2024-10-27T03:19:03.000Z,1430991,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",拼命三娘,Monk,Windwalker,dps,Kel'Thuzad
+33,305,303097843,9,The Dawnbreaker,2024-10-27T03:19:03.000Z,1430991,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花海海吖,Hunter,Survival,dps,Anzu
+33,305,303097843,9,The Dawnbreaker,2024-10-27T03:19:03.000Z,1430991,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",见山,Shaman,Restoration,healer,Grim Batol
+33,305,303097843,9,The Dawnbreaker,2024-10-27T03:19:03.000Z,1430991,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",短毛熊,Mage,Frost,dps,Al'ar
+34,304.8,303800899,9,The Dawnbreaker,2024-10-30T06:05:48.000Z,1443033,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",北极的狐狸,Mage,Frost,dps,Holy Chanter
+34,304.8,303800899,9,The Dawnbreaker,2024-10-30T06:05:48.000Z,1443033,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",December,Druid,Restoration,healer,Ashenvale
+34,304.8,303800899,9,The Dawnbreaker,2024-10-30T06:05:48.000Z,1443033,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花开淡墨痕,Warrior,Protection,tank,Ashenvale
+34,304.8,303800899,9,The Dawnbreaker,2024-10-30T06:05:48.000Z,1443033,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",香草天空,Paladin,Retribution,dps,Ashenvale
+34,304.8,303800899,9,The Dawnbreaker,2024-10-30T06:05:48.000Z,1443033,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Antardz,Rogue,Assassination,dps,Anzu
+35,304.7,302837263,9,The Dawnbreaker,2024-10-26T03:37:10.000Z,1447444,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",兰溪体育生,Shaman,Elemental,dps,Rhonin
+35,304.7,302837263,9,The Dawnbreaker,2024-10-26T03:37:10.000Z,1447444,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",猫南猫南丶,Shaman,Restoration,healer,Al'ar
+35,304.7,302837263,9,The Dawnbreaker,2024-10-26T03:37:10.000Z,1447444,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",又肉又有输出,Paladin,Retribution,dps,Al'ar
+35,304.7,302837263,9,The Dawnbreaker,2024-10-26T03:37:10.000Z,1447444,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吓的满地乱爬,Paladin,Retribution,dps,Shadowmourne
+35,304.7,302837263,9,The Dawnbreaker,2024-10-26T03:37:10.000Z,1447444,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Blacklaobo,Paladin,Protection,tank,Deathwing
+36,304.6,303411998,9,The Dawnbreaker,2024-10-28T13:18:30.000Z,1451697,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叶榛苓,Paladin,Protection,tank,Anzu
+36,304.6,303411998,9,The Dawnbreaker,2024-10-28T13:18:30.000Z,1451697,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",霸气桃桃,Shaman,Restoration,healer,Barrens
+36,304.6,303411998,9,The Dawnbreaker,2024-10-28T13:18:30.000Z,1451697,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你踩我脚了,Death Knight,Frost,dps,Wintergrasp
+36,304.6,303411998,9,The Dawnbreaker,2024-10-28T13:18:30.000Z,1451697,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吉吉爆,Paladin,Retribution,dps,Pandaren
+36,304.6,303411998,9,The Dawnbreaker,2024-10-28T13:18:30.000Z,1451697,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",酷炫疾风狂魔,Mage,Frost,dps,Greymane
+37,304.2,304964897,9,The Dawnbreaker,2024-10-27T08:57:40.000Z,1473909,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",毒久丶,Death Knight,Frost,dps,Shadowmourne
+37,304.2,304964897,9,The Dawnbreaker,2024-10-27T08:57:40.000Z,1473909,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ôutman,Paladin,Retribution,dps,Shadowmourne
+37,304.2,304964897,9,The Dawnbreaker,2024-10-27T08:57:40.000Z,1473909,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",心情太晚,Evoker,Augmentation,dps,Shadowmourne
+37,304.2,304964897,9,The Dawnbreaker,2024-10-27T08:57:40.000Z,1473909,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",喃丁歌尔,Paladin,Protection,tank,Shadowmourne
+37,304.2,304964897,9,The Dawnbreaker,2024-10-27T08:57:40.000Z,1473909,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",巴耶赫力丶,Shaman,Restoration,healer,Shadowmourne
+38,304.1,303413467,9,The Dawnbreaker,2024-10-28T13:47:04.000Z,1478894,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小鬼的记忆,Shaman,Elemental,dps,Ashenvale
+38,304.1,303413467,9,The Dawnbreaker,2024-10-28T13:47:04.000Z,1478894,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小慈小悲,Priest,Holy,healer,Ashenvale
+38,304.1,303413467,9,The Dawnbreaker,2024-10-28T13:47:04.000Z,1478894,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",彩京,Paladin,Retribution,dps,Ashenvale
+38,304.1,303413467,9,The Dawnbreaker,2024-10-28T13:47:04.000Z,1478894,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花开淡墨痕,Warrior,Protection,tank,Ashenvale
+38,304.1,303413467,9,The Dawnbreaker,2024-10-28T13:47:04.000Z,1478894,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",赛芬,Evoker,Augmentation,dps,Rhonin
+39,303.9,302687166,9,The Dawnbreaker,2024-10-25T15:45:24.000Z,1486544,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+39,303.9,302687166,9,The Dawnbreaker,2024-10-25T15:45:24.000Z,1486544,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雷科巴,Paladin,Retribution,dps,Dreadmist Peak
+39,303.9,302687166,9,The Dawnbreaker,2024-10-25T15:45:24.000Z,1486544,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",热咖啡,Shaman,Restoration,healer,Icecrown
+39,303.9,302687166,9,The Dawnbreaker,2024-10-25T15:45:24.000Z,1486544,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小可爱好可爱,Rogue,Assassination,dps,Rhonin
+39,303.9,302687166,9,The Dawnbreaker,2024-10-25T15:45:24.000Z,1486544,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",甜小茶呀,Warlock,Destruction,dps,Al'ar
+40,303.9,302840510,9,The Dawnbreaker,2024-10-26T04:00:40.000Z,1487124,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",炎焱燚焱炎,Druid,Balance,dps,Gul'dan
+40,303.9,302840510,9,The Dawnbreaker,2024-10-26T04:00:40.000Z,1487124,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Idea,Hunter,Survival,dps,Isillien
+40,303.9,302840510,9,The Dawnbreaker,2024-10-26T04:00:40.000Z,1487124,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Fireholic,Mage,Fire,dps,Isillien
+40,303.9,302840510,9,The Dawnbreaker,2024-10-26T04:00:40.000Z,1487124,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",虎萌萌丨,Priest,Holy,healer,Isillien
+40,303.9,302840510,9,The Dawnbreaker,2024-10-26T04:00:40.000Z,1487124,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨虎灿灿丨,Paladin,Protection,tank,Isillien
+41,303.6,303868804,9,The Dawnbreaker,2024-10-30T17:11:14.000Z,1505435,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+41,303.6,303868804,9,The Dawnbreaker,2024-10-30T17:11:14.000Z,1505435,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",马勒鸽跨子,Shaman,Restoration,healer,Kul Tiras
+41,303.6,303868804,9,The Dawnbreaker,2024-10-30T17:11:14.000Z,1505435,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",泡泡炸了鼻鼻,Death Knight,Frost,dps,Burning Blade
+41,303.6,303868804,9,The Dawnbreaker,2024-10-30T17:11:14.000Z,1505435,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",害羞是装的,Warrior,Protection,tank,Menethil
+41,303.6,303868804,9,The Dawnbreaker,2024-10-30T17:11:14.000Z,1505435,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月夜残影,Rogue,Assassination,dps,Dark Iron
+42,303.4,302655395,9,The Dawnbreaker,2024-10-25T11:05:28.000Z,1514321,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我不会玩术土,Warlock,Destruction,dps,Al'ar
+42,303.4,302655395,9,The Dawnbreaker,2024-10-25T11:05:28.000Z,1514321,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",九分十二,Death Knight,Frost,dps,Al'ar
+42,303.4,302655395,9,The Dawnbreaker,2024-10-25T11:05:28.000Z,1514321,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",呆敌,Warrior,Protection,tank,Dream Bough
+42,303.4,302655395,9,The Dawnbreaker,2024-10-25T11:05:28.000Z,1514321,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱喝美年达,Death Knight,Frost,dps,Al'ar
+42,303.4,302655395,9,The Dawnbreaker,2024-10-25T11:05:28.000Z,1514321,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿宅的萨满丶,Shaman,Restoration,healer,Deathwing
+43,303.4,303624073,9,The Dawnbreaker,2024-10-29T12:29:37.000Z,1516076,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",半枝莲,Paladin,Retribution,dps,Thoradin
+43,303.4,303624073,9,The Dawnbreaker,2024-10-29T12:29:37.000Z,1516076,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱新觉罗命运,Mage,Frost,dps,Dream Bough
+43,303.4,303624073,9,The Dawnbreaker,2024-10-29T12:29:37.000Z,1516076,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Guillemot,Druid,Guardian,tank,Grim Batol
+43,303.4,303624073,9,The Dawnbreaker,2024-10-29T12:29:37.000Z,1516076,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龍二,Monk,Mistweaver,healer,Isillien
+43,303.4,303624073,9,The Dawnbreaker,2024-10-29T12:29:37.000Z,1516076,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",醉梦仙霖,Warlock,Destruction,dps,Aerie Peak
+44,303.2,303116487,9,The Dawnbreaker,2024-10-27T05:44:48.000Z,1526306,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",杨大胖的二哈,Death Knight,Blood,tank,Chillwind Point
+44,303.2,303116487,9,The Dawnbreaker,2024-10-27T05:44:48.000Z,1526306,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",河边景美,Warrior,Fury,dps,Frostmourne
+44,303.2,303116487,9,The Dawnbreaker,2024-10-27T05:44:48.000Z,1526306,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Payton,Evoker,Augmentation,dps,Echo Ridge
+44,303.2,303116487,9,The Dawnbreaker,2024-10-27T05:44:48.000Z,1526306,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",風轻雲淡,Warrior,Fury,dps,The Botanica
+44,303.2,303116487,9,The Dawnbreaker,2024-10-27T05:44:48.000Z,1526306,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灵魂行者黑角,Druid,Restoration,healer,Arygos
+45,303.1,303393577,9,The Dawnbreaker,2024-10-28T10:07:00.000Z,1527280,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",幽暗蝶影,Warlock,Destruction,dps,Red Dragonflight
+45,303.1,303393577,9,The Dawnbreaker,2024-10-28T10:07:00.000Z,1527280,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",萩茗,Mage,Frost,dps,Isillien
+45,303.1,303393577,9,The Dawnbreaker,2024-10-28T10:07:00.000Z,1527280,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",穆风,Warrior,Protection,tank,Isillien
+45,303.1,303393577,9,The Dawnbreaker,2024-10-28T10:07:00.000Z,1527280,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亡者,Death Knight,Unholy,dps,Demon Fall Canyon
+45,303.1,303393577,9,The Dawnbreaker,2024-10-28T10:07:00.000Z,1527280,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一只海龟,Shaman,Restoration,healer,Outland
+46,302.9,302908646,9,The Dawnbreaker,2024-10-26T11:53:52.000Z,1537445,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",响零,Mage,Frost,dps,Al'ar
+46,302.9,302908646,9,The Dawnbreaker,2024-10-26T11:53:52.000Z,1537445,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+46,302.9,302908646,9,The Dawnbreaker,2024-10-26T11:53:52.000Z,1537445,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",开水丁丁糖,Druid,Restoration,healer,The Master's Glaive
+46,302.9,302908646,9,The Dawnbreaker,2024-10-26T11:53:52.000Z,1537445,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",往昔圣光,Paladin,Retribution,dps,Al'ar
+46,302.9,302908646,9,The Dawnbreaker,2024-10-26T11:53:52.000Z,1537445,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",柒拾叁,Paladin,Retribution,dps,Scarlet Crusade
+47,302.9,303400906,9,The Dawnbreaker,2024-10-28T11:36:40.000Z,1541423,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Cathinone,Priest,Discipline,healer,Swiftwind
+47,302.9,303400906,9,The Dawnbreaker,2024-10-28T11:36:40.000Z,1541423,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",贪念而已,Shaman,Elemental,dps,Deathwing
+47,302.9,303400906,9,The Dawnbreaker,2024-10-28T11:36:40.000Z,1541423,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",沐芝,Paladin,Protection,tank,Deathwing
+47,302.9,303400906,9,The Dawnbreaker,2024-10-28T11:36:40.000Z,1541423,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",痞痞丶德,Druid,Balance,dps,Bleeding Hollow
+47,302.9,303400906,9,The Dawnbreaker,2024-10-28T11:36:40.000Z,1541423,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",多吃点行不,Evoker,Augmentation,dps,Deathwing
+48,302.9,303626231,9,The Dawnbreaker,2024-10-29T12:50:29.000Z,1541719,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",锵锵起锵起,Druid,Restoration,healer,The Master's Glaive
+48,302.9,303626231,9,The Dawnbreaker,2024-10-29T12:50:29.000Z,1541719,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",长风与梦同悲,Monk,Brewmaster,tank,Frostmourne
+48,302.9,303626231,9,The Dawnbreaker,2024-10-29T12:50:29.000Z,1541719,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天坤,Shaman,Elemental,dps,The Master's Glaive
+48,302.9,303626231,9,The Dawnbreaker,2024-10-29T12:50:29.000Z,1541719,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你先別急,Paladin,Retribution,dps,Alterac Mountains
+48,302.9,303626231,9,The Dawnbreaker,2024-10-29T12:50:29.000Z,1541719,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ethereality,Mage,Frost,dps,The Master's Glaive
+49,302,303171071,9,The Dawnbreaker,2024-10-27T12:36:42.000Z,1587498,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",咋跟你玩,Death Knight,Blood,tank,Burning Blade
+49,302,303171071,9,The Dawnbreaker,2024-10-27T12:36:42.000Z,1587498,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小胖墩児,Shaman,Restoration,healer,Shadowmourne
+49,302,303171071,9,The Dawnbreaker,2024-10-27T12:36:42.000Z,1587498,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Merciqs,Paladin,Retribution,dps,Shadowmourne
+49,302,303171071,9,The Dawnbreaker,2024-10-27T12:36:42.000Z,1587498,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苦力怕爆炸,Warrior,Fury,dps,Anzu
+49,302,303171071,9,The Dawnbreaker,2024-10-27T12:36:42.000Z,1587498,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",黎明的塔锦,Shaman,Enhancement,dps,Anzu
+50,301.3,302471950,9,The Dawnbreaker,2024-10-24T14:20:29.000Z,1623800,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",讨厌生姜,Druid,Guardian,tank,Isillien
+50,301.3,302471950,9,The Dawnbreaker,2024-10-24T14:20:29.000Z,1623800,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",是苦艾酒诶,Rogue,Assassination,dps,Isillien
+50,301.3,302471950,9,The Dawnbreaker,2024-10-24T14:20:29.000Z,1623800,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不加糖丶,Shaman,Elemental,dps,Burning Blade
+50,301.3,302471950,9,The Dawnbreaker,2024-10-24T14:20:29.000Z,1623800,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",沧泊,Shaman,Restoration,healer,Anzu
+50,301.3,302471950,9,The Dawnbreaker,2024-10-24T14:20:29.000Z,1623800,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",啦啦噜,Evoker,Augmentation,dps,Isillien
+51,301,303189524,9,The Dawnbreaker,2024-10-27T14:10:44.000Z,1640354,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",上杉明日奈,Mage,Frost,dps,Burning Blade
+51,301,303189524,9,The Dawnbreaker,2024-10-27T14:10:44.000Z,1640354,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨栀墨织屿丨,Warrior,Protection,tank,Burning Blade
+51,301,303189524,9,The Dawnbreaker,2024-10-27T14:10:44.000Z,1640354,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",湘竹画离弦,Shaman,Restoration,healer,Shadowmourne
+51,301,303189524,9,The Dawnbreaker,2024-10-27T14:10:44.000Z,1640354,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",梦丶璃,Paladin,Retribution,dps,Echo Ridge
+51,301,303189524,9,The Dawnbreaker,2024-10-27T14:10:44.000Z,1640354,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",留校察看,Paladin,Retribution,dps,Anzu
+52,300.8,302455300,9,The Dawnbreaker,2024-10-24T09:49:10.000Z,1651022,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Yossi,Paladin,Retribution,dps,Isillien
+52,300.8,302455300,9,The Dawnbreaker,2024-10-24T09:49:10.000Z,1651022,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",呦丶,Warrior,Protection,tank,Deathwing
+52,300.8,302455300,9,The Dawnbreaker,2024-10-24T09:49:10.000Z,1651022,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛妈妈爱你唷,Shaman,Restoration,healer,Deepfury
+52,300.8,302455300,9,The Dawnbreaker,2024-10-24T09:49:10.000Z,1651022,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一而再再而三,Paladin,Retribution,dps,Deathwing
+52,300.8,302455300,9,The Dawnbreaker,2024-10-24T09:49:10.000Z,1651022,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",德了丶,Druid,Balance,dps,Deathwing
+53,300.2,303635874,9,The Dawnbreaker,2024-10-29T14:15:14.000Z,1679143,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",钓以清心,Rogue,Assassination,dps,Al'ar
+53,300.2,303635874,9,The Dawnbreaker,2024-10-29T14:15:14.000Z,1679143,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",河边景美,Warrior,Protection,tank,Frostmourne
+53,300.2,303635874,9,The Dawnbreaker,2024-10-29T14:15:14.000Z,1679143,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",帅气眼棱喷射,Demon Hunter,Havoc,dps,Rhonin
+53,300.2,303635874,9,The Dawnbreaker,2024-10-29T14:15:14.000Z,1679143,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",弱弱,Shaman,Restoration,healer,Frostmourne
+53,300.2,303635874,9,The Dawnbreaker,2024-10-29T14:15:14.000Z,1679143,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灭火,Warlock,Demonology,dps,Frostmourne
+54,300.1,302570134,9,The Dawnbreaker,2024-10-24T22:43:59.000Z,1684119,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冖巫咸冖,Mage,Frost,dps,The Master's Glaive
+54,300.1,302570134,9,The Dawnbreaker,2024-10-24T22:43:59.000Z,1684119,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",忍痛者灬明,Death Knight,Blood,tank,Al'ar
+54,300.1,302570134,9,The Dawnbreaker,2024-10-24T22:43:59.000Z,1684119,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",时梦,Paladin,Retribution,dps,Illidan
+54,300.1,302570134,9,The Dawnbreaker,2024-10-24T22:43:59.000Z,1684119,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",眉毛很长,Monk,Windwalker,dps,Al'ar
+54,300.1,302570134,9,The Dawnbreaker,2024-10-24T22:43:59.000Z,1684119,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",草莓美式,Paladin,Holy,healer,Al'ar
+55,299.4,303590750,9,The Dawnbreaker,2024-10-29T07:42:47.000Z,1723863,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",樱珞楓裼,Hunter,Survival,dps,Doomwalker
+55,299.4,303590750,9,The Dawnbreaker,2024-10-29T07:42:47.000Z,1723863,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",疯狂的查尔斯,Warrior,Fury,dps,Valley of Kings
+55,299.4,303590750,9,The Dawnbreaker,2024-10-29T07:42:47.000Z,1723863,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手啊伦,Druid,Restoration,healer,Rhonin
+55,299.4,303590750,9,The Dawnbreaker,2024-10-29T07:42:47.000Z,1723863,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",那我无敌了呀,Paladin,Protection,tank,Valley of Kings
+55,299.4,303590750,9,The Dawnbreaker,2024-10-29T07:42:47.000Z,1723863,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",追猎灵魂,Hunter,Survival,dps,Dark Iron
+56,299.3,303123718,9,The Dawnbreaker,2024-10-27T06:32:25.000Z,1728277,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",杨大胖的二哈,Death Knight,Blood,tank,Chillwind Point
+56,299.3,303123718,9,The Dawnbreaker,2024-10-27T06:32:25.000Z,1728277,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Payton,Evoker,Augmentation,dps,Echo Ridge
+56,299.3,303123718,9,The Dawnbreaker,2024-10-27T06:32:25.000Z,1728277,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",風轻雲淡,Warrior,Fury,dps,The Botanica
+56,299.3,303123718,9,The Dawnbreaker,2024-10-27T06:32:25.000Z,1728277,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",秉性纯良,Hunter,Marksmanship,dps,Holy Chanter
+56,299.3,303123718,9,The Dawnbreaker,2024-10-27T06:32:25.000Z,1728277,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灵魂行者黑角,Druid,Restoration,healer,Arygos
+57,298.8,303679497,9,The Dawnbreaker,2024-10-29T18:54:00.000Z,1750907,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",七楼的猫,Priest,Holy,healer,Bleeding Hollow
+57,298.8,303679497,9,The Dawnbreaker,2024-10-29T18:54:00.000Z,1750907,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",仙女山的月亮,Demon Hunter,Vengeance,tank,Bleeding Hollow
+57,298.8,303679497,9,The Dawnbreaker,2024-10-29T18:54:00.000Z,1750907,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶致命的小寳,Hunter,Beast Mastery,dps,Pandaren
+57,298.8,303679497,9,The Dawnbreaker,2024-10-29T18:54:00.000Z,1750907,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",华年丨池鱼,Evoker,Augmentation,dps,Al'ar
+57,298.8,303679497,9,The Dawnbreaker,2024-10-29T18:54:00.000Z,1750907,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天雪葬花,Hunter,Marksmanship,dps,Bleeding Hollow
+58,298.4,303159015,9,The Dawnbreaker,2024-10-27T11:17:10.000Z,1774053,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",聖光的裁决,Paladin,Protection,tank,Barrens
+58,298.4,303159015,9,The Dawnbreaker,2024-10-27T11:17:10.000Z,1774053,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",慕汝,Priest,Holy,healer,Burning Blade
+58,298.4,303159015,9,The Dawnbreaker,2024-10-27T11:17:10.000Z,1774053,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我麻尤米了,Death Knight,Frost,dps,Barrens
+58,298.4,303159015,9,The Dawnbreaker,2024-10-27T11:17:10.000Z,1774053,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",建御雷,Shaman,Enhancement,dps,Barrens
+58,298.4,303159015,9,The Dawnbreaker,2024-10-27T11:17:10.000Z,1774053,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",梅尔塞德斯,Priest,Shadow,dps,Barrens
+59,298,302663465,9,The Dawnbreaker,2024-10-25T11:44:47.000Z,1796129,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吃籽不吐葡萄,Priest,Holy,healer,Scarlet Crusade
+59,298,302663465,9,The Dawnbreaker,2024-10-25T11:44:47.000Z,1796129,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",瓦里午安,Warrior,Protection,tank,Lana'thel
+59,298,302663465,9,The Dawnbreaker,2024-10-25T11:44:47.000Z,1796129,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",欧修缇,Hunter,Survival,dps,Scarlet Crusade
+59,298,302663465,9,The Dawnbreaker,2024-10-25T11:44:47.000Z,1796129,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",惊鸿第一骑,Paladin,Retribution,dps,Gothik
+59,298,302663465,9,The Dawnbreaker,2024-10-25T11:44:47.000Z,1796129,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大火蛋炒饭,Mage,Fire,dps,Scarlet Crusade
+60,296.7,302525228,9,The Dawnbreaker,2024-10-24T18:29:40.000Z,1861427,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",毛眯,Shaman,Restoration,healer,Scarlet Crusade
+60,296.7,302525228,9,The Dawnbreaker,2024-10-24T18:29:40.000Z,1861427,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",闪亮夏莉欧,Paladin,Protection,tank,Alleria
+60,296.7,302525228,9,The Dawnbreaker,2024-10-24T18:29:40.000Z,1861427,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暴怒的渣哥,Paladin,Retribution,dps,Scarlet Crusade
+60,296.7,302525228,9,The Dawnbreaker,2024-10-24T18:29:40.000Z,1861427,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小浣熊方便面,Shaman,Elemental,dps,Scarlet Crusade
+60,296.7,302525228,9,The Dawnbreaker,2024-10-24T18:29:40.000Z,1861427,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",孙嘎嘎,Paladin,Retribution,dps,Scarlet Crusade
+61,296.2,302682261,9,The Dawnbreaker,2024-10-25T14:36:31.000Z,1886416,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",东云游理,Paladin,Protection,tank,Arygos
+61,296.2,302682261,9,The Dawnbreaker,2024-10-25T14:36:31.000Z,1886416,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我来组成头部,Paladin,Retribution,dps,Arygos
+61,296.2,302682261,9,The Dawnbreaker,2024-10-25T14:36:31.000Z,1886416,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱弥尔狮,Death Knight,Frost,dps,Silverpine Forest
+61,296.2,302682261,9,The Dawnbreaker,2024-10-25T14:36:31.000Z,1886416,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",行澐,Paladin,Retribution,dps,Silverpine Forest
+61,296.2,302682261,9,The Dawnbreaker,2024-10-25T14:36:31.000Z,1886416,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",往事随风走,Shaman,Restoration,healer,Burning Blade
+62,296.2,303852171,9,The Dawnbreaker,2024-10-30T15:25:14.000Z,1888647,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",無所刁谓,Warrior,Fury,dps,Isillien
+62,296.2,303852171,9,The Dawnbreaker,2024-10-30T15:25:14.000Z,1888647,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",茱丽,Druid,Restoration,healer,Rhonin
+62,296.2,303852171,9,The Dawnbreaker,2024-10-30T15:25:14.000Z,1888647,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",将你还于人海,Demon Hunter,Vengeance,tank,Anzu
+62,296.2,303852171,9,The Dawnbreaker,2024-10-30T15:25:14.000Z,1888647,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",璃霜,Mage,Fire,dps,Silver Hand
+62,296.2,303852171,9,The Dawnbreaker,2024-10-30T15:25:14.000Z,1888647,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",秦丁冬,Death Knight,Frost,dps,Anzu
+63,296.1,303629894,9,The Dawnbreaker,2024-10-29T13:18:57.000Z,1892808,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",原子核可乐,Shaman,Restoration,healer,Pandaren
+63,296.1,303629894,9,The Dawnbreaker,2024-10-29T13:18:57.000Z,1892808,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",法力药水,Mage,Frost,dps,Lich King
+63,296.1,303629894,9,The Dawnbreaker,2024-10-29T13:18:57.000Z,1892808,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尾小尾,Paladin,Protection,tank,Pandaren
+63,296.1,303629894,9,The Dawnbreaker,2024-10-29T13:18:57.000Z,1892808,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卢本熊,Hunter,Beast Mastery,dps,Pandaren
+63,296.1,303629894,9,The Dawnbreaker,2024-10-29T13:18:57.000Z,1892808,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大型洒水车,Shaman,Enhancement,dps,Deathwing
+64,295.4,303203390,9,The Dawnbreaker,2024-10-27T15:28:37.000Z,1929847,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烈煙石,Paladin,Retribution,dps,Al'ar
+64,295.4,303203390,9,The Dawnbreaker,2024-10-27T15:28:37.000Z,1929847,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",往生丶咒,Hunter,Beast Mastery,dps,Deathwing
+64,295.4,303203390,9,The Dawnbreaker,2024-10-27T15:28:37.000Z,1929847,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",上杉明日奈,Mage,Frost,dps,Burning Blade
+64,295.4,303203390,9,The Dawnbreaker,2024-10-27T15:28:37.000Z,1929847,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨栀墨织屿丨,Warrior,Protection,tank,Burning Blade
+64,295.4,303203390,9,The Dawnbreaker,2024-10-27T15:28:37.000Z,1929847,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",湘竹画离弦,Shaman,Restoration,healer,Shadowmourne
+65,295,303131667,8,The Dawnbreaker,2024-10-27T07:47:05.000Z,896194,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",最后一包烟丶,Paladin,Holy,healer,Al'ar
+65,295,303131667,8,The Dawnbreaker,2024-10-27T07:47:05.000Z,896194,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叶風,Druid,Guardian,tank,Blanchard
+65,295,303131667,8,The Dawnbreaker,2024-10-27T07:47:05.000Z,896194,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无敌香蕉皮,Rogue,Assassination,dps,Al'ar
+65,295,303131667,8,The Dawnbreaker,2024-10-27T07:47:05.000Z,896194,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Gulaorousm,Shaman,Elemental,dps,Burning Blade
+65,295,303131667,8,The Dawnbreaker,2024-10-27T07:47:05.000Z,896194,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凯南,Shaman,Enhancement,dps,Isillien
+66,295,303817277,8,The Dawnbreaker,2024-10-30T09:52:35.000Z,976530,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+66,295,303817277,8,The Dawnbreaker,2024-10-30T09:52:35.000Z,976530,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",空灵柩,Mage,Fire,dps,Burning Blade
+66,295,303817277,8,The Dawnbreaker,2024-10-30T09:52:35.000Z,976530,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",二苟呀,Demon Hunter,Vengeance,tank,Al'ar
+66,295,303817277,8,The Dawnbreaker,2024-10-30T09:52:35.000Z,976530,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃夭夭丷,Priest,Holy,healer,Al'ar
+66,295,303817277,8,The Dawnbreaker,2024-10-30T09:52:35.000Z,976530,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",As,Shaman,Enhancement,dps,Chillwind Point
+67,295,303131667,8,The Dawnbreaker,2024-10-27T08:04:54.000Z,979039,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",最后一包烟丶,Paladin,Holy,healer,Al'ar
+67,295,303131667,8,The Dawnbreaker,2024-10-27T08:04:54.000Z,979039,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叶風,Druid,Guardian,tank,Blanchard
+67,295,303131667,8,The Dawnbreaker,2024-10-27T08:04:54.000Z,979039,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无敌香蕉皮,Rogue,Assassination,dps,Al'ar
+67,295,303131667,8,The Dawnbreaker,2024-10-27T08:04:54.000Z,979039,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Gulaorousm,Shaman,Elemental,dps,Burning Blade
+67,295,303131667,8,The Dawnbreaker,2024-10-27T08:04:54.000Z,979039,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凯南,Shaman,Enhancement,dps,Isillien
+68,295,303423174,8,The Dawnbreaker,2024-10-28T15:13:21.000Z,1000790,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",铭伏,Rogue,Assassination,dps,Deathwing
+68,295,303423174,8,The Dawnbreaker,2024-10-28T15:13:21.000Z,1000790,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光斩首,Shaman,Enhancement,dps,Pandaren
+68,295,303423174,8,The Dawnbreaker,2024-10-28T15:13:21.000Z,1000790,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+68,295,303423174,8,The Dawnbreaker,2024-10-28T15:13:21.000Z,1000790,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亅七二七丿,Priest,Discipline,healer,Anzu
+68,295,303423174,8,The Dawnbreaker,2024-10-28T15:13:21.000Z,1000790,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",香草知识,Druid,Balance,dps,Kel'Thuzad
+69,295,303636964,8,The Dawnbreaker,2024-10-29T14:19:47.000Z,1023327,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烟雨平生丶,Paladin,Protection,tank,Kel'Thuzad
+69,295,303636964,8,The Dawnbreaker,2024-10-29T14:19:47.000Z,1023327,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",椎名真白丶,Shaman,Restoration,healer,Kel'Thuzad
+69,295,303636964,8,The Dawnbreaker,2024-10-29T14:19:47.000Z,1023327,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",睦头人,Paladin,Retribution,dps,Kel'Thuzad
+69,295,303636964,8,The Dawnbreaker,2024-10-29T14:19:47.000Z,1023327,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",弹射龟壳,Paladin,Retribution,dps,Deathwing
+69,295,303636964,8,The Dawnbreaker,2024-10-29T14:19:47.000Z,1023327,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",洛君珩,Shaman,Enhancement,dps,Kel'Thuzad
+70,295,303580285,8,The Dawnbreaker,2024-10-29T05:31:03.000Z,1070708,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨阿鬼丶,Rogue,Assassination,dps,Falathim
+70,295,303580285,8,The Dawnbreaker,2024-10-29T05:31:03.000Z,1070708,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",窮鄉島民甲,Evoker,Augmentation,dps,Al'ar
+70,295,303580285,8,The Dawnbreaker,2024-10-29T05:31:03.000Z,1070708,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+70,295,303580285,8,The Dawnbreaker,2024-10-29T05:31:03.000Z,1070708,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亅七二七丿,Priest,Discipline,healer,Anzu
+70,295,303580285,8,The Dawnbreaker,2024-10-29T05:31:03.000Z,1070708,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Fumikaka,Shaman,Enhancement,dps,Alterac Mountains
+71,295,306079821,8,The Dawnbreaker,2024-10-26T15:49:02.000Z,1093202,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",时机已到,Paladin,Protection,tank,Al'ar
+71,295,306079821,8,The Dawnbreaker,2024-10-26T15:49:02.000Z,1093202,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Playerlyznvd,Shaman,Restoration,healer,Rhonin
+71,295,306079821,8,The Dawnbreaker,2024-10-26T15:49:02.000Z,1093202,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕真冷呀,Hunter,Survival,dps,The Great Sea
+71,295,306079821,8,The Dawnbreaker,2024-10-26T15:49:02.000Z,1093202,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",擂肥,Shaman,Elemental,dps,Rhonin
+71,295,306079821,8,The Dawnbreaker,2024-10-26T15:49:02.000Z,1093202,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",深蓝色天空丶,Shaman,Elemental,dps,Burning Blade
+72,295,303415543,8,The Dawnbreaker,2024-10-28T14:01:00.000Z,1108527,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃汨晗,Shaman,Restoration,healer,Shadowmourne
+72,295,303415543,8,The Dawnbreaker,2024-10-28T14:01:00.000Z,1108527,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胸怀破浪心,Death Knight,Frost,dps,The Master's Glaive
+72,295,303415543,8,The Dawnbreaker,2024-10-28T14:01:00.000Z,1108527,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苦主,Shaman,Elemental,dps,Burning Blade
+72,295,303415543,8,The Dawnbreaker,2024-10-28T14:01:00.000Z,1108527,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",燕未还,Warrior,Protection,tank,Al'ar
+72,295,303415543,8,The Dawnbreaker,2024-10-28T14:01:00.000Z,1108527,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",神盾,Paladin,Retribution,dps,Silver Hand
+73,295,303413710,8,The Dawnbreaker,2024-10-28T13:51:07.000Z,1119680,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光斩首,Shaman,Enhancement,dps,Pandaren
+73,295,303413710,8,The Dawnbreaker,2024-10-28T13:51:07.000Z,1119680,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+73,295,303413710,8,The Dawnbreaker,2024-10-28T13:51:07.000Z,1119680,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亅七二七丿,Priest,Discipline,healer,Anzu
+73,295,303413710,8,The Dawnbreaker,2024-10-28T13:51:07.000Z,1119680,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",香草知识,Druid,Balance,dps,Kel'Thuzad
+73,295,303413710,8,The Dawnbreaker,2024-10-28T13:51:07.000Z,1119680,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风云无敌,Paladin,Retribution,dps,Burning Blade
+74,295,302954354,8,The Dawnbreaker,2024-10-26T17:04:25.000Z,1123825,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿澈澈,Mage,Fire,dps,Al'ar
+74,295,302954354,8,The Dawnbreaker,2024-10-26T17:04:25.000Z,1123825,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ubuntu,Shaman,Elemental,dps,Tortheldrin
+74,295,302954354,8,The Dawnbreaker,2024-10-26T17:04:25.000Z,1123825,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Nikov,Death Knight,Frost,dps,Al'ar
+74,295,302954354,8,The Dawnbreaker,2024-10-26T17:04:25.000Z,1123825,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",白毛老灰灰,Shaman,Restoration,healer,Al'ar
+74,295,302954354,8,The Dawnbreaker,2024-10-26T17:04:25.000Z,1123825,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",历飞羽,Warrior,Protection,tank,Rhonin
+75,295,303374214,8,The Dawnbreaker,2024-10-28T06:03:57.000Z,1152720,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",萨瓦迪卡丶,Shaman,Restoration,healer,Burning Blade
+75,295,303374214,8,The Dawnbreaker,2024-10-28T06:03:57.000Z,1152720,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红风,Paladin,Protection,tank,Silver Hand
+75,295,303374214,8,The Dawnbreaker,2024-10-28T06:03:57.000Z,1152720,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿花,Mage,Frost,dps,Deathwing
+75,295,303374214,8,The Dawnbreaker,2024-10-28T06:03:57.000Z,1152720,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小绯红,Druid,Feral,dps,Silver Hand
+75,295,303374214,8,The Dawnbreaker,2024-10-28T06:03:57.000Z,1152720,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光照耀月亮,Paladin,Retribution,dps,Silver Hand
+76,295,303862224,8,The Dawnbreaker,2024-10-30T16:26:17.000Z,1165725,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",筱红帽丶,Paladin,Protection,tank,The Great Sea
+76,295,303862224,8,The Dawnbreaker,2024-10-30T16:26:17.000Z,1165725,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃汨晗,Shaman,Restoration,healer,Shadowmourne
+76,295,303862224,8,The Dawnbreaker,2024-10-30T16:26:17.000Z,1165725,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苏曦,Shaman,Elemental,dps,The Great Sea
+76,295,303862224,8,The Dawnbreaker,2024-10-30T16:26:17.000Z,1165725,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",皮皮虾的执着,Paladin,Retribution,dps,Garithos
+76,295,303862224,8,The Dawnbreaker,2024-10-30T16:26:17.000Z,1165725,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丅凵丅,Paladin,Retribution,dps,Deathwing
+77,295,303600421,8,The Dawnbreaker,2024-10-29T09:24:49.000Z,1166169,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Megumii,Druid,Restoration,healer,Eldre'Thalas
+77,295,303600421,8,The Dawnbreaker,2024-10-29T09:24:49.000Z,1166169,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",团长給我大饼,Demon Hunter,Vengeance,tank,Eldre'Thalas
+77,295,303600421,8,The Dawnbreaker,2024-10-29T09:24:49.000Z,1166169,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蛇喰莉莉,Paladin,Retribution,dps,Silver Hand
+77,295,303600421,8,The Dawnbreaker,2024-10-29T09:24:49.000Z,1166169,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",犹记,Paladin,Retribution,dps,Eldre'Thalas
+77,295,303600421,8,The Dawnbreaker,2024-10-29T09:24:49.000Z,1166169,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",名字丶三六,Hunter,Survival,dps,Ozumat
+78,295,302917310,8,The Dawnbreaker,2024-10-26T12:40:32.000Z,1172532,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",青锋出斩不平,Rogue,Assassination,dps,Shadowmourne
+78,295,302917310,8,The Dawnbreaker,2024-10-26T12:40:32.000Z,1172532,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你爱吃青菜,Warrior,Protection,tank,Shadowmourne
+78,295,302917310,8,The Dawnbreaker,2024-10-26T12:40:32.000Z,1172532,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",毒丶酒,Priest,Shadow,dps,Shadowmourne
+78,295,302917310,8,The Dawnbreaker,2024-10-26T12:40:32.000Z,1172532,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",面包机丶,Mage,Frost,dps,Deathwing
+78,295,302917310,8,The Dawnbreaker,2024-10-26T12:40:32.000Z,1172532,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丁达尔迅贤,Druid,Restoration,healer,Shadowmourne
+79,294.5,303807234,8,The Dawnbreaker,2024-10-30T07:33:46.000Z,1198019,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",溫西尔奶骑,Paladin,Holy,healer,Deathwing
+79,294.5,303807234,8,The Dawnbreaker,2024-10-30T07:33:46.000Z,1198019,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",柳如烟,Shaman,Elemental,dps,Sindragosa
+79,294.5,303807234,8,The Dawnbreaker,2024-10-30T07:33:46.000Z,1198019,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",普蕾西亚,Warrior,Fury,dps,Echo Ridge
+79,294.5,303807234,8,The Dawnbreaker,2024-10-30T07:33:46.000Z,1198019,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",豹豹西瓜冰,Death Knight,Blood,tank,Echo Ridge
+79,294.5,303807234,8,The Dawnbreaker,2024-10-30T07:33:46.000Z,1198019,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",淡黄色的花瓣,Rogue,Outlaw,dps,Echo Ridge
+80,294,302918354,8,The Dawnbreaker,2024-10-26T13:59:24.000Z,1221383,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鲁鲁不干活,Druid,Balance,dps,Dark Iron
+80,294,302918354,8,The Dawnbreaker,2024-10-26T13:59:24.000Z,1221383,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",会飛的鱼,Shaman,Restoration,healer,Gorehowl
+80,294,302918354,8,The Dawnbreaker,2024-10-26T13:59:24.000Z,1221383,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",干锅排骨,Death Knight,Frost,dps,Dark Iron
+80,294,302918354,8,The Dawnbreaker,2024-10-26T13:59:24.000Z,1221383,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尼古拉特斯拉,Shaman,Enhancement,dps,Dark Iron
+80,294,302918354,8,The Dawnbreaker,2024-10-26T13:59:24.000Z,1221383,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛老炱,Warrior,Protection,tank,Dark Iron
+81,294,303422708,8,The Dawnbreaker,2024-10-28T14:41:21.000Z,1224941,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tooto,Warrior,Fury,dps,Valley of Kings
+81,294,303422708,8,The Dawnbreaker,2024-10-28T14:41:21.000Z,1224941,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Huhuhuhuhuhf,Mage,Frost,dps,Shadowmourne
+81,294,303422708,8,The Dawnbreaker,2024-10-28T14:41:21.000Z,1224941,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",来戏,Mage,Frost,dps,Burning Blade
+81,294,303422708,8,The Dawnbreaker,2024-10-28T14:41:21.000Z,1224941,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月不西沉,Warrior,Protection,tank,Rhonin
+81,294,303422708,8,The Dawnbreaker,2024-10-28T14:41:21.000Z,1224941,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",理寺龙鸣,Priest,Discipline,healer,Burning Blade
+82,293.7,303565031,8,The Dawnbreaker,2024-10-29T03:47:06.000Z,1235938,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",豆丁姝,Rogue,Assassination,dps,Rhonin
+82,293.7,303565031,8,The Dawnbreaker,2024-10-29T03:47:06.000Z,1235938,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Pevo,Mage,Frost,dps,Shadow Council
+82,293.7,303565031,8,The Dawnbreaker,2024-10-29T03:47:06.000Z,1235938,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+82,293.7,303565031,8,The Dawnbreaker,2024-10-29T03:47:06.000Z,1235938,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亅七二七丿,Priest,Discipline,healer,Anzu
+82,293.7,303565031,8,The Dawnbreaker,2024-10-29T03:47:06.000Z,1235938,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苹果瓣,Paladin,Retribution,dps,Al'ar
+83,293.4,302914554,8,The Dawnbreaker,2024-10-26T13:52:07.000Z,1251678,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超闪亮衮衮酱,Shaman,Enhancement,dps,Pandaren
+83,293.4,302914554,8,The Dawnbreaker,2024-10-26T13:52:07.000Z,1251678,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",温柔丨,Paladin,Retribution,dps,Pandaren
+83,293.4,302914554,8,The Dawnbreaker,2024-10-26T13:52:07.000Z,1251678,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小月蝶,Monk,Mistweaver,healer,Silver Hand
+83,293.4,302914554,8,The Dawnbreaker,2024-10-26T13:52:07.000Z,1251678,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",唐弥弥,Mage,Frost,dps,Blanchard
+83,293.4,302914554,8,The Dawnbreaker,2024-10-26T13:52:07.000Z,1251678,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小小懒骑,Paladin,Protection,tank,Silver Hand
+84,293.1,302675745,8,The Dawnbreaker,2024-10-25T13:41:49.000Z,1271278,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月之优雅,Shaman,Enhancement,dps,Stonetalon Peak
+84,293.1,302675745,8,The Dawnbreaker,2024-10-25T13:41:49.000Z,1271278,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",晴转多云,Hunter,Marksmanship,dps,Scarlet Crusade
+84,293.1,302675745,8,The Dawnbreaker,2024-10-25T13:41:49.000Z,1271278,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",墨染流年,Shaman,Elemental,dps,Eldre'Thalas
+84,293.1,302675745,8,The Dawnbreaker,2024-10-25T13:41:49.000Z,1271278,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+84,293.1,302675745,8,The Dawnbreaker,2024-10-25T13:41:49.000Z,1271278,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Bubblu,Shaman,Restoration,healer,Deathwing
+85,292.8,302437158,8,The Dawnbreaker,2024-10-24T06:04:16.000Z,1282868,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬马拉个屯灬,Mage,Fire,dps,Valley of Kings
+85,292.8,302437158,8,The Dawnbreaker,2024-10-24T06:04:16.000Z,1282868,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Restoration,healer,Burning Blade
+85,292.8,302437158,8,The Dawnbreaker,2024-10-24T06:04:16.000Z,1282868,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",埃斯沃卡,Warlock,Affliction,dps,Thaurissan
+85,292.8,302437158,8,The Dawnbreaker,2024-10-24T06:04:16.000Z,1282868,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无敌坤坤堃,Shaman,Elemental,dps,Al'ar
+85,292.8,302437158,8,The Dawnbreaker,2024-10-24T06:04:16.000Z,1282868,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不想不想努力,Demon Hunter,Vengeance,tank,Burning Blade
+86,292.8,303621193,8,The Dawnbreaker,2024-10-27T13:58:12.000Z,1286738,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶迷醉,Rogue,Assassination,dps,The Great Sea
+86,292.8,303621193,8,The Dawnbreaker,2024-10-27T13:58:12.000Z,1286738,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卜卜壹壹,Paladin,Retribution,dps,The Great Sea
+86,292.8,303621193,8,The Dawnbreaker,2024-10-27T13:58:12.000Z,1286738,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",艾伦逐风者,Paladin,Retribution,dps,The Great Sea
+86,292.8,303621193,8,The Dawnbreaker,2024-10-27T13:58:12.000Z,1286738,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夏牧,Shaman,Restoration,healer,Isillien
+86,292.8,303621193,8,The Dawnbreaker,2024-10-27T13:58:12.000Z,1286738,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨丶快上车,Warrior,Protection,tank,Pandaren
+87,292.6,303413712,8,The Dawnbreaker,2024-10-28T13:51:13.000Z,1295153,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tooto,Warrior,Fury,dps,Valley of Kings
+87,292.6,303413712,8,The Dawnbreaker,2024-10-28T13:51:13.000Z,1295153,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Huhuhuhuhuhf,Mage,Frost,dps,Shadowmourne
+87,292.6,303413712,8,The Dawnbreaker,2024-10-28T13:51:13.000Z,1295153,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",给我俩分钟,Druid,Balance,dps,Burning Blade
+87,292.6,303413712,8,The Dawnbreaker,2024-10-28T13:51:13.000Z,1295153,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月不西沉,Warrior,Protection,tank,Rhonin
+87,292.6,303413712,8,The Dawnbreaker,2024-10-28T13:51:13.000Z,1295153,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",理寺龙鸣,Priest,Discipline,healer,Burning Blade
+88,292.6,302924885,8,The Dawnbreaker,2024-10-26T13:30:45.000Z,1296384,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",多泄,Mage,Frost,dps,Barrens
+88,292.6,302924885,8,The Dawnbreaker,2024-10-26T13:30:45.000Z,1296384,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",泉户真白,Shaman,Restoration,healer,Rhonin
+88,292.6,302924885,8,The Dawnbreaker,2024-10-26T13:30:45.000Z,1296384,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",莫扎特的玫瑰,Death Knight,Frost,dps,Valley of Kings
+88,292.6,302924885,8,The Dawnbreaker,2024-10-26T13:30:45.000Z,1296384,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Syc,Shaman,Elemental,dps,Barrens
+88,292.6,302924885,8,The Dawnbreaker,2024-10-26T13:30:45.000Z,1296384,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",白夜枭,Death Knight,Blood,tank,Barrens
+89,292.6,302946830,8,The Dawnbreaker,2024-10-26T16:16:17.000Z,1296688,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Oyyqs,Paladin,Protection,tank,Deathwing
+89,292.6,302946830,8,The Dawnbreaker,2024-10-26T16:16:17.000Z,1296688,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",狼波万,Death Knight,Unholy,dps,Isillien
+89,292.6,302946830,8,The Dawnbreaker,2024-10-26T16:16:17.000Z,1296688,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶月半弯,Death Knight,Frost,dps,Grim Batol
+89,292.6,302946830,8,The Dawnbreaker,2024-10-26T16:16:17.000Z,1296688,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",虚空老流氓丶,Warlock,Demonology,dps,Anzu
+89,292.6,302946830,8,The Dawnbreaker,2024-10-26T16:16:17.000Z,1296688,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",嗝嘟嘟,Druid,Restoration,healer,Grim Batol
+90,292.5,302889976,8,The Dawnbreaker,2024-10-26T10:53:06.000Z,1299933,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星光龙,Mage,Fire,dps,Anzu
+90,292.5,302889976,8,The Dawnbreaker,2024-10-26T10:53:06.000Z,1299933,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小镇小雨了,Hunter,Beast Mastery,dps,Anzu
+90,292.5,302889976,8,The Dawnbreaker,2024-10-26T10:53:06.000Z,1299933,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宵丶满,Shaman,Restoration,healer,Deathwing
+90,292.5,302889976,8,The Dawnbreaker,2024-10-26T10:53:06.000Z,1299933,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",辣是真滴牛,Druid,Guardian,tank,Isillien
+90,292.5,302889976,8,The Dawnbreaker,2024-10-26T10:53:06.000Z,1299933,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",库洛米无敌,Death Knight,Frost,dps,Hectae
+91,292.5,302681210,8,The Dawnbreaker,2024-10-25T14:39:55.000Z,1301796,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Veex,Mage,Frost,dps,Chillwind Point
+91,292.5,302681210,8,The Dawnbreaker,2024-10-25T14:39:55.000Z,1301796,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Coconutshake,Paladin,Retribution,dps,Chillwind Point
+91,292.5,302681210,8,The Dawnbreaker,2024-10-25T14:39:55.000Z,1301796,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夔牛,Warrior,Protection,tank,Chillwind Point
+91,292.5,302681210,8,The Dawnbreaker,2024-10-25T14:39:55.000Z,1301796,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",潇洒盖姚明,Shaman,Restoration,healer,Chillwind Point
+91,292.5,302681210,8,The Dawnbreaker,2024-10-25T14:39:55.000Z,1301796,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬猫叔灬,Death Knight,Unholy,dps,Chillwind Point
+92,292.4,303457725,8,The Dawnbreaker,2024-10-28T18:22:07.000Z,1307410,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蜉蝣一生,Mage,Frost,dps,Silver Hand
+92,292.4,303457725,8,The Dawnbreaker,2024-10-28T18:22:07.000Z,1307410,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",耐力小绵绵,Druid,Restoration,healer,Doomwalker
+92,292.4,303457725,8,The Dawnbreaker,2024-10-28T18:22:07.000Z,1307410,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",格里恩神牧,Paladin,Protection,tank,Silver Hand
+92,292.4,303457725,8,The Dawnbreaker,2024-10-28T18:22:07.000Z,1307410,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",理裂隙,Mage,Arcane,dps,Alleria
+92,292.4,303457725,8,The Dawnbreaker,2024-10-28T18:22:07.000Z,1307410,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",李丶开心,Mage,Frost,dps,Doomwalker
+93,292.3,302907966,8,The Dawnbreaker,2024-10-26T11:47:40.000Z,1309584,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星痕小猎手,Hunter,Beast Mastery,dps,Valley of Kings
+93,292.3,302907966,8,The Dawnbreaker,2024-10-26T11:47:40.000Z,1309584,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超闪亮衮衮酱,Shaman,Enhancement,dps,Pandaren
+93,292.3,302907966,8,The Dawnbreaker,2024-10-26T11:47:40.000Z,1309584,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小月蝶,Monk,Mistweaver,healer,Silver Hand
+93,292.3,302907966,8,The Dawnbreaker,2024-10-26T11:47:40.000Z,1309584,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",唐弥弥,Mage,Frost,dps,Blanchard
+93,292.3,302907966,8,The Dawnbreaker,2024-10-26T11:47:40.000Z,1309584,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小小懒骑,Paladin,Protection,tank,Silver Hand
+94,292.3,302857892,8,The Dawnbreaker,2024-10-26T06:05:42.000Z,1311146,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",请你来跳个舞,Hunter,Beast Mastery,dps,Onyxia
+94,292.3,302857892,8,The Dawnbreaker,2024-10-26T06:05:42.000Z,1311146,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",糖晓琦,Priest,Shadow,dps,Scarlet Crusade
+94,292.3,302857892,8,The Dawnbreaker,2024-10-26T06:05:42.000Z,1311146,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",橘花毁灭者,Monk,Mistweaver,healer,Sunwell
+94,292.3,302857892,8,The Dawnbreaker,2024-10-26T06:05:42.000Z,1311146,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光背叛著,Demon Hunter,Vengeance,tank,Al'ar
+94,292.3,302857892,8,The Dawnbreaker,2024-10-26T06:05:42.000Z,1311146,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",辛多雷之手,Paladin,Retribution,dps,Chillwind Point
+95,292.1,303411190,8,The Dawnbreaker,2024-10-28T13:10:07.000Z,1323560,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无人呀,Priest,Discipline,healer,Blanchard
+95,292.1,303411190,8,The Dawnbreaker,2024-10-28T13:10:07.000Z,1323560,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Gohan,Shaman,Enhancement,dps,Blanchard
+95,292.1,303411190,8,The Dawnbreaker,2024-10-28T13:10:07.000Z,1323560,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Faze,Paladin,Protection,tank,Pandaren
+95,292.1,303411190,8,The Dawnbreaker,2024-10-28T13:10:07.000Z,1323560,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Oversize,Paladin,Retribution,dps,Silver Hand
+95,292.1,303411190,8,The Dawnbreaker,2024-10-28T13:10:07.000Z,1323560,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不是惩戒骑呀,Paladin,Retribution,dps,Valley of Kings
+96,291.9,303465138,8,The Dawnbreaker,2024-10-28T19:06:21.000Z,1333296,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你还打不打,Death Knight,Frost,dps,Isillien
+96,291.9,303465138,8,The Dawnbreaker,2024-10-28T19:06:21.000Z,1333296,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奶香排条,Death Knight,Frost,dps,Silver Hand
+96,291.9,303465138,8,The Dawnbreaker,2024-10-28T19:06:21.000Z,1333296,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",硬铁贰叁,Warrior,Protection,tank,Valley of Kings
+96,291.9,303465138,8,The Dawnbreaker,2024-10-28T19:06:21.000Z,1333296,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Gooses,Paladin,Retribution,dps,Isillien
+96,291.9,303465138,8,The Dawnbreaker,2024-10-28T19:06:21.000Z,1333296,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",嬛嬛,Priest,Discipline,healer,Menethil
+97,291.9,302557469,8,The Dawnbreaker,2024-10-24T21:40:22.000Z,1333472,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凋零者,Death Knight,Blood,tank,Blackwing Lair
+97,291.9,302557469,8,The Dawnbreaker,2024-10-24T21:40:22.000Z,1333472,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",木沐牧木,Shaman,Restoration,healer,Deathwing
+97,291.9,302557469,8,The Dawnbreaker,2024-10-24T21:40:22.000Z,1333472,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",林斩渊,Mage,Fire,dps,The Master's Glaive
+97,291.9,302557469,8,The Dawnbreaker,2024-10-24T21:40:22.000Z,1333472,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",多恩岛流民,Death Knight,Frost,dps,Swiftwind
+97,291.9,302557469,8,The Dawnbreaker,2024-10-24T21:40:22.000Z,1333472,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",信仰圣光坝,Paladin,Retribution,dps,Swiftwind
+98,291.8,303087787,8,The Dawnbreaker,2024-10-27T02:06:57.000Z,1337177,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Chint,Monk,Brewmaster,tank,Pandaren
+98,291.8,303087787,8,The Dawnbreaker,2024-10-27T02:06:57.000Z,1337177,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",攞琳莎娜,Death Knight,Unholy,dps,Twisting Nether
+98,291.8,303087787,8,The Dawnbreaker,2024-10-27T02:06:57.000Z,1337177,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",锦瑞瑶瑶,Shaman,Restoration,healer,Pandaren
+98,291.8,303087787,8,The Dawnbreaker,2024-10-27T02:06:57.000Z,1337177,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿鸡丶,Hunter,Beast Mastery,dps,Isillien
+98,291.8,303087787,8,The Dawnbreaker,2024-10-27T02:06:57.000Z,1337177,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我是牛投人,Warrior,Fury,dps,Deepfury
+99,291.8,302480598,8,The Dawnbreaker,2024-10-24T14:03:40.000Z,1337453,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光吃不下了,Evoker,Preservation,healer,Swiftwind
+99,291.8,302480598,8,The Dawnbreaker,2024-10-24T14:03:40.000Z,1337453,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Carlsm,Shaman,Elemental,dps,Deathwing
+99,291.8,302480598,8,The Dawnbreaker,2024-10-24T14:03:40.000Z,1337453,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿萝拉,Death Knight,Frost,dps,Doomwalker
+99,291.8,302480598,8,The Dawnbreaker,2024-10-24T14:03:40.000Z,1337453,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",刮风这天,Paladin,Protection,tank,Doomwalker
+99,291.8,302480598,8,The Dawnbreaker,2024-10-24T14:03:40.000Z,1337453,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",生产队的猛犸,Paladin,Retribution,dps,Isillien
+100,291.6,302844069,8,The Dawnbreaker,2024-10-26T04:09:33.000Z,1345511,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小富婆丶,Shaman,Restoration,healer,Burning Blade
+100,291.6,302844069,8,The Dawnbreaker,2024-10-26T04:09:33.000Z,1345511,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小顏北凉,Shaman,Elemental,dps,Burning Blade
+100,291.6,302844069,8,The Dawnbreaker,2024-10-26T04:09:33.000Z,1345511,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",这个致死奈斯,Warrior,Protection,tank,Burning Blade
+100,291.6,302844069,8,The Dawnbreaker,2024-10-26T04:09:33.000Z,1345511,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Railgun,Warrior,Fury,dps,Alterac Mountains
+100,291.6,302844069,8,The Dawnbreaker,2024-10-26T04:09:33.000Z,1345511,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小调皮李亚娟,Death Knight,Frost,dps,Burning Blade
+101,291.6,303137917,8,The Dawnbreaker,2024-10-27T08:44:22.000Z,1349610,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",敖寂涵,Warrior,Protection,tank,Deepfury
+101,291.6,303137917,8,The Dawnbreaker,2024-10-27T08:44:22.000Z,1349610,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛妈妈爱你唷,Shaman,Restoration,healer,Deepfury
+101,291.6,303137917,8,The Dawnbreaker,2024-10-27T08:44:22.000Z,1349610,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卡其萝北,Warlock,Demonology,dps,Pandaren
+101,291.6,303137917,8,The Dawnbreaker,2024-10-27T08:44:22.000Z,1349610,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",希尔娜晨风,Hunter,Beast Mastery,dps,Deathwing
+101,291.6,303137917,8,The Dawnbreaker,2024-10-27T08:44:22.000Z,1349610,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬小伙子灬,Death Knight,Unholy,dps,Al'ar
+102,291.2,303587559,8,The Dawnbreaker,2024-10-29T06:48:56.000Z,1366632,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",錵鈥,Paladin,Holy,healer,Deathwing
+102,291.2,303587559,8,The Dawnbreaker,2024-10-29T06:48:56.000Z,1366632,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不想名字了丶,Druid,Guardian,tank,Isillien
+102,291.2,303587559,8,The Dawnbreaker,2024-10-29T06:48:56.000Z,1366632,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月照棠未眠,Paladin,Retribution,dps,Silver Hand
+102,291.2,303587559,8,The Dawnbreaker,2024-10-29T06:48:56.000Z,1366632,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",青山入我怀灬,Mage,Fire,dps,Al'ar
+102,291.2,303587559,8,The Dawnbreaker,2024-10-29T06:48:56.000Z,1366632,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",錵灬鈥,Shaman,Restoration,healer,Deathwing
+103,291.2,303388026,8,The Dawnbreaker,2024-10-28T08:40:28.000Z,1369529,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",平凡的晨曦灬,Paladin,Holy,healer,Deathwing
+103,291.2,303388026,8,The Dawnbreaker,2024-10-28T08:40:28.000Z,1369529,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿花,Mage,Frost,dps,Deathwing
+103,291.2,303388026,8,The Dawnbreaker,2024-10-28T08:40:28.000Z,1369529,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱护花草,Paladin,Protection,tank,Hearthglen
+103,291.2,303388026,8,The Dawnbreaker,2024-10-28T08:40:28.000Z,1369529,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",呔篌,Death Knight,Frost,dps,Swiftwind
+103,291.2,303388026,8,The Dawnbreaker,2024-10-28T08:40:28.000Z,1369529,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老吧啦,Paladin,Retribution,dps,Jin'do
+104,291,302519651,8,The Dawnbreaker,2024-10-24T18:21:38.000Z,1379221,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",依旧那么冷酷,Death Knight,Frost,dps,Isillien
+104,291,302519651,8,The Dawnbreaker,2024-10-24T18:21:38.000Z,1379221,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鱿小袅,Warrior,Protection,tank,Grim Batol
+104,291,302519651,8,The Dawnbreaker,2024-10-24T18:21:38.000Z,1379221,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苁茏,Death Knight,Frost,dps,Grim Batol
+104,291,302519651,8,The Dawnbreaker,2024-10-24T18:21:38.000Z,1379221,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+104,291,302519651,8,The Dawnbreaker,2024-10-24T18:21:38.000Z,1379221,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",噗噗的萨满,Shaman,Elemental,dps,Grim Batol
+105,291,302909559,8,The Dawnbreaker,2024-10-26T12:01:22.000Z,1380437,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",水菩提,Druid,Restoration,healer,Altar of Storms
+105,291,302909559,8,The Dawnbreaker,2024-10-26T12:01:22.000Z,1380437,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烟雨平生丶,Paladin,Protection,tank,Kel'Thuzad
+105,291,302909559,8,The Dawnbreaker,2024-10-26T12:01:22.000Z,1380437,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",睦头人,Paladin,Retribution,dps,Kel'Thuzad
+105,291,302909559,8,The Dawnbreaker,2024-10-26T12:01:22.000Z,1380437,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",椎名真白酱,Mage,Frost,dps,Kel'Thuzad
+105,291,302909559,8,The Dawnbreaker,2024-10-26T12:01:22.000Z,1380437,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",洛君珩,Shaman,Enhancement,dps,Kel'Thuzad
+106,290.8,303224840,8,The Dawnbreaker,2024-10-27T17:03:11.000Z,1390939,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",双手托球,Death Knight,Frost,dps,Doomwalker
+106,290.8,303224840,8,The Dawnbreaker,2024-10-27T17:03:11.000Z,1390939,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玉米卷儿,Shaman,Restoration,healer,Doomwalker
+106,290.8,303224840,8,The Dawnbreaker,2024-10-27T17:03:11.000Z,1390939,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",东方星辰,Warrior,Protection,tank,Doomwalker
+106,290.8,303224840,8,The Dawnbreaker,2024-10-27T17:03:11.000Z,1390939,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",了了萌,Shaman,Elemental,dps,Tirisfal Glades
+106,290.8,303224840,8,The Dawnbreaker,2024-10-27T17:03:11.000Z,1390939,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",佳莉丶萨,Shaman,Enhancement,dps,Doomwalker
+107,290.4,302621719,8,The Dawnbreaker,2024-10-25T05:42:47.000Z,1409528,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",图啦揚,Paladin,Retribution,dps,Valley of Kings
+107,290.4,302621719,8,The Dawnbreaker,2024-10-25T05:42:47.000Z,1409528,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",哈斯不得欺姐,Warlock,Destruction,dps,Frostmourne
+107,290.4,302621719,8,The Dawnbreaker,2024-10-25T05:42:47.000Z,1409528,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丛南女票到北,Druid,Guardian,tank,Al'ar
+107,290.4,302621719,8,The Dawnbreaker,2024-10-25T05:42:47.000Z,1409528,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尼德霍格之翼,Rogue,Assassination,dps,Al'ar
+107,290.4,302621719,8,The Dawnbreaker,2024-10-25T05:42:47.000Z,1409528,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",哥哥打不赢吗,Shaman,Restoration,healer,Rhonin
+108,290.1,302645966,8,The Dawnbreaker,2024-10-25T10:42:58.000Z,1426677,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛妈妈爱你唷,Shaman,Restoration,healer,Deepfury
+108,290.1,302645966,8,The Dawnbreaker,2024-10-25T10:42:58.000Z,1426677,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",晴时丶,Druid,Balance,dps,Al'ar
+108,290.1,302645966,8,The Dawnbreaker,2024-10-25T10:42:58.000Z,1426677,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风骚走位,Death Knight,Unholy,dps,Skywall
+108,290.1,302645966,8,The Dawnbreaker,2024-10-25T10:42:58.000Z,1426677,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",望呆思丁,Druid,Guardian,tank,Scarlet Crusade
+108,290.1,302645966,8,The Dawnbreaker,2024-10-25T10:42:58.000Z,1426677,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烈焰王,Warrior,Fury,dps,Scarlet Crusade
+109,289.9,303762565,8,The Dawnbreaker,2024-10-30T01:22:05.000Z,1434178,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",筱红帽丶,Paladin,Protection,tank,The Great Sea
+109,289.9,303762565,8,The Dawnbreaker,2024-10-30T01:22:05.000Z,1434178,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",姒雨樱,Priest,Discipline,healer,Shadowmourne
+109,289.9,303762565,8,The Dawnbreaker,2024-10-30T01:22:05.000Z,1434178,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",张小年,Mage,Frost,dps,Blanchard
+109,289.9,303762565,8,The Dawnbreaker,2024-10-30T01:22:05.000Z,1434178,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬绿水长流,Paladin,Retribution,dps,Blanchard
+109,289.9,303762565,8,The Dawnbreaker,2024-10-30T01:22:05.000Z,1434178,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",莫名嘚微笑,Death Knight,Frost,dps,Crushridge
+110,289.9,302694739,8,The Dawnbreaker,2024-10-25T17:29:01.000Z,1434928,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小小懒人,Mage,Frost,dps,Cenarius
+110,289.9,302694739,8,The Dawnbreaker,2024-10-25T17:29:01.000Z,1434928,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月蝶華想,Paladin,Retribution,dps,Silver Hand
+110,289.9,302694739,8,The Dawnbreaker,2024-10-25T17:29:01.000Z,1434928,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",肥手大脚怪,Paladin,Protection,tank,Shadowmourne
+110,289.9,302694739,8,The Dawnbreaker,2024-10-25T17:29:01.000Z,1434928,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",恒丶,Evoker,Augmentation,dps,Nozdormu
+110,289.9,302694739,8,The Dawnbreaker,2024-10-25T17:29:01.000Z,1434928,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Planejpjsm,Shaman,Restoration,healer,Nozdormu
+111,289.8,303601009,8,The Dawnbreaker,2024-10-29T09:44:13.000Z,1442154,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光会制裁妳,Paladin,Retribution,dps,Thunder Axe Fortress
+111,289.8,303601009,8,The Dawnbreaker,2024-10-29T09:44:13.000Z,1442154,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",扛不住怪奶,Druid,Guardian,tank,Thunder Axe Fortress
+111,289.8,303601009,8,The Dawnbreaker,2024-10-29T09:44:13.000Z,1442154,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",诸葛不想出山,Shaman,Restoration,healer,Rhonin
+111,289.8,303601009,8,The Dawnbreaker,2024-10-29T09:44:13.000Z,1442154,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小时候可呆了,Warlock,Destruction,dps,Rhonin
+111,289.8,303601009,8,The Dawnbreaker,2024-10-29T09:44:13.000Z,1442154,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Acabbage,Mage,Frost,dps,Deathwing
+112,289.8,303419910,8,The Dawnbreaker,2024-10-28T14:16:40.000Z,1442960,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",贴心小棉袄,Paladin,Retribution,dps,Blanchard
+112,289.8,303419910,8,The Dawnbreaker,2024-10-28T14:16:40.000Z,1442960,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",仙人来哉,Druid,Balance,dps,Burning Blade
+112,289.8,303419910,8,The Dawnbreaker,2024-10-28T14:16:40.000Z,1442960,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",恐怖的小白,Shaman,Restoration,healer,Grim Batol
+112,289.8,303419910,8,The Dawnbreaker,2024-10-28T14:16:40.000Z,1442960,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",念个咒先,Mage,Frost,dps,Grim Batol
+112,289.8,303419910,8,The Dawnbreaker,2024-10-28T14:16:40.000Z,1442960,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",孤巷里的老鼠,Druid,Guardian,tank,Valley of Kings
+113,289.4,302508737,8,The Dawnbreaker,2024-10-24T16:26:01.000Z,1459903,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",晋升高塔主任,Demon Hunter,Vengeance,tank,Burning Blade
+113,289.4,302508737,8,The Dawnbreaker,2024-10-24T16:26:01.000Z,1459903,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",高人一筹,Hunter,Marksmanship,dps,Maim
+113,289.4,302508737,8,The Dawnbreaker,2024-10-24T16:26:01.000Z,1459903,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",春阳,Shaman,Elemental,dps,Al'ar
+113,289.4,302508737,8,The Dawnbreaker,2024-10-24T16:26:01.000Z,1459903,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",贞楠廿,Monk,Mistweaver,healer,Al'ar
+113,289.4,302508737,8,The Dawnbreaker,2024-10-24T16:26:01.000Z,1459903,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尼德霍格之翼,Rogue,Assassination,dps,Al'ar
+114,289.2,303578951,8,The Dawnbreaker,2024-10-29T05:12:16.000Z,1472404,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Chillings,Mage,Fire,dps,Valley of Kings
+114,289.2,303578951,8,The Dawnbreaker,2024-10-29T05:12:16.000Z,1472404,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",疯狂的查尔斯,Warrior,Fury,dps,Valley of Kings
+114,289.2,303578951,8,The Dawnbreaker,2024-10-29T05:12:16.000Z,1472404,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rickdance,Druid,Restoration,healer,Valley of Kings
+114,289.2,303578951,8,The Dawnbreaker,2024-10-29T05:12:16.000Z,1472404,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿伦,Paladin,Protection,tank,Valley of Kings
+114,289.2,303578951,8,The Dawnbreaker,2024-10-29T05:12:16.000Z,1472404,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",诅咒丶,Warlock,Destruction,dps,Whispering Shore
+115,288.1,303223570,8,The Dawnbreaker,2024-10-27T16:59:04.000Z,1531307,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Chint,Monk,Brewmaster,tank,Pandaren
+115,288.1,303223570,8,The Dawnbreaker,2024-10-27T16:59:04.000Z,1531307,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",开无敌围观,Paladin,Retribution,dps,Deathwing
+115,288.1,303223570,8,The Dawnbreaker,2024-10-27T16:59:04.000Z,1531307,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",锦瑞瑶瑶,Shaman,Enhancement,dps,Pandaren
+115,288.1,303223570,8,The Dawnbreaker,2024-10-27T16:59:04.000Z,1531307,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雷遁灭神斩,Rogue,Assassination,dps,Anzu
+115,288.1,303223570,8,The Dawnbreaker,2024-10-27T16:59:04.000Z,1531307,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不给就送啊,Evoker,Preservation,healer,Pandaren
+116,288,303632475,8,The Dawnbreaker,2024-10-29T13:41:46.000Z,1535683,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龍门残雪,Mage,Frost,dps,Scarlet Crusade
+116,288,303632475,8,The Dawnbreaker,2024-10-29T13:41:46.000Z,1535683,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Lastsweet,Death Knight,Unholy,dps,Silver Hand
+116,288,303632475,8,The Dawnbreaker,2024-10-29T13:41:46.000Z,1535683,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小小阿祖,Death Knight,Frost,dps,Isillien
+116,288,303632475,8,The Dawnbreaker,2024-10-29T13:41:46.000Z,1535683,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小雨亚克西,Evoker,Preservation,healer,Silver Hand
+116,288,303632475,8,The Dawnbreaker,2024-10-29T13:41:46.000Z,1535683,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",米乐会发光啊,Druid,Guardian,tank,Anzu
+117,287.6,302431095,8,The Dawnbreaker,2024-10-24T05:08:57.000Z,1553242,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",精灵小妹,Paladin,Holy,healer,Deathwhisper
+117,287.6,302431095,8,The Dawnbreaker,2024-10-24T05:08:57.000Z,1553242,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鲜格格丶,Hunter,Survival,dps,Deathwing
+117,287.6,302431095,8,The Dawnbreaker,2024-10-24T05:08:57.000Z,1553242,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨壹叶知秋丨,Paladin,Retribution,dps,Barrens
+117,287.6,302431095,8,The Dawnbreaker,2024-10-24T05:08:57.000Z,1553242,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tsaber,Warrior,Fury,dps,Frostmourne
+117,287.6,302431095,8,The Dawnbreaker,2024-10-24T05:08:57.000Z,1553242,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",無雙丨夜多多,Paladin,Protection,tank,Rhonin
+118,287.6,303415480,8,The Dawnbreaker,2024-10-28T14:00:52.000Z,1556115,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",给我乖,Priest,Holy,healer,Arygos
+118,287.6,303415480,8,The Dawnbreaker,2024-10-28T14:00:52.000Z,1556115,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",西園幽子,Death Knight,Frost,dps,Arygos
+118,287.6,303415480,8,The Dawnbreaker,2024-10-28T14:00:52.000Z,1556115,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",斯內克大炮,Demon Hunter,Vengeance,tank,Arygos
+118,287.6,303415480,8,The Dawnbreaker,2024-10-28T14:00:52.000Z,1556115,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Mockingbird,Mage,Frost,dps,Arygos
+118,287.6,303415480,8,The Dawnbreaker,2024-10-28T14:00:52.000Z,1556115,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",芹菜玛奇朵,Warlock,Destruction,dps,Arygos
+119,287.2,302454779,8,The Dawnbreaker,2024-10-24T09:42:43.000Z,1578021,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天邢烈焰,Rogue,Assassination,dps,Grim Batol
+119,287.2,302454779,8,The Dawnbreaker,2024-10-24T09:42:43.000Z,1578021,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿蓝丶,Shaman,Enhancement,dps,Gul'dan
+119,287.2,302454779,8,The Dawnbreaker,2024-10-24T09:42:43.000Z,1578021,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Pinkyairon,Demon Hunter,Vengeance,tank,Isillien
+119,287.2,302454779,8,The Dawnbreaker,2024-10-24T09:42:43.000Z,1578021,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",认真男孩,Shaman,Elemental,dps,Rhonin
+119,287.2,302454779,8,The Dawnbreaker,2024-10-24T09:42:43.000Z,1578021,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Wolfruid,Druid,Restoration,healer,Silver Hand
+120,287.1,303800196,8,The Dawnbreaker,2024-10-30T05:59:39.000Z,1583353,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",血肉果汁机,Paladin,Protection,tank,Eldre'Thalas
+120,287.1,303800196,8,The Dawnbreaker,2024-10-30T05:59:39.000Z,1583353,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",戴哈德曼,Hunter,Beast Mastery,dps,Silver Hand
+120,287.1,303800196,8,The Dawnbreaker,2024-10-30T05:59:39.000Z,1583353,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",酷酷的邵道,Death Knight,Frost,dps,Silver Hand
+120,287.1,303800196,8,The Dawnbreaker,2024-10-30T05:59:39.000Z,1583353,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",索伦,Paladin,Retribution,dps,Dream Bough
+120,287.1,303800196,8,The Dawnbreaker,2024-10-30T05:59:39.000Z,1583353,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",太阳神之翼,Priest,Holy,healer,Doomwalker
+121,287,303388982,8,The Dawnbreaker,2024-10-28T08:57:29.000Z,1587688,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",扎鲁特二锅头,Druid,Guardian,tank,Grim Batol
+121,287,303388982,8,The Dawnbreaker,2024-10-28T08:57:29.000Z,1587688,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",噗噗的萨满,Shaman,Elemental,dps,Grim Batol
+121,287,303388982,8,The Dawnbreaker,2024-10-28T08:57:29.000Z,1587688,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",五里营愣头青,Evoker,Preservation,healer,Grim Batol
+121,287,303388982,8,The Dawnbreaker,2024-10-28T08:57:29.000Z,1587688,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",喂你吃妞妞,Paladin,Retribution,dps,Grim Batol
+121,287,303388982,8,The Dawnbreaker,2024-10-28T08:57:29.000Z,1587688,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",孙小贱丶,Hunter,Survival,dps,Isillien
+122,285.9,303428140,8,The Dawnbreaker,2024-10-28T16:04:50.000Z,1642088,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小蓝饼,Druid,Balance,dps,Deathwing
+122,285.9,303428140,8,The Dawnbreaker,2024-10-28T16:04:50.000Z,1642088,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",集火这个帅哥,Shaman,Elemental,dps,Grim Batol
+122,285.9,303428140,8,The Dawnbreaker,2024-10-28T16:04:50.000Z,1642088,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Zhkhadgar,Mage,Frost,dps,Anzu
+122,285.9,303428140,8,The Dawnbreaker,2024-10-28T16:04:50.000Z,1642088,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱球弹,Paladin,Holy,healer,The Great Sea
+122,285.9,303428140,8,The Dawnbreaker,2024-10-28T16:04:50.000Z,1642088,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",别和版本较劲,Warrior,Protection,tank,Gadgetzan
+123,285.6,302627661,8,The Dawnbreaker,2024-10-25T06:19:50.000Z,1657345,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",读书哥,Shaman,Restoration,healer,Isillien
+123,285.6,302627661,8,The Dawnbreaker,2024-10-25T06:19:50.000Z,1657345,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小小月蝶,Shaman,Enhancement,dps,Nozdormu
+123,285.6,302627661,8,The Dawnbreaker,2024-10-25T06:19:50.000Z,1657345,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",肥手大脚怪,Paladin,Protection,tank,Shadowmourne
+123,285.6,302627661,8,The Dawnbreaker,2024-10-25T06:19:50.000Z,1657345,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",唐弥弥,Mage,Frost,dps,Blanchard
+123,285.6,302627661,8,The Dawnbreaker,2024-10-25T06:19:50.000Z,1657345,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",开的新飞机,Demon Hunter,Havoc,dps,Nozdormu
+124,285.5,303586444,8,The Dawnbreaker,2024-10-29T06:17:20.000Z,1667092,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",海盐烤肉,Druid,Balance,dps,Rhonin
+124,285.5,303586444,8,The Dawnbreaker,2024-10-29T06:17:20.000Z,1667092,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",血肉果汁机,Paladin,Protection,tank,Eldre'Thalas
+124,285.5,303586444,8,The Dawnbreaker,2024-10-29T06:17:20.000Z,1667092,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",皇的保护罩,Death Knight,Frost,dps,The Great Sea
+124,285.5,303586444,8,The Dawnbreaker,2024-10-29T06:17:20.000Z,1667092,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冷肃赎,Shaman,Elemental,dps,Lightning's Blade
+124,285.5,303586444,8,The Dawnbreaker,2024-10-29T06:17:20.000Z,1667092,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小拾陆,Monk,Mistweaver,healer,Silver Hand
+125,285.3,302688738,8,The Dawnbreaker,2024-10-25T16:08:04.000Z,1675336,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",梦魇德,Demon Hunter,Vengeance,tank,Well of Eternity
+125,285.3,302688738,8,The Dawnbreaker,2024-10-25T16:08:04.000Z,1675336,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花葵丶,Priest,Holy,healer,Deathwing
+125,285.3,302688738,8,The Dawnbreaker,2024-10-25T16:08:04.000Z,1675336,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",落花丶凉柒,Priest,Shadow,dps,Frostmourne
+125,285.3,302688738,8,The Dawnbreaker,2024-10-25T16:08:04.000Z,1675336,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风伊人,Shaman,Elemental,dps,Onyxia
+125,285.3,302688738,8,The Dawnbreaker,2024-10-25T16:08:04.000Z,1675336,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",芝士火龙果,Death Knight,Frost,dps,Chillwind Point
+126,285,302480475,8,The Dawnbreaker,2024-10-24T14:02:32.000Z,1690913,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苁茏,Death Knight,Frost,dps,Grim Batol
+126,285,302480475,8,The Dawnbreaker,2024-10-24T14:02:32.000Z,1690913,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",扑哧哧打次,Demon Hunter,Vengeance,tank,Grim Batol
+126,285,302480475,8,The Dawnbreaker,2024-10-24T14:02:32.000Z,1690913,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+126,285,302480475,8,The Dawnbreaker,2024-10-24T14:02:32.000Z,1690913,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",噗噗的萨满,Shaman,Elemental,dps,Grim Batol
+126,285,302480475,8,The Dawnbreaker,2024-10-24T14:02:32.000Z,1690913,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",短门先生,Evoker,Augmentation,dps,Grim Batol
+127,284.3,303191596,8,The Dawnbreaker,2024-10-27T14:25:09.000Z,1728697,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雨落溪山,Druid,Restoration,healer,Al'ar
+127,284.3,303191596,8,The Dawnbreaker,2024-10-27T14:25:09.000Z,1728697,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",拼命三娘,Monk,Brewmaster,tank,Kel'Thuzad
+127,284.3,303191596,8,The Dawnbreaker,2024-10-27T14:25:09.000Z,1728697,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rain,Rogue,Outlaw,dps,Kel'Thuzad
+127,284.3,303191596,8,The Dawnbreaker,2024-10-27T14:25:09.000Z,1728697,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",捏捏貓尾巴丶,Paladin,Retribution,dps,Shadowmourne
+127,284.3,303191596,8,The Dawnbreaker,2024-10-27T14:25:09.000Z,1728697,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",放开那姬居,Paladin,Retribution,dps,Deathwing
+128,283.6,303595696,8,The Dawnbreaker,2024-10-29T08:24:42.000Z,1764505,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",那曾是我的梦,Warrior,Protection,tank,Frostmourne
+128,283.6,303595696,8,The Dawnbreaker,2024-10-29T08:24:42.000Z,1764505,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",泽北荣治灬,Priest,Discipline,healer,Al'ar
+128,283.6,303595696,8,The Dawnbreaker,2024-10-29T08:24:42.000Z,1764505,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",又来调皮了,Rogue,Assassination,dps,Warsong
+128,283.6,303595696,8,The Dawnbreaker,2024-10-29T08:24:42.000Z,1764505,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",伊茗,Paladin,Retribution,dps,Kil'jaeden
+128,283.6,303595696,8,The Dawnbreaker,2024-10-29T08:24:42.000Z,1764505,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Onlytwentycm,Mage,Frost,dps,Silver Hand
+129,283.2,303601224,8,The Dawnbreaker,2024-10-29T09:50:55.000Z,1783214,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣骑玖伍贰柒,Paladin,Retribution,dps,Medivh
+129,283.2,303601224,8,The Dawnbreaker,2024-10-29T09:50:55.000Z,1783214,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冷酷的热狗,Druid,Restoration,healer,Nozdormu
+129,283.2,303601224,8,The Dawnbreaker,2024-10-29T09:50:55.000Z,1783214,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Gulaorouqs,Paladin,Protection,tank,Burning Blade
+129,283.2,303601224,8,The Dawnbreaker,2024-10-29T09:50:55.000Z,1783214,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",母老虎康丶,Mage,Frost,dps,The Master's Glaive
+129,283.2,303601224,8,The Dawnbreaker,2024-10-29T09:50:55.000Z,1783214,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",钟的反方向,Hunter,Marksmanship,dps,Brutallus
+130,283.1,303870743,8,The Dawnbreaker,2024-10-30T17:33:06.000Z,1788664,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老天师丶,Monk,Brewmaster,tank,Chillwind Point
+130,283.1,303870743,8,The Dawnbreaker,2024-10-30T17:33:06.000Z,1788664,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Shamanchano,Shaman,Enhancement,dps,Valley of Kings
+130,283.1,303870743,8,The Dawnbreaker,2024-10-30T17:33:06.000Z,1788664,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",As,Shaman,Enhancement,dps,Chillwind Point
+130,283.1,303870743,8,The Dawnbreaker,2024-10-30T17:33:06.000Z,1788664,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无之德,Druid,Balance,dps,Blanchard
+130,283.1,303870743,8,The Dawnbreaker,2024-10-30T17:33:06.000Z,1788664,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小皮球球丷,Priest,Discipline,healer,Burning Blade
+131,282.7,303168989,8,The Dawnbreaker,2024-10-27T12:15:35.000Z,1809821,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+131,282.7,303168989,8,The Dawnbreaker,2024-10-27T12:15:35.000Z,1809821,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",绘春日,Paladin,Retribution,dps,Shadowmourne
+131,282.7,303168989,8,The Dawnbreaker,2024-10-27T12:15:35.000Z,1809821,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ljz,Rogue,Assassination,dps,Swiftwind
+131,282.7,303168989,8,The Dawnbreaker,2024-10-27T12:15:35.000Z,1809821,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星光的祈愿,Evoker,Augmentation,dps,Swiftwind
+131,282.7,303168989,8,The Dawnbreaker,2024-10-27T12:15:35.000Z,1809821,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",枫曳,Shaman,Restoration,healer,Valley of Kings
+132,282.4,303580682,8,The Dawnbreaker,2024-10-29T05:43:33.000Z,1824102,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",海盐烤肉,Druid,Balance,dps,Rhonin
+132,282.4,303580682,8,The Dawnbreaker,2024-10-29T05:43:33.000Z,1824102,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",女王神仙鱼,Mage,Frost,dps,Deathwing
+132,282.4,303580682,8,The Dawnbreaker,2024-10-29T05:43:33.000Z,1824102,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",血肉果汁机,Paladin,Protection,tank,Eldre'Thalas
+132,282.4,303580682,8,The Dawnbreaker,2024-10-29T05:43:33.000Z,1824102,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",皇的保护罩,Death Knight,Frost,dps,The Great Sea
+132,282.4,303580682,8,The Dawnbreaker,2024-10-29T05:43:33.000Z,1824102,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",限电拉闸,Shaman,Restoration,healer,Eldre'Thalas
+133,281.2,303158664,8,The Dawnbreaker,2024-10-27T11:14:18.000Z,1889585,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Xiwa,Death Knight,Blood,tank,Silver Hand
+133,281.2,303158664,8,The Dawnbreaker,2024-10-27T11:14:18.000Z,1889585,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",醉血色,Death Knight,Unholy,dps,Malygos
+133,281.2,303158664,8,The Dawnbreaker,2024-10-27T11:14:18.000Z,1889585,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿花,Mage,Frost,dps,Deathwing
+133,281.2,303158664,8,The Dawnbreaker,2024-10-27T11:14:18.000Z,1889585,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",头晕是正常的,Rogue,Assassination,dps,Bleeding Hollow
+133,281.2,303158664,8,The Dawnbreaker,2024-10-27T11:14:18.000Z,1889585,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",红莲骑士兽,Monk,Mistweaver,healer,Bleeding Hollow
+134,280.8,302510858,8,The Dawnbreaker,2024-10-24T17:26:16.000Z,1907202,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",东乡一二三,Hunter,Beast Mastery,dps,Scarlet Crusade
+134,280.8,302510858,8,The Dawnbreaker,2024-10-24T17:26:16.000Z,1907202,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",闪光的亚丝娜,Paladin,Protection,tank,Shadowmourne
+134,280.8,302510858,8,The Dawnbreaker,2024-10-24T17:26:16.000Z,1907202,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬夜丿丶天陨,Warrior,Fury,dps,Gorefiend
+134,280.8,302510858,8,The Dawnbreaker,2024-10-24T17:26:16.000Z,1907202,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",提里奥弗丙,Paladin,Retribution,dps,Blanchard
+134,280.8,302510858,8,The Dawnbreaker,2024-10-24T17:26:16.000Z,1907202,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",红白二色蝶,Shaman,Restoration,healer,Bronzebeard
+135,280.8,302508260,8,The Dawnbreaker,2024-10-24T16:21:10.000Z,1911738,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",江湖传说氤氤,Paladin,Holy,healer,Theramore
+135,280.8,302508260,8,The Dawnbreaker,2024-10-24T16:21:10.000Z,1911738,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一口一个丸酱,Evoker,Devastation,dps,Echo Ridge
+135,280.8,302508260,8,The Dawnbreaker,2024-10-24T16:21:10.000Z,1911738,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大西亚玖璃,Death Knight,Blood,tank,Frostmane
+135,280.8,302508260,8,The Dawnbreaker,2024-10-24T16:21:10.000Z,1911738,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",白菜不好吃,Shaman,Elemental,dps,Bloodscalp
+135,280.8,302508260,8,The Dawnbreaker,2024-10-24T16:21:10.000Z,1911738,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",荆棘约尔,Paladin,Retribution,dps,Darkspear
+136,280,304212710,7,The Dawnbreaker,2024-10-27T10:10:52.000Z,998621,1860999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小只大萌德,Druid,Balance,dps,Ravencrest
+136,280,304212710,7,The Dawnbreaker,2024-10-27T10:10:52.000Z,998621,1860999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣圣月,Paladin,Protection,tank,Well of Eternity
+136,280,304212710,7,The Dawnbreaker,2024-10-27T10:10:52.000Z,998621,1860999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",高槻泉,Shaman,Elemental,dps,Well of Eternity
+136,280,304212710,7,The Dawnbreaker,2024-10-27T10:10:52.000Z,998621,1860999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",残月雨林,Druid,Restoration,healer,Well of Eternity
+136,280,304212710,7,The Dawnbreaker,2024-10-27T10:10:52.000Z,998621,1860999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龙龙飞,Evoker,Augmentation,dps,Ravencrest
+137,280,303615360,7,The Dawnbreaker,2024-10-29T10:58:01.000Z,1148573,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶小土豆,Paladin,Retribution,dps,Dream Bough
+137,280,303615360,7,The Dawnbreaker,2024-10-29T10:58:01.000Z,1148573,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超气人衮衮酱,Druid,Guardian,tank,Pandaren
+137,280,303615360,7,The Dawnbreaker,2024-10-29T10:58:01.000Z,1148573,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小豆芽丶,Druid,Restoration,healer,Dream Bough
+137,280,303615360,7,The Dawnbreaker,2024-10-29T10:58:01.000Z,1148573,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",人间丶第一流,Death Knight,Unholy,dps,Anzu
+137,280,303615360,7,The Dawnbreaker,2024-10-29T10:58:01.000Z,1148573,1950999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",箭挽春秋,Hunter,Marksmanship,dps,Alterac Mountains
+138,278.3,303830964,7,The Dawnbreaker,2024-10-30T12:27:16.000Z,1256609,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",随风灬暗影,Rogue,Assassination,dps,The Master's Glaive
+138,278.3,303830964,7,The Dawnbreaker,2024-10-30T12:27:16.000Z,1256609,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",格里恩神牧,Paladin,Protection,tank,Silver Hand
+138,278.3,303830964,7,The Dawnbreaker,2024-10-30T12:27:16.000Z,1256609,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Acerola,Paladin,Retribution,dps,Doomwalker
+138,278.3,303830964,7,The Dawnbreaker,2024-10-30T12:27:16.000Z,1256609,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",耐力奶泡泡,Paladin,Holy,healer,Doomwalker
+138,278.3,303830964,7,The Dawnbreaker,2024-10-30T12:27:16.000Z,1256609,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无敌丨小牛,Druid,Balance,dps,Dreadmist Peak
+139,278.3,303831685,7,The Dawnbreaker,2024-10-30T12:34:58.000Z,1261483,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",嗳的流殇,Mage,Arcane,dps,Rangers
+139,278.3,303831685,7,The Dawnbreaker,2024-10-30T12:34:58.000Z,1261483,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",情侣雨夜毛衣,Monk,Brewmaster,tank,Deathwing
+139,278.3,303831685,7,The Dawnbreaker,2024-10-30T12:34:58.000Z,1261483,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",笑一下蒜了,Paladin,Retribution,dps,Silver Hand
+139,278.3,303831685,7,The Dawnbreaker,2024-10-30T12:34:58.000Z,1261483,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",向心引力,Priest,Discipline,healer,Silver Hand
+139,278.3,303831685,7,The Dawnbreaker,2024-10-30T12:34:58.000Z,1261483,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天穹之主,Rogue,Assassination,dps,Crushridge
+140,276.3,303636887,7,The Dawnbreaker,2024-10-29T14:19:03.000Z,1362899,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",手刃降服最强,Paladin,Retribution,dps,Thunder Bluff
+140,276.3,303636887,7,The Dawnbreaker,2024-10-29T14:19:03.000Z,1362899,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",迪露兽,Druid,Restoration,healer,Scarlet Crusade
+140,276.3,303636887,7,The Dawnbreaker,2024-10-29T14:19:03.000Z,1362899,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丿湛蓝丶,Mage,Frost,dps,Echo Ridge
+140,276.3,303636887,7,The Dawnbreaker,2024-10-29T14:19:03.000Z,1362899,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天霾,Priest,Shadow,dps,Al'ar
+140,276.3,303636887,7,The Dawnbreaker,2024-10-29T14:19:03.000Z,1362899,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",擦博离,Warrior,Protection,tank,Scarlet Crusade
+141,275.5,303827846,7,The Dawnbreaker,2024-10-30T11:53:03.000Z,1403754,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我要看小汽车,Death Knight,Blood,tank,Deathwing
+141,275.5,303827846,7,The Dawnbreaker,2024-10-30T11:53:03.000Z,1403754,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夜笙,Rogue,Assassination,dps,Shadowmourne
+141,275.5,303827846,7,The Dawnbreaker,2024-10-30T11:53:03.000Z,1403754,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",脆脆的,Paladin,Retribution,dps,Chillwind Point
+141,275.5,303827846,7,The Dawnbreaker,2024-10-30T11:53:03.000Z,1403754,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蓝茶,Shaman,Restoration,healer,Pandaren
+141,275.5,303827846,7,The Dawnbreaker,2024-10-30T11:53:03.000Z,1403754,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卞钛,Mage,Frost,dps,Abbendis
+142,275.4,303398957,7,The Dawnbreaker,2024-10-28T11:04:59.000Z,1407586,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",咕咕乌冬,Druid,Restoration,healer,Deathwing
+142,275.4,303398957,7,The Dawnbreaker,2024-10-28T11:04:59.000Z,1407586,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夜殇之子,Death Knight,Unholy,dps,Deathwing
+142,275.4,303398957,7,The Dawnbreaker,2024-10-28T11:04:59.000Z,1407586,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",猪猪爱玩火,Mage,Frost,dps,Al'ar
+142,275.4,303398957,7,The Dawnbreaker,2024-10-28T11:04:59.000Z,1407586,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暗黑摸包仔,Demon Hunter,Havoc,dps,World Tree
+142,275.4,303398957,7,The Dawnbreaker,2024-10-28T11:04:59.000Z,1407586,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",虎熊熊,Paladin,Protection,tank,Al'ar
+143,275.4,303205346,7,The Dawnbreaker,2024-10-27T15:49:35.000Z,1407603,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",耐力小绵绵,Druid,Restoration,healer,Doomwalker
+143,275.4,303205346,7,The Dawnbreaker,2024-10-27T15:49:35.000Z,1407603,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",格里恩神牧,Paladin,Protection,tank,Silver Hand
+143,275.4,303205346,7,The Dawnbreaker,2024-10-27T15:49:35.000Z,1407603,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小鸡足疗,Evoker,Devastation,dps,Silver Hand
+143,275.4,303205346,7,The Dawnbreaker,2024-10-27T15:49:35.000Z,1407603,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Acerola,Paladin,Retribution,dps,Doomwalker
+143,275.4,303205346,7,The Dawnbreaker,2024-10-27T15:49:35.000Z,1407603,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",闪电椰子鸡,Shaman,Enhancement,dps,Silver Hand
+144,275.2,302877589,7,The Dawnbreaker,2024-10-26T09:04:22.000Z,1418486,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",薄樱,Demon Hunter,Vengeance,tank,Al'ar
+144,275.2,302877589,7,The Dawnbreaker,2024-10-26T09:04:22.000Z,1418486,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",有猫有狗,Death Knight,Frost,dps,Rhonin
+144,275.2,302877589,7,The Dawnbreaker,2024-10-26T09:04:22.000Z,1418486,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一高手一,Rogue,Assassination,dps,Rhonin
+144,275.2,302877589,7,The Dawnbreaker,2024-10-26T09:04:22.000Z,1418486,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星空追猎,Hunter,Marksmanship,dps,Guardian Blade
+144,275.2,302877589,7,The Dawnbreaker,2024-10-26T09:04:22.000Z,1418486,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星喵人,Shaman,Restoration,healer,Well of Eternity
+145,275.2,303783931,7,The Dawnbreaker,2024-10-30T03:52:20.000Z,1421573,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",酸梅汁丶,Paladin,Retribution,dps,Isillien
+145,275.2,303783931,7,The Dawnbreaker,2024-10-30T03:52:20.000Z,1421573,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",别丿怂丿啊,Warrior,Protection,tank,Al'ar
+145,275.2,303783931,7,The Dawnbreaker,2024-10-30T03:52:20.000Z,1421573,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Hivepp,Shaman,Restoration,healer,Al'ar
+145,275.2,303783931,7,The Dawnbreaker,2024-10-30T03:52:20.000Z,1421573,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",马尔科队长,Warlock,Destruction,dps,Dreadmist Peak
+145,275.2,303783931,7,The Dawnbreaker,2024-10-30T03:52:20.000Z,1421573,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",羞涩的疯丶,Shaman,Elemental,dps,Anzu
+146,274.9,303000831,7,The Dawnbreaker,2024-10-26T19:39:11.000Z,1433849,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+146,274.9,303000831,7,The Dawnbreaker,2024-10-26T19:39:11.000Z,1433849,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",永和里刀神,Paladin,Retribution,dps,Scarlet Crusade
+146,274.9,303000831,7,The Dawnbreaker,2024-10-26T19:39:11.000Z,1433849,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",黑锋布,Death Knight,Unholy,dps,Kel'Thuzad
+146,274.9,303000831,7,The Dawnbreaker,2024-10-26T19:39:11.000Z,1433849,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",倾国倾橙,Paladin,Protection,tank,Kel'Thuzad
+146,274.9,303000831,7,The Dawnbreaker,2024-10-26T19:39:11.000Z,1433849,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",朽木露琪亞,Shaman,Restoration,healer,Kel'Thuzad
+147,274.9,302952613,7,The Dawnbreaker,2024-10-26T15:58:51.000Z,1434463,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",原子核可乐,Shaman,Restoration,healer,Pandaren
+147,274.9,302952613,7,The Dawnbreaker,2024-10-26T15:58:51.000Z,1434463,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",法力药水,Mage,Frost,dps,Lich King
+147,274.9,302952613,7,The Dawnbreaker,2024-10-26T15:58:51.000Z,1434463,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尾小尾,Paladin,Protection,tank,Pandaren
+147,274.9,302952613,7,The Dawnbreaker,2024-10-26T15:58:51.000Z,1434463,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卢本熊,Hunter,Beast Mastery,dps,Pandaren
+147,274.9,302952613,7,The Dawnbreaker,2024-10-26T15:58:51.000Z,1434463,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",摸摸唱大师,Druid,Balance,dps,Deathwing
+148,274.9,303586881,7,The Dawnbreaker,2024-10-29T06:24:56.000Z,1438174,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",格里恩神牧,Paladin,Protection,tank,Silver Hand
+148,274.9,303586881,7,The Dawnbreaker,2024-10-29T06:24:56.000Z,1438174,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",耐力奶泡泡,Paladin,Holy,healer,Doomwalker
+148,274.9,303586881,7,The Dawnbreaker,2024-10-29T06:24:56.000Z,1438174,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",李丶开心,Mage,Frost,dps,Doomwalker
+148,274.9,303586881,7,The Dawnbreaker,2024-10-29T06:24:56.000Z,1438174,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",斗帝萧炎,Paladin,Retribution,dps,The Master's Glaive
+148,274.9,303586881,7,The Dawnbreaker,2024-10-29T06:24:56.000Z,1438174,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",杀戮狂暴,Death Knight,Frost,dps,Azuregos
+149,274.8,302697016,7,The Dawnbreaker,2024-10-25T17:58:16.000Z,1439354,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玉米卷儿,Shaman,Restoration,healer,Doomwalker
+149,274.8,302697016,7,The Dawnbreaker,2024-10-25T17:58:16.000Z,1439354,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",佳莉丶,Paladin,Retribution,dps,Doomwalker
+149,274.8,302697016,7,The Dawnbreaker,2024-10-25T17:58:16.000Z,1439354,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",东方星辰,Warrior,Protection,tank,Doomwalker
+149,274.8,302697016,7,The Dawnbreaker,2024-10-25T17:58:16.000Z,1439354,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",了了萌,Shaman,Elemental,dps,Tirisfal Glades
+149,274.8,302697016,7,The Dawnbreaker,2024-10-25T17:58:16.000Z,1439354,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",憨憨牛小萨,Shaman,Enhancement,dps,Deathwing
+150,274.3,302983943,7,The Dawnbreaker,2024-10-26T18:14:32.000Z,1465558,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+150,274.3,302983943,7,The Dawnbreaker,2024-10-26T18:14:32.000Z,1465558,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",好吃饺籽,Paladin,Retribution,dps,Frostmourne
+150,274.3,302983943,7,The Dawnbreaker,2024-10-26T18:14:32.000Z,1465558,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卡拉咪哈啦少,Paladin,Retribution,dps,Frostmourne
+150,274.3,302983943,7,The Dawnbreaker,2024-10-26T18:14:32.000Z,1465558,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",默之追猎者,Demon Hunter,Vengeance,tank,Anzu
+150,274.3,302983943,7,The Dawnbreaker,2024-10-26T18:14:32.000Z,1465558,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",她不在乎,Paladin,Holy,healer,Frostmourne
+151,273.8,303832247,7,The Dawnbreaker,2024-10-30T12:41:34.000Z,1495508,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",终焉的宇宙,Rogue,Assassination,dps,Burning Blade
+151,273.8,303832247,7,The Dawnbreaker,2024-10-30T12:41:34.000Z,1495508,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",饮者留名,Monk,Mistweaver,healer,Swiftwind
+151,273.8,303832247,7,The Dawnbreaker,2024-10-30T12:41:34.000Z,1495508,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨真爱长情丶,Hunter,Survival,dps,Isillien
+151,273.8,303832247,7,The Dawnbreaker,2024-10-30T12:41:34.000Z,1495508,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天神赤人,Warlock,Destruction,dps,Burning Blade
+151,273.8,303832247,7,The Dawnbreaker,2024-10-30T12:41:34.000Z,1495508,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",姿态者,Warrior,Protection,tank,Burning Blade
+152,273.1,302975396,7,The Dawnbreaker,2024-10-26T17:44:18.000Z,1528487,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",年华之月,Warrior,Protection,tank,Deathwing
+152,273.1,302975396,7,The Dawnbreaker,2024-10-26T17:44:18.000Z,1528487,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凌云之霜,Evoker,Augmentation,dps,Deathwing
+152,273.1,302975396,7,The Dawnbreaker,2024-10-26T17:44:18.000Z,1528487,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+152,273.1,302975396,7,The Dawnbreaker,2024-10-26T17:44:18.000Z,1528487,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",若把你比作歌,Death Knight,Frost,dps,Chillwind Point
+152,273.1,302975396,7,The Dawnbreaker,2024-10-26T17:44:18.000Z,1528487,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",司马念夏,Priest,Discipline,healer,Deathwing
+153,272.3,302962878,7,The Dawnbreaker,2024-10-26T17:24:15.000Z,1569724,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",兔剑秋丶,Death Knight,Frost,dps,Burning Blade
+153,272.3,302962878,7,The Dawnbreaker,2024-10-26T17:24:15.000Z,1569724,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",青山同云雨,Mage,Frost,dps,Rhonin
+153,272.3,302962878,7,The Dawnbreaker,2024-10-26T17:24:15.000Z,1569724,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",遊戲王,Warrior,Protection,tank,Rhonin
+153,272.3,302962878,7,The Dawnbreaker,2024-10-26T17:24:15.000Z,1569724,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凡凡大傻狗,Evoker,Preservation,healer,Burning Blade
+153,272.3,302962878,7,The Dawnbreaker,2024-10-26T17:24:15.000Z,1569724,1950999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手蓝莓,Paladin,Protection,tank,Rhonin
+154,271.3,302816611,7,The Dawnbreaker,2024-10-26T01:01:39.000Z,1623234,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爆炒小白菜,Druid,Balance,dps,Barrens
+154,271.3,302816611,7,The Dawnbreaker,2024-10-26T01:01:39.000Z,1623234,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",迪露兽,Druid,Restoration,healer,Scarlet Crusade
+154,271.3,302816611,7,The Dawnbreaker,2024-10-26T01:01:39.000Z,1623234,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",基尔达斯,Warrior,Protection,tank,Rivendare
+154,271.3,302816611,7,The Dawnbreaker,2024-10-26T01:01:39.000Z,1623234,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",恒大冰泉水,Paladin,Retribution,dps,Al'ar
+154,271.3,302816611,7,The Dawnbreaker,2024-10-26T01:01:39.000Z,1623234,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暗焰流光,Shaman,Elemental,dps,Pandaren
+155,268.2,303393052,7,The Dawnbreaker,2024-10-28T10:03:00.000Z,1782728,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",万恶的杀猪刀,Shaman,Elemental,dps,Al'ar
+155,268.2,303393052,7,The Dawnbreaker,2024-10-28T10:03:00.000Z,1782728,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",呲花丶,Shaman,Restoration,healer,Blanchard
+155,268.2,303393052,7,The Dawnbreaker,2024-10-28T10:03:00.000Z,1782728,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Thetrue,Rogue,Assassination,dps,Burning Blade
+155,268.2,303393052,7,The Dawnbreaker,2024-10-28T10:03:00.000Z,1782728,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",塔岚图拉,Warrior,Protection,tank,Deathwing
+155,268.2,303393052,7,The Dawnbreaker,2024-10-28T10:03:00.000Z,1782728,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Meannin,Paladin,Retribution,dps,Barrens
+156,266.8,303143066,7,The Dawnbreaker,2024-10-27T09:30:17.000Z,1859313,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",级乐女巫,Mage,Frost,dps,Eonar
+156,266.8,303143066,7,The Dawnbreaker,2024-10-27T09:30:17.000Z,1859313,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Nades,Warrior,Fury,dps,Deathwing
+156,266.8,303143066,7,The Dawnbreaker,2024-10-27T09:30:17.000Z,1859313,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",粉色蠢比,Paladin,Protection,tank,Chillwind Point
+156,266.8,303143066,7,The Dawnbreaker,2024-10-27T09:30:17.000Z,1859313,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",布德行丶,Druid,Restoration,healer,Chillwind Point
+156,266.8,303143066,7,The Dawnbreaker,2024-10-27T09:30:17.000Z,1859313,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",第二巴图鲁,Hunter,Marksmanship,dps,Al'ar
+157,266.7,302868194,7,The Dawnbreaker,2024-10-26T07:40:59.000Z,1861774,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叫我饶哥,Monk,Mistweaver,healer,Rhonin
+157,266.7,302868194,7,The Dawnbreaker,2024-10-26T07:40:59.000Z,1861774,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨鬼姬蟹蟹丨,Death Knight,Unholy,dps,Frostmourne
+157,266.7,302868194,7,The Dawnbreaker,2024-10-26T07:40:59.000Z,1861774,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夜小黑,Demon Hunter,Havoc,dps,Frostmourne
+157,266.7,302868194,7,The Dawnbreaker,2024-10-26T07:40:59.000Z,1861774,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",遗忘的牛狼,Warrior,Fury,dps,Skywall
+157,266.7,302868194,7,The Dawnbreaker,2024-10-26T07:40:59.000Z,1861774,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",李青莲,Paladin,Protection,tank,Barrens
+158,266,303219439,7,The Dawnbreaker,2024-10-27T16:26:40.000Z,1897247,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小鬼的记忆,Shaman,Elemental,dps,Ashenvale
+158,266,303219439,7,The Dawnbreaker,2024-10-27T16:26:40.000Z,1897247,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",嫉妒,Death Knight,Blood,tank,Ashenvale
+158,266,303219439,7,The Dawnbreaker,2024-10-27T16:26:40.000Z,1897247,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",莫忆莫惜,Shaman,Restoration,healer,Hearthglen
+158,266,303219439,7,The Dawnbreaker,2024-10-27T16:26:40.000Z,1897247,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",弹弓弹啊弹,Hunter,Beast Mastery,dps,Ashenvale
+158,266,303219439,7,The Dawnbreaker,2024-10-27T16:26:40.000Z,1897247,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一莉莉尔一,Paladin,Retribution,dps,Ashenvale
+159,265.8,303640223,7,The Dawnbreaker,2024-10-29T14:47:41.000Z,1909755,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",溫西尔奶骑,Paladin,Holy,healer,Deathwing
+159,265.8,303640223,7,The Dawnbreaker,2024-10-29T14:47:41.000Z,1909755,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",恶魔豹君,Warlock,Destruction,dps,Echo Ridge
+159,265.8,303640223,7,The Dawnbreaker,2024-10-29T14:47:41.000Z,1909755,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",豹豹西瓜冰,Death Knight,Blood,tank,Echo Ridge
+159,265.8,303640223,7,The Dawnbreaker,2024-10-29T14:47:41.000Z,1909755,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",瓜瓜烧仙草,Paladin,Retribution,dps,Echo Ridge
+159,265.8,303640223,7,The Dawnbreaker,2024-10-29T14:47:41.000Z,1909755,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",淡黄色的花瓣,Rogue,Outlaw,dps,Echo Ridge
+160,265.7,303620063,7,The Dawnbreaker,2024-10-29T11:47:21.000Z,1912665,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ogul,Warrior,Arms,dps,Dragonblight
+160,265.7,303620063,7,The Dawnbreaker,2024-10-29T11:47:21.000Z,1912665,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",銼萘,Shaman,Restoration,healer,Frostmourne
+160,265.7,303620063,7,The Dawnbreaker,2024-10-29T11:47:21.000Z,1912665,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",姣姣白月,Hunter,Survival,dps,Holy Chanter
+160,265.7,303620063,7,The Dawnbreaker,2024-10-29T11:47:21.000Z,1912665,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",影语丶誓约,Death Knight,Blood,tank,Burning Blade
+160,265.7,303620063,7,The Dawnbreaker,2024-10-29T11:47:21.000Z,1912665,1950999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小蓝手玻璃渣,Death Knight,Frost,dps,Pandaren

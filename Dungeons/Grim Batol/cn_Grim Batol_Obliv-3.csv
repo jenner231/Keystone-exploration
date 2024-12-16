@@ -1,0 +1,81 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,193.7,296031062,3,Grim Batol,2024-09-28T07:44:52.000Z,1293761,2040999,2,Xal'atath's Bargain: Oblivion,少扯犊子,Hunter,Marksmanship,dps,The Great Sea
+1,193.7,296031062,3,Grim Batol,2024-09-28T07:44:52.000Z,1293761,2040999,2,Xal'atath's Bargain: Oblivion,懒咕,Paladin,Holy,healer,Grim Batol
+1,193.7,296031062,3,Grim Batol,2024-09-28T07:44:52.000Z,1293761,2040999,2,Xal'atath's Bargain: Oblivion,Fdqwer,Druid,Guardian,tank,Alterac Mountains
+1,193.7,296031062,3,Grim Batol,2024-09-28T07:44:52.000Z,1293761,2040999,2,Xal'atath's Bargain: Oblivion,星楼,Death Knight,Frost,dps,Alterac Mountains
+1,193.7,296031062,3,Grim Batol,2024-09-28T07:44:52.000Z,1293761,2040999,2,Xal'atath's Bargain: Oblivion,贝尔翰特,Rogue,Assassination,dps,Deathwing
+2,180,308453167,2,Grim Batol,2024-11-21T17:16:32.000Z,765705,2040999,3,Xal'atath's Bargain: Oblivion,工口娜,Rogue,Assassination,dps,Al'ar
+2,180,308453167,2,Grim Batol,2024-11-21T17:16:32.000Z,765705,2040999,3,Xal'atath's Bargain: Oblivion,北十龙,Evoker,Devastation,dps,Eldre'Thalas
+2,180,308453167,2,Grim Batol,2024-11-21T17:16:32.000Z,765705,2040999,3,Xal'atath's Bargain: Oblivion,小小晓晓米丶,Shaman,Restoration,healer,Aszune
+2,180,308453167,2,Grim Batol,2024-11-21T17:16:32.000Z,765705,2040999,3,Xal'atath's Bargain: Oblivion,按摩大脑,Paladin,Protection,tank,Al'ar
+2,180,308453167,2,Grim Batol,2024-11-21T17:16:32.000Z,765705,2040999,3,Xal'atath's Bargain: Oblivion,向來緣淺,Warrior,Fury,dps,Lich King
+3,180,301576308,2,Grim Batol,2024-10-20T06:49:58.000Z,825509,2040999,3,Xal'atath's Bargain: Oblivion,Chint,Monk,Windwalker,dps,Pandaren
+3,180,301576308,2,Grim Batol,2024-10-20T06:49:58.000Z,825509,2040999,3,Xal'atath's Bargain: Oblivion,Chfzy,Shaman,Restoration,healer,Pandaren
+3,180,301576308,2,Grim Batol,2024-10-20T06:49:58.000Z,825509,2040999,3,Xal'atath's Bargain: Oblivion,手术前的哀思,Death Knight,Blood,tank,Pandaren
+3,180,301576308,2,Grim Batol,2024-10-20T06:49:58.000Z,825509,2040999,3,Xal'atath's Bargain: Oblivion,Sillygirll,Paladin,Retribution,dps,Burning Blade
+3,180,301576308,2,Grim Batol,2024-10-20T06:49:58.000Z,825509,2040999,3,Xal'atath's Bargain: Oblivion,瑶锦瑞,Mage,Arcane,dps,Pandaren
+4,180,300869541,2,Grim Batol,2024-10-17T15:46:33.000Z,994538,2040999,3,Xal'atath's Bargain: Oblivion,萌萌的布偶喵,Paladin,Retribution,dps,Deathwing
+4,180,300869541,2,Grim Batol,2024-10-17T15:46:33.000Z,994538,2040999,3,Xal'atath's Bargain: Oblivion,加拉格尔,Shaman,Elemental,dps,Frostmourne
+4,180,300869541,2,Grim Batol,2024-10-17T15:46:33.000Z,994538,2040999,3,Xal'atath's Bargain: Oblivion,紫瞳大人,Shaman,Restoration,healer,Burning Blade
+4,180,300869541,2,Grim Batol,2024-10-17T15:46:33.000Z,994538,2040999,3,Xal'atath's Bargain: Oblivion,圣光灬凹凸曼,Paladin,Retribution,dps,Barrens
+4,180,300869541,2,Grim Batol,2024-10-17T15:46:33.000Z,994538,2040999,3,Xal'atath's Bargain: Oblivion,立于浮華之世,Demon Hunter,Vengeance,tank,Shadowmourne
+5,180,308412962,2,Grim Batol,2024-11-21T10:50:43.000Z,1015314,2040999,3,Xal'atath's Bargain: Oblivion,Dresde,Paladin,Protection,tank,Echo Ridge
+5,180,308412962,2,Grim Batol,2024-11-21T10:50:43.000Z,1015314,2040999,3,Xal'atath's Bargain: Oblivion,春日载阳,Hunter,Survival,dps,World Tree
+5,180,308412962,2,Grim Batol,2024-11-21T10:50:43.000Z,1015314,2040999,3,Xal'atath's Bargain: Oblivion,大耳朵狐狸,Priest,Discipline,healer,Alleria
+5,180,308412962,2,Grim Batol,2024-11-21T10:50:43.000Z,1015314,2040999,3,Xal'atath's Bargain: Oblivion,苍月丶潜水丶,Rogue,Assassination,dps,Grim Batol
+5,180,308412962,2,Grim Batol,2024-11-21T10:50:43.000Z,1015314,2040999,3,Xal'atath's Bargain: Oblivion,我精神有问题,Paladin,Retribution,dps,Chillwind Point
+6,180,296016438,2,Grim Batol,2024-09-28T06:11:47.000Z,1074673,2040999,3,Xal'atath's Bargain: Oblivion,傻幽,Mage,Fire,dps,Dreadmist Peak
+6,180,296016438,2,Grim Batol,2024-09-28T06:11:47.000Z,1074673,2040999,3,Xal'atath's Bargain: Oblivion,橙子超人,Druid,Guardian,tank,Barrens
+6,180,296016438,2,Grim Batol,2024-09-28T06:11:47.000Z,1074673,2040999,3,Xal'atath's Bargain: Oblivion,Playerbdypsk,Demon Hunter,Havoc,dps,Xavian
+6,180,296016438,2,Grim Batol,2024-09-28T06:11:47.000Z,1074673,2040999,3,Xal'atath's Bargain: Oblivion,白天数星星,Shaman,Restoration,healer,Barrens
+6,180,296016438,2,Grim Batol,2024-09-28T06:11:47.000Z,1074673,2040999,3,Xal'atath's Bargain: Oblivion,漫步风云,Death Knight,Frost,dps,Peak of Serenity
+7,180,301064314,2,Grim Batol,2024-10-18T11:40:40.000Z,1153362,2040999,3,Xal'atath's Bargain: Oblivion,Kstpala,Paladin,Retribution,dps,Galakrond
+7,180,301064314,2,Grim Batol,2024-10-18T11:40:40.000Z,1153362,2040999,3,Xal'atath's Bargain: Oblivion,网恋战神苏粤,Paladin,Protection,tank,Thunder Axe Fortress
+7,180,301064314,2,Grim Batol,2024-10-18T11:40:40.000Z,1153362,2040999,3,Xal'atath's Bargain: Oblivion,小小荷叶尖,Priest,Discipline,healer,Shadowmourne
+7,180,301064314,2,Grim Batol,2024-10-18T11:40:40.000Z,1153362,2040999,3,Xal'atath's Bargain: Oblivion,橘安娜,Mage,Frost,dps,Thunder Axe Fortress
+7,180,301064314,2,Grim Batol,2024-10-18T11:40:40.000Z,1153362,2040999,3,Xal'atath's Bargain: Oblivion,如有时光,Monk,Windwalker,dps,Silver Hand
+8,180,302124683,2,Grim Batol,2024-10-22T14:17:55.000Z,1194364,2040999,3,Xal'atath's Bargain: Oblivion,Lastdark,Warlock,Destruction,dps,Frostmane
+8,180,302124683,2,Grim Batol,2024-10-22T14:17:55.000Z,1194364,2040999,3,Xal'atath's Bargain: Oblivion,Yozi,Priest,Shadow,dps,The Great Sea
+8,180,302124683,2,Grim Batol,2024-10-22T14:17:55.000Z,1194364,2040999,3,Xal'atath's Bargain: Oblivion,Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+8,180,302124683,2,Grim Batol,2024-10-22T14:17:55.000Z,1194364,2040999,3,Xal'atath's Bargain: Oblivion,洒满斯窝,Shaman,Restoration,healer,Shadowmourne
+8,180,302124683,2,Grim Batol,2024-10-22T14:17:55.000Z,1194364,2040999,3,Xal'atath's Bargain: Oblivion,帮弄得噶发,Death Knight,Frost,dps,Scarlet Crusade
+9,179.6,301575122,2,Grim Batol,2024-10-20T06:24:49.000Z,1244669,2040999,2,Xal'atath's Bargain: Oblivion,沉鱼不好煮,Warlock,Destruction,dps,Rhonin
+9,179.6,301575122,2,Grim Batol,2024-10-20T06:24:49.000Z,1244669,2040999,2,Xal'atath's Bargain: Oblivion,兰斯阿洛,Paladin,Retribution,dps,Anzu
+9,179.6,301575122,2,Grim Batol,2024-10-20T06:24:49.000Z,1244669,2040999,2,Xal'atath's Bargain: Oblivion,锅果,Druid,Guardian,tank,Anzu
+9,179.6,301575122,2,Grim Batol,2024-10-20T06:24:49.000Z,1244669,2040999,2,Xal'atath's Bargain: Oblivion,口吐芬芳导师,Druid,Restoration,healer,Anzu
+9,179.6,301575122,2,Grim Batol,2024-10-20T06:24:49.000Z,1244669,2040999,2,Xal'atath's Bargain: Oblivion,傻满不傻,Shaman,Enhancement,dps,Anzu
+10,179.5,301648793,2,Grim Batol,2024-10-20T13:47:19.000Z,1253813,2040999,2,Xal'atath's Bargain: Oblivion,里见光钻,Paladin,Protection,tank,The Master's Glaive
+10,179.5,301648793,2,Grim Batol,2024-10-20T13:47:19.000Z,1253813,2040999,2,Xal'atath's Bargain: Oblivion,Coldheart,Shaman,Enhancement,dps,Pandaren
+10,179.5,301648793,2,Grim Batol,2024-10-20T13:47:19.000Z,1253813,2040999,2,Xal'atath's Bargain: Oblivion,拉姬兔,Warlock,Affliction,dps,The Forgotten Coast
+10,179.5,301648793,2,Grim Batol,2024-10-20T13:47:19.000Z,1253813,2040999,2,Xal'atath's Bargain: Oblivion,Givénchy,Shaman,Restoration,healer,Scarlet Crusade
+10,179.5,301648793,2,Grim Batol,2024-10-20T13:47:19.000Z,1253813,2040999,2,Xal'atath's Bargain: Oblivion,圣骑欧若拉,Paladin,Retribution,dps,Deathwing
+11,177.8,301080081,2,Grim Batol,2024-10-18T13:46:33.000Z,1344196,2040999,2,Xal'atath's Bargain: Oblivion,兰斯阿洛,Paladin,Retribution,dps,Anzu
+11,177.8,301080081,2,Grim Batol,2024-10-18T13:46:33.000Z,1344196,2040999,2,Xal'atath's Bargain: Oblivion,懒得卖萌,Hunter,Marksmanship,dps,Deathwing
+11,177.8,301080081,2,Grim Batol,2024-10-18T13:46:33.000Z,1344196,2040999,2,Xal'atath's Bargain: Oblivion,Gideonjura,Paladin,Retribution,dps,Moonglade
+11,177.8,301080081,2,Grim Batol,2024-10-18T13:46:33.000Z,1344196,2040999,2,Xal'atath's Bargain: Oblivion,锅果,Druid,Guardian,tank,Anzu
+11,177.8,301080081,2,Grim Batol,2024-10-18T13:46:33.000Z,1344196,2040999,2,Xal'atath's Bargain: Oblivion,丶涼風丶,Druid,Restoration,healer,Blanchard
+12,176.7,302062590,2,Grim Batol,2024-10-22T04:59:04.000Z,1401612,2040999,2,Xal'atath's Bargain: Oblivion,圣光会制裁妳,Paladin,Retribution,dps,Thunder Axe Fortress
+12,176.7,302062590,2,Grim Batol,2024-10-22T04:59:04.000Z,1401612,2040999,2,Xal'atath's Bargain: Oblivion,花裤衩灬卡沟,Warlock,Demonology,dps,Valley of Kings
+12,176.7,302062590,2,Grim Batol,2024-10-22T04:59:04.000Z,1401612,2040999,2,Xal'atath's Bargain: Oblivion,图腾丶木易,Shaman,Restoration,healer,Al'ar
+12,176.7,302062590,2,Grim Batol,2024-10-22T04:59:04.000Z,1401612,2040999,2,Xal'atath's Bargain: Oblivion,一颗柠檬君,Death Knight,Blood,tank,Isillien
+12,176.7,302062590,2,Grim Batol,2024-10-22T04:59:04.000Z,1401612,2040999,2,Xal'atath's Bargain: Oblivion,典韦灬,Warrior,Fury,dps,Kel'Thuzad
+13,176.4,309063454,2,Grim Batol,2024-11-25T09:45:49.000Z,1422113,2040999,2,Xal'atath's Bargain: Oblivion,双眼似月光,Demon Hunter,Vengeance,tank,Al'ar
+13,176.4,309063454,2,Grim Batol,2024-11-25T09:45:49.000Z,1422113,2040999,2,Xal'atath's Bargain: Oblivion,战斗牧约修亚,Priest,Discipline,healer,Silver Hand
+13,176.4,309063454,2,Grim Batol,2024-11-25T09:45:49.000Z,1422113,2040999,2,Xal'atath's Bargain: Oblivion,审判小鲜肉,Paladin,Retribution,dps,Rhonin
+13,176.4,309063454,2,Grim Batol,2024-11-25T09:45:49.000Z,1422113,2040999,2,Xal'atath's Bargain: Oblivion,超牛来了,Death Knight,Frost,dps,Dath'Remar
+13,176.4,309063454,2,Grim Batol,2024-11-25T09:45:49.000Z,1422113,2040999,2,Xal'atath's Bargain: Oblivion,吾去脱祂衣,Hunter,Beast Mastery,dps,Anzu
+14,174.8,308414080,2,Grim Batol,2024-11-21T11:03:55.000Z,1508941,2040999,2,Xal'atath's Bargain: Oblivion,Lullabye,Warlock,Destruction,dps,The Forgotten Coast
+14,174.8,308414080,2,Grim Batol,2024-11-21T11:03:55.000Z,1508941,2040999,2,Xal'atath's Bargain: Oblivion,大吉发,Demon Hunter,Vengeance,tank,Illidan
+14,174.8,308414080,2,Grim Batol,2024-11-21T11:03:55.000Z,1508941,2040999,2,Xal'atath's Bargain: Oblivion,宝友,Druid,Balance,dps,Shadowmourne
+14,174.8,308414080,2,Grim Batol,2024-11-21T11:03:55.000Z,1508941,2040999,2,Xal'atath's Bargain: Oblivion,俺们人多,Shaman,Restoration,healer,Deathwing
+14,174.8,308414080,2,Grim Batol,2024-11-21T11:03:55.000Z,1508941,2040999,2,Xal'atath's Bargain: Oblivion,丶小紫丶,Warrior,Fury,dps,Burning Blade
+15,172.7,301353802,2,Grim Batol,2024-10-19T14:00:07.000Z,1624211,2040999,2,Xal'atath's Bargain: Oblivion,饮者留名,Monk,Mistweaver,healer,Swiftwind
+15,172.7,301353802,2,Grim Batol,2024-10-19T14:00:07.000Z,1624211,2040999,2,Xal'atath's Bargain: Oblivion,舟源,Monk,Brewmaster,tank,Frostwolf
+15,172.7,301353802,2,Grim Batol,2024-10-19T14:00:07.000Z,1624211,2040999,2,Xal'atath's Bargain: Oblivion,豆灬瓣,Mage,Frost,dps,Strand of the Ancients
+15,172.7,301353802,2,Grim Batol,2024-10-19T14:00:07.000Z,1624211,2040999,2,Xal'atath's Bargain: Oblivion,冬森爱思妹儿,Demon Hunter,Havoc,dps,Shadow Labyrinth
+15,172.7,301353802,2,Grim Batol,2024-10-19T14:00:07.000Z,1624211,2040999,2,Xal'atath's Bargain: Oblivion,信仰奶牛,Paladin,Retribution,dps,Wing of the Whelping
+16,171.2,297152041,2,Grim Batol,2024-10-02T11:41:48.000Z,1704271,2040999,1,Xal'atath's Bargain: Oblivion,秦始皇二一四,Shaman,Restoration,healer,Hyjal
+16,171.2,297152041,2,Grim Batol,2024-10-02T11:41:48.000Z,1704271,2040999,1,Xal'atath's Bargain: Oblivion,旧梦重拾丶,Paladin,Retribution,dps,Al'ar
+16,171.2,297152041,2,Grim Batol,2024-10-02T11:41:48.000Z,1704271,2040999,1,Xal'atath's Bargain: Oblivion,骨灰白,Evoker,Augmentation,dps,Shadowmourne
+16,171.2,297152041,2,Grim Batol,2024-10-02T11:41:48.000Z,1704271,2040999,1,Xal'atath's Bargain: Oblivion,沉默的小德,Druid,Guardian,tank,Hyjal
+16,171.2,297152041,2,Grim Batol,2024-10-02T11:41:48.000Z,1704271,2040999,1,Xal'atath's Bargain: Oblivion,光铸艾瑞达,Paladin,Retribution,dps,Hyjal

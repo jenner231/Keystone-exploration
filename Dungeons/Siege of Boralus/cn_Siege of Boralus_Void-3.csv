@@ -1,0 +1,66 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,191.5,298354396,3,Siege of Boralus,2024-10-07T02:55:49.000Z,1376085,1980999,2,Xal'atath's Bargain: Voidbound,集火这个嘚嘚,Druid,Guardian,tank,Grim Batol
+1,191.5,298354396,3,Siege of Boralus,2024-10-07T02:55:49.000Z,1376085,1980999,2,Xal'atath's Bargain: Voidbound,抓根儿,Evoker,Augmentation,dps,Crushridge
+1,191.5,298354396,3,Siege of Boralus,2024-10-07T02:55:49.000Z,1376085,1980999,2,Xal'atath's Bargain: Voidbound,随风之悠,Paladin,Retribution,dps,Kael'thas
+1,191.5,298354396,3,Siege of Boralus,2024-10-07T02:55:49.000Z,1376085,1980999,2,Xal'atath's Bargain: Voidbound,呆萌丶小萝莉,Priest,Discipline,healer,The Master's Glaive
+1,191.5,298354396,3,Siege of Boralus,2024-10-07T02:55:49.000Z,1376085,1980999,2,Xal'atath's Bargain: Voidbound,黑色小甜饼,Hunter,Survival,dps,The Master's Glaive
+2,190.7,297853821,3,Siege of Boralus,2024-10-05T12:08:26.000Z,1418285,1980999,2,Xal'atath's Bargain: Voidbound,斯溫丶,Warrior,Protection,tank,Kel'Thuzad
+2,190.7,297853821,3,Siege of Boralus,2024-10-05T12:08:26.000Z,1418285,1980999,2,Xal'atath's Bargain: Voidbound,Gundogann,Mage,Frost,dps,Al'ar
+2,190.7,297853821,3,Siege of Boralus,2024-10-05T12:08:26.000Z,1418285,1980999,2,Xal'atath's Bargain: Voidbound,你干嘛,Death Knight,Frost,dps,Kel'Thuzad
+2,190.7,297853821,3,Siege of Boralus,2024-10-05T12:08:26.000Z,1418285,1980999,2,Xal'atath's Bargain: Voidbound,咖啡大叔,Paladin,Retribution,dps,Thunderaan
+2,190.7,297853821,3,Siege of Boralus,2024-10-05T12:08:26.000Z,1418285,1980999,2,Xal'atath's Bargain: Voidbound,早上坏,Priest,Discipline,healer,Al'ar
+3,189.6,300297274,3,Siege of Boralus,2024-10-08T05:54:11.000Z,1473724,1980999,2,Xal'atath's Bargain: Voidbound,可抵岁月漫长,Demon Hunter,Vengeance,tank,Al'ar
+3,189.6,300297274,3,Siege of Boralus,2024-10-08T05:54:11.000Z,1473724,1980999,2,Xal'atath's Bargain: Voidbound,酥大鸡,Warlock,Destruction,dps,Deathwing
+3,189.6,300297274,3,Siege of Boralus,2024-10-08T05:54:11.000Z,1473724,1980999,2,Xal'atath's Bargain: Voidbound,快放弃,Death Knight,Frost,dps,Barrens
+3,189.6,300297274,3,Siege of Boralus,2024-10-08T05:54:11.000Z,1473724,1980999,2,Xal'atath's Bargain: Voidbound,惊雪,Shaman,Restoration,healer,The Forgotten Coast
+3,189.6,300297274,3,Siege of Boralus,2024-10-08T05:54:11.000Z,1473724,1980999,2,Xal'atath's Bargain: Voidbound,百撕吥嘚骑姐,Shaman,Elemental,dps,Anzu
+4,187.4,298850516,3,Siege of Boralus,2024-10-09T11:12:40.000Z,1592109,1980999,1,Xal'atath's Bargain: Voidbound,村口恶霸龙,Evoker,Augmentation,dps,Shadowmourne
+4,187.4,298850516,3,Siege of Boralus,2024-10-09T11:12:40.000Z,1592109,1980999,1,Xal'atath's Bargain: Voidbound,最后的萨满,Shaman,Restoration,healer,Black Dragonflight
+4,187.4,298850516,3,Siege of Boralus,2024-10-09T11:12:40.000Z,1592109,1980999,1,Xal'atath's Bargain: Voidbound,Honorguard,Warrior,Arms,dps,Isillien
+4,187.4,298850516,3,Siege of Boralus,2024-10-09T11:12:40.000Z,1592109,1980999,1,Xal'atath's Bargain: Voidbound,汉考克小罗斯,Warlock,Destruction,dps,Marrowgar
+4,187.4,298850516,3,Siege of Boralus,2024-10-09T11:12:40.000Z,1592109,1980999,1,Xal'atath's Bargain: Voidbound,变身不会死,Druid,Guardian,tank,Fray Island
+5,185.5,306945593,3,Siege of Boralus,2024-11-13T10:40:45.000Z,1688575,1980999,1,Xal'atath's Bargain: Voidbound,萨萨不怕怕,Shaman,Elemental,dps,Burning Blade
+5,185.5,306945593,3,Siege of Boralus,2024-11-13T10:40:45.000Z,1688575,1980999,1,Xal'atath's Bargain: Voidbound,天津风,Paladin,Holy,healer,The Golden Plains
+5,185.5,306945593,3,Siege of Boralus,2024-11-13T10:40:45.000Z,1688575,1980999,1,Xal'atath's Bargain: Voidbound,跳起来读条,Warlock,Destruction,dps,Burning Blade
+5,185.5,306945593,3,Siege of Boralus,2024-11-13T10:40:45.000Z,1688575,1980999,1,Xal'atath's Bargain: Voidbound,霸气大姐姐,Paladin,Protection,tank,Barrens
+5,185.5,306945593,3,Siege of Boralus,2024-11-13T10:40:45.000Z,1688575,1980999,1,Xal'atath's Bargain: Voidbound,柚子和桃子,Hunter,Beast Mastery,dps,Blanchard
+6,183.4,306324755,3,Siege of Boralus,2024-11-10T15:24:23.000Z,1800542,1980999,1,Xal'atath's Bargain: Voidbound,薄樱,Demon Hunter,Vengeance,tank,Al'ar
+6,183.4,306324755,3,Siege of Boralus,2024-11-10T15:24:23.000Z,1800542,1980999,1,Xal'atath's Bargain: Voidbound,Dolly,Druid,Restoration,healer,Al'ar
+6,183.4,306324755,3,Siege of Boralus,2024-11-10T15:24:23.000Z,1800542,1980999,1,Xal'atath's Bargain: Voidbound,Myong,Paladin,Retribution,dps,Deathwing
+6,183.4,306324755,3,Siege of Boralus,2024-11-10T15:24:23.000Z,1800542,1980999,1,Xal'atath's Bargain: Voidbound,是你乃乃,Warlock,Destruction,dps,Drak'Tharon
+6,183.4,306324755,3,Siege of Boralus,2024-11-10T15:24:23.000Z,1800542,1980999,1,Xal'atath's Bargain: Voidbound,去吧乄皮卡丘,Shaman,Enhancement,dps,Doomwalker
+7,180,297639860,3,Siege of Boralus,2024-10-04T16:53:16.000Z,1980658,1980999,1,Xal'atath's Bargain: Voidbound,小拽龙吖,Evoker,Augmentation,dps,Shadowmourne
+7,180,297639860,3,Siege of Boralus,2024-10-04T16:53:16.000Z,1980658,1980999,1,Xal'atath's Bargain: Voidbound,坚坚莹莹,Monk,Windwalker,dps,Sylvanas
+7,180,297639860,3,Siege of Boralus,2024-10-04T16:53:16.000Z,1980658,1980999,1,Xal'atath's Bargain: Voidbound,智深,Druid,Balance,dps,Whisperwind
+7,180,297639860,3,Siege of Boralus,2024-10-04T16:53:16.000Z,1980658,1980999,1,Xal'atath's Bargain: Voidbound,Neverdown,Demon Hunter,Vengeance,tank,Silver Hand
+7,180,297639860,3,Siege of Boralus,2024-10-04T16:53:16.000Z,1980658,1980999,1,Xal'atath's Bargain: Voidbound,副本一直限时,Shaman,Restoration,healer,Silver Hand
+8,180,298360660,2,Siege of Boralus,2024-10-07T03:28:11.000Z,1138439,1980999,3,Xal'atath's Bargain: Voidbound,墨韵审判,Paladin,Retribution,dps,Al'ar
+8,180,298360660,2,Siege of Boralus,2024-10-07T03:28:11.000Z,1138439,1980999,3,Xal'atath's Bargain: Voidbound,青虹漱雪,Druid,Guardian,tank,Silver Hand
+8,180,298360660,2,Siege of Boralus,2024-10-07T03:28:11.000Z,1138439,1980999,3,Xal'atath's Bargain: Voidbound,触牧经心,Paladin,Retribution,dps,Al'ar
+8,180,298360660,2,Siege of Boralus,2024-10-07T03:28:11.000Z,1138439,1980999,3,Xal'atath's Bargain: Voidbound,秋蓝桉,Shaman,Elemental,dps,Anzu
+8,180,298360660,2,Siege of Boralus,2024-10-07T03:28:11.000Z,1138439,1980999,3,Xal'atath's Bargain: Voidbound,尕灬朵,Monk,Mistweaver,healer,The Forgotten Coast
+9,180,306721741,2,Siege of Boralus,2024-11-12T09:03:30.000Z,1146286,1980999,3,Xal'atath's Bargain: Voidbound,小雯同学丶,Paladin,Protection,tank,Anzu
+9,180,306721741,2,Siege of Boralus,2024-11-12T09:03:30.000Z,1146286,1980999,3,Xal'atath's Bargain: Voidbound,手捧冰霜,Mage,Frost,dps,Kel'Thuzad
+9,180,306721741,2,Siege of Boralus,2024-11-12T09:03:30.000Z,1146286,1980999,3,Xal'atath's Bargain: Voidbound,还我麦丽素,Warlock,Destruction,dps,Scarlet Crusade
+9,180,306721741,2,Siege of Boralus,2024-11-12T09:03:30.000Z,1146286,1980999,3,Xal'atath's Bargain: Voidbound,Ggbondd,Paladin,Retribution,dps,Anzu
+9,180,306721741,2,Siege of Boralus,2024-11-12T09:03:30.000Z,1146286,1980999,3,Xal'atath's Bargain: Voidbound,忧郁的小萨,Shaman,Restoration,healer,Silver Hand
+10,179,305767768,2,Siege of Boralus,2024-11-08T05:30:13.000Z,1243083,1980999,2,Xal'atath's Bargain: Voidbound,怀梦美少女,Shaman,Enhancement,dps,Deathwing
+10,179,305767768,2,Siege of Boralus,2024-11-08T05:30:13.000Z,1243083,1980999,2,Xal'atath's Bargain: Voidbound,癖咖裘,Shaman,Enhancement,dps,Deathwing
+10,179,305767768,2,Siege of Boralus,2024-11-08T05:30:13.000Z,1243083,1980999,2,Xal'atath's Bargain: Voidbound,Yukinovo,Priest,Discipline,healer,Emerald Dream
+10,179,305767768,2,Siege of Boralus,2024-11-08T05:30:13.000Z,1243083,1980999,2,Xal'atath's Bargain: Voidbound,童门王氏,Warrior,Protection,tank,Rangers
+10,179,305767768,2,Siege of Boralus,2024-11-08T05:30:13.000Z,1243083,1980999,2,Xal'atath's Bargain: Voidbound,牙签哥,Hunter,Beast Mastery,dps,Malfurion
+11,177.7,309519868,2,Siege of Boralus,2024-11-28T17:26:58.000Z,1310096,1980999,2,Xal'atath's Bargain: Voidbound,Zzxzephyr,Rogue,Assassination,dps,Al'ar
+11,177.7,309519868,2,Siege of Boralus,2024-11-28T17:26:58.000Z,1310096,1980999,2,Xal'atath's Bargain: Voidbound,懒癌晚期啊,Hunter,Marksmanship,dps,Anzu
+11,177.7,309519868,2,Siege of Boralus,2024-11-28T17:26:58.000Z,1310096,1980999,2,Xal'atath's Bargain: Voidbound,学猫叫,Priest,Holy,healer,Mal'Ganis
+11,177.7,309519868,2,Siege of Boralus,2024-11-28T17:26:58.000Z,1310096,1980999,2,Xal'atath's Bargain: Voidbound,圣剑修羅,Warrior,Protection,tank,Galakrond
+11,177.7,309519868,2,Siege of Boralus,2024-11-28T17:26:58.000Z,1310096,1980999,2,Xal'atath's Bargain: Voidbound,女王的废狗,Warrior,Fury,dps,Anzu
+12,175.7,306980282,2,Siege of Boralus,2024-11-13T15:59:09.000Z,1416476,1980999,2,Xal'atath's Bargain: Voidbound,玛克西,Shaman,Restoration,healer,Burning Blade
+12,175.7,306980282,2,Siege of Boralus,2024-11-13T15:59:09.000Z,1416476,1980999,2,Xal'atath's Bargain: Voidbound,挤挤总会有哋,Priest,Shadow,dps,Al'ar
+12,175.7,306980282,2,Siege of Boralus,2024-11-13T15:59:09.000Z,1416476,1980999,2,Xal'atath's Bargain: Voidbound,Jarvenn,Hunter,Survival,dps,Pandaren
+12,175.7,306980282,2,Siege of Boralus,2024-11-13T15:59:09.000Z,1416476,1980999,2,Xal'atath's Bargain: Voidbound,手畔,Shaman,Elemental,dps,Shadowmoon
+12,175.7,306980282,2,Siege of Boralus,2024-11-13T15:59:09.000Z,1416476,1980999,2,Xal'atath's Bargain: Voidbound,瞧丶这帅牛,Demon Hunter,Vengeance,tank,Anzu
+13,174.4,306984971,2,Siege of Boralus,2024-11-13T16:33:04.000Z,1484575,1980999,2,Xal'atath's Bargain: Voidbound,Jarvenn,Hunter,Survival,dps,Pandaren
+13,174.4,306984971,2,Siege of Boralus,2024-11-13T16:33:04.000Z,1484575,1980999,2,Xal'atath's Bargain: Voidbound,Lightberry,Paladin,Protection,tank,Bronzebeard
+13,174.4,306984971,2,Siege of Boralus,2024-11-13T16:33:04.000Z,1484575,1980999,2,Xal'atath's Bargain: Voidbound,Losthearthur,Priest,Discipline,healer,Silver Hand
+13,174.4,306984971,2,Siege of Boralus,2024-11-13T16:33:04.000Z,1484575,1980999,2,Xal'atath's Bargain: Voidbound,小冰手,Death Knight,Frost,dps,Zul'Aman
+13,174.4,306984971,2,Siege of Boralus,2024-11-13T16:33:04.000Z,1484575,1980999,2,Xal'atath's Bargain: Voidbound,冬天的忧伤,Warrior,Fury,dps,Shadowmourne

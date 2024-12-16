@@ -1,0 +1,46 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,300152519,3,"Ara-Kara, City of Echoes",2024-10-14T14:39:53.000Z,1001886,1800999,3,Xal'atath's Bargain: Devour,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+1,195,300152519,3,"Ara-Kara, City of Echoes",2024-10-14T14:39:53.000Z,1001886,1800999,3,Xal'atath's Bargain: Devour,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+1,195,300152519,3,"Ara-Kara, City of Echoes",2024-10-14T14:39:53.000Z,1001886,1800999,3,Xal'atath's Bargain: Devour,黑塑水,Mage,Frost,dps,Deathwing
+1,195,300152519,3,"Ara-Kara, City of Echoes",2024-10-14T14:39:53.000Z,1001886,1800999,3,Xal'atath's Bargain: Devour,法爷快开嗜血,Shaman,Restoration,healer,Scarlet Crusade
+1,195,300152519,3,"Ara-Kara, City of Echoes",2024-10-14T14:39:53.000Z,1001886,1800999,3,Xal'atath's Bargain: Devour,番茄不炒蛋,Paladin,Retribution,dps,Icecrown
+2,195,300666695,3,"Ara-Kara, City of Echoes",2024-10-16T18:17:44.000Z,1054590,1800999,3,Xal'atath's Bargain: Devour,Nightmarepst,Priest,Discipline,healer,Silverpine Forest
+2,195,300666695,3,"Ara-Kara, City of Echoes",2024-10-16T18:17:44.000Z,1054590,1800999,3,Xal'atath's Bargain: Devour,冰激凌匠人,Warrior,Protection,tank,Deathwing
+2,195,300666695,3,"Ara-Kara, City of Echoes",2024-10-16T18:17:44.000Z,1054590,1800999,3,Xal'atath's Bargain: Devour,莎你楽魏,Death Knight,Frost,dps,Anzu
+2,195,300666695,3,"Ara-Kara, City of Echoes",2024-10-16T18:17:44.000Z,1054590,1800999,3,Xal'atath's Bargain: Devour,我是虫哥小弟,Paladin,Retribution,dps,Ahune
+2,195,300666695,3,"Ara-Kara, City of Echoes",2024-10-16T18:17:44.000Z,1054590,1800999,3,Xal'atath's Bargain: Devour,旧日午夜,Mage,Fire,dps,Anzu
+3,180,304444873,2,"Ara-Kara, City of Echoes",2024-11-02T09:34:56.000Z,730780,1800999,3,Xal'atath's Bargain: Devour,藍色闪电,Shaman,Elemental,dps,Burning Blade
+3,180,304444873,2,"Ara-Kara, City of Echoes",2024-11-02T09:34:56.000Z,730780,1800999,3,Xal'atath's Bargain: Devour,鱼面汤,Paladin,Protection,tank,Blanchard
+3,180,304444873,2,"Ara-Kara, City of Echoes",2024-11-02T09:34:56.000Z,730780,1800999,3,Xal'atath's Bargain: Devour,阿尔托莉亞丶,Paladin,Holy,healer,Isillien
+3,180,304444873,2,"Ara-Kara, City of Echoes",2024-11-02T09:34:56.000Z,730780,1800999,3,Xal'atath's Bargain: Devour,苏韵流觞,Warlock,Demonology,dps,Al'ar
+3,180,304444873,2,"Ara-Kara, City of Echoes",2024-11-02T09:34:56.000Z,730780,1800999,3,Xal'atath's Bargain: Devour,丨丶璐丨,Paladin,Retribution,dps,Al'ar
+4,180,304674077,2,"Ara-Kara, City of Echoes",2024-11-03T08:58:44.000Z,859921,1800999,3,Xal'atath's Bargain: Devour,Littledruid,Druid,Restoration,healer,Deathwing
+4,180,304674077,2,"Ara-Kara, City of Echoes",2024-11-03T08:58:44.000Z,859921,1800999,3,Xal'atath's Bargain: Devour,真气突,Monk,Brewmaster,tank,Rhonin
+4,180,304674077,2,"Ara-Kara, City of Echoes",2024-11-03T08:58:44.000Z,859921,1800999,3,Xal'atath's Bargain: Devour,上道标,Paladin,Retribution,dps,Barrens
+4,180,304674077,2,"Ara-Kara, City of Echoes",2024-11-03T08:58:44.000Z,859921,1800999,3,Xal'atath's Bargain: Devour,奥术高手,Mage,Frost,dps,Anzu
+4,180,304674077,2,"Ara-Kara, City of Echoes",2024-11-03T08:58:44.000Z,859921,1800999,3,Xal'atath's Bargain: Devour,闪耀型高松灯,Paladin,Retribution,dps,Isillien
+5,180,304690320,2,"Ara-Kara, City of Echoes",2024-11-03T11:17:02.000Z,953802,1800999,3,Xal'atath's Bargain: Devour,牛至,Warrior,Fury,dps,Hectae
+5,180,304690320,2,"Ara-Kara, City of Echoes",2024-11-03T11:17:02.000Z,953802,1800999,3,Xal'atath's Bargain: Devour,滴滴打德,Druid,Restoration,healer,Loken
+5,180,304690320,2,"Ara-Kara, City of Echoes",2024-11-03T11:17:02.000Z,953802,1800999,3,Xal'atath's Bargain: Devour,Meyon,Paladin,Retribution,dps,Scarlet Crusade
+5,180,304690320,2,"Ara-Kara, City of Echoes",2024-11-03T11:17:02.000Z,953802,1800999,3,Xal'atath's Bargain: Devour,凡泠骑,Paladin,Protection,tank,Force of Elemental
+5,180,304690320,2,"Ara-Kara, City of Echoes",2024-11-03T11:17:02.000Z,953802,1800999,3,Xal'atath's Bargain: Devour,骓而不逝,Paladin,Retribution,dps,Scarlet Crusade
+6,180,299889253,2,"Ara-Kara, City of Echoes",2024-10-13T14:04:11.000Z,1064444,1800999,3,Xal'atath's Bargain: Devour,吾与曹贼何异,Shaman,Restoration,healer,Amani
+6,180,299889253,2,"Ara-Kara, City of Echoes",2024-10-13T14:04:11.000Z,1064444,1800999,3,Xal'atath's Bargain: Devour,黄鹤楼丶丶,Paladin,Retribution,dps,Runetotem
+6,180,299889253,2,"Ara-Kara, City of Echoes",2024-10-13T14:04:11.000Z,1064444,1800999,3,Xal'atath's Bargain: Devour,我已经超生气,Paladin,Protection,tank,Dark Iron
+6,180,299889253,2,"Ara-Kara, City of Echoes",2024-10-13T14:04:11.000Z,1064444,1800999,3,Xal'atath's Bargain: Devour,你好星期六,Rogue,Assassination,dps,Amani
+6,180,299889253,2,"Ara-Kara, City of Echoes",2024-10-13T14:04:11.000Z,1064444,1800999,3,Xal'atath's Bargain: Devour,Fawfyw,Death Knight,Frost,dps,Shadowmourne
+7,178.7,300141860,2,"Ara-Kara, City of Echoes",2024-10-14T13:07:54.000Z,1145425,1800999,2,Xal'atath's Bargain: Devour,丷璀璨繁星丷,Paladin,Holy,healer,Holy Chanter
+7,178.7,300141860,2,"Ara-Kara, City of Echoes",2024-10-14T13:07:54.000Z,1145425,1800999,2,Xal'atath's Bargain: Devour,残忍的,Paladin,Retribution,dps,Frostmourne
+7,178.7,300141860,2,"Ara-Kara, City of Echoes",2024-10-14T13:07:54.000Z,1145425,1800999,2,Xal'atath's Bargain: Devour,Add,Evoker,Augmentation,dps,The Forgotten Coast
+7,178.7,300141860,2,"Ara-Kara, City of Echoes",2024-10-14T13:07:54.000Z,1145425,1800999,2,Xal'atath's Bargain: Devour,小吴卓佩,Paladin,Protection,tank,Frostmourne
+7,178.7,300141860,2,"Ara-Kara, City of Echoes",2024-10-14T13:07:54.000Z,1145425,1800999,2,Xal'atath's Bargain: Devour,熔岩魔神,Warlock,Destruction,dps,The Forgotten Coast
+8,173.8,299323287,2,"Ara-Kara, City of Echoes",2024-10-11T15:24:27.000Z,1378232,1800999,2,Xal'atath's Bargain: Devour,幸运鲸鱼,Shaman,Restoration,healer,Pandaren
+8,173.8,299323287,2,"Ara-Kara, City of Echoes",2024-10-11T15:24:27.000Z,1378232,1800999,2,Xal'atath's Bargain: Devour,蛇姬师琴爹,Mage,Frost,dps,Anzu
+8,173.8,299323287,2,"Ara-Kara, City of Echoes",2024-10-11T15:24:27.000Z,1378232,1800999,2,Xal'atath's Bargain: Devour,神牧棍哥,Priest,Shadow,dps,Isillien
+8,173.8,299323287,2,"Ara-Kara, City of Echoes",2024-10-11T15:24:27.000Z,1378232,1800999,2,Xal'atath's Bargain: Devour,Golwhale,Paladin,Retribution,dps,Isillien
+8,173.8,299323287,2,"Ara-Kara, City of Echoes",2024-10-11T15:24:27.000Z,1378232,1800999,2,Xal'atath's Bargain: Devour,亅七二七丨,Paladin,Protection,tank,Anzu
+9,172.4,300621203,2,"Ara-Kara, City of Echoes",2024-10-16T14:06:25.000Z,1444301,1800999,1,Xal'atath's Bargain: Devour,已久的淡忘,Warrior,Fury,dps,Grim Batol
+9,172.4,300621203,2,"Ara-Kara, City of Echoes",2024-10-16T14:06:25.000Z,1444301,1800999,1,Xal'atath's Bargain: Devour,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+9,172.4,300621203,2,"Ara-Kara, City of Echoes",2024-10-16T14:06:25.000Z,1444301,1800999,1,Xal'atath's Bargain: Devour,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+9,172.4,300621203,2,"Ara-Kara, City of Echoes",2024-10-16T14:06:25.000Z,1444301,1800999,1,Xal'atath's Bargain: Devour,黑塑水,Mage,Frost,dps,Deathwing
+9,172.4,300621203,2,"Ara-Kara, City of Echoes",2024-10-16T14:06:25.000Z,1444301,1800999,1,Xal'atath's Bargain: Devour,奶香绿豆糕,Evoker,Preservation,healer,Holy Chanter

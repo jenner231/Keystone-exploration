@@ -1,0 +1,76 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,300103971,3,Mists of Tirna Scithe,2024-10-14T07:00:03.000Z,1029748,1800999,3,Xal'atath's Bargain: Devour,Rumgin,Monk,Brewmaster,tank,Isillien
+1,195,300103971,3,Mists of Tirna Scithe,2024-10-14T07:00:03.000Z,1029748,1800999,3,Xal'atath's Bargain: Devour,黏呼呼,Monk,Mistweaver,healer,Alterac Mountains
+1,195,300103971,3,Mists of Tirna Scithe,2024-10-14T07:00:03.000Z,1029748,1800999,3,Xal'atath's Bargain: Devour,咕咕姬,Druid,Balance,dps,The Golden Plains
+1,195,300103971,3,Mists of Tirna Scithe,2024-10-14T07:00:03.000Z,1029748,1800999,3,Xal'atath's Bargain: Devour,奇迹小钢猪,Paladin,Retribution,dps,Isillien
+1,195,300103971,3,Mists of Tirna Scithe,2024-10-14T07:00:03.000Z,1029748,1800999,3,Xal'atath's Bargain: Devour,訫碎无人知,Death Knight,Frost,dps,Isillien
+2,194.7,299323287,3,Mists of Tirna Scithe,2024-10-11T16:13:03.000Z,1093427,1800999,2,Xal'atath's Bargain: Devour,幸运鲸鱼,Shaman,Restoration,healer,Pandaren
+2,194.7,299323287,3,Mists of Tirna Scithe,2024-10-11T16:13:03.000Z,1093427,1800999,2,Xal'atath's Bargain: Devour,蛇姬师琴爹,Mage,Frost,dps,Anzu
+2,194.7,299323287,3,Mists of Tirna Scithe,2024-10-11T16:13:03.000Z,1093427,1800999,2,Xal'atath's Bargain: Devour,神牧棍哥,Priest,Shadow,dps,Isillien
+2,194.7,299323287,3,Mists of Tirna Scithe,2024-10-11T16:13:03.000Z,1093427,1800999,2,Xal'atath's Bargain: Devour,Golwhale,Paladin,Retribution,dps,Isillien
+2,194.7,299323287,3,Mists of Tirna Scithe,2024-10-11T16:13:03.000Z,1093427,1800999,2,Xal'atath's Bargain: Devour,亅七二七丨,Paladin,Protection,tank,Anzu
+3,191.8,300382341,3,Mists of Tirna Scithe,2024-10-15T14:04:00.000Z,1232073,1800999,2,Xal'atath's Bargain: Devour,魂魄妖姬,Paladin,Retribution,dps,Deathweaver
+3,191.8,300382341,3,Mists of Tirna Scithe,2024-10-15T14:04:00.000Z,1232073,1800999,2,Xal'atath's Bargain: Devour,丨奈奥祖丨,Death Knight,Frost,dps,Holy Chanter
+3,191.8,300382341,3,Mists of Tirna Scithe,2024-10-15T14:04:00.000Z,1232073,1800999,2,Xal'atath's Bargain: Devour,圣光蚩令,Paladin,Holy,healer,Echo Ridge
+3,191.8,300382341,3,Mists of Tirna Scithe,2024-10-15T14:04:00.000Z,1232073,1800999,2,Xal'atath's Bargain: Devour,云等风人等梦,Monk,Brewmaster,tank,Frostmourne
+3,191.8,300382341,3,Mists of Tirna Scithe,2024-10-15T14:04:00.000Z,1232073,1800999,2,Xal'atath's Bargain: Devour,豹豹桂花酪,Mage,Fire,dps,Echo Ridge
+4,180,299064911,2,Mists of Tirna Scithe,2024-10-10T12:23:37.000Z,757173,1800999,3,Xal'atath's Bargain: Devour,想做偷心贼丶,Rogue,Assassination,dps,Burning Blade
+4,180,299064911,2,Mists of Tirna Scithe,2024-10-10T12:23:37.000Z,757173,1800999,3,Xal'atath's Bargain: Devour,丶雪碧邪邪,Death Knight,Frost,dps,Burning Blade
+4,180,299064911,2,Mists of Tirna Scithe,2024-10-10T12:23:37.000Z,757173,1800999,3,Xal'atath's Bargain: Devour,Stellaricyc,Paladin,Retribution,dps,Shadowmourne
+4,180,299064911,2,Mists of Tirna Scithe,2024-10-10T12:23:37.000Z,757173,1800999,3,Xal'atath's Bargain: Devour,隆龙,Evoker,Preservation,healer,Grim Batol
+4,180,299064911,2,Mists of Tirna Scithe,2024-10-10T12:23:37.000Z,757173,1800999,3,Xal'atath's Bargain: Devour,Ragb,Warrior,Protection,tank,Grim Batol
+5,180,300143355,2,Mists of Tirna Scithe,2024-10-14T13:20:39.000Z,871375,1800999,3,Xal'atath's Bargain: Devour,凡泠战,Warrior,Protection,tank,Force of Elemental
+5,180,300143355,2,Mists of Tirna Scithe,2024-10-14T13:20:39.000Z,871375,1800999,3,Xal'atath's Bargain: Devour,土不奶爸,Shaman,Restoration,healer,Loken
+5,180,300143355,2,Mists of Tirna Scithe,2024-10-14T13:20:39.000Z,871375,1800999,3,Xal'atath's Bargain: Devour,珍妮码丶戴瑾,Demon Hunter,Havoc,dps,Silver Hand
+5,180,300143355,2,Mists of Tirna Scithe,2024-10-14T13:20:39.000Z,871375,1800999,3,Xal'atath's Bargain: Devour,紅双喜,Paladin,Retribution,dps,Zealot Blade
+5,180,300143355,2,Mists of Tirna Scithe,2024-10-14T13:20:39.000Z,871375,1800999,3,Xal'atath's Bargain: Devour,钢板射穿,Hunter,Marksmanship,dps,Al'ar
+6,180,299284492,2,Mists of Tirna Scithe,2024-10-11T11:42:22.000Z,893277,1800999,3,Xal'atath's Bargain: Devour,叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+6,180,299284492,2,Mists of Tirna Scithe,2024-10-11T11:42:22.000Z,893277,1800999,3,Xal'atath's Bargain: Devour,可爱甜心喵,Shaman,Restoration,healer,Deathwing
+6,180,299284492,2,Mists of Tirna Scithe,2024-10-11T11:42:22.000Z,893277,1800999,3,Xal'atath's Bargain: Devour,暴力美學法,Mage,Frost,dps,Deathwing
+6,180,299284492,2,Mists of Tirna Scithe,2024-10-11T11:42:22.000Z,893277,1800999,3,Xal'atath's Bargain: Devour,上古邪寒,Death Knight,Blood,tank,Deathwing
+6,180,299284492,2,Mists of Tirna Scithe,2024-10-11T11:42:22.000Z,893277,1800999,3,Xal'atath's Bargain: Devour,季伯伯,Death Knight,Frost,dps,Deathwing
+7,180,304230532,2,Mists of Tirna Scithe,2024-11-01T09:56:30.000Z,957791,1800999,3,Xal'atath's Bargain: Devour,天星清辉满洒,Mage,Frost,dps,Al'ar
+7,180,304230532,2,Mists of Tirna Scithe,2024-11-01T09:56:30.000Z,957791,1800999,3,Xal'atath's Bargain: Devour,小黄鱼,Warlock,Destruction,dps,Frostwolf
+7,180,304230532,2,Mists of Tirna Scithe,2024-11-01T09:56:30.000Z,957791,1800999,3,Xal'atath's Bargain: Devour,鱼面汤,Paladin,Protection,tank,Blanchard
+7,180,304230532,2,Mists of Tirna Scithe,2024-11-01T09:56:30.000Z,957791,1800999,3,Xal'atath's Bargain: Devour,狮子森林的修,Priest,Discipline,healer,Silver Hand
+7,180,304230532,2,Mists of Tirna Scithe,2024-11-01T09:56:30.000Z,957791,1800999,3,Xal'atath's Bargain: Devour,我想静静,Shaman,Elemental,dps,Arygos
+8,180,305433234,2,Mists of Tirna Scithe,2024-11-06T12:06:24.000Z,961434,1800999,3,Xal'atath's Bargain: Devour,焚灼,Priest,Discipline,healer,Kel'Thuzad
+8,180,305433234,2,Mists of Tirna Scithe,2024-11-06T12:06:24.000Z,961434,1800999,3,Xal'atath's Bargain: Devour,椎名乄真白,Demon Hunter,Vengeance,tank,Kel'Thuzad
+8,180,305433234,2,Mists of Tirna Scithe,2024-11-06T12:06:24.000Z,961434,1800999,3,Xal'atath's Bargain: Devour,粉色矮子,Monk,Windwalker,dps,Kel'Thuzad
+8,180,305433234,2,Mists of Tirna Scithe,2024-11-06T12:06:24.000Z,961434,1800999,3,Xal'atath's Bargain: Devour,砂寸奏,Hunter,Survival,dps,Kel'Thuzad
+8,180,305433234,2,Mists of Tirna Scithe,2024-11-06T12:06:24.000Z,961434,1800999,3,Xal'atath's Bargain: Devour,Camila,Rogue,Assassination,dps,Deathwing
+9,180,299621237,2,Mists of Tirna Scithe,2024-10-12T16:24:02.000Z,982376,1800999,3,Xal'atath's Bargain: Devour,列里尔,Hunter,Marksmanship,dps,Rhonin
+9,180,299621237,2,Mists of Tirna Scithe,2024-10-12T16:24:02.000Z,982376,1800999,3,Xal'atath's Bargain: Devour,奶不动一点,Shaman,Restoration,healer,Isillien
+9,180,299621237,2,Mists of Tirna Scithe,2024-10-12T16:24:02.000Z,982376,1800999,3,Xal'atath's Bargain: Devour,肆野,Druid,Guardian,tank,Rhonin
+9,180,299621237,2,Mists of Tirna Scithe,2024-10-12T16:24:02.000Z,982376,1800999,3,Xal'atath's Bargain: Devour,聖光丶烟语,Paladin,Retribution,dps,Argus
+9,180,299621237,2,Mists of Tirna Scithe,2024-10-12T16:24:02.000Z,982376,1800999,3,Xal'atath's Bargain: Devour,園田美櫻,Death Knight,Frost,dps,Al'ar
+10,180,304872549,2,Mists of Tirna Scithe,2024-11-04T03:07:22.000Z,1017857,1800999,3,Xal'atath's Bargain: Devour,四爷老是来,Priest,Holy,healer,The Master's Glaive
+10,180,304872549,2,Mists of Tirna Scithe,2024-11-04T03:07:22.000Z,1017857,1800999,3,Xal'atath's Bargain: Devour,Dayl,Paladin,Protection,tank,Chillwind Point
+10,180,304872549,2,Mists of Tirna Scithe,2024-11-04T03:07:22.000Z,1017857,1800999,3,Xal'atath's Bargain: Devour,遗忘的眷恋,Shaman,Elemental,dps,Arathor
+10,180,304872549,2,Mists of Tirna Scithe,2024-11-04T03:07:22.000Z,1017857,1800999,3,Xal'atath's Bargain: Devour,富贵是道格,Warlock,Destruction,dps,The Master's Glaive
+10,180,304872549,2,Mists of Tirna Scithe,2024-11-04T03:07:22.000Z,1017857,1800999,3,Xal'atath's Bargain: Devour,冰入人心,Mage,Frost,dps,Deathwing
+11,180,299530326,2,Mists of Tirna Scithe,2024-10-12T08:30:41.000Z,1024156,1800999,3,Xal'atath's Bargain: Devour,敌一,Warrior,Protection,tank,Thunder Axe Fortress
+11,180,299530326,2,Mists of Tirna Scithe,2024-10-12T08:30:41.000Z,1024156,1800999,3,Xal'atath's Bargain: Devour,爆汁大橙子,Death Knight,Frost,dps,Echo Ridge
+11,180,299530326,2,Mists of Tirna Scithe,2024-10-12T08:30:41.000Z,1024156,1800999,3,Xal'atath's Bargain: Devour,大言炎炎,Warlock,Destruction,dps,Varian
+11,180,299530326,2,Mists of Tirna Scithe,2024-10-12T08:30:41.000Z,1024156,1800999,3,Xal'atath's Bargain: Devour,Jahmili,Priest,Holy,healer,Silver Hand
+11,180,299530326,2,Mists of Tirna Scithe,2024-10-12T08:30:41.000Z,1024156,1800999,3,Xal'atath's Bargain: Devour,盼宝宝,Shaman,Elemental,dps,The Master's Glaive
+12,178,304692585,2,Mists of Tirna Scithe,2024-11-03T11:49:46.000Z,1174981,1800999,2,Xal'atath's Bargain: Devour,牛至,Warrior,Fury,dps,Hectae
+12,178,304692585,2,Mists of Tirna Scithe,2024-11-03T11:49:46.000Z,1174981,1800999,2,Xal'atath's Bargain: Devour,滴滴打德,Druid,Restoration,healer,Loken
+12,178,304692585,2,Mists of Tirna Scithe,2024-11-03T11:49:46.000Z,1174981,1800999,2,Xal'atath's Bargain: Devour,凡泠骑,Paladin,Protection,tank,Force of Elemental
+12,178,304692585,2,Mists of Tirna Scithe,2024-11-03T11:49:46.000Z,1174981,1800999,2,Xal'atath's Bargain: Devour,月色黎明,Mage,Frost,dps,Deathwing
+12,178,304692585,2,Mists of Tirna Scithe,2024-11-03T11:49:46.000Z,1174981,1800999,2,Xal'atath's Bargain: Devour,短长腿欧巴,Death Knight,Frost,dps,Eldre'Thalas
+13,176.1,304690551,2,Mists of Tirna Scithe,2024-11-03T11:19:10.000Z,1266348,1800999,2,Xal'atath's Bargain: Devour,术术不干活,Warlock,Destruction,dps,Dark Iron
+13,176.1,304690551,2,Mists of Tirna Scithe,2024-11-03T11:19:10.000Z,1266348,1800999,2,Xal'atath's Bargain: Devour,饮用纯净水,Shaman,Restoration,healer,Al'ar
+13,176.1,304690551,2,Mists of Tirna Scithe,2024-11-03T11:19:10.000Z,1266348,1800999,2,Xal'atath's Bargain: Devour,摸根儿,Rogue,Assassination,dps,Feralas
+13,176.1,304690551,2,Mists of Tirna Scithe,2024-11-03T11:19:10.000Z,1266348,1800999,2,Xal'atath's Bargain: Devour,秋伯,Paladin,Retribution,dps,Dark Iron
+13,176.1,304690551,2,Mists of Tirna Scithe,2024-11-03T11:19:10.000Z,1266348,1800999,2,Xal'atath's Bargain: Devour,我曾來过,Paladin,Protection,tank,Dark Iron
+14,174.9,299922003,2,Mists of Tirna Scithe,2024-10-13T16:10:40.000Z,1326419,1800999,2,Xal'atath's Bargain: Devour,灬依然很纯灬,Warlock,Demonology,dps,Grim Batol
+14,174.9,299922003,2,Mists of Tirna Scithe,2024-10-13T16:10:40.000Z,1326419,1800999,2,Xal'atath's Bargain: Devour,可爱的小肚兜,Mage,Frost,dps,Algalon
+14,174.9,299922003,2,Mists of Tirna Scithe,2024-10-13T16:10:40.000Z,1326419,1800999,2,Xal'atath's Bargain: Devour,自大的奈非天,Shaman,Restoration,healer,Burning Blade
+14,174.9,299922003,2,Mists of Tirna Scithe,2024-10-13T16:10:40.000Z,1326419,1800999,2,Xal'atath's Bargain: Devour,暮雨乄潇潇,Paladin,Retribution,dps,Demon Soul
+14,174.9,299922003,2,Mists of Tirna Scithe,2024-10-13T16:10:40.000Z,1326419,1800999,2,Xal'atath's Bargain: Devour,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+15,174.3,305431752,2,Mists of Tirna Scithe,2024-11-06T11:49:23.000Z,1352463,1800999,2,Xal'atath's Bargain: Devour,滴滴打德,Druid,Restoration,healer,Loken
+15,174.3,305431752,2,Mists of Tirna Scithe,2024-11-06T11:49:23.000Z,1352463,1800999,2,Xal'atath's Bargain: Devour,凡泠骑,Paladin,Protection,tank,Force of Elemental
+15,174.3,305431752,2,Mists of Tirna Scithe,2024-11-06T11:49:23.000Z,1352463,1800999,2,Xal'atath's Bargain: Devour,燃尽风霜,Monk,Windwalker,dps,Hectae
+15,174.3,305431752,2,Mists of Tirna Scithe,2024-11-06T11:49:23.000Z,1352463,1800999,2,Xal'atath's Bargain: Devour,勇者的心,Death Knight,Frost,dps,The Master's Glaive
+15,174.3,305431752,2,Mists of Tirna Scithe,2024-11-06T11:49:23.000Z,1352463,1800999,2,Xal'atath's Bargain: Devour,雾凌,Shaman,Enhancement,dps,Sandfury

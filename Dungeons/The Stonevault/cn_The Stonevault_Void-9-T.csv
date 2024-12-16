@@ -1,0 +1,516 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,309.1,297829365,9,The Stonevault,2024-10-05T09:17:41.000Z,1289759,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",步天,Hunter,Marksmanship,dps,Scarlet Crusade
+1,309.1,297829365,9,The Stonevault,2024-10-05T09:17:41.000Z,1289759,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",卡拉星歌,Monk,Windwalker,dps,Echo Ridge
+1,309.1,297829365,9,The Stonevault,2024-10-05T09:17:41.000Z,1289759,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",活动人偶,Death Knight,Blood,tank,Alleria
+1,309.1,297829365,9,The Stonevault,2024-10-05T09:17:41.000Z,1289759,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",乌鸦过载了,Shaman,Restoration,healer,Scarlet Crusade
+1,309.1,297829365,9,The Stonevault,2024-10-05T09:17:41.000Z,1289759,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ellysia,Death Knight,Frost,dps,Scarlet Crusade
+2,308.6,294936493,9,The Stonevault,2024-10-06T15:35:50.000Z,1319450,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Gawainejey,Death Knight,Unholy,dps,Rhonin
+2,308.6,294936493,9,The Stonevault,2024-10-06T15:35:50.000Z,1319450,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪特多拉贡,Evoker,Devastation,dps,Valley of Kings
+2,308.6,294936493,9,The Stonevault,2024-10-06T15:35:50.000Z,1319450,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",慢满,Shaman,Restoration,healer,Valley of Kings
+2,308.6,294936493,9,The Stonevault,2024-10-06T15:35:50.000Z,1319450,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小怪兽啊哈酱,Demon Hunter,Vengeance,tank,Valley of Kings
+2,308.6,294936493,9,The Stonevault,2024-10-06T15:35:50.000Z,1319450,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大丨帝,Warrior,Fury,dps,Valley of Kings
+3,308.5,297429892,9,The Stonevault,2024-10-03T19:07:41.000Z,1323519,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",听凭风引,Shaman,Elemental,dps,Grim Batol
+3,308.5,297429892,9,The Stonevault,2024-10-03T19:07:41.000Z,1323519,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小德医生,Druid,Restoration,healer,Deathwing
+3,308.5,297429892,9,The Stonevault,2024-10-03T19:07:41.000Z,1323519,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",段秋风丶,Death Knight,Frost,dps,Silver Hand
+3,308.5,297429892,9,The Stonevault,2024-10-03T19:07:41.000Z,1323519,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",意见欲,Death Knight,Unholy,dps,The Great Sea
+3,308.5,297429892,9,The Stonevault,2024-10-03T19:07:41.000Z,1323519,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sarai,Death Knight,Blood,tank,Deathwing
+4,306.8,297932131,9,The Stonevault,2024-10-05T18:01:42.000Z,1418498,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阙景,Death Knight,Unholy,dps,Burning Blade
+4,306.8,297932131,9,The Stonevault,2024-10-05T18:01:42.000Z,1418498,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",七堇丶,Mage,Fire,dps,Burning Blade
+4,306.8,297932131,9,The Stonevault,2024-10-05T18:01:42.000Z,1418498,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",油炸鸭鸭,Paladin,Protection,tank,Barrens
+4,306.8,297932131,9,The Stonevault,2024-10-05T18:01:42.000Z,1418498,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小呆纸丶,Demon Hunter,Havoc,dps,Silver Hand
+4,306.8,297932131,9,The Stonevault,2024-10-05T18:01:42.000Z,1418498,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Makki,Priest,Discipline,healer,Shadowmourne
+5,306.7,297407193,9,The Stonevault,2024-10-03T16:25:26.000Z,1424162,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Macleans,Mage,Fire,dps,Silver Hand
+5,306.7,297407193,9,The Stonevault,2024-10-03T16:25:26.000Z,1424162,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",步听话,Priest,Holy,healer,Burning Blade
+5,306.7,297407193,9,The Stonevault,2024-10-03T16:25:26.000Z,1424162,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",熠星,Paladin,Retribution,dps,Burning Blade
+5,306.7,297407193,9,The Stonevault,2024-10-03T16:25:26.000Z,1424162,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阿貝师傅,Mage,Frost,dps,Alterac Mountains
+5,306.7,297407193,9,The Stonevault,2024-10-03T16:25:26.000Z,1424162,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宽恕丶,Demon Hunter,Vengeance,tank,Silver Hand
+6,306.4,298156575,9,The Stonevault,2024-10-06T13:42:31.000Z,1441769,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",农村信用社,Demon Hunter,Vengeance,tank,Blanchard
+6,306.4,298156575,9,The Stonevault,2024-10-06T13:42:31.000Z,1441769,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶晓茹,Mage,Fire,dps,Shadowmourne
+6,306.4,298156575,9,The Stonevault,2024-10-06T13:42:31.000Z,1441769,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",依然飯特稀灬,Death Knight,Frost,dps,Shadowmourne
+6,306.4,298156575,9,The Stonevault,2024-10-06T13:42:31.000Z,1441769,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",魔龙丶灾,Shaman,Elemental,dps,Scarlet Crusade
+6,306.4,298156575,9,The Stonevault,2024-10-06T13:42:31.000Z,1441769,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",梵渡,Priest,Discipline,healer,Silver Hand
+7,306.3,309519044,9,The Stonevault,2024-11-28T17:12:51.000Z,1445804,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Baoqisangqs,Paladin,Protection,tank,Grim Batol
+7,306.3,309519044,9,The Stonevault,2024-11-28T17:12:51.000Z,1445804,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",女子女乃爸,Priest,Discipline,healer,Hectae
+7,306.3,309519044,9,The Stonevault,2024-11-28T17:12:51.000Z,1445804,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",晴天小圣,Death Knight,Frost,dps,Silver Hand
+7,306.3,309519044,9,The Stonevault,2024-11-28T17:12:51.000Z,1445804,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",趴趴狗,Shaman,Enhancement,dps,Scarlet Crusade
+7,306.3,309519044,9,The Stonevault,2024-11-28T17:12:51.000Z,1445804,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",践踏哀木涕,Warrior,Fury,dps,Valley of Kings
+8,306.3,297922900,9,The Stonevault,2024-10-05T17:26:08.000Z,1447947,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Wriothesley,Warlock,Affliction,dps,Grim Batol
+8,306.3,297922900,9,The Stonevault,2024-10-05T17:26:08.000Z,1447947,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",西瓜沃特妹冷,Druid,Guardian,tank,Al'ar
+8,306.3,297922900,9,The Stonevault,2024-10-05T17:26:08.000Z,1447947,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我不认鹿啊,Paladin,Retribution,dps,Al'ar
+8,306.3,297922900,9,The Stonevault,2024-10-05T17:26:08.000Z,1447947,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Stylesme,Demon Hunter,Havoc,dps,Deathwing
+8,306.3,297922900,9,The Stonevault,2024-10-05T17:26:08.000Z,1447947,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨牙丨,Shaman,Restoration,healer,Scarlet Crusade
+9,306.1,298688120,9,The Stonevault,2024-10-08T17:38:27.000Z,1459017,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",兔你一身,Warrior,Protection,tank,River Pride
+9,306.1,298688120,9,The Stonevault,2024-10-08T17:38:27.000Z,1459017,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ruá,Death Knight,Frost,dps,River Pride
+9,306.1,298688120,9,The Stonevault,2024-10-08T17:38:27.000Z,1459017,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",淦淦干,Death Knight,Unholy,dps,Isillien
+9,306.1,298688120,9,The Stonevault,2024-10-08T17:38:27.000Z,1459017,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",维纳斯卡卡,Shaman,Restoration,healer,Anachronos
+9,306.1,298688120,9,The Stonevault,2024-10-08T17:38:27.000Z,1459017,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",安忒拉斯,Paladin,Retribution,dps,Anachronos
+10,304.9,297584417,9,The Stonevault,2024-10-04T10:54:14.000Z,1521989,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Casteres,Warlock,Destruction,dps,Burning Blade
+10,304.9,297584417,9,The Stonevault,2024-10-04T10:54:14.000Z,1521989,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Io,Warrior,Protection,tank,Frostmane
+10,304.9,297584417,9,The Stonevault,2024-10-04T10:54:14.000Z,1521989,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶雨呆毛,Shaman,Elemental,dps,Frostmane
+10,304.9,297584417,9,The Stonevault,2024-10-04T10:54:14.000Z,1521989,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奶奶助我,Shaman,Restoration,healer,Frostmane
+10,304.9,297584417,9,The Stonevault,2024-10-04T10:54:14.000Z,1521989,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",法力残渣丨,Mage,Frost,dps,The Master's Glaive
+11,304.8,297371138,9,The Stonevault,2024-10-03T12:38:02.000Z,1527857,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",澳洲袋鼠人,Demon Hunter,Vengeance,tank,Silver Hand
+11,304.8,297371138,9,The Stonevault,2024-10-03T12:38:02.000Z,1527857,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Hansmage,Mage,Fire,dps,Isillien
+11,304.8,297371138,9,The Stonevault,2024-10-03T12:38:02.000Z,1527857,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Captiansulta,Death Knight,Frost,dps,Rhonin
+11,304.8,297371138,9,The Stonevault,2024-10-03T12:38:02.000Z,1527857,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",荒野天狼,Shaman,Restoration,healer,Rhonin
+11,304.8,297371138,9,The Stonevault,2024-10-03T12:38:02.000Z,1527857,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",暗示萨法,Warrior,Fury,dps,Doomwalker
+12,304.7,298814854,9,The Stonevault,2024-10-09T04:50:56.000Z,1534134,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",傻幽,Mage,Frost,dps,Dreadmist Peak
+12,304.7,298814854,9,The Stonevault,2024-10-09T04:50:56.000Z,1534134,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小明牧師,Priest,Discipline,healer,Doomwalker
+12,304.7,298814854,9,The Stonevault,2024-10-09T04:50:56.000Z,1534134,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宠爱有嘉,Paladin,Retribution,dps,Arathor
+12,304.7,298814854,9,The Stonevault,2024-10-09T04:50:56.000Z,1534134,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一小璇一,Death Knight,Blood,tank,Ring of Trials
+12,304.7,298814854,9,The Stonevault,2024-10-09T04:50:56.000Z,1534134,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",垂直星空,Druid,Balance,dps,The Master's Glaive
+13,304.6,298108719,9,The Stonevault,2024-10-06T08:37:41.000Z,1541302,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",布林顿丶九千,Warrior,Fury,dps,Al'ar
+13,304.6,298108719,9,The Stonevault,2024-10-06T08:37:41.000Z,1541302,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小鱼爱丽,Warlock,Affliction,dps,Medivh
+13,304.6,298108719,9,The Stonevault,2024-10-06T08:37:41.000Z,1541302,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Frankel,Death Knight,Frost,dps,Silver Hand
+13,304.6,298108719,9,The Stonevault,2024-10-06T08:37:41.000Z,1541302,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",酸水,Demon Hunter,Vengeance,tank,Rhonin
+13,304.6,298108719,9,The Stonevault,2024-10-06T08:37:41.000Z,1541302,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",低保王,Shaman,Restoration,healer,Shadowmourne
+14,304.5,297805153,9,The Stonevault,2024-10-05T06:10:23.000Z,1544564,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Chrisi,Warlock,Destruction,dps,The Master's Glaive
+14,304.5,297805153,9,The Stonevault,2024-10-05T06:10:23.000Z,1544564,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",钓以倾心,Death Knight,Frost,dps,Al'ar
+14,304.5,297805153,9,The Stonevault,2024-10-05T06:10:23.000Z,1544564,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",可爱捏,Demon Hunter,Vengeance,tank,Rhonin
+14,304.5,297805153,9,The Stonevault,2024-10-05T06:10:23.000Z,1544564,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冬月教授,Shaman,Restoration,healer,Silver Hand
+14,304.5,297805153,9,The Stonevault,2024-10-05T06:10:23.000Z,1544564,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",風轻雲淡,Warrior,Fury,dps,The Botanica
+15,304.2,297838443,9,The Stonevault,2024-10-05T10:32:57.000Z,1561521,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Jein,Evoker,Devastation,dps,Deathwing
+15,304.2,297838443,9,The Stonevault,2024-10-05T10:32:57.000Z,1561521,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狂徒法,Mage,Fire,dps,Eldre'Thalas
+15,304.2,297838443,9,The Stonevault,2024-10-05T10:32:57.000Z,1561521,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",林智研,Demon Hunter,Vengeance,tank,Silver Hand
+15,304.2,297838443,9,The Stonevault,2024-10-05T10:32:57.000Z,1561521,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Qiaolingovo,Shaman,Elemental,dps,Scarlet Crusade
+15,304.2,297838443,9,The Stonevault,2024-10-05T10:32:57.000Z,1561521,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",逃离凤凰之神,Evoker,Preservation,healer,Swiftwind
+16,304.2,298167853,9,The Stonevault,2024-10-06T15:04:19.000Z,1563704,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bigxxshow,Rogue,Assassination,dps,Al'ar
+16,304.2,298167853,9,The Stonevault,2024-10-06T15:04:19.000Z,1563704,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",芋泥丶啵啵,Shaman,Restoration,healer,Blanchard
+16,304.2,298167853,9,The Stonevault,2024-10-06T15:04:19.000Z,1563704,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",花裤衩的荣耀,Paladin,Retribution,dps,Silver Hand
+16,304.2,298167853,9,The Stonevault,2024-10-06T15:04:19.000Z,1563704,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你家有剩饭吗,Death Knight,Frost,dps,Deathwing
+16,304.2,298167853,9,The Stonevault,2024-10-06T15:04:19.000Z,1563704,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",香辣咸鱼久,Warrior,Protection,tank,Isillien
+17,304.2,298427165,9,The Stonevault,2024-10-07T14:00:13.000Z,1565547,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅夏灬,Rogue,Assassination,dps,Blanchard
+17,304.2,298427165,9,The Stonevault,2024-10-07T14:00:13.000Z,1565547,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",楞类极限,Mage,Fire,dps,Anzu
+17,304.2,298427165,9,The Stonevault,2024-10-07T14:00:13.000Z,1565547,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Theartiste,Monk,Mistweaver,healer,Shadowmourne
+17,304.2,298427165,9,The Stonevault,2024-10-07T14:00:13.000Z,1565547,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夢綾,Death Knight,Frost,dps,Rhonin
+17,304.2,298427165,9,The Stonevault,2024-10-07T14:00:13.000Z,1565547,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",今晚风很温柔,Demon Hunter,Vengeance,tank,Al'ar
+18,303.6,297598910,9,The Stonevault,2024-10-04T12:32:06.000Z,1594339,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",七堇丶,Mage,Fire,dps,Burning Blade
+18,303.6,297598910,9,The Stonevault,2024-10-04T12:32:06.000Z,1594339,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Makki,Priest,Discipline,healer,Shadowmourne
+18,303.6,297598910,9,The Stonevault,2024-10-04T12:32:06.000Z,1594339,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夹熊饼干,Druid,Guardian,tank,Isillien
+18,303.6,297598910,9,The Stonevault,2024-10-04T12:32:06.000Z,1594339,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",求巴比母捏牛,Warrior,Fury,dps,Isillien
+18,303.6,297598910,9,The Stonevault,2024-10-04T12:32:06.000Z,1594339,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超猛,Death Knight,Unholy,dps,Deepfury
+19,303.5,298419386,9,The Stonevault,2024-10-07T12:55:39.000Z,1601062,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bigxxshow,Rogue,Assassination,dps,Al'ar
+19,303.5,298419386,9,The Stonevault,2024-10-07T12:55:39.000Z,1601062,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",等我先洗个澡,Shaman,Restoration,healer,Al'ar
+19,303.5,298419386,9,The Stonevault,2024-10-07T12:55:39.000Z,1601062,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我不是鸡翅膀,Evoker,Augmentation,dps,Silver Hand
+19,303.5,298419386,9,The Stonevault,2024-10-07T12:55:39.000Z,1601062,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",荔枝小死骑,Death Knight,Frost,dps,Silver Hand
+19,303.5,298419386,9,The Stonevault,2024-10-07T12:55:39.000Z,1601062,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",香辣咸鱼久,Warrior,Protection,tank,Isillien
+20,303,297441588,9,The Stonevault,2024-10-03T20:41:15.000Z,1626490,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨新之助,Hunter,Marksmanship,dps,Burning Blade
+20,303,297441588,9,The Stonevault,2024-10-03T20:41:15.000Z,1626490,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灵犀丶,Warlock,Affliction,dps,The Great Sea
+20,303,297441588,9,The Stonevault,2024-10-03T20:41:15.000Z,1626490,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",偶唛噶,Paladin,Retribution,dps,Silver Hand
+20,303,297441588,9,The Stonevault,2024-10-03T20:41:15.000Z,1626490,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Leoeagle,Warrior,Protection,tank,Thoradin
+20,303,297441588,9,The Stonevault,2024-10-03T20:41:15.000Z,1626490,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",邪命自活,Monk,Mistweaver,healer,Grim Batol
+21,303,309503596,9,The Stonevault,2024-11-28T14:43:35.000Z,1627022,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",抓喵喵高手,Death Knight,Frost,dps,Silver Hand
+21,303,309503596,9,The Stonevault,2024-11-28T14:43:35.000Z,1627022,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Yomu,Paladin,Protection,tank,The Underbog
+21,303,309503596,9,The Stonevault,2024-11-28T14:43:35.000Z,1627022,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kobememory,Shaman,Elemental,dps,Moonglade
+21,303,309503596,9,The Stonevault,2024-11-28T14:43:35.000Z,1627022,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",躲喵喵达人丶,Paladin,Retribution,dps,Silver Hand
+21,303,309503596,9,The Stonevault,2024-11-28T14:43:35.000Z,1627022,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蟑螂恶魃,Shaman,Restoration,healer,Al'ar
+22,302.8,298859329,9,The Stonevault,2024-10-09T13:54:16.000Z,1639020,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅夏灬,Rogue,Assassination,dps,Blanchard
+22,302.8,298859329,9,The Stonevault,2024-10-09T13:54:16.000Z,1639020,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",楞类极限,Mage,Fire,dps,Anzu
+22,302.8,298859329,9,The Stonevault,2024-10-09T13:54:16.000Z,1639020,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夢綾,Death Knight,Frost,dps,Rhonin
+22,302.8,298859329,9,The Stonevault,2024-10-09T13:54:16.000Z,1639020,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",今晚风很温柔,Demon Hunter,Vengeance,tank,Al'ar
+22,302.8,298859329,9,The Stonevault,2024-10-09T13:54:16.000Z,1639020,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",薛定谔的喵,Shaman,Restoration,healer,Chillwind Point
+23,302.7,298707383,9,The Stonevault,2024-10-08T19:08:18.000Z,1643733,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",面具哥,Druid,Guardian,tank,Al'ar
+23,302.7,298707383,9,The Stonevault,2024-10-08T19:08:18.000Z,1643733,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",零荭蝶,Shaman,Restoration,healer,Valley of Kings
+23,302.7,298707383,9,The Stonevault,2024-10-08T19:08:18.000Z,1643733,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",这下坏了,Rogue,Outlaw,dps,Silver Hand
+23,302.7,298707383,9,The Stonevault,2024-10-08T19:08:18.000Z,1643733,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蜚黄腾达,Demon Hunter,Havoc,dps,Algalon
+23,302.7,298707383,9,The Stonevault,2024-10-08T19:08:18.000Z,1643733,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kronose,Paladin,Retribution,dps,Grim Batol
+24,302.6,297902723,9,The Stonevault,2024-10-05T16:08:16.000Z,1653557,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",艾青橙,Druid,Guardian,tank,The Golden Plains
+24,302.6,297902723,9,The Stonevault,2024-10-05T16:08:16.000Z,1653557,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+24,302.6,297902723,9,The Stonevault,2024-10-05T16:08:16.000Z,1653557,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小飞龙人,Evoker,Augmentation,dps,Al'ar
+24,302.6,297902723,9,The Stonevault,2024-10-05T16:08:16.000Z,1653557,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",菠比哥哥丶,Death Knight,Frost,dps,Grim Batol
+24,302.6,297902723,9,The Stonevault,2024-10-05T16:08:16.000Z,1653557,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",爱吃锅贴,Hunter,Marksmanship,dps,Grim Batol
+25,302,297399033,9,The Stonevault,2024-10-03T16:18:12.000Z,1682422,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",恶魔丶魂,Warlock,Destruction,dps,Eldre'Thalas
+25,302,297399033,9,The Stonevault,2024-10-03T16:18:12.000Z,1682422,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Forsylvanask,Death Knight,Frost,dps,Eldre'Thalas
+25,302,297399033,9,The Stonevault,2024-10-03T16:18:12.000Z,1682422,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Yorushikaa,Evoker,Preservation,healer,Eldre'Thalas
+25,302,297399033,9,The Stonevault,2024-10-03T16:18:12.000Z,1682422,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",猫足,Paladin,Retribution,dps,Eldre'Thalas
+25,302,297399033,9,The Stonevault,2024-10-03T16:18:12.000Z,1682422,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Factoyrat,Death Knight,Blood,tank,Eldre'Thalas
+26,302,298903868,9,The Stonevault,2024-10-09T17:24:21.000Z,1683236,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",飛丷飛,Paladin,Retribution,dps,Doomwalker
+26,302,298903868,9,The Stonevault,2024-10-09T17:24:21.000Z,1683236,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",葉咕咕,Druid,Guardian,tank,Silver Hand
+26,302,298903868,9,The Stonevault,2024-10-09T17:24:21.000Z,1683236,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",繁星映诸天,Shaman,Elemental,dps,Doomwalker
+26,302,298903868,9,The Stonevault,2024-10-09T17:24:21.000Z,1683236,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",暗牧早睡早起,Priest,Discipline,healer,Pandaren
+26,302,298903868,9,The Stonevault,2024-10-09T17:24:21.000Z,1683236,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小斯主任,Evoker,Augmentation,dps,Doomwalker
+27,301.8,298134465,9,The Stonevault,2024-10-06T11:28:29.000Z,1694624,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冲丶钅,Warrior,Protection,tank,Isillien
+27,301.8,298134465,9,The Stonevault,2024-10-06T11:28:29.000Z,1694624,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",石锅志龙,Evoker,Augmentation,dps,Burning Blade
+27,301.8,298134465,9,The Stonevault,2024-10-06T11:28:29.000Z,1694624,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",乜都萨,Shaman,Restoration,healer,Deathwing
+27,301.8,298134465,9,The Stonevault,2024-10-06T11:28:29.000Z,1694624,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",利盾,Paladin,Retribution,dps,Grim Batol
+27,301.8,298134465,9,The Stonevault,2024-10-06T11:28:29.000Z,1694624,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",西门黑牛,Paladin,Retribution,dps,Anzu
+28,301.4,298382688,9,The Stonevault,2024-10-07T06:17:57.000Z,1715015,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鳌虾寿司,Shaman,Elemental,dps,Silver Hand
+28,301.4,298382688,9,The Stonevault,2024-10-07T06:17:57.000Z,1715015,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",不冰的冰红茶,Shaman,Restoration,healer,Bladespire
+28,301.4,298382688,9,The Stonevault,2024-10-07T06:17:57.000Z,1715015,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",和风细雨,Paladin,Retribution,dps,Argus
+28,301.4,298382688,9,The Stonevault,2024-10-07T06:17:57.000Z,1715015,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",艾妮娅,Death Knight,Unholy,dps,Echo Ridge
+28,301.4,298382688,9,The Stonevault,2024-10-07T06:17:57.000Z,1715015,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",南通白胖,Druid,Guardian,tank,Chillwind Point
+29,301.4,298436924,9,The Stonevault,2024-10-07T15:12:48.000Z,1719124,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",无敌大防战,Warrior,Protection,tank,Rhonin
+29,301.4,298436924,9,The Stonevault,2024-10-07T15:12:48.000Z,1719124,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",可爱的卡卡姐,Shaman,Restoration,healer,Rhonin
+29,301.4,298436924,9,The Stonevault,2024-10-07T15:12:48.000Z,1719124,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",跳车狂魔,Paladin,Retribution,dps,The Master's Glaive
+29,301.4,298436924,9,The Stonevault,2024-10-07T15:12:48.000Z,1719124,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",愤怒的小鸡娃,Warlock,Destruction,dps,Rhonin
+29,301.4,298436924,9,The Stonevault,2024-10-07T15:12:48.000Z,1719124,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雪精灵骑士,Paladin,Retribution,dps,Rhonin
+30,301.3,305650824,9,The Stonevault,2024-10-07T18:40:53.000Z,1720618,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Naowh,Death Knight,Unholy,dps,Lordaeron
+30,301.3,305650824,9,The Stonevault,2024-10-07T18:40:53.000Z,1720618,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kresnik,Death Knight,Blood,tank,Doomwalker
+30,301.3,305650824,9,The Stonevault,2024-10-07T18:40:53.000Z,1720618,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sha,Monk,Mistweaver,healer,Rhonin
+30,301.3,305650824,9,The Stonevault,2024-10-07T18:40:53.000Z,1720618,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",闪电松鼠,Paladin,Retribution,dps,Doomwalker
+30,301.3,305650824,9,The Stonevault,2024-10-07T18:40:53.000Z,1720618,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阿芙洛蒂忒,Paladin,Retribution,dps,Doomwalker
+31,301.3,297351416,9,The Stonevault,2024-10-03T09:52:04.000Z,1724372,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",智杰的二伯,Paladin,Holy,healer,Scarlet Crusade
+31,301.3,297351416,9,The Stonevault,2024-10-03T09:52:04.000Z,1724372,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",嘿皮,Warrior,Fury,dps,Shadowmourne
+31,301.3,297351416,9,The Stonevault,2024-10-03T09:52:04.000Z,1724372,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蓝莓酸奶丶,Demon Hunter,Vengeance,tank,Rhonin
+31,301.3,297351416,9,The Stonevault,2024-10-03T09:52:04.000Z,1724372,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶失时鹊起,Paladin,Retribution,dps,Ragnaros
+31,301.3,297351416,9,The Stonevault,2024-10-03T09:52:04.000Z,1724372,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",霜火不会飞,Mage,Frost,dps,Burning Blade
+32,301.2,297808015,9,The Stonevault,2024-10-05T06:55:03.000Z,1728709,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",花落无缺丶,Mage,Fire,dps,Silver Hand
+32,301.2,297808015,9,The Stonevault,2024-10-05T06:55:03.000Z,1728709,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",睡叔叔,Rogue,Assassination,dps,Silver Hand
+32,301.2,297808015,9,The Stonevault,2024-10-05T06:55:03.000Z,1728709,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨诗写云上,Death Knight,Blood,tank,The Master's Glaive
+32,301.2,297808015,9,The Stonevault,2024-10-05T06:55:03.000Z,1728709,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",在沉默中爆發,Paladin,Retribution,dps,Barrens
+32,301.2,297808015,9,The Stonevault,2024-10-05T06:55:03.000Z,1728709,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",仙女,Priest,Discipline,healer,Kel'Thuzad
+33,301.1,297922096,9,The Stonevault,2024-10-05T17:22:01.000Z,1736315,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我叫大表哥,Warrior,Protection,tank,Isillien
+33,301.1,297922096,9,The Stonevault,2024-10-05T17:22:01.000Z,1736315,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宫商角徽羽,Shaman,Restoration,healer,Crushridge
+33,301.1,297922096,9,The Stonevault,2024-10-05T17:22:01.000Z,1736315,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",壹点点,Paladin,Retribution,dps,Frostmourne
+33,301.1,297922096,9,The Stonevault,2024-10-05T17:22:01.000Z,1736315,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",红豆粥丶,Death Knight,Unholy,dps,Silver Hand
+33,301.1,297922096,9,The Stonevault,2024-10-05T17:22:01.000Z,1736315,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一雪团团一,Paladin,Retribution,dps,Danath Trollbane
+34,300.6,298454797,9,The Stonevault,2024-10-07T16:54:54.000Z,1763338,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",林深迷鹿,Mage,Frost,dps,Silver Hand
+34,300.6,298454797,9,The Stonevault,2024-10-07T16:54:54.000Z,1763338,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",铁栓爱上铁柱,Paladin,Holy,healer,Grim Batol
+34,300.6,298454797,9,The Stonevault,2024-10-07T16:54:54.000Z,1763338,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+34,300.6,298454797,9,The Stonevault,2024-10-07T16:54:54.000Z,1763338,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丢了魂,Monk,Brewmaster,tank,Grim Batol
+34,300.6,298454797,9,The Stonevault,2024-10-07T16:54:54.000Z,1763338,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",隔壁老杜,Demon Hunter,Havoc,dps,Grim Batol
+35,300.5,298182150,9,The Stonevault,2024-10-06T14:47:45.000Z,1764809,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冰月天依,Paladin,Protection,tank,Grim Batol
+35,300.5,298182150,9,The Stonevault,2024-10-06T14:47:45.000Z,1764809,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",星河挽清梦,Death Knight,Frost,dps,Silver Hand
+35,300.5,298182150,9,The Stonevault,2024-10-06T14:47:45.000Z,1764809,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",康德骑士,Paladin,Retribution,dps,Illidan
+35,300.5,298182150,9,The Stonevault,2024-10-06T14:47:45.000Z,1764809,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",好像是嘤嘤怪,Evoker,Preservation,healer,Silver Hand
+35,300.5,298182150,9,The Stonevault,2024-10-06T14:47:45.000Z,1764809,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅灬陌丶,Shaman,Elemental,dps,Deathwing
+36,300.3,298640277,9,The Stonevault,2024-10-08T14:10:44.000Z,1780305,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",随便盖姚明,Monk,Brewmaster,tank,Chillwind Point
+36,300.3,298640277,9,The Stonevault,2024-10-08T14:10:44.000Z,1780305,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Neir,Warlock,Destruction,dps,Chillwind Point
+36,300.3,298640277,9,The Stonevault,2024-10-08T14:10:44.000Z,1780305,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",撸猫大叔,Death Knight,Unholy,dps,Chillwind Point
+36,300.3,298640277,9,The Stonevault,2024-10-08T14:10:44.000Z,1780305,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夏可一乐,Paladin,Retribution,dps,Silver Hand
+36,300.3,298640277,9,The Stonevault,2024-10-08T14:10:44.000Z,1780305,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阳光果粒橙,Shaman,Restoration,healer,Dreadmist Peak
+37,300.2,297829672,9,The Stonevault,2024-10-05T09:21:17.000Z,1781613,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",赵文姗,Mage,Arcane,dps,Burning Blade
+37,300.2,297829672,9,The Stonevault,2024-10-05T09:21:17.000Z,1781613,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",卡德伊哔,Death Knight,Blood,tank,Burning Blade
+37,300.2,297829672,9,The Stonevault,2024-10-05T09:21:17.000Z,1781613,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Lovelss,Death Knight,Frost,dps,Thrall
+37,300.2,297829672,9,The Stonevault,2024-10-05T09:21:17.000Z,1781613,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",减伤交过了,Monk,Mistweaver,healer,Thrall
+37,300.2,297829672,9,The Stonevault,2024-10-05T09:21:17.000Z,1781613,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",常山赵子龙,Evoker,Augmentation,dps,Thrall
+38,300.1,298933489,9,The Stonevault,2024-10-09T19:34:53.000Z,1790303,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小雨饱饱,Death Knight,Frost,dps,Destromath
+38,300.1,298933489,9,The Stonevault,2024-10-09T19:34:53.000Z,1790303,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kikoii,Warlock,Affliction,dps,Deathwing
+38,300.1,298933489,9,The Stonevault,2024-10-09T19:34:53.000Z,1790303,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",残忍丶,Death Knight,Frost,dps,Burning Blade
+38,300.1,298933489,9,The Stonevault,2024-10-09T19:34:53.000Z,1790303,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",翻滚吧象拔蚌,Monk,Brewmaster,tank,Grim Batol
+38,300.1,298933489,9,The Stonevault,2024-10-09T19:34:53.000Z,1790303,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小鲸鱼,Shaman,Restoration,healer,Burning Blade
+39,300,298099121,9,The Stonevault,2024-10-06T07:24:42.000Z,1792383,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨明玥丨,Paladin,Retribution,dps,Frostmourne
+39,300,298099121,9,The Stonevault,2024-10-06T07:24:42.000Z,1792383,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",风刑,Shaman,Restoration,healer,Frostmourne
+39,300,298099121,9,The Stonevault,2024-10-06T07:24:42.000Z,1792383,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",钓以倾心,Death Knight,Frost,dps,Al'ar
+39,300,298099121,9,The Stonevault,2024-10-06T07:24:42.000Z,1792383,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",墨雪绯红,Death Knight,Blood,tank,Silver Hand
+39,300,298099121,9,The Stonevault,2024-10-06T07:24:42.000Z,1792383,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",梦玄月,Warlock,Destruction,dps,Echo Ridge
+40,300,297364902,9,The Stonevault,2024-10-03T11:11:52.000Z,1793948,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",呜丶呼,Demon Hunter,Vengeance,tank,Deathwing
+40,300,297364902,9,The Stonevault,2024-10-03T11:11:52.000Z,1793948,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",南疆古月方源,Death Knight,Unholy,dps,Deathwing
+40,300,297364902,9,The Stonevault,2024-10-03T11:11:52.000Z,1793948,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",铁胩,Death Knight,Unholy,dps,Demonslayer
+40,300,297364902,9,The Stonevault,2024-10-03T11:11:52.000Z,1793948,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",野火炸蛋,Shaman,Restoration,healer,Frostmourne
+40,300,297364902,9,The Stonevault,2024-10-03T11:11:52.000Z,1793948,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灰盡使徒,Paladin,Retribution,dps,Al'ar
+41,299.9,297414097,9,The Stonevault,2024-10-03T17:11:00.000Z,1802579,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胖圈圏,Shaman,Restoration,healer,Al'ar
+41,299.9,297414097,9,The Stonevault,2024-10-03T17:11:00.000Z,1802579,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",羊羊爱吃魚,Hunter,Marksmanship,dps,Al'ar
+41,299.9,297414097,9,The Stonevault,2024-10-03T17:11:00.000Z,1802579,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",香蕉为你软,Druid,Guardian,tank,Galakrond
+41,299.9,297414097,9,The Stonevault,2024-10-03T17:11:00.000Z,1802579,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",图图的团哥儿,Death Knight,Frost,dps,Silver Hand
+41,299.9,297414097,9,The Stonevault,2024-10-03T17:11:00.000Z,1802579,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Meliodas,Priest,Shadow,dps,Scarlet Crusade
+42,299.8,298401263,9,The Stonevault,2024-10-07T09:48:30.000Z,1807060,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",就活在十月吧,Demon Hunter,Vengeance,tank,Grim Batol
+42,299.8,298401263,9,The Stonevault,2024-10-07T09:48:30.000Z,1807060,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",不是酒鬼,Warrior,Fury,dps,Rexxar
+42,299.8,298401263,9,The Stonevault,2024-10-07T09:48:30.000Z,1807060,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",西撒齐贝林,Demon Hunter,Havoc,dps,Ravencrest
+42,299.8,298401263,9,The Stonevault,2024-10-07T09:48:30.000Z,1807060,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",封爱乄水少,Shaman,Restoration,healer,Burning Blade
+42,299.8,298401263,9,The Stonevault,2024-10-07T09:48:30.000Z,1807060,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",赫敏敏,Mage,Fire,dps,Scarlet Crusade
+43,299.8,297860031,9,The Stonevault,2024-10-05T12:55:05.000Z,1808157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",兰亭曦丶,Shaman,Restoration,healer,Al'ar
+43,299.8,297860031,9,The Stonevault,2024-10-05T12:55:05.000Z,1808157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+43,299.8,297860031,9,The Stonevault,2024-10-05T12:55:05.000Z,1808157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",常务副剑聖,Death Knight,Frost,dps,Isillien
+43,299.8,297860031,9,The Stonevault,2024-10-05T12:55:05.000Z,1808157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Jetaimexi,Warrior,Protection,tank,Al'ar
+43,299.8,297860031,9,The Stonevault,2024-10-05T12:55:05.000Z,1808157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",燃魂丶,Death Knight,Unholy,dps,The Great Sea
+44,299.6,297398790,9,The Stonevault,2024-10-03T16:04:11.000Z,1815055,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",别打我打法法,Druid,Guardian,tank,Shadowmourne
+44,299.6,297398790,9,The Stonevault,2024-10-03T16:04:11.000Z,1815055,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",北原和纱,Mage,Fire,dps,Shadowmourne
+44,299.6,297398790,9,The Stonevault,2024-10-03T16:04:11.000Z,1815055,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",樱雪松梨,Priest,Discipline,healer,Shadowmourne
+44,299.6,297398790,9,The Stonevault,2024-10-03T16:04:11.000Z,1815055,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",真島誠,Death Knight,Unholy,dps,Valley of Kings
+44,299.6,297398790,9,The Stonevault,2024-10-03T16:04:11.000Z,1815055,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",墨染花雪,Warlock,Destruction,dps,Shadowmourne
+45,299.1,298569993,9,The Stonevault,2024-10-08T02:47:04.000Z,1845426,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萬德富,Druid,Guardian,tank,Rhonin
+45,299.1,298569993,9,The Stonevault,2024-10-08T02:47:04.000Z,1845426,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",炼丿狱,Paladin,Retribution,dps,Isillien
+45,299.1,298569993,9,The Stonevault,2024-10-08T02:47:04.000Z,1845426,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Nealmage,Mage,Fire,dps,Deathwing
+45,299.1,298569993,9,The Stonevault,2024-10-08T02:47:04.000Z,1845426,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大丨咸鱼,Shaman,Restoration,healer,Rhonin
+45,299.1,298569993,9,The Stonevault,2024-10-08T02:47:04.000Z,1845426,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",虾仁珠欣,Death Knight,Frost,dps,Silver Hand
+46,298.7,297357292,9,The Stonevault,2024-10-03T10:34:12.000Z,1865293,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",星光龙,Mage,Fire,dps,Anzu
+46,298.7,297357292,9,The Stonevault,2024-10-03T10:34:12.000Z,1865293,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sxxo,Demon Hunter,Vengeance,tank,Anzu
+46,298.7,297357292,9,The Stonevault,2024-10-03T10:34:12.000Z,1865293,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",元婴以下无敌,Warrior,Fury,dps,Anzu
+46,298.7,297357292,9,The Stonevault,2024-10-03T10:34:12.000Z,1865293,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小安的电磁炮,Shaman,Restoration,healer,Deathwing
+46,298.7,297357292,9,The Stonevault,2024-10-03T10:34:12.000Z,1865293,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蛙酷蛙酷,Death Knight,Unholy,dps,Rhonin
+47,298.6,298103218,9,The Stonevault,2024-10-06T07:45:41.000Z,1874393,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪比巴波灬,Warlock,Destruction,dps,Bloodfeather
+47,298.6,298103218,9,The Stonevault,2024-10-06T07:45:41.000Z,1874393,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我叫大表哥,Warrior,Protection,tank,Isillien
+47,298.6,298103218,9,The Stonevault,2024-10-06T07:45:41.000Z,1874393,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+47,298.6,298103218,9,The Stonevault,2024-10-06T07:45:41.000Z,1874393,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九分十二,Death Knight,Unholy,dps,Al'ar
+47,298.6,298103218,9,The Stonevault,2024-10-06T07:45:41.000Z,1874393,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",真就血压拉满,Death Knight,Frost,dps,Anzu
+48,298.1,297555216,9,The Stonevault,2024-10-04T05:38:41.000Z,1899438,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",辣鸡守护,Shaman,Enhancement,dps,Blanchard
+48,298.1,297555216,9,The Stonevault,2024-10-04T05:38:41.000Z,1899438,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",咕叽咕咚,Shaman,Restoration,healer,Deathwing
+48,298.1,297555216,9,The Stonevault,2024-10-04T05:38:41.000Z,1899438,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",橙龙快婿,Evoker,Augmentation,dps,Deathwing
+48,298.1,297555216,9,The Stonevault,2024-10-04T05:38:41.000Z,1899438,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",忧郁可乐鸡,Death Knight,Blood,tank,Deathwing
+48,298.1,297555216,9,The Stonevault,2024-10-04T05:38:41.000Z,1899438,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",开心超雄,Rogue,Assassination,dps,Deathwing
+49,298,298003371,9,The Stonevault,2024-10-05T22:16:34.000Z,1906737,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Plqs,Paladin,Retribution,dps,Chillwind Point
+49,298,298003371,9,The Stonevault,2024-10-05T22:16:34.000Z,1906737,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",盛夏星空丶,Mage,Fire,dps,Al'ar
+49,298,298003371,9,The Stonevault,2024-10-05T22:16:34.000Z,1906737,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",俄罗斯冰茶,Death Knight,Frost,dps,Deathwing
+49,298,298003371,9,The Stonevault,2024-10-05T22:16:34.000Z,1906737,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",落樱八方绝,Death Knight,Blood,tank,Deathwing
+49,298,298003371,9,The Stonevault,2024-10-05T22:16:34.000Z,1906737,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狗子真可爱,Shaman,Restoration,healer,Rhonin
+50,297.7,298388427,9,The Stonevault,2024-10-07T08:27:25.000Z,1921108,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",炫雨夜,Warlock,Affliction,dps,Al'ar
+50,297.7,298388427,9,The Stonevault,2024-10-07T08:27:25.000Z,1921108,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",獻出心臟,Warrior,Protection,tank,Al'ar
+50,297.7,298388427,9,The Stonevault,2024-10-07T08:27:25.000Z,1921108,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我本低調,Shaman,Restoration,healer,Al'ar
+50,297.7,298388427,9,The Stonevault,2024-10-07T08:27:25.000Z,1921108,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",陪妈妈逛超市,Death Knight,Frost,dps,Deathwing
+50,297.7,298388427,9,The Stonevault,2024-10-07T08:27:25.000Z,1921108,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奶茶去冰丶,Death Knight,Frost,dps,Al'ar
+51,297.3,298144159,9,The Stonevault,2024-10-06T12:37:39.000Z,1942059,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",老气蓬勃,Druid,Guardian,tank,Frostmane
+51,297.3,298144159,9,The Stonevault,2024-10-06T12:37:39.000Z,1942059,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",呦呦嚎嗖,Mage,Frost,dps,Frostmane
+51,297.3,298144159,9,The Stonevault,2024-10-06T12:37:39.000Z,1942059,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",伏羲流云,Paladin,Retribution,dps,Burning Blade
+51,297.3,298144159,9,The Stonevault,2024-10-06T12:37:39.000Z,1942059,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",达美乐,Monk,Mistweaver,healer,Burning Blade
+51,297.3,298144159,9,The Stonevault,2024-10-06T12:37:39.000Z,1942059,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",厚礼蟹特侠,Mage,Frost,dps,Al'ar
+52,297,297389192,9,The Stonevault,2024-10-03T14:30:08.000Z,1962877,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",噬魂红玉,Warlock,Destruction,dps,The Great Sea
+52,297,297389192,9,The Stonevault,2024-10-03T14:30:08.000Z,1962877,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",喵喵酱呀,Death Knight,Unholy,dps,Bleeding Hollow
+52,297,297389192,9,The Stonevault,2024-10-03T14:30:08.000Z,1962877,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",治本,Rogue,Assassination,dps,The Great Sea
+52,297,297389192,9,The Stonevault,2024-10-03T14:30:08.000Z,1962877,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浪徒,Demon Hunter,Vengeance,tank,Al'ar
+52,297,297389192,9,The Stonevault,2024-10-03T14:30:08.000Z,1962877,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",瞬发炉石,Shaman,Restoration,healer,Dragonmaw
+53,296.8,297389212,9,The Stonevault,2024-10-03T14:30:31.000Z,1972650,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨奶萨丨,Priest,Discipline,healer,Kel'Thuzad
+53,296.8,297389212,9,The Stonevault,2024-10-03T14:30:31.000Z,1972650,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",星光龙,Mage,Fire,dps,Anzu
+53,296.8,297389212,9,The Stonevault,2024-10-03T14:30:31.000Z,1972650,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑锋,Death Knight,Blood,tank,Marrowgar
+53,296.8,297389212,9,The Stonevault,2024-10-03T14:30:31.000Z,1972650,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Wuyuedk,Death Knight,Unholy,dps,Isillien
+53,296.8,297389212,9,The Stonevault,2024-10-03T14:30:31.000Z,1972650,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",聖光丶小猪,Paladin,Retribution,dps,Valley of Kings
+54,296.2,298112384,9,The Stonevault,2024-10-06T09:10:29.000Z,2006800,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Fallonzz,Death Knight,Frost,dps,Burning Blade
+54,296.2,298112384,9,The Stonevault,2024-10-06T09:10:29.000Z,2006800,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",茜色,Death Knight,Frost,dps,Pandaren
+54,296.2,298112384,9,The Stonevault,2024-10-06T09:10:29.000Z,2006800,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+54,296.2,298112384,9,The Stonevault,2024-10-06T09:10:29.000Z,2006800,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",醉丨战,Warrior,Protection,tank,Burning Blade
+54,296.2,298112384,9,The Stonevault,2024-10-06T09:10:29.000Z,2006800,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",给力丶牛小胖,Shaman,Restoration,healer,Thunderlord
+55,295.9,297863472,9,The Stonevault,2024-10-05T13:07:21.000Z,2020536,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",影子,Druid,Guardian,tank,Argus
+55,295.9,297863472,9,The Stonevault,2024-10-05T13:07:21.000Z,2020536,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Frankel,Death Knight,Frost,dps,Silver Hand
+55,295.9,297863472,9,The Stonevault,2024-10-05T13:07:21.000Z,2020536,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",南森,Shaman,Restoration,healer,Dream Bough
+55,295.9,297863472,9,The Stonevault,2024-10-05T13:07:21.000Z,2020536,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",潇潇恋,Warlock,Demonology,dps,Azjol-Nerub
+55,295.9,297863472,9,The Stonevault,2024-10-05T13:07:21.000Z,2020536,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倾橙丶伊人,Warrior,Fury,dps,Rhonin
+56,295.7,298155823,9,The Stonevault,2024-10-06T13:34:14.000Z,2030049,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",温斯顿丶杨,Shaman,Restoration,healer,Dragonmaw
+56,295.7,298155823,9,The Stonevault,2024-10-06T13:34:14.000Z,2030049,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",卯虎丶,Monk,Windwalker,dps,Eldre'Thalas
+56,295.7,298155823,9,The Stonevault,2024-10-06T13:34:14.000Z,2030049,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",拳丶湿丶胸,Monk,Brewmaster,tank,Isillien
+56,295.7,298155823,9,The Stonevault,2024-10-06T13:34:14.000Z,2030049,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",醒丶醒,Death Knight,Frost,dps,Isillien
+56,295.7,298155823,9,The Stonevault,2024-10-06T13:34:14.000Z,2030049,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",无敌飞盾侠,Paladin,Retribution,dps,Shadowmourne
+57,295,309488381,8,The Stonevault,2024-11-28T11:04:40.000Z,1118018,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小猫吉他手,Hunter,Survival,dps,Scarlet Crusade
+57,295,309488381,8,The Stonevault,2024-11-28T11:04:40.000Z,1118018,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",木瓜星霖,Priest,Discipline,healer,Rhonin
+57,295,309488381,8,The Stonevault,2024-11-28T11:04:40.000Z,1118018,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蓝色刺杀,Shaman,Enhancement,dps,Al'ar
+57,295,309488381,8,The Stonevault,2024-11-28T11:04:40.000Z,1118018,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",打到赚到,Paladin,Retribution,dps,Alterac Mountains
+57,295,309488381,8,The Stonevault,2024-11-28T11:04:40.000Z,1118018,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",填腹一饼丶,Paladin,Protection,tank,Abbendis
+58,295,309476252,8,The Stonevault,2024-11-28T08:06:51.000Z,1238758,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大嘴哥哥灬,Paladin,Protection,tank,Al'ar
+58,295,309476252,8,The Stonevault,2024-11-28T08:06:51.000Z,1238758,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Io,Warrior,Fury,dps,Frostmane
+58,295,309476252,8,The Stonevault,2024-11-28T08:06:51.000Z,1238758,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蟑嘴痴史,Priest,Discipline,healer,Frostmane
+58,295,309476252,8,The Stonevault,2024-11-28T08:06:51.000Z,1238758,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",披萨丶心肠,Death Knight,Frost,dps,Dark Iron
+58,295,309476252,8,The Stonevault,2024-11-28T08:06:51.000Z,1238758,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sorryy,Death Knight,Frost,dps,Al'ar
+59,294.5,297938992,8,The Stonevault,2024-10-05T18:45:42.000Z,1272905,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",霜宴,Demon Hunter,Vengeance,tank,Chillwind Point
+59,294.5,297938992,8,The Stonevault,2024-10-05T18:45:42.000Z,1272905,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",七堇丶,Mage,Fire,dps,Burning Blade
+59,294.5,297938992,8,The Stonevault,2024-10-05T18:45:42.000Z,1272905,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",油炸鸭鸭,Paladin,Retribution,dps,Barrens
+59,294.5,297938992,8,The Stonevault,2024-10-05T18:45:42.000Z,1272905,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Makki,Priest,Discipline,healer,Shadowmourne
+59,294.5,297938992,8,The Stonevault,2024-10-05T18:45:42.000Z,1272905,2070999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",靑木炙阳,Mage,Frost,dps,Skywall
+60,293.8,309486103,8,The Stonevault,2024-11-28T10:33:48.000Z,1310618,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ggbondd,Paladin,Retribution,dps,Anzu
+60,293.8,309486103,8,The Stonevault,2024-11-28T10:33:48.000Z,1310618,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宛宛类卿,Warlock,Destruction,dps,Anzu
+60,293.8,309486103,8,The Stonevault,2024-11-28T10:33:48.000Z,1310618,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",永远的神,Priest,Discipline,healer,Black Dragonflight
+60,293.8,309486103,8,The Stonevault,2024-11-28T10:33:48.000Z,1310618,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Taessica,Hunter,Survival,dps,Black Dragonflight
+60,293.8,309486103,8,The Stonevault,2024-11-28T10:33:48.000Z,1310618,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十秒真女人,Paladin,Protection,tank,Isillien
+61,293.6,298790113,8,The Stonevault,2024-10-09T02:00:17.000Z,1322036,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+61,293.6,298790113,8,The Stonevault,2024-10-09T02:00:17.000Z,1322036,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",最后战役,Demon Hunter,Havoc,dps,Doomwalker
+61,293.6,298790113,8,The Stonevault,2024-10-09T02:00:17.000Z,1322036,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+61,293.6,298790113,8,The Stonevault,2024-10-09T02:00:17.000Z,1322036,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Justicedr,Evoker,Preservation,healer,Shadowmourne
+61,293.6,298790113,8,The Stonevault,2024-10-09T02:00:17.000Z,1322036,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Linnyu,Evoker,Devastation,dps,Black Dragonflight
+62,292.9,309507201,8,The Stonevault,2024-11-28T15:09:39.000Z,1355934,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",不玩奶德,Druid,Restoration,healer,Chillwind Point
+62,292.9,309507201,8,The Stonevault,2024-11-28T15:09:39.000Z,1355934,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",攻强卷轴一号,Warrior,Arms,dps,Chillwind Point
+62,292.9,309507201,8,The Stonevault,2024-11-28T15:09:39.000Z,1355934,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",来生缘,Demon Hunter,Vengeance,tank,Chillwind Point
+62,292.9,309507201,8,The Stonevault,2024-11-28T15:09:39.000Z,1355934,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",至诚高天,Paladin,Retribution,dps,Chillwind Point
+62,292.9,309507201,8,The Stonevault,2024-11-28T15:09:39.000Z,1355934,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",秋末灬,Mage,Fire,dps,Chillwind Point
+63,292.8,298840410,8,The Stonevault,2024-10-09T09:33:52.000Z,1363524,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狡猾之萨满,Shaman,Restoration,healer,Chillwind Point
+63,292.8,298840410,8,The Stonevault,2024-10-09T09:33:52.000Z,1363524,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",防御大师,Warrior,Protection,tank,Anzu
+63,292.8,298840410,8,The Stonevault,2024-10-09T09:33:52.000Z,1363524,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Crucifyme,Evoker,Augmentation,dps,Burning Blade
+63,292.8,298840410,8,The Stonevault,2024-10-09T09:33:52.000Z,1363524,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",江阴狡猾男,Death Knight,Frost,dps,Chillwind Point
+63,292.8,298840410,8,The Stonevault,2024-10-09T09:33:52.000Z,1363524,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",长藤资本,Warrior,Arms,dps,Valley of Kings
+64,292.5,309498327,8,The Stonevault,2024-11-28T13:52:23.000Z,1378644,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",毛毛压,Shaman,Elemental,dps,Deathwing
+64,292.5,309498327,8,The Stonevault,2024-11-28T13:52:23.000Z,1378644,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",孜然烤全羊,Paladin,Protection,tank,Burning Blade
+64,292.5,309498327,8,The Stonevault,2024-11-28T13:52:23.000Z,1378644,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Jmybot,Evoker,Augmentation,dps,Al'ar
+64,292.5,309498327,8,The Stonevault,2024-11-28T13:52:23.000Z,1378644,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",芝芝莓莓汤汤,Paladin,Retribution,dps,Arygos
+64,292.5,309498327,8,The Stonevault,2024-11-28T13:52:23.000Z,1378644,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",科比大雄,Priest,Discipline,healer,Arygos
+65,290.4,297846461,8,The Stonevault,2024-10-05T11:33:54.000Z,1493985,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超级鲨鱼辣椒,Warlock,Destruction,dps,Deathwing
+65,290.4,297846461,8,The Stonevault,2024-10-05T11:33:54.000Z,1493985,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Damascus,Demon Hunter,Vengeance,tank,Rhonin
+65,290.4,297846461,8,The Stonevault,2024-10-05T11:33:54.000Z,1493985,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",炽热,Death Knight,Unholy,dps,Thunder Axe Fortress
+65,290.4,297846461,8,The Stonevault,2024-10-05T11:33:54.000Z,1493985,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大耳朵狐狐丶,Shaman,Restoration,healer,Blanchard
+65,290.4,297846461,8,The Stonevault,2024-10-05T11:33:54.000Z,1493985,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Nathly,Paladin,Retribution,dps,Deephome
+66,290.2,298118027,8,The Stonevault,2024-10-06T09:49:26.000Z,1507626,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+66,290.2,298118027,8,The Stonevault,2024-10-06T09:49:26.000Z,1507626,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶代达罗斯,Mage,Arcane,dps,Echo Ridge
+66,290.2,298118027,8,The Stonevault,2024-10-06T09:49:26.000Z,1507626,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Virtuosa,Druid,Guardian,tank,Silver Hand
+66,290.2,298118027,8,The Stonevault,2024-10-06T09:49:26.000Z,1507626,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",漠漠轻寒丶,Paladin,Retribution,dps,Echo Ridge
+66,290.2,298118027,8,The Stonevault,2024-10-06T09:49:26.000Z,1507626,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",湮灭之缘,Rogue,Assassination,dps,Shadowmourne
+67,290,298889180,8,The Stonevault,2024-10-09T16:53:25.000Z,1517537,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夜永恒,Paladin,Retribution,dps,The Great Sea
+67,290,298889180,8,The Stonevault,2024-10-09T16:53:25.000Z,1517537,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你能别爆毙嘛,Death Knight,Blood,tank,The Great Sea
+67,290,298889180,8,The Stonevault,2024-10-09T16:53:25.000Z,1517537,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你能少毛点嘛,Mage,Frost,dps,The Great Sea
+67,290,298889180,8,The Stonevault,2024-10-09T16:53:25.000Z,1517537,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",快特喵救胡桃,Shaman,Restoration,healer,The Great Sea
+67,290,298889180,8,The Stonevault,2024-10-09T16:53:25.000Z,1517537,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",毕暴躁,Hunter,Marksmanship,dps,Grim Batol
+68,289.2,297879331,8,The Stonevault,2024-10-05T14:20:49.000Z,1563130,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大剑师丶秀儿,Demon Hunter,Vengeance,tank,Scarlet Crusade
+68,289.2,297879331,8,The Stonevault,2024-10-05T14:20:49.000Z,1563130,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狩魂师丶一修,Hunter,Survival,dps,Al'ar
+68,289.2,297879331,8,The Stonevault,2024-10-05T14:20:49.000Z,1563130,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",封爱乄夕希,Paladin,Holy,healer,Al'ar
+68,289.2,297879331,8,The Stonevault,2024-10-05T14:20:49.000Z,1563130,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",被可爱到了,Paladin,Retribution,dps,Galakrond
+68,289.2,297879331,8,The Stonevault,2024-10-05T14:20:49.000Z,1563130,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",陳季常,Paladin,Retribution,dps,Burning Blade
+69,289.1,309488392,8,The Stonevault,2024-11-28T11:04:41.000Z,1570153,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",晨晓昀,Paladin,Retribution,dps,Al'ar
+69,289.1,309488392,8,The Stonevault,2024-11-28T11:04:41.000Z,1570153,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Peekabooii,Demon Hunter,Vengeance,tank,The Master's Glaive
+69,289.1,309488392,8,The Stonevault,2024-11-28T11:04:41.000Z,1570153,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",王師傅丶,Mage,Frost,dps,The Master's Glaive
+69,289.1,309488392,8,The Stonevault,2024-11-28T11:04:41.000Z,1570153,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",玖伍叁零,Warrior,Fury,dps,Gazlowe
+69,289.1,309488392,8,The Stonevault,2024-11-28T11:04:41.000Z,1570153,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",刹衲,Paladin,Holy,healer,Scarlet Crusade
+70,288.6,298874101,8,The Stonevault,2024-10-09T14:31:52.000Z,1594277,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九局下半丷,Priest,Discipline,healer,Scarlet Crusade
+70,288.6,298874101,8,The Stonevault,2024-10-09T14:31:52.000Z,1594277,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",悠然見南山乁,Warlock,Affliction,dps,Shadowmourne
+70,288.6,298874101,8,The Stonevault,2024-10-09T14:31:52.000Z,1594277,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑琉璃,Demon Hunter,Vengeance,tank,Isillien
+70,288.6,298874101,8,The Stonevault,2024-10-09T14:31:52.000Z,1594277,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一杯奶茶丶,Mage,Frost,dps,Silver Hand
+70,288.6,298874101,8,The Stonevault,2024-10-09T14:31:52.000Z,1594277,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",落花成泥,Mage,Frost,dps,Thrall
+71,287.4,298616276,8,The Stonevault,2024-10-08T10:00:42.000Z,1662215,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪比巴波灬,Warlock,Affliction,dps,Bloodfeather
+71,287.4,298616276,8,The Stonevault,2024-10-08T10:00:42.000Z,1662215,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+71,287.4,298616276,8,The Stonevault,2024-10-08T10:00:42.000Z,1662215,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",樱花小狐狸,Mage,Fire,dps,Silver Hand
+71,287.4,298616276,8,The Stonevault,2024-10-08T10:00:42.000Z,1662215,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",熊熊袖手旁观,Druid,Guardian,tank,Deathwing
+71,287.4,298616276,8,The Stonevault,2024-10-08T10:00:42.000Z,1662215,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",薛定谔的咕咕,Druid,Balance,dps,Silver Hand
+72,285.9,309450020,8,The Stonevault,2024-11-28T01:26:21.000Z,1747171,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",猎刃聚魔,Hunter,Survival,dps,Dream Bough
+72,285.9,309450020,8,The Stonevault,2024-11-28T01:26:21.000Z,1747171,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑镜先生,Death Knight,Frost,dps,Silver Hand
+72,285.9,309450020,8,The Stonevault,2024-11-28T01:26:21.000Z,1747171,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",甜蜜种满大地,Druid,Guardian,tank,Dragonblight
+72,285.9,309450020,8,The Stonevault,2024-11-28T01:26:21.000Z,1747171,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",白早,Rogue,Outlaw,dps,Deathwing
+72,285.9,309450020,8,The Stonevault,2024-11-28T01:26:21.000Z,1747171,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",陆灬沉,Paladin,Holy,healer,The Great Sea
+73,285.7,297401949,8,The Stonevault,2024-10-03T15:51:54.000Z,1757736,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅草寺小狮子,Shaman,Elemental,dps,The Master's Glaive
+73,285.7,297401949,8,The Stonevault,2024-10-03T15:51:54.000Z,1757736,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",翻滚啊牛牛,Death Knight,Frost,dps,Scarlet Crusade
+73,285.7,297401949,8,The Stonevault,2024-10-03T15:51:54.000Z,1757736,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",万事顺遂,Paladin,Retribution,dps,Silver Hand
+73,285.7,297401949,8,The Stonevault,2024-10-03T15:51:54.000Z,1757736,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",吹风月火缠绕,Druid,Restoration,healer,Deathwing
+73,285.7,297401949,8,The Stonevault,2024-10-03T15:51:54.000Z,1757736,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",吱吱莓莓奶盖,Warrior,Protection,tank,Rhonin
+74,285.3,298146130,8,The Stonevault,2024-10-06T12:54:53.000Z,1778873,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",尘埃遇风,Druid,Balance,dps,Shadowmourne
+74,285.3,298146130,8,The Stonevault,2024-10-06T12:54:53.000Z,1778873,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",陈真减啥肥,Druid,Guardian,tank,Galakrond
+74,285.3,298146130,8,The Stonevault,2024-10-06T12:54:53.000Z,1778873,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",橙橙要抱抱,Evoker,Augmentation,dps,Well of Eternity
+74,285.3,298146130,8,The Stonevault,2024-10-06T12:54:53.000Z,1778873,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",锁甲三废丶,Shaman,Elemental,dps,Silver Hand
+74,285.3,298146130,8,The Stonevault,2024-10-06T12:54:53.000Z,1778873,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",花落夜伤,Shaman,Restoration,healer,Doomwalker
+75,284.8,309514266,8,The Stonevault,2024-11-28T16:22:06.000Z,1806630,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",看我牛币么,Warrior,Fury,dps,Neptulon
+75,284.8,309514266,8,The Stonevault,2024-11-28T16:22:06.000Z,1806630,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大能猫丶,Paladin,Protection,tank,Rhonin
+75,284.8,309514266,8,The Stonevault,2024-11-28T16:22:06.000Z,1806630,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",盘锦河蟹,Monk,Mistweaver,healer,Shadowmourne
+75,284.8,309514266,8,The Stonevault,2024-11-28T16:22:06.000Z,1806630,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雕堡,Monk,Windwalker,dps,Neptulon
+75,284.8,309514266,8,The Stonevault,2024-11-28T16:22:06.000Z,1806630,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶你的慢慢丶,Mage,Frost,dps,Anzu
+76,284.4,298132982,8,The Stonevault,2024-10-06T11:20:57.000Z,1825524,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Blinkc,Druid,Restoration,healer,Rhonin
+76,284.4,298132982,8,The Stonevault,2024-10-06T11:20:57.000Z,1825524,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",霸气春哥丶,Warrior,Fury,dps,Rhonin
+76,284.4,298132982,8,The Stonevault,2024-10-06T11:20:57.000Z,1825524,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",温霓,Demon Hunter,Havoc,dps,Rhonin
+76,284.4,298132982,8,The Stonevault,2024-10-06T11:20:57.000Z,1825524,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",沐橙秋轩,Paladin,Retribution,dps,Rhonin
+76,284.4,298132982,8,The Stonevault,2024-10-06T11:20:57.000Z,1825524,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",长崎素世丶丶,Warrior,Protection,tank,Rhonin
+77,283.5,298674851,8,The Stonevault,2024-10-08T16:04:33.000Z,1875988,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",温香,Druid,Restoration,healer,Grim Batol
+77,283.5,298674851,8,The Stonevault,2024-10-08T16:04:33.000Z,1875988,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小白条丶,Shaman,Elemental,dps,Kel'Thuzad
+77,283.5,298674851,8,The Stonevault,2024-10-08T16:04:33.000Z,1875988,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",岛风,Death Knight,Unholy,dps,Kel'Thuzad
+77,283.5,298674851,8,The Stonevault,2024-10-08T16:04:33.000Z,1875988,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",斯溫丶,Warrior,Protection,tank,Kel'Thuzad
+77,283.5,298674851,8,The Stonevault,2024-10-08T16:04:33.000Z,1875988,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你干嘛,Death Knight,Frost,dps,Kel'Thuzad
+78,282.8,309479772,8,The Stonevault,2024-11-28T08:46:11.000Z,1918756,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",毛毛压,Shaman,Enhancement,dps,Deathwing
+78,282.8,309479772,8,The Stonevault,2024-11-28T08:46:11.000Z,1918756,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Jmybot,Evoker,Augmentation,dps,Al'ar
+78,282.8,309479772,8,The Stonevault,2024-11-28T08:46:11.000Z,1918756,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Abb,Mage,Frost,dps,Direwing
+78,282.8,309479772,8,The Stonevault,2024-11-28T08:46:11.000Z,1918756,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",卡皮扒拉,Monk,Mistweaver,healer,Strand of the Ancients
+78,282.8,309479772,8,The Stonevault,2024-11-28T08:46:11.000Z,1918756,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",迷之小喂,Demon Hunter,Vengeance,tank,Skywall
+79,282.7,308432747,8,The Stonevault,2024-11-28T13:47:25.000Z,1922083,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萌四肥仔,Warrior,Protection,tank,Anzu
+79,282.7,308432747,8,The Stonevault,2024-11-28T13:47:25.000Z,1922083,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",餐蛋饭团,Shaman,Restoration,healer,Al'ar
+79,282.7,308432747,8,The Stonevault,2024-11-28T13:47:25.000Z,1922083,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Elvira,Paladin,Retribution,dps,Sunwell
+79,282.7,308432747,8,The Stonevault,2024-11-28T13:47:25.000Z,1922083,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",忘川的妖精,Paladin,Retribution,dps,Scarlet Crusade
+79,282.7,308432747,8,The Stonevault,2024-11-28T13:47:25.000Z,1922083,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小弹弓,Hunter,Beast Mastery,dps,Scarlet Crusade
+80,282.4,298096451,8,The Stonevault,2024-10-06T07:08:04.000Z,1938631,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪比巴波灬,Warlock,Demonology,dps,Bloodfeather
+80,282.4,298096451,8,The Stonevault,2024-10-06T07:08:04.000Z,1938631,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我叫大表哥,Warrior,Protection,tank,Isillien
+80,282.4,298096451,8,The Stonevault,2024-10-06T07:08:04.000Z,1938631,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+80,282.4,298096451,8,The Stonevault,2024-10-06T07:08:04.000Z,1938631,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",真就血压拉满,Death Knight,Frost,dps,Anzu
+80,282.4,298096451,8,The Stonevault,2024-10-06T07:08:04.000Z,1938631,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",拾月,Paladin,Retribution,dps,Whisperwind
+81,281.4,297818747,8,The Stonevault,2024-10-05T08:03:27.000Z,1995560,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",如梦醒慑魂丶,Hunter,Marksmanship,dps,Kel'Thuzad
+81,281.4,297818747,8,The Stonevault,2024-10-05T08:03:27.000Z,1995560,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蹦蹦炸彈,Demon Hunter,Vengeance,tank,Blanchard
+81,281.4,297818747,8,The Stonevault,2024-10-05T08:03:27.000Z,1995560,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",如曲终破尘丶,Mage,Frost,dps,Kel'Thuzad
+81,281.4,297818747,8,The Stonevault,2024-10-05T08:03:27.000Z,1995560,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小辣椒石宝宝,Shaman,Restoration,healer,Kel'Thuzad
+81,281.4,297818747,8,The Stonevault,2024-10-05T08:03:27.000Z,1995560,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",如缘梦不惑丶,Druid,Balance,dps,The Great Sea
+82,278.9,298577671,7,The Stonevault,2024-10-08T03:26:48.000Z,1300596,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+82,278.9,298577671,7,The Stonevault,2024-10-08T03:26:48.000Z,1300596,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天下布武,Paladin,Retribution,dps,Rhonin
+82,278.9,298577671,7,The Stonevault,2024-10-08T03:26:48.000Z,1300596,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鸽之意志,Druid,Guardian,tank,Barrens
+82,278.9,298577671,7,The Stonevault,2024-10-08T03:26:48.000Z,1300596,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",矢胖,Shaman,Restoration,healer,Dustwind Gulch
+82,278.9,298577671,7,The Stonevault,2024-10-08T03:26:48.000Z,1300596,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",再见了十八岁,Warrior,Fury,dps,Menethil
+83,278.2,303167748,7,The Stonevault,2024-10-06T08:50:21.000Z,1340203,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宝生永夢丶,Death Knight,Frost,dps,Burning Blade
+83,278.2,303167748,7,The Stonevault,2024-10-06T08:50:21.000Z,1340203,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",铸铁雷尔,Warrior,Protection,tank,Pandaren
+83,278.2,303167748,7,The Stonevault,2024-10-06T08:50:21.000Z,1340203,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑皇权,Paladin,Retribution,dps,Valley of Kings
+83,278.2,303167748,7,The Stonevault,2024-10-06T08:50:21.000Z,1340203,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",桃磎柳陌,Priest,Discipline,healer,Silver Hand
+83,278.2,303167748,7,The Stonevault,2024-10-06T08:50:21.000Z,1340203,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨丶魂法归来,Mage,Frost,dps,Loken
+84,278,303167752,7,The Stonevault,2024-10-06T09:34:48.000Z,1350355,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",五十度蓝,Warrior,Protection,tank,Kel'Thuzad
+84,278,303167752,7,The Stonevault,2024-10-06T09:34:48.000Z,1350355,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",勾巴战,Warrior,Fury,dps,Isillien
+84,278,303167752,7,The Stonevault,2024-10-06T09:34:48.000Z,1350355,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",君子言念,Shaman,Restoration,healer,The Underbog
+84,278,303167752,7,The Stonevault,2024-10-06T09:34:48.000Z,1350355,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宝生永夢丶,Death Knight,Frost,dps,Burning Blade
+84,278,303167752,7,The Stonevault,2024-10-06T09:34:48.000Z,1350355,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",百万小可爱,Paladin,Retribution,dps,Kel'Thuzad
+85,277.5,300295774,7,The Stonevault,2024-10-05T07:42:48.000Z,1378616,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",不想当人,Mage,Fire,dps,Silver Hand
+85,277.5,300295774,7,The Stonevault,2024-10-05T07:42:48.000Z,1378616,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",唱歌的鬼鬼,Shaman,Restoration,healer,Chillwind Point
+85,277.5,300295774,7,The Stonevault,2024-10-05T07:42:48.000Z,1378616,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+85,277.5,300295774,7,The Stonevault,2024-10-05T07:42:48.000Z,1378616,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",龙之伴侣赛娜,Death Knight,Frost,dps,Chillwind Point
+85,277.5,300295774,7,The Stonevault,2024-10-05T07:42:48.000Z,1378616,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",火焰数学家,Mage,Fire,dps,Chillwind Point
+86,276.3,297650005,7,The Stonevault,2024-10-04T17:38:07.000Z,1448224,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅打,Mage,Arcane,dps,Rhonin
+86,276.3,297650005,7,The Stonevault,2024-10-04T17:38:07.000Z,1448224,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",老子见人就砍,Death Knight,Unholy,dps,Al'ar
+86,276.3,297650005,7,The Stonevault,2024-10-04T17:38:07.000Z,1448224,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小佛,Evoker,Augmentation,dps,The Botanica
+86,276.3,297650005,7,The Stonevault,2024-10-04T17:38:07.000Z,1448224,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",针尖问麦芒,Druid,Restoration,healer,Pandaren
+86,276.3,297650005,7,The Stonevault,2024-10-04T17:38:07.000Z,1448224,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我逆转了,Warrior,Protection,tank,Scarlet Crusade
+87,275.9,298299998,7,The Stonevault,2024-10-06T20:27:30.000Z,1467374,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",圣光骑,Paladin,Protection,tank,Kel'Thuzad
+87,275.9,298299998,7,The Stonevault,2024-10-06T20:27:30.000Z,1467374,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Asouleileen,Death Knight,Unholy,dps,Al'ar
+87,275.9,298299998,7,The Stonevault,2024-10-06T20:27:30.000Z,1467374,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ichsakura,Mage,Frost,dps,Shadowmoon
+87,275.9,298299998,7,The Stonevault,2024-10-06T20:27:30.000Z,1467374,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阿良丿,Rogue,Outlaw,dps,Al'ar
+87,275.9,298299998,7,The Stonevault,2024-10-06T20:27:30.000Z,1467374,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Serendipiity,Shaman,Restoration,healer,Al'ar
+88,275,297325405,7,The Stonevault,2024-10-03T05:23:41.000Z,1520837,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",作死丶,Death Knight,Frost,dps,The Great Sea
+88,275,297325405,7,The Stonevault,2024-10-03T05:23:41.000Z,1520837,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",璀璨天星,Shaman,Restoration,healer,The Great Sea
+88,275,297325405,7,The Stonevault,2024-10-03T05:23:41.000Z,1520837,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",银白之眼,Warrior,Fury,dps,Shadowmourne
+88,275,297325405,7,The Stonevault,2024-10-03T05:23:41.000Z,1520837,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",人间值德,Druid,Guardian,tank,Shadowmourne
+88,275,297325405,7,The Stonevault,2024-10-03T05:23:41.000Z,1520837,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天天溜娃,Warlock,Demonology,dps,Doomwalker
+89,274.1,297894517,7,The Stonevault,2024-10-05T15:35:49.000Z,1571011,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",暴食的乔巴菌,Death Knight,Frost,dps,Isillien
+89,274.1,297894517,7,The Stonevault,2024-10-05T15:35:49.000Z,1571011,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",红毛狮王,Death Knight,Blood,tank,Deathwing
+89,274.1,297894517,7,The Stonevault,2024-10-05T15:35:49.000Z,1571011,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",酷酷的阿布森,Shaman,Elemental,dps,Deathwing
+89,274.1,297894517,7,The Stonevault,2024-10-05T15:35:49.000Z,1571011,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Egoistmage,Mage,Frost,dps,Chillwind Point
+89,274.1,297894517,7,The Stonevault,2024-10-05T15:35:49.000Z,1571011,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",醉后少女的梦,Monk,Mistweaver,healer,Deathwing
+90,272.9,300295841,7,The Stonevault,2024-10-07T19:25:10.000Z,1634051,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+90,272.9,300295841,7,The Stonevault,2024-10-07T19:25:10.000Z,1634051,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十月落叶,Druid,Balance,dps,Echo Ridge
+90,272.9,300295841,7,The Stonevault,2024-10-07T19:25:10.000Z,1634051,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",爱吃原味薯片,Death Knight,Frost,dps,Deathwing
+90,272.9,300295841,7,The Stonevault,2024-10-07T19:25:10.000Z,1634051,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",彼岸的暴风雨,Priest,Discipline,healer,Al'ar
+90,272.9,300295841,7,The Stonevault,2024-10-07T19:25:10.000Z,1634051,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",圣骑小子,Paladin,Retribution,dps,Eldre'Thalas
+91,272.9,297835727,7,The Stonevault,2024-10-05T10:07:04.000Z,1636656,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大祭司,Shaman,Restoration,healer,Isillien
+91,272.9,297835727,7,The Stonevault,2024-10-05T10:07:04.000Z,1636656,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",沙城霸主,Demon Hunter,Vengeance,tank,Burning Blade
+91,272.9,297835727,7,The Stonevault,2024-10-05T10:07:04.000Z,1636656,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狡猾之萨满,Shaman,Elemental,dps,Chillwind Point
+91,272.9,297835727,7,The Stonevault,2024-10-05T10:07:04.000Z,1636656,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",涵韵无心,Hunter,Marksmanship,dps,Burning Blade
+91,272.9,297835727,7,The Stonevault,2024-10-05T10:07:04.000Z,1636656,2070999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Gugu,Shaman,Elemental,dps,Fenris
+92,271.8,298229186,7,The Stonevault,2024-10-06T17:25:20.000Z,1697318,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超无敌最俊朗,Warrior,Arms,dps,Burning Blade
+92,271.8,298229186,7,The Stonevault,2024-10-06T17:25:20.000Z,1697318,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",颜北战,Warrior,Protection,tank,Burning Blade
+92,271.8,298229186,7,The Stonevault,2024-10-06T17:25:20.000Z,1697318,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小富婆丶,Shaman,Restoration,healer,Burning Blade
+92,271.8,298229186,7,The Stonevault,2024-10-06T17:25:20.000Z,1697318,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",李媛大宝贝丶,Priest,Shadow,dps,Silver Hand
+92,271.8,298229186,7,The Stonevault,2024-10-06T17:25:20.000Z,1697318,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",焚天丶,Death Knight,Frost,dps,Blanchard
+93,270.7,298069728,7,The Stonevault,2024-10-06T04:02:09.000Z,1757635,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阿梅,Monk,Mistweaver,healer,Scarlet Crusade
+93,270.7,298069728,7,The Stonevault,2024-10-06T04:02:09.000Z,1757635,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+93,270.7,298069728,7,The Stonevault,2024-10-06T04:02:09.000Z,1757635,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",上古侠风,Monk,Windwalker,dps,Deathwing
+93,270.7,298069728,7,The Stonevault,2024-10-06T04:02:09.000Z,1757635,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月清,Death Knight,Frost,dps,Shadow Council
+93,270.7,298069728,7,The Stonevault,2024-10-06T04:02:09.000Z,1757635,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",没朋友的蛋蛋,Demon Hunter,Vengeance,tank,Dark Iron
+94,270.3,297529230,7,The Stonevault,2024-10-04T02:10:41.000Z,1780157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鱼面筋,Death Knight,Frost,dps,Blanchard
+94,270.3,297529230,7,The Stonevault,2024-10-04T02:10:41.000Z,1780157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",有推荐速度,Druid,Guardian,tank,Burning Blade
+94,270.3,297529230,7,The Stonevault,2024-10-04T02:10:41.000Z,1780157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",吾儿歹鬼,Death Knight,Frost,dps,Burning Blade
+94,270.3,297529230,7,The Stonevault,2024-10-04T02:10:41.000Z,1780157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",人丑脾气爆,Paladin,Retribution,dps,Pandaren
+94,270.3,297529230,7,The Stonevault,2024-10-04T02:10:41.000Z,1780157,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",古明地恋可爱,Druid,Restoration,healer,Silver Hand
+95,269.8,298613687,7,The Stonevault,2024-10-08T09:31:04.000Z,1807721,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ancientone,Mage,Fire,dps,Scarlet Crusade
+95,269.8,298613687,7,The Stonevault,2024-10-08T09:31:04.000Z,1807721,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+95,269.8,298613687,7,The Stonevault,2024-10-08T09:31:04.000Z,1807721,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",疯狂的玖哥,Demon Hunter,Vengeance,tank,Stormrage
+95,269.8,298613687,7,The Stonevault,2024-10-08T09:31:04.000Z,1807721,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",风中的血腥,Demon Hunter,Havoc,dps,Swiftwind
+95,269.8,298613687,7,The Stonevault,2024-10-08T09:31:04.000Z,1807721,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",忘记奶牛,Shaman,Restoration,healer,Dreadmist Peak
+96,268.3,298840525,7,The Stonevault,2024-10-09T09:36:57.000Z,1889528,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",血色的拾玖丶,Hunter,Survival,dps,Valley of Kings
+96,268.3,298840525,7,The Stonevault,2024-10-09T09:36:57.000Z,1889528,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超哥哥,Death Knight,Unholy,dps,Deathwing
+96,268.3,298840525,7,The Stonevault,2024-10-09T09:36:57.000Z,1889528,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萨妈,Shaman,Elemental,dps,Chillwind Point
+96,268.3,298840525,7,The Stonevault,2024-10-09T09:36:57.000Z,1889528,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奶油喵,Shaman,Restoration,healer,Burning Blade
+96,268.3,298840525,7,The Stonevault,2024-10-09T09:36:57.000Z,1889528,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",扛不动啦,Death Knight,Blood,tank,Deathwing
+97,268,297649126,7,The Stonevault,2024-10-04T17:27:25.000Z,1906187,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月影逐风,Hunter,Survival,dps,Holy Chanter
+97,268,297649126,7,The Stonevault,2024-10-04T17:27:25.000Z,1906187,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",水様冰泪,Druid,Balance,dps,Hectae
+97,268,297649126,7,The Stonevault,2024-10-04T17:27:25.000Z,1906187,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一路常红,Paladin,Retribution,dps,Al'ar
+97,268,297649126,7,The Stonevault,2024-10-04T17:27:25.000Z,1906187,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",回眸百媚生,Warrior,Protection,tank,Silver Hand
+97,268,297649126,7,The Stonevault,2024-10-04T17:27:25.000Z,1906187,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十二岁小徐生,Shaman,Restoration,healer,Bladefist
+98,267.7,298851837,7,The Stonevault,2024-10-09T11:23:37.000Z,1921482,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",柠檬冰不加冰,Paladin,Protection,tank,Silver Hand
+98,267.7,298851837,7,The Stonevault,2024-10-09T11:23:37.000Z,1921482,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",李然,Shaman,Enhancement,dps,Kel'Thuzad
+98,267.7,298851837,7,The Stonevault,2024-10-09T11:23:37.000Z,1921482,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",圣祈,Priest,Holy,healer,C'Thun
+98,267.7,298851837,7,The Stonevault,2024-10-09T11:23:37.000Z,1921482,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",道观道,Warrior,Fury,dps,Grim Batol
+98,267.7,298851837,7,The Stonevault,2024-10-09T11:23:37.000Z,1921482,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Dinodk,Death Knight,Frost,dps,Barrens
+99,267.7,300295790,7,The Stonevault,2024-10-06T06:52:52.000Z,1922288,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Syndicata,Death Knight,Frost,dps,Grim Batol
+99,267.7,300295790,7,The Stonevault,2024-10-06T06:52:52.000Z,1922288,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+99,267.7,300295790,7,The Stonevault,2024-10-06T06:52:52.000Z,1922288,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Himawari,Demon Hunter,Havoc,dps,Silver Hand
+99,267.7,300295790,7,The Stonevault,2024-10-06T06:52:52.000Z,1922288,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",芙宁娜丶,Druid,Restoration,healer,Silver Hand
+99,267.7,300295790,7,The Stonevault,2024-10-06T06:52:52.000Z,1922288,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雷小能,Monk,Windwalker,dps,Silver Hand
+100,267.6,298400760,7,The Stonevault,2024-10-07T09:40:47.000Z,1929491,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一枪一只乌龟,Hunter,Marksmanship,dps,Deepfury
+100,267.6,298400760,7,The Stonevault,2024-10-07T09:40:47.000Z,1929491,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",仙女,Demon Hunter,Havoc,dps,Deepfury
+100,267.6,298400760,7,The Stonevault,2024-10-07T09:40:47.000Z,1929491,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鲜肉大包,Shaman,Restoration,healer,Deepfury
+100,267.6,298400760,7,The Stonevault,2024-10-07T09:40:47.000Z,1929491,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奶你吗德,Druid,Guardian,tank,Deepfury
+100,267.6,298400760,7,The Stonevault,2024-10-07T09:40:47.000Z,1929491,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",菠渡荬,Hunter,Marksmanship,dps,Deepfury
+101,266.9,298872741,7,The Stonevault,2024-10-09T14:20:01.000Z,1966481,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑熊幼崽,Druid,Restoration,healer,Silver Hand
+101,266.9,298872741,7,The Stonevault,2024-10-09T14:20:01.000Z,1966481,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蓝莓酸奶丶,Demon Hunter,Vengeance,tank,Rhonin
+101,266.9,298872741,7,The Stonevault,2024-10-09T14:20:01.000Z,1966481,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",兔剑秋丶,Death Knight,Unholy,dps,Burning Blade
+101,266.9,298872741,7,The Stonevault,2024-10-09T14:20:01.000Z,1966481,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",嗨雅,Death Knight,Frost,dps,Feralas
+101,266.9,298872741,7,The Stonevault,2024-10-09T14:20:01.000Z,1966481,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",三千莲花,Paladin,Retribution,dps,Rhonin
+102,265.5,298697947,7,The Stonevault,2024-10-08T18:24:12.000Z,2041824,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Voilack,Druid,Guardian,tank,Deathwhisper
+102,265.5,298697947,7,The Stonevault,2024-10-08T18:24:12.000Z,2041824,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",尘埃遇风,Druid,Balance,dps,Shadowmourne
+102,265.5,298697947,7,The Stonevault,2024-10-08T18:24:12.000Z,2041824,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十三快无敌,Paladin,Holy,healer,Al'ar
+102,265.5,298697947,7,The Stonevault,2024-10-08T18:24:12.000Z,2041824,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",谷辉合子,Paladin,Retribution,dps,Anzu
+102,265.5,298697947,7,The Stonevault,2024-10-08T18:24:12.000Z,2041824,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天真的小猪猪,Mage,Frost,dps,Valley of Kings
+103,265.3,298687688,7,The Stonevault,2024-10-08T17:33:36.000Z,2053696,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",尘埃遇风,Druid,Balance,dps,Shadowmourne
+103,265.3,298687688,7,The Stonevault,2024-10-08T17:33:36.000Z,2053696,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",光德蹄妹真香,Paladin,Retribution,dps,Silver Hand
+103,265.3,298687688,7,The Stonevault,2024-10-08T17:33:36.000Z,2053696,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",出头的鸟,Priest,Shadow,dps,Silver Hand
+103,265.3,298687688,7,The Stonevault,2024-10-08T17:33:36.000Z,2053696,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",朕还没睡醒,Druid,Restoration,healer,Feralas
+103,265.3,298687688,7,The Stonevault,2024-10-08T17:33:36.000Z,2053696,2070999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶渣渣灰丶,Demon Hunter,Vengeance,tank,Barrens

@@ -1,0 +1,171 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,301895888,3,Mists of Tirna Scithe,2024-10-21T13:47:16.000Z,895134,1800999,3,Xal'atath's Bargain: Oblivion,上杉明日奈,Mage,Fire,dps,Burning Blade
+1,195,301895888,3,Mists of Tirna Scithe,2024-10-21T13:47:16.000Z,895134,1800999,3,Xal'atath's Bargain: Oblivion,月落星隐,Paladin,Retribution,dps,Burning Blade
+1,195,301895888,3,Mists of Tirna Scithe,2024-10-21T13:47:16.000Z,895134,1800999,3,Xal'atath's Bargain: Oblivion,丨栀墨织屿丨,Warrior,Protection,tank,Burning Blade
+1,195,301895888,3,Mists of Tirna Scithe,2024-10-21T13:47:16.000Z,895134,1800999,3,Xal'atath's Bargain: Oblivion,至高岭阿昆达,Druid,Restoration,healer,Deepfury
+1,195,301895888,3,Mists of Tirna Scithe,2024-10-21T13:47:16.000Z,895134,1800999,3,Xal'atath's Bargain: Oblivion,牛蹄战,Warrior,Fury,dps,Shadowmourne
+2,195,309215852,3,Mists of Tirna Scithe,2024-11-26T13:01:56.000Z,949165,1800999,3,Xal'atath's Bargain: Oblivion,沐光上的钢刃,Warrior,Fury,dps,Deepfury
+2,195,309215852,3,Mists of Tirna Scithe,2024-11-26T13:01:56.000Z,949165,1800999,3,Xal'atath's Bargain: Oblivion,灭吧,Evoker,Augmentation,dps,Deepfury
+2,195,309215852,3,Mists of Tirna Scithe,2024-11-26T13:01:56.000Z,949165,1800999,3,Xal'atath's Bargain: Oblivion,麦克迪森塔,Priest,Discipline,healer,Deepfury
+2,195,309215852,3,Mists of Tirna Scithe,2024-11-26T13:01:56.000Z,949165,1800999,3,Xal'atath's Bargain: Oblivion,呀喏哒,Paladin,Protection,tank,Deepfury
+2,195,309215852,3,Mists of Tirna Scithe,2024-11-26T13:01:56.000Z,949165,1800999,3,Xal'atath's Bargain: Oblivion,槑牛,Paladin,Retribution,dps,Deepfury
+3,195,300847077,3,Mists of Tirna Scithe,2024-10-17T13:30:14.000Z,974082,1800999,3,Xal'atath's Bargain: Oblivion,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+3,195,300847077,3,Mists of Tirna Scithe,2024-10-17T13:30:14.000Z,974082,1800999,3,Xal'atath's Bargain: Oblivion,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+3,195,300847077,3,Mists of Tirna Scithe,2024-10-17T13:30:14.000Z,974082,1800999,3,Xal'atath's Bargain: Oblivion,你不要乱来啊,Mage,Fire,dps,Deathwing
+3,195,300847077,3,Mists of Tirna Scithe,2024-10-17T13:30:14.000Z,974082,1800999,3,Xal'atath's Bargain: Oblivion,易恩宝宝,Shaman,Restoration,healer,Doomwalker
+3,195,300847077,3,Mists of Tirna Scithe,2024-10-17T13:30:14.000Z,974082,1800999,3,Xal'atath's Bargain: Oblivion,十里星光,Druid,Balance,dps,Deathwing
+4,195,300295748,3,Mists of Tirna Scithe,2024-09-30T15:13:33.000Z,992557,1800999,3,Xal'atath's Bargain: Oblivion,疯纸楽言,Druid,Restoration,healer,Scarlet Crusade
+4,195,300295748,3,Mists of Tirna Scithe,2024-09-30T15:13:33.000Z,992557,1800999,3,Xal'atath's Bargain: Oblivion,Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+4,195,300295748,3,Mists of Tirna Scithe,2024-09-30T15:13:33.000Z,992557,1800999,3,Xal'atath's Bargain: Oblivion,啤酒灬君灬,Rogue,Assassination,dps,Pandaren
+4,195,300295748,3,Mists of Tirna Scithe,2024-09-30T15:13:33.000Z,992557,1800999,3,Xal'atath's Bargain: Oblivion,Remaked,Hunter,Survival,dps,Burning Blade
+4,195,300295748,3,Mists of Tirna Scithe,2024-09-30T15:13:33.000Z,992557,1800999,3,Xal'atath's Bargain: Oblivion,暗痕,Paladin,Retribution,dps,Silver Hand
+5,195,301280115,3,Mists of Tirna Scithe,2024-10-19T05:51:25.000Z,1005963,1800999,3,Xal'atath's Bargain: Oblivion,Alexrd,Druid,Guardian,tank,Malygos
+5,195,301280115,3,Mists of Tirna Scithe,2024-10-19T05:51:25.000Z,1005963,1800999,3,Xal'atath's Bargain: Oblivion,兰斯阿洛,Paladin,Retribution,dps,Anzu
+5,195,301280115,3,Mists of Tirna Scithe,2024-10-19T05:51:25.000Z,1005963,1800999,3,Xal'atath's Bargain: Oblivion,闷闷牛,Paladin,Retribution,dps,The Great Sea
+5,195,301280115,3,Mists of Tirna Scithe,2024-10-19T05:51:25.000Z,1005963,1800999,3,Xal'atath's Bargain: Oblivion,巴盖斯,Shaman,Restoration,healer,Silver Hand
+5,195,301280115,3,Mists of Tirna Scithe,2024-10-19T05:51:25.000Z,1005963,1800999,3,Xal'atath's Bargain: Oblivion,屁多星,Mage,Frost,dps,Barrens
+6,195,301401731,3,Mists of Tirna Scithe,2024-10-19T17:20:56.000Z,1014247,1800999,3,Xal'atath's Bargain: Oblivion,丸辣,Death Knight,Blood,tank,Echo Ridge
+6,195,301401731,3,Mists of Tirna Scithe,2024-10-19T17:20:56.000Z,1014247,1800999,3,Xal'atath's Bargain: Oblivion,一口一个丸酱,Evoker,Devastation,dps,Echo Ridge
+6,195,301401731,3,Mists of Tirna Scithe,2024-10-19T17:20:56.000Z,1014247,1800999,3,Xal'atath's Bargain: Oblivion,古伊尔之魂,Shaman,Restoration,healer,Grim Batol
+6,195,301401731,3,Mists of Tirna Scithe,2024-10-19T17:20:56.000Z,1014247,1800999,3,Xal'atath's Bargain: Oblivion,Darknessc,Demon Hunter,Havoc,dps,Isillien
+6,195,301401731,3,Mists of Tirna Scithe,2024-10-19T17:20:56.000Z,1014247,1800999,3,Xal'atath's Bargain: Oblivion,Mdzzsql,Paladin,Retribution,dps,Arygos
+7,194.8,296683598,3,Mists of Tirna Scithe,2024-09-30T09:49:00.000Z,1090478,1800999,2,Xal'atath's Bargain: Oblivion,是水饺呀,Hunter,Survival,dps,Valley of Kings
+7,194.8,296683598,3,Mists of Tirna Scithe,2024-09-30T09:49:00.000Z,1090478,1800999,2,Xal'atath's Bargain: Oblivion,Kadu,Shaman,Restoration,healer,Grim Batol
+7,194.8,296683598,3,Mists of Tirna Scithe,2024-09-30T09:49:00.000Z,1090478,1800999,2,Xal'atath's Bargain: Oblivion,Bcc,Death Knight,Blood,tank,Chillwind Point
+7,194.8,296683598,3,Mists of Tirna Scithe,2024-09-30T09:49:00.000Z,1090478,1800999,2,Xal'atath's Bargain: Oblivion,龙之启阳,Evoker,Augmentation,dps,Chillwind Point
+7,194.8,296683598,3,Mists of Tirna Scithe,2024-09-30T09:49:00.000Z,1090478,1800999,2,Xal'atath's Bargain: Oblivion,神澈黑影,Rogue,Assassination,dps,Pandaren
+8,191.6,302297983,3,Mists of Tirna Scithe,2024-10-23T12:35:18.000Z,1243306,1800999,2,Xal'atath's Bargain: Oblivion,圣爱贝贝,Paladin,Retribution,dps,Emerald Dream
+8,191.6,302297983,3,Mists of Tirna Scithe,2024-10-23T12:35:18.000Z,1243306,1800999,2,Xal'atath's Bargain: Oblivion,超级喜欢可乐,Priest,Holy,healer,Burning Blade
+8,191.6,302297983,3,Mists of Tirna Scithe,2024-10-23T12:35:18.000Z,1243306,1800999,2,Xal'atath's Bargain: Oblivion,伊利円灬怒風,Demon Hunter,Vengeance,tank,Anachronos
+8,191.6,302297983,3,Mists of Tirna Scithe,2024-10-23T12:35:18.000Z,1243306,1800999,2,Xal'atath's Bargain: Oblivion,刘小花,Druid,Feral,dps,Marrowgar
+8,191.6,302297983,3,Mists of Tirna Scithe,2024-10-23T12:35:18.000Z,1243306,1800999,2,Xal'atath's Bargain: Oblivion,塗山雅雅,Hunter,Marksmanship,dps,Anachronos
+9,190.4,302237035,3,Mists of Tirna Scithe,2024-10-23T01:52:53.000Z,1300027,1800999,2,Xal'atath's Bargain: Oblivion,帅就一个字,Shaman,Restoration,healer,Pandaren
+9,190.4,302237035,3,Mists of Tirna Scithe,2024-10-23T01:52:53.000Z,1300027,1800999,2,Xal'atath's Bargain: Oblivion,瞳炎,Mage,Frost,dps,Pandaren
+9,190.4,302237035,3,Mists of Tirna Scithe,2024-10-23T01:52:53.000Z,1300027,1800999,2,Xal'atath's Bargain: Oblivion,认真男孩,Shaman,Elemental,dps,Rhonin
+9,190.4,302237035,3,Mists of Tirna Scithe,2024-10-23T01:52:53.000Z,1300027,1800999,2,Xal'atath's Bargain: Oblivion,Deathsolo,Death Knight,Frost,dps,Silver Hand
+9,190.4,302237035,3,Mists of Tirna Scithe,2024-10-23T01:52:53.000Z,1300027,1800999,2,Xal'atath's Bargain: Oblivion,愈合你就没了,Druid,Guardian,tank,Frostmourne
+10,189.5,296709388,3,Mists of Tirna Scithe,2024-09-30T13:40:16.000Z,1343610,1800999,2,Xal'atath's Bargain: Oblivion,华子与牠皆失,Druid,Guardian,tank,Anzu
+10,189.5,296709388,3,Mists of Tirna Scithe,2024-09-30T13:40:16.000Z,1343610,1800999,2,Xal'atath's Bargain: Oblivion,艾莎云鸽,Shaman,Restoration,healer,Anzu
+10,189.5,296709388,3,Mists of Tirna Scithe,2024-09-30T13:40:16.000Z,1343610,1800999,2,Xal'atath's Bargain: Oblivion,苩吽芇,Hunter,Marksmanship,dps,Anzu
+10,189.5,296709388,3,Mists of Tirna Scithe,2024-09-30T13:40:16.000Z,1343610,1800999,2,Xal'atath's Bargain: Oblivion,花朵朵儿儿,Mage,Frost,dps,Anzu
+10,189.5,296709388,3,Mists of Tirna Scithe,2024-09-30T13:40:16.000Z,1343610,1800999,2,Xal'atath's Bargain: Oblivion,奶茶碎冰冰,Mage,Fire,dps,Anzu
+11,187.5,308916571,3,Mists of Tirna Scithe,2024-11-24T12:24:44.000Z,1440999,1800999,2,Xal'atath's Bargain: Oblivion,Viruse,Mage,Fire,dps,Tirisfal Glades
+11,187.5,308916571,3,Mists of Tirna Scithe,2024-11-24T12:24:44.000Z,1440999,1800999,2,Xal'atath's Bargain: Oblivion,晓晓丶战,Warrior,Protection,tank,Barrens
+11,187.5,308916571,3,Mists of Tirna Scithe,2024-11-24T12:24:44.000Z,1440999,1800999,2,Xal'atath's Bargain: Oblivion,娓娓道来的来,Priest,Shadow,dps,The Master's Glaive
+11,187.5,308916571,3,Mists of Tirna Scithe,2024-11-24T12:24:44.000Z,1440999,1800999,2,Xal'atath's Bargain: Oblivion,十二楼五城,Shaman,Elemental,dps,Bloodhoof
+11,187.5,308916571,3,Mists of Tirna Scithe,2024-11-24T12:24:44.000Z,1440999,1800999,2,Xal'atath's Bargain: Oblivion,龙小叁,Shaman,Restoration,healer,Bloodhoof
+12,186,301828066,3,Mists of Tirna Scithe,2024-10-21T03:11:45.000Z,1513739,1800999,1,Xal'atath's Bargain: Oblivion,宝宝,Hunter,Beast Mastery,dps,Drakkisath
+12,186,301828066,3,Mists of Tirna Scithe,2024-10-21T03:11:45.000Z,1513739,1800999,1,Xal'atath's Bargain: Oblivion,Likeasong,Warrior,Protection,tank,Al'ar
+12,186,301828066,3,Mists of Tirna Scithe,2024-10-21T03:11:45.000Z,1513739,1800999,1,Xal'atath's Bargain: Oblivion,吊儿郎当骑,Paladin,Retribution,dps,Chillwind Point
+12,186,301828066,3,Mists of Tirna Scithe,2024-10-21T03:11:45.000Z,1513739,1800999,1,Xal'atath's Bargain: Oblivion,猫猫乱,Druid,Restoration,healer,Arthas
+12,186,301828066,3,Mists of Tirna Scithe,2024-10-21T03:11:45.000Z,1513739,1800999,1,Xal'atath's Bargain: Oblivion,亲爱的苹果,Mage,Frost,dps,Arygos
+13,184,296949070,3,Mists of Tirna Scithe,2024-10-01T12:15:27.000Z,1610572,1800999,1,Xal'atath's Bargain: Oblivion,德搞王忠,Druid,Guardian,tank,Geddon
+13,184,296949070,3,Mists of Tirna Scithe,2024-10-01T12:15:27.000Z,1610572,1800999,1,Xal'atath's Bargain: Oblivion,喜风,Druid,Restoration,healer,Grim Batol
+13,184,296949070,3,Mists of Tirna Scithe,2024-10-01T12:15:27.000Z,1610572,1800999,1,Xal'atath's Bargain: Oblivion,瓦东东,Death Knight,Frost,dps,Grim Batol
+13,184,296949070,3,Mists of Tirna Scithe,2024-10-01T12:15:27.000Z,1610572,1800999,1,Xal'atath's Bargain: Oblivion,昊神丶,Shaman,Elemental,dps,Grim Batol
+13,184,296949070,3,Mists of Tirna Scithe,2024-10-01T12:15:27.000Z,1610572,1800999,1,Xal'atath's Bargain: Oblivion,玛克希姆,Demon Hunter,Havoc,dps,Grim Batol
+14,183.3,300943484,3,Mists of Tirna Scithe,2024-10-17T21:07:04.000Z,1640735,1800999,1,Xal'atath's Bargain: Oblivion,拿枪打鸟,Hunter,Marksmanship,dps,Deathwing
+14,183.3,300943484,3,Mists of Tirna Scithe,2024-10-17T21:07:04.000Z,1640735,1800999,1,Xal'atath's Bargain: Oblivion,小树晒月亮,Druid,Guardian,tank,Lord Kazzak
+14,183.3,300943484,3,Mists of Tirna Scithe,2024-10-17T21:07:04.000Z,1640735,1800999,1,Xal'atath's Bargain: Oblivion,圣光忽悠者你,Paladin,Retribution,dps,Deathwing
+14,183.3,300943484,3,Mists of Tirna Scithe,2024-10-17T21:07:04.000Z,1640735,1800999,1,Xal'atath's Bargain: Oblivion,大坨子,Death Knight,Frost,dps,Shadowmourne
+14,183.3,300943484,3,Mists of Tirna Scithe,2024-10-17T21:07:04.000Z,1640735,1800999,1,Xal'atath's Bargain: Oblivion,飘渺小猪,Paladin,Holy,healer,Tyr's Hand
+15,180,308699887,2,Mists of Tirna Scithe,2024-11-23T06:19:00.000Z,957220,1800999,3,Xal'atath's Bargain: Oblivion,Ppzhaopp,Warrior,Fury,dps,Eldre'Thalas
+15,180,308699887,2,Mists of Tirna Scithe,2024-11-23T06:19:00.000Z,957220,1800999,3,Xal'atath's Bargain: Oblivion,血肉果汁机,Paladin,Protection,tank,Eldre'Thalas
+15,180,308699887,2,Mists of Tirna Scithe,2024-11-23T06:19:00.000Z,957220,1800999,3,Xal'atath's Bargain: Oblivion,一不小心就,Priest,Discipline,healer,Thrall
+15,180,308699887,2,Mists of Tirna Scithe,2024-11-23T06:19:00.000Z,957220,1800999,3,Xal'atath's Bargain: Oblivion,提莫甘娜美,Paladin,Retribution,dps,Alexstrasza
+15,180,308699887,2,Mists of Tirna Scithe,2024-11-23T06:19:00.000Z,957220,1800999,3,Xal'atath's Bargain: Oblivion,圣光囚徒,Paladin,Retribution,dps,Drakkisath
+16,180,295759954,2,Mists of Tirna Scithe,2024-09-27T12:33:33.000Z,976316,1800999,3,Xal'atath's Bargain: Oblivion,犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+16,180,295759954,2,Mists of Tirna Scithe,2024-09-27T12:33:33.000Z,976316,1800999,3,Xal'atath's Bargain: Oblivion,靈獸鳴途,Shaman,Enhancement,dps,Eldre'Thalas
+16,180,295759954,2,Mists of Tirna Scithe,2024-09-27T12:33:33.000Z,976316,1800999,3,Xal'atath's Bargain: Oblivion,熊沢嵐澔丶,Warrior,Fury,dps,Scarlet Crusade
+16,180,295759954,2,Mists of Tirna Scithe,2024-09-27T12:33:33.000Z,976316,1800999,3,Xal'atath's Bargain: Oblivion,西瓜狐,Shaman,Restoration,healer,Silverpine Forest
+16,180,295759954,2,Mists of Tirna Scithe,2024-09-27T12:33:33.000Z,976316,1800999,3,Xal'atath's Bargain: Oblivion,奔狼垂饰,Death Knight,Frost,dps,Galakrond
+17,180,308768252,2,Mists of Tirna Scithe,2024-11-23T16:40:44.000Z,977506,1800999,3,Xal'atath's Bargain: Oblivion,蓝洁瑛,Warlock,Destruction,dps,Silver Hand
+17,180,308768252,2,Mists of Tirna Scithe,2024-11-23T16:40:44.000Z,977506,1800999,3,Xal'atath's Bargain: Oblivion,青岛纯生,Shaman,Enhancement,dps,Stromgarde Keep
+17,180,308768252,2,Mists of Tirna Scithe,2024-11-23T16:40:44.000Z,977506,1800999,3,Xal'atath's Bargain: Oblivion,想吃汤圆,Druid,Guardian,tank,Dark Iron
+17,180,308768252,2,Mists of Tirna Scithe,2024-11-23T16:40:44.000Z,977506,1800999,3,Xal'atath's Bargain: Oblivion,墓師,Priest,Discipline,healer,Isillien
+17,180,308768252,2,Mists of Tirna Scithe,2024-11-23T16:40:44.000Z,977506,1800999,3,Xal'atath's Bargain: Oblivion,月下小天真,Hunter,Survival,dps,Rhonin
+18,180,308915019,2,Mists of Tirna Scithe,2024-11-24T12:07:47.000Z,993038,1800999,3,Xal'atath's Bargain: Oblivion,一头披肩发,Paladin,Protection,tank,Al'ar
+18,180,308915019,2,Mists of Tirna Scithe,2024-11-24T12:07:47.000Z,993038,1800999,3,Xal'atath's Bargain: Oblivion,武猫,Monk,Mistweaver,healer,Al'ar
+18,180,308915019,2,Mists of Tirna Scithe,2024-11-24T12:07:47.000Z,993038,1800999,3,Xal'atath's Bargain: Oblivion,慕容雪儿,Mage,Frost,dps,Al'ar
+18,180,308915019,2,Mists of Tirna Scithe,2024-11-24T12:07:47.000Z,993038,1800999,3,Xal'atath's Bargain: Oblivion,醉僧丶,Monk,Windwalker,dps,Al'ar
+18,180,308915019,2,Mists of Tirna Scithe,2024-11-24T12:07:47.000Z,993038,1800999,3,Xal'atath's Bargain: Oblivion,小红手阳仔,Hunter,Marksmanship,dps,Al'ar
+19,180,309064774,2,Mists of Tirna Scithe,2024-11-25T10:14:24.000Z,1063378,1800999,3,Xal'atath's Bargain: Oblivion,娇娜,Demon Hunter,Vengeance,tank,Grim Batol
+19,180,309064774,2,Mists of Tirna Scithe,2024-11-25T10:14:24.000Z,1063378,1800999,3,Xal'atath's Bargain: Oblivion,名将,Monk,Windwalker,dps,Fray Island
+19,180,309064774,2,Mists of Tirna Scithe,2024-11-25T10:14:24.000Z,1063378,1800999,3,Xal'atath's Bargain: Oblivion,麦克迪森塔,Priest,Discipline,healer,Deepfury
+19,180,309064774,2,Mists of Tirna Scithe,2024-11-25T10:14:24.000Z,1063378,1800999,3,Xal'atath's Bargain: Oblivion,幻羽飞雪,Priest,Shadow,dps,Gadgetzan
+19,180,309064774,2,Mists of Tirna Scithe,2024-11-25T10:14:24.000Z,1063378,1800999,3,Xal'atath's Bargain: Oblivion,花粥,Paladin,Retribution,dps,Fray Island
+20,180,308919193,2,Mists of Tirna Scithe,2024-11-24T12:59:06.000Z,1070223,1800999,3,Xal'atath's Bargain: Oblivion,衙毅,Paladin,Retribution,dps,Burning Steppes
+20,180,308919193,2,Mists of Tirna Scithe,2024-11-24T12:59:06.000Z,1070223,1800999,3,Xal'atath's Bargain: Oblivion,神奇的阿瓷,Paladin,Retribution,dps,Scarlet Crusade
+20,180,308919193,2,Mists of Tirna Scithe,2024-11-24T12:59:06.000Z,1070223,1800999,3,Xal'atath's Bargain: Oblivion,我在绝情谷底,Paladin,Protection,tank,Blanchard
+20,180,308919193,2,Mists of Tirna Scithe,2024-11-24T12:59:06.000Z,1070223,1800999,3,Xal'atath's Bargain: Oblivion,沐雨清心,Mage,Frost,dps,Bronzebeard
+20,180,308919193,2,Mists of Tirna Scithe,2024-11-24T12:59:06.000Z,1070223,1800999,3,Xal'atath's Bargain: Oblivion,Wryy,Paladin,Holy,healer,Shadowmourne
+21,180,302311178,2,Mists of Tirna Scithe,2024-10-23T14:38:02.000Z,1070740,1800999,3,Xal'atath's Bargain: Oblivion,Kstpala,Paladin,Retribution,dps,Galakrond
+21,180,302311178,2,Mists of Tirna Scithe,2024-10-23T14:38:02.000Z,1070740,1800999,3,Xal'atath's Bargain: Oblivion,Lostinfire,Death Knight,Frost,dps,Galakrond
+21,180,302311178,2,Mists of Tirna Scithe,2024-10-23T14:38:02.000Z,1070740,1800999,3,Xal'atath's Bargain: Oblivion,我不吃素食,Priest,Discipline,healer,Galakrond
+21,180,302311178,2,Mists of Tirna Scithe,2024-10-23T14:38:02.000Z,1070740,1800999,3,Xal'atath's Bargain: Oblivion,干点正事,Warrior,Protection,tank,Galakrond
+21,180,302311178,2,Mists of Tirna Scithe,2024-10-23T14:38:02.000Z,1070740,1800999,3,Xal'atath's Bargain: Oblivion,Longstime,Shaman,Elemental,dps,Silver Hand
+22,180,301034936,2,Mists of Tirna Scithe,2024-10-18T07:00:10.000Z,1076375,1800999,3,Xal'atath's Bargain: Oblivion,Megumii,Paladin,Retribution,dps,Isillien
+22,180,301034936,2,Mists of Tirna Scithe,2024-10-18T07:00:10.000Z,1076375,1800999,3,Xal'atath's Bargain: Oblivion,松雀奶奶,Priest,Holy,healer,Deathwing
+22,180,301034936,2,Mists of Tirna Scithe,2024-10-18T07:00:10.000Z,1076375,1800999,3,Xal'atath's Bargain: Oblivion,什么法都不行,Mage,Fire,dps,Al'ar
+22,180,301034936,2,Mists of Tirna Scithe,2024-10-18T07:00:10.000Z,1076375,1800999,3,Xal'atath's Bargain: Oblivion,血血怪阿卡林,Death Knight,Frost,dps,Deathwing
+22,180,301034936,2,Mists of Tirna Scithe,2024-10-18T07:00:10.000Z,1076375,1800999,3,Xal'atath's Bargain: Oblivion,Owlfly,Demon Hunter,Vengeance,tank,Deathwing
+23,179.3,301913683,2,Mists of Tirna Scithe,2024-10-21T15:35:20.000Z,1112717,1800999,2,Xal'atath's Bargain: Oblivion,超级喜欢可乐,Priest,Holy,healer,Burning Blade
+23,179.3,301913683,2,Mists of Tirna Scithe,2024-10-21T15:35:20.000Z,1112717,1800999,2,Xal'atath's Bargain: Oblivion,亡魂丨挽歌,Death Knight,Frost,dps,Burning Blade
+23,179.3,301913683,2,Mists of Tirna Scithe,2024-10-21T15:35:20.000Z,1112717,1800999,2,Xal'atath's Bargain: Oblivion,从小就贼怪,Paladin,Retribution,dps,Burning Blade
+23,179.3,301913683,2,Mists of Tirna Scithe,2024-10-21T15:35:20.000Z,1112717,1800999,2,Xal'atath's Bargain: Oblivion,月见青訸,Paladin,Retribution,dps,Burning Blade
+23,179.3,301913683,2,Mists of Tirna Scithe,2024-10-21T15:35:20.000Z,1112717,1800999,2,Xal'atath's Bargain: Oblivion,萧萧雨斜,Paladin,Protection,tank,Frostmourne
+24,178.2,309353632,2,Mists of Tirna Scithe,2024-11-27T09:44:00.000Z,1166437,1800999,2,Xal'atath's Bargain: Oblivion,抗日中年人,Paladin,Protection,tank,Barrens
+24,178.2,309353632,2,Mists of Tirna Scithe,2024-11-27T09:44:00.000Z,1166437,1800999,2,Xal'atath's Bargain: Oblivion,还不够强,Rogue,Assassination,dps,Silver Hand
+24,178.2,309353632,2,Mists of Tirna Scithe,2024-11-27T09:44:00.000Z,1166437,1800999,2,Xal'atath's Bargain: Oblivion,就叫我阿牛吧,Paladin,Retribution,dps,Stromgarde Keep
+24,178.2,309353632,2,Mists of Tirna Scithe,2024-11-27T09:44:00.000Z,1166437,1800999,2,Xal'atath's Bargain: Oblivion,冠伊的奶棒,Shaman,Restoration,healer,The Master's Glaive
+24,178.2,309353632,2,Mists of Tirna Scithe,2024-11-27T09:44:00.000Z,1166437,1800999,2,Xal'atath's Bargain: Oblivion,安格隆,Warrior,Arms,dps,Hectae
+25,178,309099680,2,Mists of Tirna Scithe,2024-11-25T17:13:53.000Z,1176683,1800999,2,Xal'atath's Bargain: Oblivion,郎坡娃,Shaman,Restoration,healer,Kel'Thuzad
+25,178,309099680,2,Mists of Tirna Scithe,2024-11-25T17:13:53.000Z,1176683,1800999,2,Xal'atath's Bargain: Oblivion,神启的大寄,Paladin,Retribution,dps,Anzu
+25,178,309099680,2,Mists of Tirna Scithe,2024-11-25T17:13:53.000Z,1176683,1800999,2,Xal'atath's Bargain: Oblivion,苏雪柔,Hunter,Survival,dps,Al'ar
+25,178,309099680,2,Mists of Tirna Scithe,2024-11-25T17:13:53.000Z,1176683,1800999,2,Xal'atath's Bargain: Oblivion,Taishang,Demon Hunter,Vengeance,tank,Anzu
+25,178,309099680,2,Mists of Tirna Scithe,2024-11-25T17:13:53.000Z,1176683,1800999,2,Xal'atath's Bargain: Oblivion,樱桃肉丸子,Rogue,Assassination,dps,Dark Phantom
+26,177.8,309337171,2,Mists of Tirna Scithe,2024-11-27T04:59:24.000Z,1187512,1800999,2,Xal'atath's Bargain: Oblivion,喵喵珂,Druid,Restoration,healer,Doomwalker
+26,177.8,309337171,2,Mists of Tirna Scithe,2024-11-27T04:59:24.000Z,1187512,1800999,2,Xal'atath's Bargain: Oblivion,圈圈小圈,Rogue,Assassination,dps,Deepfury
+26,177.8,309337171,2,Mists of Tirna Scithe,2024-11-27T04:59:24.000Z,1187512,1800999,2,Xal'atath's Bargain: Oblivion,瓜皮皮,Paladin,Retribution,dps,Rhonin
+26,177.8,309337171,2,Mists of Tirna Scithe,2024-11-27T04:59:24.000Z,1187512,1800999,2,Xal'atath's Bargain: Oblivion,碧穴簧後,Mage,Frost,dps,Grim Batol
+26,177.8,309337171,2,Mists of Tirna Scithe,2024-11-27T04:59:24.000Z,1187512,1800999,2,Xal'atath's Bargain: Oblivion,于笙丿,Monk,Brewmaster,tank,Al'ar
+27,176.1,308416334,2,Mists of Tirna Scithe,2024-11-21T11:33:27.000Z,1267327,1800999,2,Xal'atath's Bargain: Oblivion,宝友,Druid,Balance,dps,Shadowmourne
+27,176.1,308416334,2,Mists of Tirna Scithe,2024-11-21T11:33:27.000Z,1267327,1800999,2,Xal'atath's Bargain: Oblivion,菲尔普药斯,Druid,Guardian,tank,Hectae
+27,176.1,308416334,2,Mists of Tirna Scithe,2024-11-21T11:33:27.000Z,1267327,1800999,2,Xal'atath's Bargain: Oblivion,萨佢老味,Shaman,Restoration,healer,Sandfury
+27,176.1,308416334,2,Mists of Tirna Scithe,2024-11-21T11:33:27.000Z,1267327,1800999,2,Xal'atath's Bargain: Oblivion,穿啥都美,Shaman,Elemental,dps,Dragonblight
+27,176.1,308416334,2,Mists of Tirna Scithe,2024-11-21T11:33:27.000Z,1267327,1800999,2,Xal'atath's Bargain: Oblivion,落花瑯藉,Warlock,Demonology,dps,Deathwing
+28,176,308879717,2,Mists of Tirna Scithe,2024-11-24T05:37:29.000Z,1270512,1800999,2,Xal'atath's Bargain: Oblivion,德三,Druid,Feral,dps,The Great Sea
+28,176,308879717,2,Mists of Tirna Scithe,2024-11-24T05:37:29.000Z,1270512,1800999,2,Xal'atath's Bargain: Oblivion,小奥妮克希亚,Warrior,Arms,dps,Burning Blade
+28,176,308879717,2,Mists of Tirna Scithe,2024-11-24T05:37:29.000Z,1270512,1800999,2,Xal'atath's Bargain: Oblivion,灬季末更寂寞,Mage,Frost,dps,Gadgetzan
+28,176,308879717,2,Mists of Tirna Scithe,2024-11-24T05:37:29.000Z,1270512,1800999,2,Xal'atath's Bargain: Oblivion,司马靁火,Demon Hunter,Vengeance,tank,The Golden Plains
+28,176,308879717,2,Mists of Tirna Scithe,2024-11-24T05:37:29.000Z,1270512,1800999,2,Xal'atath's Bargain: Oblivion,丨木棉小牧丨,Priest,Discipline,healer,Anzu
+29,175.4,295816226,2,Mists of Tirna Scithe,2024-09-27T16:20:37.000Z,1300646,1800999,2,Xal'atath's Bargain: Oblivion,凌晨不睡觉,Paladin,Holy,healer,Barrens
+29,175.4,295816226,2,Mists of Tirna Scithe,2024-09-27T16:20:37.000Z,1300646,1800999,2,Xal'atath's Bargain: Oblivion,Taillon,Mage,Frost,dps,Ysera
+29,175.4,295816226,2,Mists of Tirna Scithe,2024-09-27T16:20:37.000Z,1300646,1800999,2,Xal'atath's Bargain: Oblivion,猕猴桃超人,Warrior,Protection,tank,Barrens
+29,175.4,295816226,2,Mists of Tirna Scithe,2024-09-27T16:20:37.000Z,1300646,1800999,2,Xal'atath's Bargain: Oblivion,怒波迪,Shaman,Elemental,dps,Pandaren
+29,175.4,295816226,2,Mists of Tirna Scithe,2024-09-27T16:20:37.000Z,1300646,1800999,2,Xal'atath's Bargain: Oblivion,炒鸡蘸酱丶,Paladin,Retribution,dps,Chillwind Point
+30,175,301598885,2,Mists of Tirna Scithe,2024-10-20T09:28:57.000Z,1318745,1800999,2,Xal'atath's Bargain: Oblivion,Munansama,Death Knight,Blood,tank,Grim Batol
+30,175,301598885,2,Mists of Tirna Scithe,2024-10-20T09:28:57.000Z,1318745,1800999,2,Xal'atath's Bargain: Oblivion,Qimple,Mage,Frost,dps,Frostmourne
+30,175,301598885,2,Mists of Tirna Scithe,2024-10-20T09:28:57.000Z,1318745,1800999,2,Xal'atath's Bargain: Oblivion,真实大帝,Shaman,Restoration,healer,Barrens
+30,175,301598885,2,Mists of Tirna Scithe,2024-10-20T09:28:57.000Z,1318745,1800999,2,Xal'atath's Bargain: Oblivion,圣光霜影,Paladin,Retribution,dps,Balnazzar
+30,175,301598885,2,Mists of Tirna Scithe,2024-10-20T09:28:57.000Z,1318745,1800999,2,Xal'atath's Bargain: Oblivion,Neoo,Demon Hunter,Havoc,dps,Valley of Kings
+31,173.9,309179154,2,Mists of Tirna Scithe,2024-11-26T04:30:22.000Z,1375478,1800999,2,Xal'atath's Bargain: Oblivion,小丨柚子,Hunter,Survival,dps,Anachronos
+31,173.9,309179154,2,Mists of Tirna Scithe,2024-11-26T04:30:22.000Z,1375478,1800999,2,Xal'atath's Bargain: Oblivion,稀饭白糖,Monk,Windwalker,dps,Deathwing
+31,173.9,309179154,2,Mists of Tirna Scithe,2024-11-26T04:30:22.000Z,1375478,1800999,2,Xal'atath's Bargain: Oblivion,斩斩,Demon Hunter,Vengeance,tank,Immol'thar
+31,173.9,309179154,2,Mists of Tirna Scithe,2024-11-26T04:30:22.000Z,1375478,1800999,2,Xal'atath's Bargain: Oblivion,小迷瞪,Shaman,Restoration,healer,Dreadmist Peak
+31,173.9,309179154,2,Mists of Tirna Scithe,2024-11-26T04:30:22.000Z,1375478,1800999,2,Xal'atath's Bargain: Oblivion,王子明,Hunter,Beast Mastery,dps,Silverpine Forest
+32,173.8,309398091,2,Mists of Tirna Scithe,2024-11-27T18:01:42.000Z,1380304,1800999,2,Xal'atath's Bargain: Oblivion,双眼似月光,Demon Hunter,Vengeance,tank,Al'ar
+32,173.8,309398091,2,Mists of Tirna Scithe,2024-11-27T18:01:42.000Z,1380304,1800999,2,Xal'atath's Bargain: Oblivion,咖喱折箩饭,Rogue,Outlaw,dps,Al'ar
+32,173.8,309398091,2,Mists of Tirna Scithe,2024-11-27T18:01:42.000Z,1380304,1800999,2,Xal'atath's Bargain: Oblivion,局部夹紧,Shaman,Elemental,dps,Anzu
+32,173.8,309398091,2,Mists of Tirna Scithe,2024-11-27T18:01:42.000Z,1380304,1800999,2,Xal'atath's Bargain: Oblivion,Summondruids,Warlock,Demonology,dps,Deathwing
+32,173.8,309398091,2,Mists of Tirna Scithe,2024-11-27T18:01:42.000Z,1380304,1800999,2,Xal'atath's Bargain: Oblivion,番茄炒土豆,Priest,Discipline,healer,Rhonin
+33,173.3,302301877,2,Mists of Tirna Scithe,2024-10-23T13:05:21.000Z,1401552,1800999,2,Xal'atath's Bargain: Oblivion,别丿怂丿啊,Warrior,Protection,tank,Al'ar
+33,173.3,302301877,2,Mists of Tirna Scithe,2024-10-23T13:05:21.000Z,1401552,1800999,2,Xal'atath's Bargain: Oblivion,会放电的猪,Shaman,Restoration,healer,Grim Batol
+33,173.3,302301877,2,Mists of Tirna Scithe,2024-10-23T13:05:21.000Z,1401552,1800999,2,Xal'atath's Bargain: Oblivion,丶舒大妞,Paladin,Retribution,dps,Burning Blade
+33,173.3,302301877,2,Mists of Tirna Scithe,2024-10-23T13:05:21.000Z,1401552,1800999,2,Xal'atath's Bargain: Oblivion,二十一苛鬼魂,Mage,Frost,dps,Deathwing
+33,173.3,302301877,2,Mists of Tirna Scithe,2024-10-23T13:05:21.000Z,1401552,1800999,2,Xal'atath's Bargain: Oblivion,无敌德玛,Warrior,Fury,dps,Thrall
+34,167.7,309403356,2,Mists of Tirna Scithe,2024-11-27T18:40:32.000Z,1673242,1800999,1,Xal'atath's Bargain: Oblivion,抄底不过分吧,Monk,Windwalker,dps,Blanchard
+34,167.7,309403356,2,Mists of Tirna Scithe,2024-11-27T18:40:32.000Z,1673242,1800999,1,Xal'atath's Bargain: Oblivion,盗了个盗,Rogue,Assassination,dps,Blanchard
+34,167.7,309403356,2,Mists of Tirna Scithe,2024-11-27T18:40:32.000Z,1673242,1800999,1,Xal'atath's Bargain: Oblivion,鲸鱼大魔王,Demon Hunter,Vengeance,tank,Rhonin
+34,167.7,309403356,2,Mists of Tirna Scithe,2024-11-27T18:40:32.000Z,1673242,1800999,1,Xal'atath's Bargain: Oblivion,利威尔爱砍猴,Rogue,Assassination,dps,Kel'Thuzad
+34,167.7,309403356,2,Mists of Tirna Scithe,2024-11-27T18:40:32.000Z,1673242,1800999,1,Xal'atath's Bargain: Oblivion,八万一筒,Priest,Discipline,healer,Al'ar

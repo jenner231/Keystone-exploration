@@ -1,0 +1,951 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,309.6,307703950,9,Siege of Boralus,2024-11-17T12:16:08.000Z,1264399,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丨奔波尔灞丨,Mage,Frost,dps,Al'ar
+1,309.6,307703950,9,Siege of Boralus,2024-11-17T12:16:08.000Z,1264399,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",紫色防骑,Demon Hunter,Vengeance,tank,Blanchard
+1,309.6,307703950,9,Siege of Boralus,2024-11-17T12:16:08.000Z,1264399,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",执念散落冰河,Death Knight,Frost,dps,Deathwing
+1,309.6,307703950,9,Siege of Boralus,2024-11-17T12:16:08.000Z,1264399,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",加强奶德,Shaman,Restoration,healer,Al'ar
+1,309.6,307703950,9,Siege of Boralus,2024-11-17T12:16:08.000Z,1264399,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",易小戰,Warrior,Arms,dps,Al'ar
+2,309.4,308288229,9,Siege of Boralus,2024-11-20T15:10:46.000Z,1275296,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",漫过星星海,Evoker,Augmentation,dps,Silver Hand
+2,309.4,308288229,9,Siege of Boralus,2024-11-20T15:10:46.000Z,1275296,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mqsmovo,Shaman,Enhancement,dps,Burning Blade
+2,309.4,308288229,9,Siege of Boralus,2024-11-20T15:10:46.000Z,1275296,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",倔强的朵朵,Paladin,Retribution,dps,Ring of Trials
+2,309.4,308288229,9,Siege of Boralus,2024-11-20T15:10:46.000Z,1275296,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黑兔,Priest,Discipline,healer,Scarlet Crusade
+2,309.4,308288229,9,Siege of Boralus,2024-11-20T15:10:46.000Z,1275296,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Harukadk,Death Knight,Blood,tank,Barrens
+3,308.9,307148278,9,Siege of Boralus,2024-11-14T12:28:26.000Z,1303175,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",卡哇伊小车,Mage,Frost,dps,Gyth
+3,308.9,307148278,9,Siege of Boralus,2024-11-14T12:28:26.000Z,1303175,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月華劍士,Paladin,Protection,tank,Gyth
+3,308.9,307148278,9,Siege of Boralus,2024-11-14T12:28:26.000Z,1303175,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",恶魔丶魂,Warlock,Affliction,dps,Eldre'Thalas
+3,308.9,307148278,9,Siege of Boralus,2024-11-14T12:28:26.000Z,1303175,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷艾利桑德,Paladin,Retribution,dps,Eldre'Thalas
+3,308.9,307148278,9,Siege of Boralus,2024-11-14T12:28:26.000Z,1303175,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",御宅人,Shaman,Restoration,healer,Eldre'Thalas
+4,308.9,307479788,9,Siege of Boralus,2024-11-16T10:49:48.000Z,1304795,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夜灬你妹,Hunter,Survival,dps,Emeriss
+4,308.9,307479788,9,Siege of Boralus,2024-11-16T10:49:48.000Z,1304795,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",请叫我麦当劳,Druid,Guardian,tank,The Master's Glaive
+4,308.9,307479788,9,Siege of Boralus,2024-11-16T10:49:48.000Z,1304795,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",后面有尾巴,Hunter,Beast Mastery,dps,Silver Hand
+4,308.9,307479788,9,Siege of Boralus,2024-11-16T10:49:48.000Z,1304795,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",十点差三分,Druid,Balance,dps,The Master's Glaive
+4,308.9,307479788,9,Siege of Boralus,2024-11-16T10:49:48.000Z,1304795,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",七月如故,Shaman,Restoration,healer,Al'ar
+5,308.2,307714598,9,Siege of Boralus,2024-11-17T13:49:42.000Z,1343284,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",阿卷卷丶,Hunter,Beast Mastery,dps,Rhonin
+5,308.2,307714598,9,Siege of Boralus,2024-11-17T13:49:42.000Z,1343284,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超级蜻蜓队长,Hunter,Survival,dps,Rhonin
+5,308.2,307714598,9,Siege of Boralus,2024-11-17T13:49:42.000Z,1343284,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雪来染,Monk,Mistweaver,healer,Al'ar
+5,308.2,307714598,9,Siege of Boralus,2024-11-17T13:49:42.000Z,1343284,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",罗罗丶,Warlock,Destruction,dps,Pandaren
+5,308.2,307714598,9,Siege of Boralus,2024-11-17T13:49:42.000Z,1343284,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丨趙雲丨,Paladin,Protection,tank,Shadowmourne
+6,307.9,308255703,9,Siege of Boralus,2024-11-20T09:42:54.000Z,1358461,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小熊焰焰,Druid,Guardian,tank,Azshara
+6,307.9,308255703,9,Siege of Boralus,2024-11-20T09:42:54.000Z,1358461,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小可乐鸡,Shaman,Enhancement,dps,Grim Batol
+6,307.9,308255703,9,Siege of Boralus,2024-11-20T09:42:54.000Z,1358461,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",春梦丶无痕,Death Knight,Frost,dps,Arygos
+6,307.9,308255703,9,Siege of Boralus,2024-11-20T09:42:54.000Z,1358461,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凹师傅,Shaman,Restoration,healer,Chillwind Point
+6,307.9,308255703,9,Siege of Boralus,2024-11-20T09:42:54.000Z,1358461,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",踏风不弱于人,Paladin,Retribution,dps,Marrowgar
+7,307.5,307485121,9,Siege of Boralus,2024-11-16T11:24:28.000Z,1380603,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Xuanwar,Warrior,Protection,tank,Deathwing
+7,307.5,307485121,9,Siege of Boralus,2024-11-16T11:24:28.000Z,1380603,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",说了再見丶,Hunter,Marksmanship,dps,Deathwing
+7,307.5,307485121,9,Siege of Boralus,2024-11-16T11:24:28.000Z,1380603,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Civet,Rogue,Assassination,dps,Deathwing
+7,307.5,307485121,9,Siege of Boralus,2024-11-16T11:24:28.000Z,1380603,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣光老盲流,Paladin,Retribution,dps,Al'ar
+7,307.5,307485121,9,Siege of Boralus,2024-11-16T11:24:28.000Z,1380603,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",物理魔法棒,Shaman,Restoration,healer,The Master's Glaive
+8,307.5,293698133,9,Siege of Boralus,2024-09-21T07:37:02.000Z,1383252,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Kryptonite,Mage,Frost,dps,The Great Sea
+8,307.5,293698133,9,Siege of Boralus,2024-09-21T07:37:02.000Z,1383252,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凯旋之咩,Priest,Discipline,healer,Grim Batol
+8,307.5,293698133,9,Siege of Boralus,2024-09-21T07:37:02.000Z,1383252,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",火焰龙王,Evoker,Augmentation,dps,Burning Blade
+8,307.5,293698133,9,Siege of Boralus,2024-09-21T07:37:02.000Z,1383252,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",炮哥哥来咯,Death Knight,Frost,dps,Scarlet Crusade
+8,307.5,293698133,9,Siege of Boralus,2024-09-21T07:37:02.000Z,1383252,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Zxwdk,Death Knight,Blood,tank,Silver Hand
+9,307.4,308276716,9,Siege of Boralus,2024-11-20T13:48:22.000Z,1383517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",契约一魂一,Priest,Discipline,healer,Molten Core
+9,307.4,308276716,9,Siege of Boralus,2024-11-20T13:48:22.000Z,1383517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶纳豆,Death Knight,Frost,dps,Al'ar
+9,307.4,308276716,9,Siege of Boralus,2024-11-20T13:48:22.000Z,1383517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rostalie,Evoker,Augmentation,dps,Al'ar
+9,307.4,308276716,9,Siege of Boralus,2024-11-20T13:48:22.000Z,1383517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",走路的云,Hunter,Survival,dps,Al'ar
+9,307.4,308276716,9,Siege of Boralus,2024-11-20T13:48:22.000Z,1383517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Teddyowo,Paladin,Protection,tank,Molten Core
+10,307.3,307753294,9,Siege of Boralus,2024-11-17T17:16:41.000Z,1389506,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",腹黑逗比立,Demon Hunter,Vengeance,tank,Blanchard
+10,307.3,307753294,9,Siege of Boralus,2024-11-17T17:16:41.000Z,1389506,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷你听得到,Druid,Balance,dps,Rhonin
+10,307.3,307753294,9,Siege of Boralus,2024-11-17T17:16:41.000Z,1389506,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Reonasama,Priest,Discipline,healer,Isillien
+10,307.3,307753294,9,Siege of Boralus,2024-11-17T17:16:41.000Z,1389506,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",炎之男三井寿,Mage,Fire,dps,Kel'Thuzad
+10,307.3,307753294,9,Siege of Boralus,2024-11-17T17:16:41.000Z,1389506,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Meeting,Paladin,Retribution,dps,Illidan
+11,307,307117453,9,Siege of Boralus,2024-11-14T05:08:53.000Z,1407381,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",慕枫微雪,Paladin,Retribution,dps,Burning Blade
+11,307,307117453,9,Siege of Boralus,2024-11-14T05:08:53.000Z,1407381,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",隔壁家湖南面,Shaman,Restoration,healer,Isillien
+11,307,307117453,9,Siege of Boralus,2024-11-14T05:08:53.000Z,1407381,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",每天吃饱饱,Paladin,Protection,tank,Burning Blade
+11,307,307117453,9,Siege of Boralus,2024-11-14T05:08:53.000Z,1407381,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",氵霸气牛男子,Death Knight,Frost,dps,Isillien
+11,307,307117453,9,Siege of Boralus,2024-11-14T05:08:53.000Z,1407381,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",璇璇熙熙,Hunter,Survival,dps,Ashenvale
+12,307,300296608,9,Siege of Boralus,2024-09-21T11:02:18.000Z,1408691,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",萌萌的轩轩,Mage,Frost,dps,Isillien
+12,307,300296608,9,Siege of Boralus,2024-09-21T11:02:18.000Z,1408691,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拣爱,Demon Hunter,Vengeance,tank,Dun Modr
+12,307,300296608,9,Siege of Boralus,2024-09-21T11:02:18.000Z,1408691,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小西明八,Death Knight,Frost,dps,Isillien
+12,307,300296608,9,Siege of Boralus,2024-09-21T11:02:18.000Z,1408691,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",究极干饭大王,Shaman,Restoration,healer,Isillien
+12,307,300296608,9,Siege of Boralus,2024-09-21T11:02:18.000Z,1408691,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Richfoever,Warlock,Affliction,dps,Burning Blade
+13,306.6,307868021,9,Siege of Boralus,2024-11-18T05:14:04.000Z,1430346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mstt,Priest,Discipline,healer,Burning Blade
+13,306.6,307868021,9,Siege of Boralus,2024-11-18T05:14:04.000Z,1430346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+13,306.6,307868021,9,Siege of Boralus,2024-11-18T05:14:04.000Z,1430346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",星城小法,Mage,Frost,dps,Dark Iron
+13,306.6,307868021,9,Siege of Boralus,2024-11-18T05:14:04.000Z,1430346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",失误,Paladin,Retribution,dps,Mannoroth
+13,306.6,307868021,9,Siege of Boralus,2024-11-18T05:14:04.000Z,1430346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",车手,Paladin,Protection,tank,Barrens
+14,306.6,308265413,9,Siege of Boralus,2024-11-20T11:53:09.000Z,1430666,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",洅不斬,Warrior,Fury,dps,Staghelm
+14,306.6,308265413,9,Siege of Boralus,2024-11-20T11:53:09.000Z,1430666,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",暗隐神牧,Priest,Shadow,dps,Anzu
+14,306.6,308265413,9,Siege of Boralus,2024-11-20T11:53:09.000Z,1430666,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",神奇的老衲,Paladin,Protection,tank,Deathwing
+14,306.6,308265413,9,Siege of Boralus,2024-11-20T11:53:09.000Z,1430666,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",吧啦嘣啦,Death Knight,Frost,dps,Scarlet Crusade
+14,306.6,308265413,9,Siege of Boralus,2024-11-20T11:53:09.000Z,1430666,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",乖乖臭小凡,Paladin,Holy,healer,Chillwind Point
+15,306.5,307713465,9,Siege of Boralus,2024-11-17T13:33:10.000Z,1436758,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Vangol,Druid,Guardian,tank,Rhonin
+15,306.5,307713465,9,Siege of Boralus,2024-11-17T13:33:10.000Z,1436758,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",神鲸递质,Demon Hunter,Havoc,dps,Rhonin
+15,306.5,307713465,9,Siege of Boralus,2024-11-17T13:33:10.000Z,1436758,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣光圣斗士,Paladin,Holy,healer,Deathwing
+15,306.5,307713465,9,Siege of Boralus,2024-11-17T13:33:10.000Z,1436758,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雨果丶光刃,Paladin,Retribution,dps,The Golden Plains
+15,306.5,307713465,9,Siege of Boralus,2024-11-17T13:33:10.000Z,1436758,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶明月下西楼,Death Knight,Unholy,dps,Rhonin
+16,306.4,308050235,9,Siege of Boralus,2024-11-19T08:27:20.000Z,1439058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南瓜来坐牢了,Druid,Balance,dps,Silver Hand
+16,306.4,308050235,9,Siege of Boralus,2024-11-19T08:27:20.000Z,1439058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爱跑了,Mage,Frost,dps,Valley of Kings
+16,306.4,308050235,9,Siege of Boralus,2024-11-19T08:27:20.000Z,1439058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",答辩超人,Death Knight,Blood,tank,Malygos
+16,306.4,308050235,9,Siege of Boralus,2024-11-19T08:27:20.000Z,1439058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Pinkgold,Paladin,Holy,healer,Blanchard
+16,306.4,308050235,9,Siege of Boralus,2024-11-19T08:27:20.000Z,1439058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小龙骑,Paladin,Retribution,dps,Isillien
+17,306.3,307479544,9,Siege of Boralus,2024-11-16T10:44:02.000Z,1447156,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Ursoc,Druid,Balance,dps,Eldre'Thalas
+17,306.3,307479544,9,Siege of Boralus,2024-11-16T10:44:02.000Z,1447156,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",完能,Hunter,Survival,dps,Eldre'Thalas
+17,306.3,307479544,9,Siege of Boralus,2024-11-16T10:44:02.000Z,1447156,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+17,306.3,307479544,9,Siege of Boralus,2024-11-16T10:44:02.000Z,1447156,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",泽曼钦,Druid,Restoration,healer,Frostmane
+17,306.3,307479544,9,Siege of Boralus,2024-11-16T10:44:02.000Z,1447156,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超级康师傅,Death Knight,Frost,dps,Galakrond
+18,306.2,307093729,9,Siege of Boralus,2024-11-14T01:04:26.000Z,1454619,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",橙子味的果酱,Mage,Frost,dps,Blackwing Lair
+18,306.2,307093729,9,Siege of Boralus,2024-11-14T01:04:26.000Z,1454619,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Bedlamite,Warlock,Destruction,dps,Al'ar
+18,306.2,307093729,9,Siege of Boralus,2024-11-14T01:04:26.000Z,1454619,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",冰法,Paladin,Retribution,dps,The Forgotten Coast
+18,306.2,307093729,9,Siege of Boralus,2024-11-14T01:04:26.000Z,1454619,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",安小七,Shaman,Restoration,healer,Gadgetzan
+18,306.2,307093729,9,Siege of Boralus,2024-11-14T01:04:26.000Z,1454619,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",花际鸣蛩,Monk,Brewmaster,tank,Gnomeregan
+19,305.6,307983997,9,Siege of Boralus,2024-11-18T22:21:17.000Z,1484747,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶致命的小寳,Hunter,Beast Mastery,dps,Pandaren
+19,305.6,307983997,9,Siege of Boralus,2024-11-18T22:21:17.000Z,1484747,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",多晴丶,Paladin,Protection,tank,Anzu
+19,305.6,307983997,9,Siege of Boralus,2024-11-18T22:21:17.000Z,1484747,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",美丽的野狗,Paladin,Retribution,dps,Shadowmoon
+19,305.6,307983997,9,Siege of Boralus,2024-11-18T22:21:17.000Z,1484747,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小韵萌炸天呀,Mage,Frost,dps,Grim Batol
+19,305.6,307983997,9,Siege of Boralus,2024-11-18T22:21:17.000Z,1484747,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拉不完的毛线,Monk,Mistweaver,healer,Swiftwind
+20,305.4,294712488,9,Siege of Boralus,2024-09-23T17:32:47.000Z,1494235,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Xmdw,Death Knight,Unholy,dps,Silver Hand
+20,305.4,294712488,9,Siege of Boralus,2024-09-23T17:32:47.000Z,1494235,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",步听话,Priest,Holy,healer,Burning Blade
+20,305.4,294712488,9,Siege of Boralus,2024-09-23T17:32:47.000Z,1494235,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Zimengprowr,Warrior,Protection,tank,Rhonin
+20,305.4,294712488,9,Siege of Boralus,2024-09-23T17:32:47.000Z,1494235,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",悲嘆之息,Priest,Shadow,dps,The Master's Glaive
+20,305.4,294712488,9,Siege of Boralus,2024-09-23T17:32:47.000Z,1494235,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",寒鸦义父,Demon Hunter,Havoc,dps,Al'ar
+21,305.1,307723556,9,Siege of Boralus,2024-11-17T14:23:41.000Z,1513346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黑暗浩浩,Shaman,Restoration,healer,Blanchard
+21,305.1,307723556,9,Siege of Boralus,2024-11-17T14:23:41.000Z,1513346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",赫敏敏,Mage,Fire,dps,Scarlet Crusade
+21,305.1,307723556,9,Siege of Boralus,2024-11-17T14:23:41.000Z,1513346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",空條承太郎,Shaman,Enhancement,dps,Rexxar
+21,305.1,307723556,9,Siege of Boralus,2024-11-17T14:23:41.000Z,1513346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",中野五月,Paladin,Protection,tank,Isillien
+21,305.1,307723556,9,Siege of Boralus,2024-11-17T14:23:41.000Z,1513346,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣光赐予胜利,Paladin,Retribution,dps,Kel'Thuzad
+22,304.9,307289197,9,Siege of Boralus,2024-11-15T08:56:02.000Z,1526177,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",吨吨最强,Shaman,Restoration,healer,Burning Blade
+22,304.9,307289197,9,Siege of Boralus,2024-11-15T08:56:02.000Z,1526177,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小蛋壳丢丢,Death Knight,Unholy,dps,Durotan
+22,304.9,307289197,9,Siege of Boralus,2024-11-15T08:56:02.000Z,1526177,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",可乐丶大西瓜,Death Knight,Unholy,dps,Crushridge
+22,304.9,307289197,9,Siege of Boralus,2024-11-15T08:56:02.000Z,1526177,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mqsmovo,Shaman,Enhancement,dps,Burning Blade
+22,304.9,307289197,9,Siege of Boralus,2024-11-15T08:56:02.000Z,1526177,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",何以梦,Paladin,Protection,tank,Zealot Blade
+23,304.7,307340375,9,Siege of Boralus,2024-11-15T17:09:01.000Z,1535383,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Luan,Rogue,Assassination,dps,Cho'gall
+23,304.7,307340375,9,Siege of Boralus,2024-11-15T17:09:01.000Z,1535383,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Bls,Shaman,Elemental,dps,Al'ar
+23,304.7,307340375,9,Siege of Boralus,2024-11-15T17:09:01.000Z,1535383,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我先释放了,Demon Hunter,Vengeance,tank,Al'ar
+23,304.7,307340375,9,Siege of Boralus,2024-11-15T17:09:01.000Z,1535383,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",纸上雪丶,Shaman,Restoration,healer,Frostmourne
+23,304.7,307340375,9,Siege of Boralus,2024-11-15T17:09:01.000Z,1535383,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷有点冲丷,Shaman,Enhancement,dps,Al'ar
+24,304.4,294917722,9,Siege of Boralus,2024-09-24T12:09:43.000Z,1549510,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",傻幽,Mage,Frost,dps,Dreadmist Peak
+24,304.4,294917722,9,Siege of Boralus,2024-09-24T12:09:43.000Z,1549510,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",被可爱到了,Paladin,Retribution,dps,Galakrond
+24,304.4,294917722,9,Siege of Boralus,2024-09-24T12:09:43.000Z,1549510,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",西瓜超人,Death Knight,Blood,tank,Barrens
+24,304.4,294917722,9,Siege of Boralus,2024-09-24T12:09:43.000Z,1549510,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雲桑,Demon Hunter,Havoc,dps,Barrens
+24,304.4,294917722,9,Siege of Boralus,2024-09-24T12:09:43.000Z,1549510,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",狐夫人,Priest,Discipline,healer,The Golden Plains
+25,304.3,295118766,9,Siege of Boralus,2024-09-25T06:24:19.000Z,1559998,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+25,304.3,295118766,9,Siege of Boralus,2024-09-25T06:24:19.000Z,1559998,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",茜色,Death Knight,Frost,dps,Pandaren
+25,304.3,295118766,9,Siege of Boralus,2024-09-25T06:24:19.000Z,1559998,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rimururogue,Rogue,Assassination,dps,Burning Blade
+25,304.3,295118766,9,Siege of Boralus,2024-09-25T06:24:19.000Z,1559998,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+25,304.3,295118766,9,Siege of Boralus,2024-09-25T06:24:19.000Z,1559998,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",阿碧老师,Shaman,Restoration,healer,Rhonin
+26,304,294901964,9,Siege of Boralus,2024-09-24T09:39:07.000Z,1574894,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rroy,Demon Hunter,Vengeance,tank,Al'ar
+26,304,294901964,9,Siege of Boralus,2024-09-24T09:39:07.000Z,1574894,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拉糖起门,Warlock,Affliction,dps,Holy Chanter
+26,304,294901964,9,Siege of Boralus,2024-09-24T09:39:07.000Z,1574894,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",酥晚,Priest,Discipline,healer,Silver Hand
+26,304,294901964,9,Siege of Boralus,2024-09-24T09:39:07.000Z,1574894,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",七彩小恶魔,Demon Hunter,Havoc,dps,Rhonin
+26,304,294901964,9,Siege of Boralus,2024-09-24T09:39:07.000Z,1574894,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",红莲魔尊,Death Knight,Frost,dps,Doomwalker
+27,304,293368301,9,Siege of Boralus,2024-09-20T01:53:10.000Z,1575670,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灵魂复苏,Warrior,Fury,dps,Chillwind Point
+27,304,293368301,9,Siege of Boralus,2024-09-20T01:53:10.000Z,1575670,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",孜然鸡,Druid,Guardian,tank,Burning Blade
+27,304,293368301,9,Siege of Boralus,2024-09-20T01:53:10.000Z,1575670,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一只奶熊,Shaman,Restoration,healer,Al'ar
+27,304,293368301,9,Siege of Boralus,2024-09-20T01:53:10.000Z,1575670,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Richfoever,Warlock,Affliction,dps,Burning Blade
+27,304,293368301,9,Siege of Boralus,2024-09-20T01:53:10.000Z,1575670,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Suvdk,Death Knight,Frost,dps,The Great Sea
+28,303.7,307302168,9,Siege of Boralus,2024-11-15T11:49:33.000Z,1589007,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",孩子我打掉了,Warlock,Destruction,dps,Thunder Axe Fortress
+28,303.7,307302168,9,Siege of Boralus,2024-11-15T11:49:33.000Z,1589007,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小熊焰焰,Druid,Guardian,tank,Azshara
+28,303.7,307302168,9,Siege of Boralus,2024-11-15T11:49:33.000Z,1589007,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小可乐鸡,Shaman,Enhancement,dps,Grim Batol
+28,303.7,307302168,9,Siege of Boralus,2024-11-15T11:49:33.000Z,1589007,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",氵妇联主任,Shaman,Restoration,healer,Windrunner
+28,303.7,307302168,9,Siege of Boralus,2024-11-15T11:49:33.000Z,1589007,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",狼狼,Death Knight,Frost,dps,Hydraxis
+29,303.7,300296781,9,Siege of Boralus,2024-09-23T14:16:25.000Z,1589017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",陌小暖丷,Evoker,Preservation,healer,Al'ar
+29,303.7,300296781,9,Siege of Boralus,2024-09-23T14:16:25.000Z,1589017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",毒舌历险记,Death Knight,Frost,dps,Isillien
+29,303.7,300296781,9,Siege of Boralus,2024-09-23T14:16:25.000Z,1589017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",盐都不盐了,Mage,Frost,dps,Rhonin
+29,303.7,300296781,9,Siege of Boralus,2024-09-23T14:16:25.000Z,1589017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大八怪迪克,Death Knight,Blood,tank,Gadgetzan
+29,303.7,300296781,9,Siege of Boralus,2024-09-23T14:16:25.000Z,1589017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",罗马全面战争,Paladin,Retribution,dps,Isillien
+30,303.7,295141810,9,Siege of Boralus,2024-09-25T09:10:33.000Z,1591875,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",天線宝宝,Paladin,Retribution,dps,Rhonin
+30,303.7,295141810,9,Siege of Boralus,2024-09-25T09:10:33.000Z,1591875,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Wittlock,Warlock,Affliction,dps,Silver Hand
+30,303.7,295141810,9,Siege of Boralus,2024-09-25T09:10:33.000Z,1591875,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南瓜饼干,Druid,Guardian,tank,The Great Sea
+30,303.7,295141810,9,Siege of Boralus,2024-09-25T09:10:33.000Z,1591875,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小怪兽啊哈酱,Demon Hunter,Havoc,dps,Valley of Kings
+30,303.7,295141810,9,Siege of Boralus,2024-09-25T09:10:33.000Z,1591875,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我看看咋回事,Shaman,Restoration,healer,Menethil
+31,303.5,300296621,9,Siege of Boralus,2024-09-19T00:38:12.000Z,1601350,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rare,Demon Hunter,Vengeance,tank,Al'ar
+31,303.5,300296621,9,Siege of Boralus,2024-09-19T00:38:12.000Z,1601350,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Kiddo,Shaman,Restoration,healer,Al'ar
+31,303.5,300296621,9,Siege of Boralus,2024-09-19T00:38:12.000Z,1601350,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",高调,Rogue,Assassination,dps,Al'ar
+31,303.5,300296621,9,Siege of Boralus,2024-09-19T00:38:12.000Z,1601350,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",毒舌历险记,Death Knight,Frost,dps,Isillien
+31,303.5,300296621,9,Siege of Boralus,2024-09-19T00:38:12.000Z,1601350,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灰烬旋律,Mage,Arcane,dps,The Great Sea
+32,303.3,294874581,9,Siege of Boralus,2024-09-24T05:18:11.000Z,1611999,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",隼大人,Paladin,Retribution,dps,Scarlet Crusade
+32,303.3,294874581,9,Siege of Boralus,2024-09-24T05:18:11.000Z,1611999,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Niners,Druid,Guardian,tank,Rhonin
+32,303.3,294874581,9,Siege of Boralus,2024-09-24T05:18:11.000Z,1611999,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Arjuna,Death Knight,Frost,dps,Rhonin
+32,303.3,294874581,9,Siege of Boralus,2024-09-24T05:18:11.000Z,1611999,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",既见未来丶,Shaman,Elemental,dps,Al'ar
+32,303.3,294874581,9,Siege of Boralus,2024-09-24T05:18:11.000Z,1611999,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我是笑笑呀,Shaman,Restoration,healer,Ashenvale
+33,303.2,307730413,9,Siege of Boralus,2024-11-17T15:17:05.000Z,1616854,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",近战输出丶,Paladin,Protection,tank,Deathwing
+33,303.2,307730413,9,Siege of Boralus,2024-11-17T15:17:05.000Z,1616854,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",命运游丝,Shaman,Restoration,healer,Pandaren
+33,303.2,307730413,9,Siege of Boralus,2024-11-17T15:17:05.000Z,1616854,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",术二哥,Warlock,Demonology,dps,Alterac Mountains
+33,303.2,307730413,9,Siege of Boralus,2024-11-17T15:17:05.000Z,1616854,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",喵喵呼呼,Death Knight,Frost,dps,The Master's Glaive
+33,303.2,307730413,9,Siege of Boralus,2024-11-17T15:17:05.000Z,1616854,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南有樛木,Monk,Windwalker,dps,Alterac Mountains
+34,303.2,308127723,9,Siege of Boralus,2024-11-19T18:29:02.000Z,1617728,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",麻辣白开水,Priest,Discipline,healer,Algalon
+34,303.2,308127723,9,Siege of Boralus,2024-11-19T18:29:02.000Z,1617728,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",简直过分,Warrior,Protection,tank,Ring of Trials
+34,303.2,308127723,9,Siege of Boralus,2024-11-19T18:29:02.000Z,1617728,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",宇星辰,Death Knight,Frost,dps,Shadowmourne
+34,303.2,308127723,9,Siege of Boralus,2024-11-19T18:29:02.000Z,1617728,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",墨染淸衫,Warlock,Destruction,dps,Isillien
+34,303.2,308127723,9,Siege of Boralus,2024-11-19T18:29:02.000Z,1617728,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一抹丶深蓝,Shaman,Enhancement,dps,Silver Hand
+35,303.1,293072460,9,Siege of Boralus,2024-09-19T06:07:18.000Z,1621419,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Kryptonite,Mage,Frost,dps,The Great Sea
+35,303.1,293072460,9,Siege of Boralus,2024-09-19T06:07:18.000Z,1621419,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凯旋之咩,Priest,Discipline,healer,Grim Batol
+35,303.1,293072460,9,Siege of Boralus,2024-09-19T06:07:18.000Z,1621419,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凛冬灬九州寒,Death Knight,Frost,dps,Al'ar
+35,303.1,293072460,9,Siege of Boralus,2024-09-19T06:07:18.000Z,1621419,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",火焰龙王,Evoker,Augmentation,dps,Burning Blade
+35,303.1,293072460,9,Siege of Boralus,2024-09-19T06:07:18.000Z,1621419,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雪落嘟了嘟,Demon Hunter,Vengeance,tank,The Great Sea
+36,303.1,307585363,9,Siege of Boralus,2024-11-16T21:34:05.000Z,1625555,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",桔桔梗,Priest,Discipline,healer,Al'ar
+36,303.1,307585363,9,Siege of Boralus,2024-11-16T21:34:05.000Z,1625555,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",德尼罗尔特万,Mage,Frost,dps,Silver Hand
+36,303.1,307585363,9,Siege of Boralus,2024-11-16T21:34:05.000Z,1625555,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小步舞曲,Mage,Arcane,dps,Shadowmourne
+36,303.1,307585363,9,Siege of Boralus,2024-11-16T21:34:05.000Z,1625555,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",云其,Paladin,Protection,tank,The Master's Glaive
+36,303.1,307585363,9,Siege of Boralus,2024-11-16T21:34:05.000Z,1625555,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",伍伍久,Paladin,Retribution,dps,Barrens
+37,302.7,307540008,9,Siege of Boralus,2024-11-16T17:40:20.000Z,1644697,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷花落醉清風,Mage,Frost,dps,Burning Blade
+37,302.7,307540008,9,Siege of Boralus,2024-11-16T17:40:20.000Z,1644697,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+37,302.7,307540008,9,Siege of Boralus,2024-11-16T17:40:20.000Z,1644697,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",维多利亚湖丶,Warrior,Protection,tank,Grim Batol
+37,302.7,307540008,9,Siege of Boralus,2024-11-16T17:40:20.000Z,1644697,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",太阳能战斧,Paladin,Retribution,dps,Gadgetzan
+37,302.7,307540008,9,Siege of Boralus,2024-11-16T17:40:20.000Z,1644697,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一混吉一,Druid,Balance,dps,Burning Blade
+38,302.7,307331845,9,Siege of Boralus,2024-11-15T16:11:40.000Z,1647742,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",偑落无殇,Hunter,Survival,dps,Shadowmourne
+38,302.7,307331845,9,Siege of Boralus,2024-11-15T16:11:40.000Z,1647742,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",燃烧火热,Warrior,Protection,tank,Stratholme
+38,302.7,307331845,9,Siege of Boralus,2024-11-15T16:11:40.000Z,1647742,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",无忌丶,Shaman,Restoration,healer,Scarlet Crusade
+38,302.7,307331845,9,Siege of Boralus,2024-11-15T16:11:40.000Z,1647742,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",心情真的不好,Warlock,Destruction,dps,Al'ar
+38,302.7,307331845,9,Siege of Boralus,2024-11-15T16:11:40.000Z,1647742,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蓝天豪笑,Demon Hunter,Havoc,dps,Valley of Kings
+39,302.6,308269465,9,Siege of Boralus,2024-11-20T12:24:16.000Z,1650793,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",能量灌注,Priest,Discipline,healer,Holy Chanter
+39,302.6,308269465,9,Siege of Boralus,2024-11-20T12:24:16.000Z,1650793,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",嘟噜噜小煤球,Mage,Frost,dps,Kel'Thuzad
+39,302.6,308269465,9,Siege of Boralus,2024-11-20T12:24:16.000Z,1650793,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",米游社,Demon Hunter,Vengeance,tank,Frostmourne
+39,302.6,308269465,9,Siege of Boralus,2024-11-20T12:24:16.000Z,1650793,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",好浪我的姐,Hunter,Survival,dps,Gul'dan
+39,302.6,308269465,9,Siege of Boralus,2024-11-20T12:24:16.000Z,1650793,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶哎,Rogue,Assassination,dps,Kel'Thuzad
+40,302.6,307318497,9,Siege of Boralus,2024-11-15T14:29:24.000Z,1652449,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尼哥尼哥尼,Mage,Frost,dps,Deathwhisper
+40,302.6,307318497,9,Siege of Boralus,2024-11-15T14:29:24.000Z,1652449,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",布合偕,Hunter,Beast Mastery,dps,Deathwhisper
+40,302.6,307318497,9,Siege of Boralus,2024-11-15T14:29:24.000Z,1652449,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",深秋的月光,Paladin,Retribution,dps,Deathwhisper
+40,302.6,307318497,9,Siege of Boralus,2024-11-15T14:29:24.000Z,1652449,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛海不长,Paladin,Protection,tank,Deathwhisper
+40,302.6,307318497,9,Siege of Boralus,2024-11-15T14:29:24.000Z,1652449,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",梅花三弄,Shaman,Restoration,healer,Silver Hand
+41,302.4,307685734,9,Siege of Boralus,2024-11-17T09:26:20.000Z,1660279,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",无因,Warrior,Protection,tank,Al'ar
+41,302.4,307685734,9,Siege of Boralus,2024-11-17T09:26:20.000Z,1660279,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",博博僧,Monk,Mistweaver,healer,Burning Blade
+41,302.4,307685734,9,Siege of Boralus,2024-11-17T09:26:20.000Z,1660279,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",孤坟,Shaman,Enhancement,dps,Deathwing
+41,302.4,307685734,9,Siege of Boralus,2024-11-17T09:26:20.000Z,1660279,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",托马斯大领主,Paladin,Retribution,dps,Burning Blade
+41,302.4,307685734,9,Siege of Boralus,2024-11-17T09:26:20.000Z,1660279,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",迪澳布兰度,Evoker,Augmentation,dps,Silver Hand
+42,302.4,300295947,9,Siege of Boralus,2024-09-20T04:09:54.000Z,1660746,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",哇袄,Death Knight,Frost,dps,The Botanica
+42,302.4,300295947,9,Siege of Boralus,2024-09-20T04:09:54.000Z,1660746,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",浅打,Mage,Arcane,dps,Rhonin
+42,302.4,300295947,9,Siege of Boralus,2024-09-20T04:09:54.000Z,1660746,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",神人,Warlock,Demonology,dps,The Botanica
+42,302.4,300295947,9,Siege of Boralus,2024-09-20T04:09:54.000Z,1660746,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",无关紧要先生,Shaman,Restoration,healer,The Botanica
+42,302.4,300295947,9,Siege of Boralus,2024-09-20T04:09:54.000Z,1660746,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",有手就能玩,Druid,Guardian,tank,The Botanica
+43,302.4,294721932,9,Siege of Boralus,2024-09-23T19:58:53.000Z,1664066,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",納茲格林,Death Knight,Unholy,dps,Deathwing
+43,302.4,294721932,9,Siege of Boralus,2024-09-23T19:58:53.000Z,1664066,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Reezy,Shaman,Elemental,dps,Deathwing
+43,302.4,294721932,9,Siege of Boralus,2024-09-23T19:58:53.000Z,1664066,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南瓜饼干,Druid,Guardian,tank,The Great Sea
+43,302.4,294721932,9,Siege of Boralus,2024-09-23T19:58:53.000Z,1664066,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爱吃包菜饼干,Priest,Holy,healer,The Great Sea
+43,302.4,294721932,9,Siege of Boralus,2024-09-23T19:58:53.000Z,1664066,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Bramblebear,Druid,Balance,dps,Isillien
+44,301.9,307747893,9,Siege of Boralus,2024-11-17T16:50:08.000Z,1688187,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",皱皱娃,Mage,Arcane,dps,Deathwhisper
+44,301.9,307747893,9,Siege of Boralus,2024-11-17T16:50:08.000Z,1688187,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雾韵小僧,Monk,Mistweaver,healer,Deathwhisper
+44,301.9,307747893,9,Siege of Boralus,2024-11-17T16:50:08.000Z,1688187,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Wjw,Demon Hunter,Havoc,dps,Skywall
+44,301.9,307747893,9,Siege of Boralus,2024-11-17T16:50:08.000Z,1688187,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛海不长,Paladin,Protection,tank,Deathwhisper
+44,301.9,307747893,9,Siege of Boralus,2024-11-17T16:50:08.000Z,1688187,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",阿文文,Warlock,Affliction,dps,Destromath
+45,301.6,307686526,9,Siege of Boralus,2024-11-17T09:47:26.000Z,1706545,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",茉莉奶绿,Hunter,Survival,dps,Burning Blade
+45,301.6,307686526,9,Siege of Boralus,2024-11-17T09:47:26.000Z,1706545,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蒲公英骑士,Paladin,Retribution,dps,Burning Blade
+45,301.6,307686526,9,Siege of Boralus,2024-11-17T09:47:26.000Z,1706545,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",盲眼画师,Demon Hunter,Vengeance,tank,Skettis
+45,301.6,307686526,9,Siege of Boralus,2024-11-17T09:47:26.000Z,1706545,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莱斯特狐,Shaman,Restoration,healer,Skettis
+45,301.6,307686526,9,Siege of Boralus,2024-11-17T09:47:26.000Z,1706545,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白梓哲,Druid,Balance,dps,Burning Blade
+46,301.6,307459318,9,Siege of Boralus,2024-11-16T06:48:35.000Z,1707088,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",流火七月,Warrior,Fury,dps,Temple of Elune
+46,301.6,307459318,9,Siege of Boralus,2024-11-16T06:48:35.000Z,1707088,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",高人,Priest,Discipline,healer,Scarlet Crusade
+46,301.6,307459318,9,Siege of Boralus,2024-11-16T06:48:35.000Z,1707088,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",池花开,Shaman,Elemental,dps,Thrall
+46,301.6,307459318,9,Siege of Boralus,2024-11-16T06:48:35.000Z,1707088,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大地神御,Paladin,Retribution,dps,Barrens
+46,301.6,307459318,9,Siege of Boralus,2024-11-16T06:48:35.000Z,1707088,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",七十年代,Paladin,Protection,tank,Deathwing
+47,301.4,308028980,9,Siege of Boralus,2024-11-19T04:36:23.000Z,1719706,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",治肾亏不含糖,Death Knight,Frost,dps,Rhonin
+47,301.4,308028980,9,Siege of Boralus,2024-11-19T04:36:23.000Z,1719706,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我有一堆棍,Shaman,Elemental,dps,Shadowmoon
+47,301.4,308028980,9,Siege of Boralus,2024-11-19T04:36:23.000Z,1719706,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Twelvepeers,Paladin,Protection,tank,Burning Blade
+47,301.4,308028980,9,Siege of Boralus,2024-11-19T04:36:23.000Z,1719706,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶毒药,Shaman,Restoration,healer,Burning Blade
+47,301.4,308028980,9,Siege of Boralus,2024-11-19T04:36:23.000Z,1719706,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小心你钱包,Rogue,Assassination,dps,Eldre'Thalas
+48,301,294450248,9,Siege of Boralus,2024-09-23T09:10:42.000Z,1737843,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+48,301,294450248,9,Siege of Boralus,2024-09-23T09:10:42.000Z,1737843,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",茜色,Death Knight,Frost,dps,Pandaren
+48,301,294450248,9,Siege of Boralus,2024-09-23T09:10:42.000Z,1737843,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+48,301,294450248,9,Siege of Boralus,2024-09-23T09:10:42.000Z,1737843,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",宇智波下垂,Shaman,Restoration,healer,Shadowmourne
+48,301,294450248,9,Siege of Boralus,2024-09-23T09:10:42.000Z,1737843,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一个肥脸,Warrior,Fury,dps,Barthilas
+49,300.4,307528388,9,Siege of Boralus,2024-11-16T16:36:30.000Z,1773078,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+49,300.4,307528388,9,Siege of Boralus,2024-11-16T16:36:30.000Z,1773078,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小筱贼,Rogue,Outlaw,dps,Nighthaven
+49,300.4,307528388,9,Siege of Boralus,2024-11-16T16:36:30.000Z,1773078,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",含着奶瓶干仗,Shaman,Restoration,healer,Echo Ridge
+49,300.4,307528388,9,Siege of Boralus,2024-11-16T16:36:30.000Z,1773078,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",酒懵子,Death Knight,Frost,dps,Well of Eternity
+49,300.4,307528388,9,Siege of Boralus,2024-11-16T16:36:30.000Z,1773078,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",下周必出凤凰,Warrior,Protection,tank,Thrall
+50,300.3,300296768,9,Siege of Boralus,2024-09-23T10:46:31.000Z,1776644,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Tianzuipri,Priest,Discipline,healer,Shadowmourne
+50,300.3,300296768,9,Siege of Boralus,2024-09-23T10:46:31.000Z,1776644,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Peachcola,Death Knight,Frost,dps,Deathwing
+50,300.3,300296768,9,Siege of Boralus,2024-09-23T10:46:31.000Z,1776644,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",八奈見杏菜丷,Demon Hunter,Havoc,dps,Barrens
+50,300.3,300296768,9,Siege of Boralus,2024-09-23T10:46:31.000Z,1776644,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",神龙使者,Evoker,Augmentation,dps,Echo Ridge
+50,300.3,300296768,9,Siege of Boralus,2024-09-23T10:46:31.000Z,1776644,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",两年半练唱跳,Demon Hunter,Vengeance,tank,Grim Batol
+51,300.2,294921682,9,Siege of Boralus,2024-09-24T13:26:28.000Z,1785159,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",谁是细狗,Evoker,Augmentation,dps,Deathwing
+51,300.2,294921682,9,Siege of Boralus,2024-09-24T13:26:28.000Z,1785159,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Zimengprowr,Warrior,Protection,tank,Rhonin
+51,300.2,294921682,9,Siege of Boralus,2024-09-24T13:26:28.000Z,1785159,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",只会心疼咕咕,Priest,Discipline,healer,Rhonin
+51,300.2,294921682,9,Siege of Boralus,2024-09-24T13:26:28.000Z,1785159,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",单身贵族笑笑,Warlock,Destruction,dps,Silver Hand
+51,300.2,294921682,9,Siege of Boralus,2024-09-24T13:26:28.000Z,1785159,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",加奈葵呀,Mage,Frost,dps,Shadowmourne
+52,300.1,294112026,9,Siege of Boralus,2024-09-22T05:50:29.000Z,1790601,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mlmcty,Paladin,Retribution,dps,Grim Batol
+52,300.1,294112026,9,Siege of Boralus,2024-09-22T05:50:29.000Z,1790601,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Aram,Rogue,Assassination,dps,Barrens
+52,300.1,294112026,9,Siege of Boralus,2024-09-22T05:50:29.000Z,1790601,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",西瓜超人,Death Knight,Blood,tank,Barrens
+52,300.1,294112026,9,Siege of Boralus,2024-09-22T05:50:29.000Z,1790601,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雲桑,Demon Hunter,Havoc,dps,Barrens
+52,300.1,294112026,9,Siege of Boralus,2024-09-22T05:50:29.000Z,1790601,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",皮卡丘电疗,Shaman,Restoration,healer,Al'ar
+53,299.8,307887441,9,Siege of Boralus,2024-11-18T09:46:29.000Z,1803768,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+53,299.8,307887441,9,Siege of Boralus,2024-11-18T09:46:29.000Z,1803768,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",傻老黑,Mage,Frost,dps,Rhonin
+53,299.8,307887441,9,Siege of Boralus,2024-11-18T09:46:29.000Z,1803768,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鬼知道叫什么,Warlock,Destruction,dps,Bleeding Hollow
+53,299.8,307887441,9,Siege of Boralus,2024-11-18T09:46:29.000Z,1803768,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",只能说丶爱过,Demon Hunter,Vengeance,tank,Rhonin
+53,299.8,307887441,9,Siege of Boralus,2024-11-18T09:46:29.000Z,1803768,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",泰瑞尔,Paladin,Retribution,dps,Dream Bough
+54,299.7,294355743,9,Siege of Boralus,2024-09-22T21:14:37.000Z,1814030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Honestman,Paladin,Retribution,dps,Scarlet Crusade
+54,299.7,294355743,9,Siege of Boralus,2024-09-22T21:14:37.000Z,1814030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rosapapa,Warlock,Destruction,dps,The Master's Glaive
+54,299.7,294355743,9,Siege of Boralus,2024-09-22T21:14:37.000Z,1814030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Reezy,Shaman,Elemental,dps,Deathwing
+54,299.7,294355743,9,Siege of Boralus,2024-09-22T21:14:37.000Z,1814030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爱吃包菜饼干,Priest,Holy,healer,The Great Sea
+54,299.7,294355743,9,Siege of Boralus,2024-09-22T21:14:37.000Z,1814030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",从小就爱撩妹,Demon Hunter,Vengeance,tank,Blanchard
+55,299.1,307153918,9,Siege of Boralus,2024-11-14T13:26:38.000Z,1843874,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",箭多尸广,Hunter,Beast Mastery,dps,Molten Core
+55,299.1,307153918,9,Siege of Boralus,2024-11-14T13:26:38.000Z,1843874,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",柚子和橙子,Paladin,Protection,tank,Blanchard
+55,299.1,307153918,9,Siege of Boralus,2024-11-14T13:26:38.000Z,1843874,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熊猫人胖胖,Monk,Windwalker,dps,Shadow Labyrinth
+55,299.1,307153918,9,Siege of Boralus,2024-11-14T13:26:38.000Z,1843874,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",方氏,Demon Hunter,Havoc,dps,The Golden Plains
+55,299.1,307153918,9,Siege of Boralus,2024-11-14T13:26:38.000Z,1843874,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",渡厄丨小德,Druid,Restoration,healer,The Master's Glaive
+56,298.8,307498070,9,Siege of Boralus,2024-11-16T13:14:57.000Z,1861405,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尼哥尼哥尼,Mage,Frost,dps,Deathwhisper
+56,298.8,307498070,9,Siege of Boralus,2024-11-16T13:14:57.000Z,1861405,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",红色在我心中,Death Knight,Frost,dps,Skywall
+56,298.8,307498070,9,Siege of Boralus,2024-11-16T13:14:57.000Z,1861405,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雾韵小僧,Monk,Mistweaver,healer,Deathwhisper
+56,298.8,307498070,9,Siege of Boralus,2024-11-16T13:14:57.000Z,1861405,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",瞎子尔曼,Demon Hunter,Havoc,dps,Skywall
+56,298.8,307498070,9,Siege of Boralus,2024-11-16T13:14:57.000Z,1861405,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛海不长,Paladin,Protection,tank,Deathwhisper
+57,298.3,307691063,9,Siege of Boralus,2024-11-17T10:27:32.000Z,1886701,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",笑惊鸿,Hunter,Beast Mastery,dps,Rhonin
+57,298.3,307691063,9,Siege of Boralus,2024-11-17T10:27:32.000Z,1886701,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",焦糖咖啡豆,Priest,Holy,healer,Eldre'Thalas
+57,298.3,307691063,9,Siege of Boralus,2024-11-17T10:27:32.000Z,1886701,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",强效致死打击,Warrior,Arms,dps,The Great Sea
+57,298.3,307691063,9,Siege of Boralus,2024-11-17T10:27:32.000Z,1886701,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",越下丶青尘,Evoker,Augmentation,dps,Grim Batol
+57,298.3,307691063,9,Siege of Boralus,2024-11-17T10:27:32.000Z,1886701,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",嗜血困兽,Druid,Guardian,tank,Theramore
+58,298.3,300295708,9,Siege of Boralus,2024-09-21T10:18:29.000Z,1888184,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",傻幽,Mage,Arcane,dps,Dreadmist Peak
+58,298.3,300295708,9,Siege of Boralus,2024-09-21T10:18:29.000Z,1888184,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Aram,Rogue,Assassination,dps,Barrens
+58,298.3,300295708,9,Siege of Boralus,2024-09-21T10:18:29.000Z,1888184,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",西瓜超人,Death Knight,Blood,tank,Barrens
+58,298.3,300295708,9,Siege of Boralus,2024-09-21T10:18:29.000Z,1888184,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雲桑,Demon Hunter,Havoc,dps,Barrens
+58,298.3,300295708,9,Siege of Boralus,2024-09-21T10:18:29.000Z,1888184,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",你减伤呢,Shaman,Restoration,healer,Rhonin
+59,298.3,304964872,9,Siege of Boralus,2024-09-25T12:12:36.000Z,1890080,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",楠丁歌尔,Mage,Frost,dps,Shadowmourne
+59,298.3,304964872,9,Siege of Boralus,2024-09-25T12:12:36.000Z,1890080,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凛克,Shaman,Restoration,healer,Shadowmourne
+59,298.3,304964872,9,Siege of Boralus,2024-09-25T12:12:36.000Z,1890080,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",青锋出斩不平,Rogue,Assassination,dps,Shadowmourne
+59,298.3,304964872,9,Siege of Boralus,2024-09-25T12:12:36.000Z,1890080,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",末弦,Shaman,Elemental,dps,Shadowmourne
+59,298.3,304964872,9,Siege of Boralus,2024-09-25T12:12:36.000Z,1890080,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白馬非馬丶,Druid,Guardian,tank,Shadowmourne
+60,298,307468515,9,Siege of Boralus,2024-11-16T08:16:50.000Z,1905605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雪衣,Hunter,Survival,dps,Doomwalker
+60,298,307468515,9,Siege of Boralus,2024-11-16T08:16:50.000Z,1905605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mqsmovo,Shaman,Enhancement,dps,Burning Blade
+60,298,307468515,9,Siege of Boralus,2024-11-16T08:16:50.000Z,1905605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小迪凯儿丶,Death Knight,Frost,dps,Deathwing
+60,298,307468515,9,Siege of Boralus,2024-11-16T08:16:50.000Z,1905605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黑暗盛典,Shaman,Restoration,healer,Barthilas
+60,298,307468515,9,Siege of Boralus,2024-11-16T08:16:50.000Z,1905605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",怪味豆,Paladin,Protection,tank,Valley of Kings
+61,297.9,294851795,9,Siege of Boralus,2024-09-24T03:37:07.000Z,1911546,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+61,297.9,294851795,9,Siege of Boralus,2024-09-24T03:37:07.000Z,1911546,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rimururogue,Rogue,Assassination,dps,Burning Blade
+61,297.9,294851795,9,Siege of Boralus,2024-09-24T03:37:07.000Z,1911546,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",醉丨萨,Shaman,Restoration,healer,Burning Blade
+61,297.9,294851795,9,Siege of Boralus,2024-09-24T03:37:07.000Z,1911546,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+61,297.9,294851795,9,Siege of Boralus,2024-09-24T03:37:07.000Z,1911546,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一个肥脸,Warrior,Fury,dps,Barthilas
+62,297.8,295089932,9,Siege of Boralus,2024-09-25T02:42:00.000Z,1918680,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丿骤雨初歇灬,Shaman,Restoration,healer,Thunder Axe Fortress
+62,297.8,295089932,9,Siege of Boralus,2024-09-25T02:42:00.000Z,1918680,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Justicerr,Hunter,Marksmanship,dps,Shadowmourne
+62,297.8,295089932,9,Siege of Boralus,2024-09-25T02:42:00.000Z,1918680,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",冲锋耗,Warrior,Fury,dps,The Master's Glaive
+62,297.8,295089932,9,Siege of Boralus,2024-09-25T02:42:00.000Z,1918680,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小馒头大馒头,Death Knight,Blood,tank,Silver Hand
+62,297.8,295089932,9,Siege of Boralus,2024-09-25T02:42:00.000Z,1918680,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",三行情诗,Warlock,Destruction,dps,Silver Hand
+63,297.4,307909468,9,Siege of Boralus,2024-11-18T14:02:38.000Z,1938435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+63,297.4,307909468,9,Siege of Boralus,2024-11-18T14:02:38.000Z,1938435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",午灬辰,Mage,Frost,dps,Dark Iron
+63,297.4,307909468,9,Siege of Boralus,2024-11-18T14:02:38.000Z,1938435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",提笔走天涯,Paladin,Retribution,dps,Silver Hand
+63,297.4,307909468,9,Siege of Boralus,2024-11-18T14:02:38.000Z,1938435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",武器宗师,Warrior,Protection,tank,Rhonin
+63,297.4,307909468,9,Siege of Boralus,2024-11-18T14:02:38.000Z,1938435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月沐的小术,Warlock,Destruction,dps,Silver Hand
+64,297.3,307704277,9,Siege of Boralus,2024-11-17T12:19:11.000Z,1942026,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",暮间雪,Paladin,Protection,tank,Silver Hand
+64,297.3,307704277,9,Siege of Boralus,2024-11-17T12:19:11.000Z,1942026,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小黑人,Shaman,Elemental,dps,The Master's Glaive
+64,297.3,307704277,9,Siege of Boralus,2024-11-17T12:19:11.000Z,1942026,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",狐仙丶,Hunter,Beast Mastery,dps,Burning Blade
+64,297.3,307704277,9,Siege of Boralus,2024-11-17T12:19:11.000Z,1942026,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",幽暗天晴,Warlock,Destruction,dps,Burning Blade
+64,297.3,307704277,9,Siege of Boralus,2024-11-17T12:19:11.000Z,1942026,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丿小喻没有鱼,Shaman,Restoration,healer,Shadowmourne
+65,297,307728754,9,Siege of Boralus,2024-11-17T15:05:03.000Z,1958020,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小二雷,Shaman,Restoration,healer,Chillwind Point
+65,297,307728754,9,Siege of Boralus,2024-11-17T15:05:03.000Z,1958020,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",罪過聖堂,Paladin,Protection,tank,Eldre'Thalas
+65,297,307728754,9,Siege of Boralus,2024-11-17T15:05:03.000Z,1958020,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",胖胖大海丶,Mage,Frost,dps,Al'ar
+65,297,307728754,9,Siege of Boralus,2024-11-17T15:05:03.000Z,1958020,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",喵喵猪,Shaman,Enhancement,dps,Burning Blade
+65,297,307728754,9,Siege of Boralus,2024-11-17T15:05:03.000Z,1958020,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",佩尔希风,Warlock,Demonology,dps,Well of Eternity
+66,296.9,295191892,9,Siege of Boralus,2024-09-25T15:04:27.000Z,1966101,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",引发得瑟呐,Demon Hunter,Havoc,dps,The Great Sea
+66,296.9,295191892,9,Siege of Boralus,2024-09-25T15:04:27.000Z,1966101,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尘埃遇风,Druid,Balance,dps,Shadowmourne
+66,296.9,295191892,9,Siege of Boralus,2024-09-25T15:04:27.000Z,1966101,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小宋,Monk,Brewmaster,tank,The Great Sea
+66,296.9,295191892,9,Siege of Boralus,2024-09-25T15:04:27.000Z,1966101,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",眼镜同学,Shaman,Restoration,healer,Scarlet Crusade
+66,296.9,295191892,9,Siege of Boralus,2024-09-25T15:04:27.000Z,1966101,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",你先别急啊,Death Knight,Frost,dps,Grim Batol
+67,296.8,308056404,9,Siege of Boralus,2024-11-19T10:08:26.000Z,1971527,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",威丨慑,Hunter,Marksmanship,dps,Emeriss
+67,296.8,308056404,9,Siege of Boralus,2024-11-19T10:08:26.000Z,1971527,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",血色蔷薇丶,Paladin,Protection,tank,Scarlet Crusade
+67,296.8,308056404,9,Siege of Boralus,2024-11-19T10:08:26.000Z,1971527,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",抱抱豹豹,Druid,Restoration,healer,Ravencrest
+67,296.8,308056404,9,Siege of Boralus,2024-11-19T10:08:26.000Z,1971527,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛牛,Warrior,Fury,dps,Ravencrest
+67,296.8,308056404,9,Siege of Boralus,2024-11-19T10:08:26.000Z,1971527,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灰原,Mage,Frost,dps,Sunwell
+68,296.6,308089591,9,Siege of Boralus,2024-11-19T15:58:06.000Z,1982904,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+68,296.6,308089591,9,Siege of Boralus,2024-11-19T15:58:06.000Z,1982904,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鸿渐龙天,Paladin,Protection,tank,Silver Hand
+68,296.6,308089591,9,Siege of Boralus,2024-11-19T15:58:06.000Z,1982904,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",孤禅,Mage,Frost,dps,Al'ar
+68,296.6,308089591,9,Siege of Boralus,2024-11-19T15:58:06.000Z,1982904,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",妲几,Warlock,Demonology,dps,Warsong
+68,296.6,308089591,9,Siege of Boralus,2024-11-19T15:58:06.000Z,1982904,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",杰瑞丨,Paladin,Retribution,dps,Al'ar
+69,296.6,308093450,9,Siege of Boralus,2024-11-19T16:45:05.000Z,1983740,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",腹黑逗比立,Demon Hunter,Vengeance,tank,Blanchard
+69,296.6,308093450,9,Siege of Boralus,2024-11-19T16:45:05.000Z,1983740,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",英灵殿的叹息,Druid,Restoration,healer,Kel'Thuzad
+69,296.6,308093450,9,Siege of Boralus,2024-11-19T16:45:05.000Z,1983740,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",李丄网来,Hunter,Beast Mastery,dps,Dark Iron
+69,296.6,308093450,9,Siege of Boralus,2024-11-19T16:45:05.000Z,1983740,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",打断层吹牛鼻,Paladin,Retribution,dps,Blanchard
+69,296.6,308093450,9,Siege of Boralus,2024-11-19T16:45:05.000Z,1983740,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷你听得到,Druid,Balance,dps,Rhonin
+70,296.5,300296604,9,Siege of Boralus,2024-09-20T23:44:41.000Z,1985489,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",柒月既望,Rogue,Assassination,dps,Deathwing
+70,296.5,300296604,9,Siege of Boralus,2024-09-20T23:44:41.000Z,1985489,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",给我整笑了,Demon Hunter,Vengeance,tank,Deathwing
+70,296.5,300296604,9,Siege of Boralus,2024-09-20T23:44:41.000Z,1985489,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小西明八,Death Knight,Frost,dps,Isillien
+70,296.5,300296604,9,Siege of Boralus,2024-09-20T23:44:41.000Z,1985489,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",数字肆,Death Knight,Frost,dps,Deathwing
+70,296.5,300296604,9,Siege of Boralus,2024-09-20T23:44:41.000Z,1985489,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Fiordilatte,Shaman,Restoration,healer,Deathwing
+71,296.5,307144703,9,Siege of Boralus,2024-11-14T11:45:46.000Z,1985561,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",情侣雨夜毛衣,Monk,Brewmaster,tank,Deathwing
+71,296.5,307144703,9,Siege of Boralus,2024-11-14T11:45:46.000Z,1985561,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鱼玄玄,Warlock,Destruction,dps,The Great Sea
+71,296.5,307144703,9,Siege of Boralus,2024-11-14T11:45:46.000Z,1985561,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莉芙,Hunter,Marksmanship,dps,Kel'Thuzad
+71,296.5,307144703,9,Siege of Boralus,2024-11-14T11:45:46.000Z,1985561,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",罕达罕,Monk,Mistweaver,healer,Kel'Thuzad
+71,296.5,307144703,9,Siege of Boralus,2024-11-14T11:45:46.000Z,1985561,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",让火球飞,Mage,Frost,dps,Kel'Thuzad
+72,296.5,293655456,9,Siege of Boralus,2024-09-21T02:31:51.000Z,1988375,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rlyehtexts,Shaman,Restoration,healer,Shadowmourne
+72,296.5,293655456,9,Siege of Boralus,2024-09-21T02:31:51.000Z,1988375,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拳丶湿丶胸,Monk,Windwalker,dps,Isillien
+72,296.5,293655456,9,Siege of Boralus,2024-09-21T02:31:51.000Z,1988375,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小海牛,Death Knight,Blood,tank,Blanchard
+72,296.5,293655456,9,Siege of Boralus,2024-09-21T02:31:51.000Z,1988375,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",水无怜奈,Hunter,Beast Mastery,dps,Isillien
+72,296.5,293655456,9,Siege of Boralus,2024-09-21T02:31:51.000Z,1988375,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",醒丨醒,Warrior,Fury,dps,Isillien
+73,295.7,300297747,9,Siege of Boralus,2024-09-21T16:55:08.000Z,2031391,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",在家也挺好,Priest,Holy,healer,Deathwing
+73,295.7,300297747,9,Siege of Boralus,2024-09-21T16:55:08.000Z,2031391,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",發財,Mage,Fire,dps,Rhonin
+73,295.7,300297747,9,Siege of Boralus,2024-09-21T16:55:08.000Z,2031391,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",你的彦祖,Death Knight,Unholy,dps,Rhonin
+73,295.7,300297747,9,Siege of Boralus,2024-09-21T16:55:08.000Z,2031391,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Noobtank,Warrior,Protection,tank,Silver Hand
+73,295.7,300297747,9,Siege of Boralus,2024-09-21T16:55:08.000Z,2031391,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Chagrinalive,Rogue,Assassination,dps,Isillien
+74,295.6,307319205,9,Siege of Boralus,2024-11-15T14:35:37.000Z,2037351,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",宝宝不爱哭,Paladin,Retribution,dps,Frostmourne
+74,295.6,307319205,9,Siege of Boralus,2024-11-15T14:35:37.000Z,2037351,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",张群,Shaman,Restoration,healer,Shadowmourne
+74,295.6,307319205,9,Siege of Boralus,2024-11-15T14:35:37.000Z,2037351,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",天使中的魔鬼,Warlock,Destruction,dps,Alexstrasza
+74,295.6,307319205,9,Siege of Boralus,2024-11-15T14:35:37.000Z,2037351,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蕃茄寺护法,Warrior,Protection,tank,Alterac Mountains
+74,295.6,307319205,9,Siege of Boralus,2024-11-15T14:35:37.000Z,2037351,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小白龙轰隆隆,Evoker,Augmentation,dps,Frostmourne
+75,295.2,307515630,9,Siege of Boralus,2024-11-16T15:18:56.000Z,2059930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",傲雪问情,Paladin,Protection,tank,Shadowmourne
+75,295.2,307515630,9,Siege of Boralus,2024-11-16T15:18:56.000Z,2059930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",欧芹大蒜碎,Shaman,Enhancement,dps,Rhonin
+75,295.2,307515630,9,Siege of Boralus,2024-11-16T15:18:56.000Z,2059930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",迷失的小林,Death Knight,Frost,dps,Al'ar
+75,295.2,307515630,9,Siege of Boralus,2024-11-16T15:18:56.000Z,2059930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",惨火,Warlock,Demonology,dps,Echo Ridge
+75,295.2,307515630,9,Siege of Boralus,2024-11-16T15:18:56.000Z,2059930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",休闲时候,Priest,Discipline,healer,Grim Batol
+76,295,307491230,8,Siege of Boralus,2024-11-16T12:17:51.000Z,995765,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夜十二,Hunter,Survival,dps,The Golden Plains
+76,295,307491230,8,Siege of Boralus,2024-11-16T12:17:51.000Z,995765,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Genjibb,Warrior,Fury,dps,Deathwing
+76,295,307491230,8,Siege of Boralus,2024-11-16T12:17:51.000Z,995765,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",飞盾波比,Paladin,Protection,tank,Burning Blade
+76,295,307491230,8,Siege of Boralus,2024-11-16T12:17:51.000Z,995765,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛乳茶,Paladin,Retribution,dps,Scarlet Crusade
+76,295,307491230,8,Siege of Boralus,2024-11-16T12:17:51.000Z,995765,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",桃君萨丶,Shaman,Restoration,healer,Burning Blade
+77,295,307491310,8,Siege of Boralus,2024-11-16T12:18:57.000Z,1149472,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",你还有脸回来,Mage,Frost,dps,Silver Hand
+77,295,307491310,8,Siege of Boralus,2024-11-16T12:18:57.000Z,1149472,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",懒龙露娜,Evoker,Augmentation,dps,Chillwind Point
+77,295,307491310,8,Siege of Boralus,2024-11-16T12:18:57.000Z,1149472,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷菇仙人丷,Druid,Guardian,tank,Deathwing
+77,295,307491310,8,Siege of Boralus,2024-11-16T12:18:57.000Z,1149472,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Sacal,Death Knight,Frost,dps,Deathwing
+77,295,307491310,8,Siege of Boralus,2024-11-16T12:18:57.000Z,1149472,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",低调的信仰,Shaman,Restoration,healer,Deathwing
+78,295,308113972,8,Siege of Boralus,2024-11-19T17:06:25.000Z,1194659,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",宁风蔓,Paladin,Retribution,dps,Chillwind Point
+78,295,308113972,8,Siege of Boralus,2024-11-19T17:06:25.000Z,1194659,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Takamakiathe,Rogue,Assassination,dps,Dark Iron
+78,295,308113972,8,Siege of Boralus,2024-11-19T17:06:25.000Z,1194659,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Teddyowo,Paladin,Protection,tank,Molten Core
+78,295,308113972,8,Siege of Boralus,2024-11-19T17:06:25.000Z,1194659,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蕓韻,Shaman,Restoration,healer,Chillwind Point
+78,295,308113972,8,Siege of Boralus,2024-11-19T17:06:25.000Z,1194659,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",明日边缘,Mage,Frost,dps,Eldre'Thalas
+79,295,294428941,8,Siege of Boralus,2024-09-23T05:59:17.000Z,1230289,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",浮世千寻沐,Shaman,Restoration,healer,The Master's Glaive
+79,295,294428941,8,Siege of Boralus,2024-09-23T05:59:17.000Z,1230289,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Adxd,Druid,Guardian,tank,Illidan
+79,295,294428941,8,Siege of Boralus,2024-09-23T05:59:17.000Z,1230289,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Xiyandk,Death Knight,Frost,dps,Rhonin
+79,295,294428941,8,Siege of Boralus,2024-09-23T05:59:17.000Z,1230289,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mami,Evoker,Augmentation,dps,Kel'Thuzad
+79,295,294428941,8,Siege of Boralus,2024-09-23T05:59:17.000Z,1230289,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",重丶来,Mage,Frost,dps,Isillien
+80,295,308225324,8,Siege of Boralus,2024-11-20T03:35:35.000Z,1239047,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丿七二七丿,Monk,Mistweaver,healer,Anzu
+80,295,308225324,8,Siege of Boralus,2024-11-20T03:35:35.000Z,1239047,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",卖妻葬妾,Warlock,Demonology,dps,Chillwind Point
+80,295,308225324,8,Siege of Boralus,2024-11-20T03:35:35.000Z,1239047,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+80,295,308225324,8,Siege of Boralus,2024-11-20T03:35:35.000Z,1239047,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",落幕的残殇丶,Paladin,Retribution,dps,Molten Core
+80,295,308225324,8,Siege of Boralus,2024-11-20T03:35:35.000Z,1239047,2070999,3,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",酸奶不舔盖,Shaman,Elemental,dps,Burning Steppes
+81,294.3,307470657,8,Siege of Boralus,2024-11-16T08:56:30.000Z,1280232,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",嗨豆丶法,Mage,Frost,dps,Frostmane
+81,294.3,307470657,8,Siege of Boralus,2024-11-16T08:56:30.000Z,1280232,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",九段天亞,Paladin,Retribution,dps,Frostmane
+81,294.3,307470657,8,Siege of Boralus,2024-11-16T08:56:30.000Z,1280232,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",幸运小红手,Death Knight,Blood,tank,Frostmane
+81,294.3,307470657,8,Siege of Boralus,2024-11-16T08:56:30.000Z,1280232,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",刀刀九万九,Death Knight,Unholy,dps,Al'ar
+81,294.3,307470657,8,Siege of Boralus,2024-11-16T08:56:30.000Z,1280232,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",花鸟卷,Priest,Discipline,healer,Barrens
+82,294.3,307874650,8,Siege of Boralus,2024-11-18T06:24:32.000Z,1281342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",吖菊,Druid,Restoration,healer,Silver Hand
+82,294.3,307874650,8,Siege of Boralus,2024-11-18T06:24:32.000Z,1281342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+82,294.3,307874650,8,Siege of Boralus,2024-11-18T06:24:32.000Z,1281342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",烟雨踏风行,Monk,Windwalker,dps,Al'ar
+82,294.3,307874650,8,Siege of Boralus,2024-11-18T06:24:32.000Z,1281342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",捷卡林娜,Demon Hunter,Vengeance,tank,The Great Sea
+82,294.3,307874650,8,Siege of Boralus,2024-11-18T06:24:32.000Z,1281342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",萨沙露丝,Demon Hunter,Vengeance,tank,Gadgetzan
+83,294.2,308078825,8,Siege of Boralus,2024-11-19T14:17:39.000Z,1288342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我想打老虎,Mage,Frost,dps,Silver Hand
+83,294.2,308078825,8,Siege of Boralus,2024-11-19T14:17:39.000Z,1288342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶狠人睿,Warrior,Protection,tank,Silver Hand
+83,294.2,308078825,8,Siege of Boralus,2024-11-19T14:17:39.000Z,1288342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小骚阳,Paladin,Retribution,dps,Silver Hand
+83,294.2,308078825,8,Siege of Boralus,2024-11-19T14:17:39.000Z,1288342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丿老王丶,Evoker,Augmentation,dps,Silver Hand
+83,294.2,308078825,8,Siege of Boralus,2024-11-19T14:17:39.000Z,1288342,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Ciwyw,Shaman,Restoration,healer,Silver Hand
+84,294.1,307164184,8,Siege of Boralus,2024-11-14T14:59:21.000Z,1291187,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",忘却夜晚,Warrior,Protection,tank,Deathwing
+84,294.1,307164184,8,Siege of Boralus,2024-11-14T14:59:21.000Z,1291187,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莫比莱因,Death Knight,Frost,dps,Deathwing
+84,294.1,307164184,8,Siege of Boralus,2024-11-14T14:59:21.000Z,1291187,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",给自由,Paladin,Retribution,dps,Deathwing
+84,294.1,307164184,8,Siege of Boralus,2024-11-14T14:59:21.000Z,1291187,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",伊塔迦,Paladin,Retribution,dps,Lordaeron
+84,294.1,307164184,8,Siege of Boralus,2024-11-14T14:59:21.000Z,1291187,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",兜兜里没钱,Shaman,Restoration,healer,Gadgetzan
+85,293.8,307140046,8,Siege of Boralus,2024-11-14T10:42:00.000Z,1308214,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",米苏,Death Knight,Frost,dps,Anub'arak
+85,293.8,307140046,8,Siege of Boralus,2024-11-14T10:42:00.000Z,1308214,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",追风大叔,Warrior,Protection,tank,Wrath Gate
+85,293.8,307140046,8,Siege of Boralus,2024-11-14T10:42:00.000Z,1308214,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",巴尓泽布,Shaman,Enhancement,dps,Shadowmourne
+85,293.8,307140046,8,Siege of Boralus,2024-11-14T10:42:00.000Z,1308214,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",战场记者,Evoker,Preservation,healer,Silver Hand
+85,293.8,307140046,8,Siege of Boralus,2024-11-14T10:42:00.000Z,1308214,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",酱油泡飯,Paladin,Retribution,dps,Doomwalker
+86,293.5,307282105,8,Siege of Boralus,2024-11-15T07:14:24.000Z,1325878,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",默灬灬默,Warrior,Fury,dps,Deathforge
+86,293.5,307282105,8,Siege of Boralus,2024-11-15T07:14:24.000Z,1325878,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熔岩豹裂,Shaman,Restoration,healer,Echo Ridge
+86,293.5,307282105,8,Siege of Boralus,2024-11-15T07:14:24.000Z,1325878,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",铁憨憨,Druid,Guardian,tank,Arathi
+86,293.5,307282105,8,Siege of Boralus,2024-11-15T07:14:24.000Z,1325878,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",抬头望明月,Paladin,Retribution,dps,Algalon
+86,293.5,307282105,8,Siege of Boralus,2024-11-15T07:14:24.000Z,1325878,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",贾百万,Warlock,Destruction,dps,Arathi
+87,293.4,300295924,8,Siege of Boralus,2024-09-19T00:39:10.000Z,1329497,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",比利王,Shaman,Restoration,healer,Dreadmist Peak
+87,293.4,300295924,8,Siege of Boralus,2024-09-19T00:39:10.000Z,1329497,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小晖知错了,Mage,Frost,dps,The Great Sea
+87,293.4,300295924,8,Siege of Boralus,2024-09-19T00:39:10.000Z,1329497,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",错觉消散好运,Shaman,Enhancement,dps,The Great Sea
+87,293.4,300295924,8,Siege of Boralus,2024-09-19T00:39:10.000Z,1329497,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Supremefive,Death Knight,Blood,tank,The Great Sea
+87,293.4,300295924,8,Siege of Boralus,2024-09-19T00:39:10.000Z,1329497,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Anniecpt,Hunter,Marksmanship,dps,The Great Sea
+88,293.2,307343276,8,Siege of Boralus,2024-11-15T17:34:25.000Z,1342368,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",杰克船長,Rogue,Assassination,dps,Shadowmourne
+88,293.2,307343276,8,Siege of Boralus,2024-11-15T17:34:25.000Z,1342368,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拉布卡卡,Death Knight,Blood,tank,Isillien
+88,293.2,307343276,8,Siege of Boralus,2024-11-15T17:34:25.000Z,1342368,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",坡上村副村长,Priest,Discipline,healer,Dath'Remar
+88,293.2,307343276,8,Siege of Boralus,2024-11-15T17:34:25.000Z,1342368,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶吹梦到西洲,Hunter,Survival,dps,Anzu
+88,293.2,307343276,8,Siege of Boralus,2024-11-15T17:34:25.000Z,1342368,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Pigraisercht,Shaman,Enhancement,dps,Black Dragonflight
+89,293.2,307920375,8,Siege of Boralus,2024-11-18T15:28:38.000Z,1344017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夏至流云,Paladin,Retribution,dps,Pandaren
+89,293.2,307920375,8,Siege of Boralus,2024-11-18T15:28:38.000Z,1344017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",九霄神辉,Warrior,Protection,tank,Pandaren
+89,293.2,307920375,8,Siege of Boralus,2024-11-18T15:28:38.000Z,1344017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Alaves,Hunter,Survival,dps,Pandaren
+89,293.2,307920375,8,Siege of Boralus,2024-11-18T15:28:38.000Z,1344017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",流风轻舞,Shaman,Restoration,healer,The Great Sea
+89,293.2,307920375,8,Siege of Boralus,2024-11-18T15:28:38.000Z,1344017,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Stanisic,Rogue,Assassination,dps,Pandaren
+90,292.7,307851680,8,Siege of Boralus,2024-11-18T02:29:09.000Z,1367982,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+90,292.7,307851680,8,Siege of Boralus,2024-11-18T02:29:09.000Z,1367982,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",不服来打我啊,Paladin,Retribution,dps,Rhonin
+90,292.7,307851680,8,Siege of Boralus,2024-11-18T02:29:09.000Z,1367982,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛爺,Hunter,Beast Mastery,dps,Pandaren
+90,292.7,307851680,8,Siege of Boralus,2024-11-18T02:29:09.000Z,1367982,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",粒粒丶,Priest,Discipline,healer,Anzu
+90,292.7,307851680,8,Siege of Boralus,2024-11-18T02:29:09.000Z,1367982,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",托妮老师,Paladin,Protection,tank,Valley of Kings
+91,292.7,308075411,8,Siege of Boralus,2024-11-19T14:12:02.000Z,1368295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",泪眼迷蒙,Mage,Arcane,dps,Blanchard
+91,292.7,308075411,8,Siege of Boralus,2024-11-19T14:12:02.000Z,1368295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蒜香奥利奥,Paladin,Retribution,dps,Burning Blade
+91,292.7,308075411,8,Siege of Boralus,2024-11-19T14:12:02.000Z,1368295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Matelda,Paladin,Protection,tank,Blanchard
+91,292.7,308075411,8,Siege of Boralus,2024-11-19T14:12:02.000Z,1368295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",连环崩拳,Monk,Mistweaver,healer,Burning Blade
+91,292.7,308075411,8,Siege of Boralus,2024-11-19T14:12:02.000Z,1368295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熊家军,Shaman,Elemental,dps,Burning Blade
+92,292.7,308088659,8,Siege of Boralus,2024-11-19T17:10:21.000Z,1369297,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拉巴坎,Priest,Discipline,healer,Hectae
+92,292.7,308088659,8,Siege of Boralus,2024-11-19T17:10:21.000Z,1369297,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mambadk,Death Knight,Blood,tank,Burning Blade
+92,292.7,308088659,8,Siege of Boralus,2024-11-19T17:10:21.000Z,1369297,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",五五丨开,Warlock,Destruction,dps,The Great Sea
+92,292.7,308088659,8,Siege of Boralus,2024-11-19T17:10:21.000Z,1369297,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",多才多艺,Warlock,Destruction,dps,The Great Sea
+92,292.7,308088659,8,Siege of Boralus,2024-11-19T17:10:21.000Z,1369297,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",确定,Hunter,Beast Mastery,dps,The Great Sea
+93,292.6,294908471,8,Siege of Boralus,2024-09-24T10:52:24.000Z,1374058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",啰咪,Death Knight,Frost,dps,The Great Sea
+93,292.6,294908471,8,Siege of Boralus,2024-09-24T10:52:24.000Z,1374058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一块小芋头,Shaman,Restoration,healer,Silver Hand
+93,292.6,294908471,8,Siege of Boralus,2024-09-24T10:52:24.000Z,1374058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",咕單謌,Druid,Guardian,tank,The Master's Glaive
+93,292.6,294908471,8,Siege of Boralus,2024-09-24T10:52:24.000Z,1374058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶花月丶,Evoker,Augmentation,dps,Isillien
+93,292.6,294908471,8,Siege of Boralus,2024-09-24T10:52:24.000Z,1374058,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",何馨橙,Mage,Frost,dps,Pandaren
+94,292.6,307160739,8,Siege of Boralus,2024-11-14T14:58:00.000Z,1374264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丸酱,Druid,Balance,dps,Echo Ridge
+94,292.6,307160739,8,Siege of Boralus,2024-11-14T14:58:00.000Z,1374264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",提里奥之手,Paladin,Retribution,dps,The Master's Glaive
+94,292.6,307160739,8,Siege of Boralus,2024-11-14T14:58:00.000Z,1374264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",人间萤火,Paladin,Retribution,dps,Illidan
+94,292.6,307160739,8,Siege of Boralus,2024-11-14T14:58:00.000Z,1374264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灌注丸酱,Priest,Discipline,healer,Echo Ridge
+94,292.6,307160739,8,Siege of Boralus,2024-11-14T14:58:00.000Z,1374264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",强壮令我嚎叫,Warrior,Protection,tank,Kel'Thuzad
+95,292.6,307371385,8,Siege of Boralus,2024-11-15T20:54:22.000Z,1374337,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",伊什塔尔,Hunter,Marksmanship,dps,Gadgetzan
+95,292.6,307371385,8,Siege of Boralus,2024-11-15T20:54:22.000Z,1374337,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Mqsmovo,Shaman,Enhancement,dps,Burning Blade
+95,292.6,307371385,8,Siege of Boralus,2024-11-15T20:54:22.000Z,1374337,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尘封寺,Warrior,Protection,tank,Well of Eternity
+95,292.6,307371385,8,Siege of Boralus,2024-11-15T20:54:22.000Z,1374337,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鱼塘牧,Priest,Discipline,healer,Silver Hand
+95,292.6,307371385,8,Siege of Boralus,2024-11-15T20:54:22.000Z,1374337,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",六翼福音,Paladin,Retribution,dps,Pandaren
+96,292.3,307505946,8,Siege of Boralus,2024-11-16T14:16:03.000Z,1390251,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",企嗷嗷,Priest,Discipline,healer,Pandaren
+96,292.3,307505946,8,Siege of Boralus,2024-11-16T14:16:03.000Z,1390251,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",花无恒灬,Paladin,Protection,tank,Valley of Kings
+96,292.3,307505946,8,Siege of Boralus,2024-11-16T14:16:03.000Z,1390251,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",臻下头,Shaman,Enhancement,dps,Valley of Kings
+96,292.3,307505946,8,Siege of Boralus,2024-11-16T14:16:03.000Z,1390251,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熊玖玖,Shaman,Enhancement,dps,Pandaren
+96,292.3,307505946,8,Siege of Boralus,2024-11-16T14:16:03.000Z,1390251,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",西瓜保甜,Mage,Frost,dps,Grim Batol
+97,292.1,294944973,8,Siege of Boralus,2024-09-24T15:45:06.000Z,1403129,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黄小星,Shaman,Elemental,dps,Doomwalker
+97,292.1,294944973,8,Siege of Boralus,2024-09-24T15:45:06.000Z,1403129,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",濑户灿,Mage,Frost,dps,Deathwing
+97,292.1,294944973,8,Siege of Boralus,2024-09-24T15:45:06.000Z,1403129,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",苍月蘭若寺,Death Knight,Frost,dps,Burning Blade
+97,292.1,294944973,8,Siege of Boralus,2024-09-24T15:45:06.000Z,1403129,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",魔鬼筋肉熊,Druid,Guardian,tank,Doomwalker
+97,292.1,294944973,8,Siege of Boralus,2024-09-24T15:45:06.000Z,1403129,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",初暖,Priest,Discipline,healer,Deathwing
+98,291.6,308076147,8,Siege of Boralus,2024-11-19T13:49:48.000Z,1430465,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莉薩莉薩,Paladin,Protection,tank,The Great Sea
+98,291.6,308076147,8,Siege of Boralus,2024-11-19T13:49:48.000Z,1430465,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",射给大道理,Hunter,Marksmanship,dps,The Great Sea
+98,291.6,308076147,8,Siege of Boralus,2024-11-19T13:49:48.000Z,1430465,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",寂寞信仰,Warrior,Protection,tank,Icecrown
+98,291.6,308076147,8,Siege of Boralus,2024-11-19T13:49:48.000Z,1430465,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大领主制裁,Paladin,Retribution,dps,Deathwing
+98,291.6,308076147,8,Siege of Boralus,2024-11-19T13:49:48.000Z,1430465,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",无脑闪电链,Shaman,Restoration,healer,Archimonde
+99,291.6,308047875,8,Siege of Boralus,2024-11-19T07:53:34.000Z,1431267,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",谷之岚,Priest,Shadow,dps,Thaurissan
+99,291.6,308047875,8,Siege of Boralus,2024-11-19T07:53:34.000Z,1431267,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月蕘,Mage,Frost,dps,Frostmourne
+99,291.6,308047875,8,Siege of Boralus,2024-11-19T07:53:34.000Z,1431267,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+99,291.6,308047875,8,Siege of Boralus,2024-11-19T07:53:34.000Z,1431267,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",智武,Warlock,Destruction,dps,Rhonin
+99,291.6,308047875,8,Siege of Boralus,2024-11-19T07:53:34.000Z,1431267,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",舒克舒克,Warrior,Protection,tank,Algalon
+100,291.6,307903043,8,Siege of Boralus,2024-11-18T13:04:21.000Z,1432303,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",沐槿丶昔年,Rogue,Outlaw,dps,Burning Blade
+100,291.6,307903043,8,Siege of Boralus,2024-11-18T13:04:21.000Z,1432303,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",郭渼渼,Paladin,Retribution,dps,Doomwalker
+100,291.6,307903043,8,Siege of Boralus,2024-11-18T13:04:21.000Z,1432303,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超级牛德,Druid,Guardian,tank,Thunder Axe Fortress
+100,291.6,307903043,8,Siege of Boralus,2024-11-18T13:04:21.000Z,1432303,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",工具煤渣,Shaman,Enhancement,dps,Bronzebeard
+100,291.6,307903043,8,Siege of Boralus,2024-11-18T13:04:21.000Z,1432303,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",落叶丹恩,Monk,Mistweaver,healer,Silver Hand
+101,291.4,307096025,8,Siege of Boralus,2024-11-14T01:33:38.000Z,1439542,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",笑容妹妹,Hunter,Beast Mastery,dps,Anzu
+101,291.4,307096025,8,Siege of Boralus,2024-11-14T01:33:38.000Z,1439542,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",浮花梦里,Warlock,Destruction,dps,Loken
+101,291.4,307096025,8,Siege of Boralus,2024-11-14T01:33:38.000Z,1439542,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",深仁厚泽,Paladin,Retribution,dps,Blanchard
+101,291.4,307096025,8,Siege of Boralus,2024-11-14T01:33:38.000Z,1439542,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",五奶神教,Shaman,Restoration,healer,Crushridge
+101,291.4,307096025,8,Siege of Boralus,2024-11-14T01:33:38.000Z,1439542,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拉索米索拉索,Paladin,Protection,tank,Blanchard
+102,291.4,307671939,8,Siege of Boralus,2024-11-17T07:07:26.000Z,1440248,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",四道风,Paladin,Retribution,dps,Thaurissan
+102,291.4,307671939,8,Siege of Boralus,2024-11-17T07:07:26.000Z,1440248,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+102,291.4,307671939,8,Siege of Boralus,2024-11-17T07:07:26.000Z,1440248,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",李商难隐,Death Knight,Blood,tank,Silver Hand
+102,291.4,307671939,8,Siege of Boralus,2024-11-17T07:07:26.000Z,1440248,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莫陌坞紊,Death Knight,Frost,dps,Chillwind Point
+102,291.4,307671939,8,Siege of Boralus,2024-11-17T07:07:26.000Z,1440248,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超级塞牙猴,Priest,Discipline,healer,Gorehowl
+103,291.3,307639930,8,Siege of Boralus,2024-11-17T02:32:10.000Z,1448764,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+103,291.3,307639930,8,Siege of Boralus,2024-11-17T02:32:10.000Z,1448764,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",靓装爱神,Demon Hunter,Vengeance,tank,Silver Hand
+103,291.3,307639930,8,Siege of Boralus,2024-11-17T02:32:10.000Z,1448764,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",赌债肉偿,Paladin,Retribution,dps,Burning Steppes
+103,291.3,307639930,8,Siege of Boralus,2024-11-17T02:32:10.000Z,1448764,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拔凉拔凉的,Mage,Frost,dps,Scarlet Crusade
+103,291.3,307639930,8,Siege of Boralus,2024-11-17T02:32:10.000Z,1448764,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",番茄炒茄瓜,Warlock,Destruction,dps,Scarlet Crusade
+104,291.2,308037915,8,Siege of Boralus,2024-11-19T05:56:27.000Z,1454336,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",阿喵萌德二号,Druid,Restoration,healer,Barrens
+104,291.2,308037915,8,Siege of Boralus,2024-11-19T05:56:27.000Z,1454336,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",奶霸依然在,Rogue,Assassination,dps,Barrens
+104,291.2,308037915,8,Siege of Boralus,2024-11-19T05:56:27.000Z,1454336,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",獸兽,Paladin,Protection,tank,Anzu
+104,291.2,308037915,8,Siege of Boralus,2024-11-19T05:56:27.000Z,1454336,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",根硕古巨基,Shaman,Enhancement,dps,The Master's Glaive
+104,291.2,308037915,8,Siege of Boralus,2024-11-19T05:56:27.000Z,1454336,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",法拉加,Death Knight,Unholy,dps,Silver Hand
+105,291.1,307446845,8,Siege of Boralus,2024-11-16T04:56:11.000Z,1456614,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",又觉得你行了,Death Knight,Frost,dps,Anzu
+105,291.1,307446845,8,Siege of Boralus,2024-11-16T04:56:11.000Z,1456614,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶星辰璀璨,Shaman,Elemental,dps,Grim Batol
+105,291.1,307446845,8,Siege of Boralus,2024-11-16T04:56:11.000Z,1456614,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+105,291.1,307446845,8,Siege of Boralus,2024-11-16T04:56:11.000Z,1456614,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",烏龍酒,Monk,Brewmaster,tank,Shadowmourne
+105,291.1,307446845,8,Siege of Boralus,2024-11-16T04:56:11.000Z,1456614,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",封尘,Paladin,Retribution,dps,Isillien
+106,290.9,307490540,8,Siege of Boralus,2024-11-16T12:11:02.000Z,1470876,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",冰曦乄格格,Druid,Restoration,healer,Deathwing
+106,290.9,307490540,8,Siege of Boralus,2024-11-16T12:11:02.000Z,1470876,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爱姬多娜,Paladin,Protection,tank,Arygos
+106,290.9,307490540,8,Siege of Boralus,2024-11-16T12:11:02.000Z,1470876,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凯尔文,Warrior,Fury,dps,Explorer's League
+106,290.9,307490540,8,Siege of Boralus,2024-11-16T12:11:02.000Z,1470876,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尼古麻,Rogue,Outlaw,dps,Dreamwalker
+106,290.9,307490540,8,Siege of Boralus,2024-11-16T12:11:02.000Z,1470876,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Czerot,Warrior,Fury,dps,Grim Batol
+107,290.7,307341053,8,Siege of Boralus,2024-11-15T17:14:19.000Z,1482380,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超级喜欢可乐,Priest,Discipline,healer,Burning Blade
+107,290.7,307341053,8,Siege of Boralus,2024-11-15T17:14:19.000Z,1482380,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Adelpha,Paladin,Retribution,dps,Silver Hand
+107,290.7,307341053,8,Siege of Boralus,2024-11-15T17:14:19.000Z,1482380,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",万象物语,Paladin,Retribution,dps,Burning Blade
+107,290.7,307341053,8,Siege of Boralus,2024-11-15T17:14:19.000Z,1482380,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",给我瓶娃哈哈,Shaman,Enhancement,dps,Rhonin
+107,290.7,307341053,8,Siege of Boralus,2024-11-15T17:14:19.000Z,1482380,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大领主萨,Paladin,Protection,tank,Deathwing
+108,290.5,307884338,8,Siege of Boralus,2024-11-18T08:45:43.000Z,1491797,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",巴黎魅影,Priest,Discipline,healer,Isillien
+108,290.5,307884338,8,Siege of Boralus,2024-11-18T08:45:43.000Z,1491797,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",嘎嘎热,Paladin,Retribution,dps,Doomwalker
+108,290.5,307884338,8,Siege of Boralus,2024-11-18T08:45:43.000Z,1491797,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+108,290.5,307884338,8,Siege of Boralus,2024-11-18T08:45:43.000Z,1491797,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Playeryfksva,Paladin,Protection,tank,Stonemaul
+108,290.5,307884338,8,Siege of Boralus,2024-11-18T08:45:43.000Z,1491797,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丨冬泳怪鸽丨,Paladin,Retribution,dps,Al'ar
+109,290,307269080,8,Siege of Boralus,2024-11-15T04:50:40.000Z,1517825,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",果冻迪菲兰,Mage,Frost,dps,Burning Blade
+109,290,307269080,8,Siege of Boralus,2024-11-15T04:50:40.000Z,1517825,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",喵爷儿,Shaman,Restoration,healer,The Great Sea
+109,290,307269080,8,Siege of Boralus,2024-11-15T04:50:40.000Z,1517825,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白马踏雪泥,Paladin,Protection,tank,Al'ar
+109,290,307269080,8,Siege of Boralus,2024-11-15T04:50:40.000Z,1517825,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",手感火热,Shaman,Enhancement,dps,Burning Blade
+109,290,307269080,8,Siege of Boralus,2024-11-15T04:50:40.000Z,1517825,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",面茶糊嘴,Warrior,Fury,dps,Grim Batol
+110,289.5,308297905,8,Siege of Boralus,2024-11-20T16:32:02.000Z,1546247,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",吟风尘,Mage,Fire,dps,Deathwing
+110,289.5,308297905,8,Siege of Boralus,2024-11-20T16:32:02.000Z,1546247,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",竹树夹泪三尺,Paladin,Retribution,dps,Deathwing
+110,289.5,308297905,8,Siege of Boralus,2024-11-20T16:32:02.000Z,1546247,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小云吞,Demon Hunter,Vengeance,tank,Garr
+110,289.5,308297905,8,Siege of Boralus,2024-11-20T16:32:02.000Z,1546247,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",水果搬运侠丶,Priest,Discipline,healer,Anzu
+110,289.5,308297905,8,Siege of Boralus,2024-11-20T16:32:02.000Z,1546247,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣光坨坨,Paladin,Retribution,dps,Anzu
+111,289.2,307647894,8,Siege of Boralus,2024-11-17T03:38:46.000Z,1560184,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",詹姆仕,Demon Hunter,Vengeance,tank,Valley of Kings
+111,289.2,307647894,8,Siege of Boralus,2024-11-17T03:38:46.000Z,1560184,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",亦安丶,Monk,Mistweaver,healer,Scarlet Crusade
+111,289.2,307647894,8,Siege of Boralus,2024-11-17T03:38:46.000Z,1560184,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",犭御灵,Warlock,Destruction,dps,Chillwind Point
+111,289.2,307647894,8,Siege of Boralus,2024-11-17T03:38:46.000Z,1560184,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",缺丨德,Druid,Feral,dps,Al'ar
+111,289.2,307647894,8,Siege of Boralus,2024-11-17T03:38:46.000Z,1560184,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",巧乐兹,Paladin,Retribution,dps,Winterspring
+112,289.2,308065969,8,Siege of Boralus,2024-11-19T12:10:18.000Z,1565534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Fleuret,Mage,Frost,dps,The Master's Glaive
+112,289.2,308065969,8,Siege of Boralus,2024-11-19T12:10:18.000Z,1565534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+112,289.2,308065969,8,Siege of Boralus,2024-11-19T12:10:18.000Z,1565534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",阿尔萨瓜,Death Knight,Unholy,dps,Shadowmourne
+112,289.2,308065969,8,Siege of Boralus,2024-11-19T12:10:18.000Z,1565534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",哈劳斯国王,Warrior,Protection,tank,Anzu
+112,289.2,308065969,8,Siege of Boralus,2024-11-19T12:10:18.000Z,1565534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",巫师旺达,Warlock,Destruction,dps,Silver Hand
+113,289,308127779,8,Siege of Boralus,2024-11-19T18:29:46.000Z,1572431,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",悬铃木的铃,Shaman,Restoration,healer,Grim Batol
+113,289,308127779,8,Siege of Boralus,2024-11-19T18:29:46.000Z,1572431,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",深蓝战栗图腾,Shaman,Enhancement,dps,The Great Sea
+113,289,308127779,8,Siege of Boralus,2024-11-19T18:29:46.000Z,1572431,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",咕咕门,Demon Hunter,Vengeance,tank,Eldre'Thalas
+113,289,308127779,8,Siege of Boralus,2024-11-19T18:29:46.000Z,1572431,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一只好猎,Hunter,Survival,dps,Valley of Kings
+113,289,308127779,8,Siege of Boralus,2024-11-19T18:29:46.000Z,1572431,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",带孩子先走,Shaman,Restoration,healer,Searinox
+114,289,308032692,8,Siege of Boralus,2024-11-19T05:18:04.000Z,1574651,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",叫我犇犇牛,Shaman,Elemental,dps,Zealot Blade
+114,289,308032692,8,Siege of Boralus,2024-11-19T05:18:04.000Z,1574651,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",每天吃饱饱,Paladin,Protection,tank,Burning Blade
+114,289,308032692,8,Siege of Boralus,2024-11-19T05:18:04.000Z,1574651,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",忧伤的小羊驼,Shaman,Restoration,healer,Stratholme
+114,289,308032692,8,Siege of Boralus,2024-11-19T05:18:04.000Z,1574651,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",一边去,Paladin,Retribution,dps,Barrens
+114,289,308032692,8,Siege of Boralus,2024-11-19T05:18:04.000Z,1574651,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",银河小浪花,Paladin,Retribution,dps,Anzu
+115,288.9,307151596,8,Siege of Boralus,2024-11-14T14:45:57.000Z,1577963,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",炸菊熊,Druid,Restoration,healer,Deepfury
+115,288.9,307151596,8,Siege of Boralus,2024-11-14T14:45:57.000Z,1577963,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Yossi,Paladin,Retribution,dps,Isillien
+115,288.9,307151596,8,Siege of Boralus,2024-11-14T14:45:57.000Z,1577963,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",特兰希尔,Evoker,Devastation,dps,Warsong
+115,288.9,307151596,8,Siege of Boralus,2024-11-14T14:45:57.000Z,1577963,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",赤厄阳,Rogue,Assassination,dps,Deepfury
+115,288.9,307151596,8,Siege of Boralus,2024-11-14T14:45:57.000Z,1577963,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",偷心猪,Paladin,Protection,tank,Isillien
+116,288.8,307892922,8,Siege of Boralus,2024-11-18T11:02:09.000Z,1586556,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",随机变量分布,Druid,Balance,dps,Valley of Kings
+116,288.8,307892922,8,Siege of Boralus,2024-11-18T11:02:09.000Z,1586556,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",破釜沉舟丶,Warrior,Protection,tank,Nozdormu
+116,288.8,307892922,8,Siege of Boralus,2024-11-18T11:02:09.000Z,1586556,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",学友,Paladin,Retribution,dps,Pandaren
+116,288.8,307892922,8,Siege of Boralus,2024-11-18T11:02:09.000Z,1586556,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",元气凛然,Shaman,Restoration,healer,Nozdormu
+116,288.8,307892922,8,Siege of Boralus,2024-11-18T11:02:09.000Z,1586556,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",矛人凤,Monk,Windwalker,dps,Valley of Kings
+117,288.8,300295718,8,Siege of Boralus,2024-09-21T05:46:06.000Z,1586643,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",疾风之歌,Rogue,Assassination,dps,Isillien
+117,288.8,300295718,8,Siege of Boralus,2024-09-21T05:46:06.000Z,1586643,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Justicerr,Hunter,Marksmanship,dps,Shadowmourne
+117,288.8,300295718,8,Siege of Boralus,2024-09-21T05:46:06.000Z,1586643,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",苏暖暖,Evoker,Preservation,healer,Bronze Dragonflight
+117,288.8,300295718,8,Siege of Boralus,2024-09-21T05:46:06.000Z,1586643,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Famiglisttim,Demon Hunter,Vengeance,tank,Burning Blade
+117,288.8,300295718,8,Siege of Boralus,2024-09-21T05:46:06.000Z,1586643,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",吃绿色花椰菜,Warlock,Destruction,dps,Al'ar
+118,288.7,308051710,8,Siege of Boralus,2024-11-19T08:51:49.000Z,1592634,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我想打老虎,Mage,Frost,dps,Silver Hand
+118,288.7,308051710,8,Siege of Boralus,2024-11-19T08:51:49.000Z,1592634,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶狠人睿,Warrior,Protection,tank,Silver Hand
+118,288.7,308051710,8,Siege of Boralus,2024-11-19T08:51:49.000Z,1592634,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",彧乄幺幺,Druid,Restoration,healer,Doomwalker
+118,288.7,308051710,8,Siege of Boralus,2024-11-19T08:51:49.000Z,1592634,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丿老王丶,Evoker,Augmentation,dps,Silver Hand
+118,288.7,308051710,8,Siege of Boralus,2024-11-19T08:51:49.000Z,1592634,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",枫火丶温蕾萨,Hunter,Beast Mastery,dps,Rhonin
+119,288.6,307508340,8,Siege of Boralus,2024-11-16T14:48:01.000Z,1594006,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",沐槿丶昔年,Rogue,Outlaw,dps,Burning Blade
+119,288.6,307508340,8,Siege of Boralus,2024-11-16T14:48:01.000Z,1594006,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",郭渼渼,Paladin,Retribution,dps,Doomwalker
+119,288.6,307508340,8,Siege of Boralus,2024-11-16T14:48:01.000Z,1594006,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超级牛德,Druid,Guardian,tank,Thunder Axe Fortress
+119,288.6,307508340,8,Siege of Boralus,2024-11-16T14:48:01.000Z,1594006,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",李嘉图,Shaman,Elemental,dps,Bronzebeard
+119,288.6,307508340,8,Siege of Boralus,2024-11-16T14:48:01.000Z,1594006,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",偶遇一达芬奇,Shaman,Restoration,healer,Anachronos
+120,288.6,308050933,8,Siege of Boralus,2024-11-19T08:37:59.000Z,1594332,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+120,288.6,308050933,8,Siege of Boralus,2024-11-19T08:37:59.000Z,1594332,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",百了个川,Mage,Frost,dps,Thunderlord
+120,288.6,308050933,8,Siege of Boralus,2024-11-19T08:37:59.000Z,1594332,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",该牛无法显示,Warrior,Protection,tank,The Great Sea
+120,288.6,308050933,8,Siege of Boralus,2024-11-19T08:37:59.000Z,1594332,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小努努,Warlock,Destruction,dps,Al'ar
+120,288.6,308050933,8,Siege of Boralus,2024-11-19T08:37:59.000Z,1594332,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",偷棒棒糖的狼,Paladin,Retribution,dps,Dark Iron
+121,288.3,293877388,8,Siege of Boralus,2024-09-21T15:44:09.000Z,1612844,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Macleans,Mage,Arcane,dps,Silver Hand
+121,288.3,293877388,8,Siege of Boralus,2024-09-21T15:44:09.000Z,1612844,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夜斗,Paladin,Retribution,dps,Pandaren
+121,288.3,293877388,8,Siege of Boralus,2024-09-21T15:44:09.000Z,1612844,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",泡菜丨,Demon Hunter,Vengeance,tank,Rhonin
+121,288.3,293877388,8,Siege of Boralus,2024-09-21T15:44:09.000Z,1612844,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",步听话,Priest,Holy,healer,Burning Blade
+121,288.3,293877388,8,Siege of Boralus,2024-09-21T15:44:09.000Z,1612844,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",节超大魔王,Warlock,Destruction,dps,Pandaren
+122,288.3,307149811,8,Siege of Boralus,2024-11-14T13:21:26.000Z,1613155,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丨豌豆射手,Hunter,Survival,dps,Deathwing
+122,288.3,307149811,8,Siege of Boralus,2024-11-14T13:21:26.000Z,1613155,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",脸上有犄角,Demon Hunter,Vengeance,tank,Deathwing
+122,288.3,307149811,8,Siege of Boralus,2024-11-14T13:21:26.000Z,1613155,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",盗作,Paladin,Retribution,dps,Deathwing
+122,288.3,307149811,8,Siege of Boralus,2024-11-14T13:21:26.000Z,1613155,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小可乐鸡,Shaman,Enhancement,dps,Grim Batol
+122,288.3,307149811,8,Siege of Boralus,2024-11-14T13:21:26.000Z,1613155,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牧牧君君,Priest,Discipline,healer,Deathwing
+123,288,307883940,8,Siege of Boralus,2024-11-18T08:31:38.000Z,1628398,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶旧人扰心,Hunter,Survival,dps,Grim Batol
+123,288,307883940,8,Siege of Boralus,2024-11-18T08:31:38.000Z,1628398,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+123,288,307883940,8,Siege of Boralus,2024-11-18T08:31:38.000Z,1628398,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",公元二零一七,Hunter,Beast Mastery,dps,Frostmourne
+123,288,307883940,8,Siege of Boralus,2024-11-18T08:31:38.000Z,1628398,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牧夜暗星,Mage,Frost,dps,Shadowmourne
+123,288,307883940,8,Siege of Boralus,2024-11-18T08:31:38.000Z,1628398,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",同生共死,Paladin,Protection,tank,Skywall
+124,287.7,294559578,8,Siege of Boralus,2024-09-23T11:09:55.000Z,1645191,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鸣瓢,Druid,Balance,dps,Shadowmourne
+124,287.7,294559578,8,Siege of Boralus,2024-09-23T11:09:55.000Z,1645191,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Euphony,Shaman,Restoration,healer,Al'ar
+124,287.7,294559578,8,Siege of Boralus,2024-09-23T11:09:55.000Z,1645191,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雲桑,Demon Hunter,Havoc,dps,Barrens
+124,287.7,294559578,8,Siege of Boralus,2024-09-23T11:09:55.000Z,1645191,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",兰音,Demon Hunter,Vengeance,tank,The Golden Plains
+124,287.7,294559578,8,Siege of Boralus,2024-09-23T11:09:55.000Z,1645191,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",猫七姑娘灬,Death Knight,Unholy,dps,Al'ar
+125,287.5,307313934,8,Siege of Boralus,2024-11-15T15:05:09.000Z,1656341,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",茉莉奶绿,Hunter,Survival,dps,Burning Blade
+125,287.5,307313934,8,Siege of Boralus,2024-11-15T15:05:09.000Z,1656341,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蒲公英骑士,Paladin,Retribution,dps,Burning Blade
+125,287.5,307313934,8,Siege of Boralus,2024-11-15T15:05:09.000Z,1656341,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",记忆流浪骑,Death Knight,Frost,dps,Burning Blade
+125,287.5,307313934,8,Siege of Boralus,2024-11-15T15:05:09.000Z,1656341,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",盲眼画师,Demon Hunter,Vengeance,tank,Skettis
+125,287.5,307313934,8,Siege of Boralus,2024-11-15T15:05:09.000Z,1656341,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白梓哲,Druid,Restoration,healer,Burning Blade
+126,287.4,308290768,8,Siege of Boralus,2024-11-20T15:45:02.000Z,1660575,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",脆脆黄,Paladin,Protection,tank,Valley of Kings
+126,287.4,308290768,8,Siege of Boralus,2024-11-20T15:45:02.000Z,1660575,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",奇迹鬼才,Mage,Arcane,dps,Frostmourne
+126,287.4,308290768,8,Siege of Boralus,2024-11-20T15:45:02.000Z,1660575,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小鹿噶了,Death Knight,Unholy,dps,Valley of Kings
+126,287.4,308290768,8,Siege of Boralus,2024-11-20T15:45:02.000Z,1660575,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",对吗,Warrior,Arms,dps,Scarlet Crusade
+126,287.4,308290768,8,Siege of Boralus,2024-11-20T15:45:02.000Z,1660575,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",奥克拉里,Shaman,Restoration,healer,Frostmourne
+127,287.4,294701901,8,Siege of Boralus,2024-09-23T16:37:53.000Z,1663271,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",诗人啊丶,Demon Hunter,Vengeance,tank,Deathwing
+127,287.4,294701901,8,Siege of Boralus,2024-09-23T16:37:53.000Z,1663271,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灵犀丶,Warlock,Affliction,dps,The Great Sea
+127,287.4,294701901,8,Siege of Boralus,2024-09-23T16:37:53.000Z,1663271,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",肯丶斯多姆,Shaman,Restoration,healer,Eldre'Thalas
+127,287.4,294701901,8,Siege of Boralus,2024-09-23T16:37:53.000Z,1663271,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",银桑超级卷,Shaman,Elemental,dps,Al'ar
+127,287.4,294701901,8,Siege of Boralus,2024-09-23T16:37:53.000Z,1663271,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",很帅气的赫赫,Death Knight,Frost,dps,Burning Blade
+128,287,307712277,8,Siege of Boralus,2024-11-17T13:17:55.000Z,1683747,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莎玛忒,Hunter,Survival,dps,Kel'Thuzad
+128,287,307712277,8,Siege of Boralus,2024-11-17T13:17:55.000Z,1683747,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",特高压,Shaman,Elemental,dps,Lordaeron
+128,287,307712277,8,Siege of Boralus,2024-11-17T13:17:55.000Z,1683747,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Vanguard,Shaman,Enhancement,dps,Lordaeron
+128,287,307712277,8,Siege of Boralus,2024-11-17T13:17:55.000Z,1683747,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",少林寺扫地,Monk,Mistweaver,healer,Swiftwind
+128,287,307712277,8,Siege of Boralus,2024-11-17T13:17:55.000Z,1683747,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",卜诀,Warrior,Protection,tank,Kel'Thuzad
+129,287,307685473,8,Siege of Boralus,2024-11-17T09:22:13.000Z,1685431,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小萝莉丶,Paladin,Protection,tank,Rhonin
+129,287,307685473,8,Siege of Boralus,2024-11-17T09:22:13.000Z,1685431,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",强少狂魔,Paladin,Retribution,dps,The Master's Glaive
+129,287,307685473,8,Siege of Boralus,2024-11-17T09:22:13.000Z,1685431,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",纱田奈丶,Rogue,Assassination,dps,Rhonin
+129,287,307685473,8,Siege of Boralus,2024-11-17T09:22:13.000Z,1685431,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Whu,Monk,Mistweaver,healer,Grim Batol
+129,287,307685473,8,Siege of Boralus,2024-11-17T09:22:13.000Z,1685431,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",憨憨烤大鹅丶,Hunter,Beast Mastery,dps,Dark Iron
+130,286.9,307673574,8,Siege of Boralus,2024-11-17T07:24:22.000Z,1690247,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",前尘如梦,Death Knight,Blood,tank,Kel'Thuzad
+130,286.9,307673574,8,Siege of Boralus,2024-11-17T07:24:22.000Z,1690247,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",愛是一道咣,Paladin,Retribution,dps,Grim Batol
+130,286.9,307673574,8,Siege of Boralus,2024-11-17T07:24:22.000Z,1690247,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",只为种族天赋,Paladin,Retribution,dps,Silver Hand
+130,286.9,307673574,8,Siege of Boralus,2024-11-17T07:24:22.000Z,1690247,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣安娜,Paladin,Retribution,dps,Silver Hand
+130,286.9,307673574,8,Siege of Boralus,2024-11-17T07:24:22.000Z,1690247,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鱼饼牛腩,Shaman,Restoration,healer,Chillwind Point
+131,286.8,294889648,8,Siege of Boralus,2024-09-24T07:18:56.000Z,1696127,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Zinnia,Warlock,Affliction,dps,Rhonin
+131,286.8,294889648,8,Siege of Boralus,2024-09-24T07:18:56.000Z,1696127,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牧野锦,Warrior,Fury,dps,The Golden Plains
+131,286.8,294889648,8,Siege of Boralus,2024-09-24T07:18:56.000Z,1696127,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",影骸啊,Death Knight,Unholy,dps,Scarlet Crusade
+131,286.8,294889648,8,Siege of Boralus,2024-09-24T07:18:56.000Z,1696127,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",忽悠的图腾,Shaman,Restoration,healer,Doomwalker
+131,286.8,294889648,8,Siege of Boralus,2024-09-24T07:18:56.000Z,1696127,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凉森苓梦,Druid,Guardian,tank,Silver Hand
+132,286.8,307333723,8,Siege of Boralus,2024-11-15T16:58:09.000Z,1696507,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",别挠我耳朵,Evoker,Devastation,dps,Blanchard
+132,286.8,307333723,8,Siege of Boralus,2024-11-15T16:58:09.000Z,1696507,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",霜地,Warrior,Protection,tank,Silver Hand
+132,286.8,307333723,8,Siege of Boralus,2024-11-15T16:58:09.000Z,1696507,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Vivieny,Warrior,Fury,dps,Anzu
+132,286.8,307333723,8,Siege of Boralus,2024-11-15T16:58:09.000Z,1696507,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黑猫小圣骑,Paladin,Retribution,dps,Chillwind Point
+132,286.8,307333723,8,Siege of Boralus,2024-11-15T16:58:09.000Z,1696507,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",风总冷,Druid,Restoration,healer,Burning Blade
+133,286.6,307269109,8,Siege of Boralus,2024-11-15T04:52:11.000Z,1707578,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",红烧大公鸡,Hunter,Survival,dps,Zealot Blade
+133,286.6,307269109,8,Siege of Boralus,2024-11-15T04:52:11.000Z,1707578,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小飞萨满,Shaman,Enhancement,dps,Al'ar
+133,286.6,307269109,8,Siege of Boralus,2024-11-15T04:52:11.000Z,1707578,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",阿尔法斯卡,Warrior,Protection,tank,Swiftwind
+133,286.6,307269109,8,Siege of Boralus,2024-11-15T04:52:11.000Z,1707578,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",驭雷师,Shaman,Restoration,healer,Rhonin
+133,286.6,307269109,8,Siege of Boralus,2024-11-15T04:52:11.000Z,1707578,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",汉民拯救者,Death Knight,Unholy,dps,Swiftwind
+134,286.2,293899902,8,Siege of Boralus,2024-09-21T17:49:20.000Z,1727948,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Statistics,Evoker,Augmentation,dps,The Great Sea
+134,286.2,293899902,8,Siege of Boralus,2024-09-21T17:49:20.000Z,1727948,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",薰贼,Rogue,Assassination,dps,The Great Sea
+134,286.2,293899902,8,Siege of Boralus,2024-09-21T17:49:20.000Z,1727948,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南瓜饼干,Druid,Guardian,tank,The Great Sea
+134,286.2,293899902,8,Siege of Boralus,2024-09-21T17:49:20.000Z,1727948,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爱吃包菜饼干,Priest,Discipline,healer,The Great Sea
+134,286.2,293899902,8,Siege of Boralus,2024-09-21T17:49:20.000Z,1727948,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",气得头疼,Rogue,Assassination,dps,The Great Sea
+135,286.1,293525153,8,Siege of Boralus,2024-09-20T17:15:55.000Z,1734851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",时生丶,Warrior,Protection,tank,Rhonin
+135,286.1,293525153,8,Siege of Boralus,2024-09-20T17:15:55.000Z,1734851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Gomez,Mage,Frost,dps,Rhonin
+135,286.1,293525153,8,Siege of Boralus,2024-09-20T17:15:55.000Z,1734851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",後悔無期,Paladin,Retribution,dps,Silver Hand
+135,286.1,293525153,8,Siege of Boralus,2024-09-20T17:15:55.000Z,1734851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",天天晒太阳,Death Knight,Unholy,dps,Chillwind Point
+135,286.1,293525153,8,Siege of Boralus,2024-09-20T17:15:55.000Z,1734851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",苦笑丶,Evoker,Preservation,healer,Rhonin
+136,286.1,308080807,8,Siege of Boralus,2024-11-19T14:49:03.000Z,1736798,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凯尔文,Warrior,Fury,dps,Explorer's League
+136,286.1,308080807,8,Siege of Boralus,2024-11-19T14:49:03.000Z,1736798,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",急救包,Shaman,Restoration,healer,Arygos
+136,286.1,308080807,8,Siege of Boralus,2024-11-19T14:49:03.000Z,1736798,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Czerot,Warrior,Fury,dps,Grim Batol
+136,286.1,308080807,8,Siege of Boralus,2024-11-19T14:49:03.000Z,1736798,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Megacreep,Demon Hunter,Vengeance,tank,Arygos
+136,286.1,308080807,8,Siege of Boralus,2024-11-19T14:49:03.000Z,1736798,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",狐大将军丶,Priest,Shadow,dps,Arygos
+137,286,308092903,8,Siege of Boralus,2024-11-19T16:34:49.000Z,1737538,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+137,286,308092903,8,Siege of Boralus,2024-11-19T16:34:49.000Z,1737538,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",昔日冉冉,Warrior,Protection,tank,Emeriss
+137,286,308092903,8,Siege of Boralus,2024-11-19T16:34:49.000Z,1737538,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",媛媛的大叔,Hunter,Survival,dps,Emeriss
+137,286,308092903,8,Siege of Boralus,2024-11-19T16:34:49.000Z,1737538,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",巴比伦女王哈,Mage,Frost,dps,Al'ar
+137,286,308092903,8,Siege of Boralus,2024-11-19T16:34:49.000Z,1737538,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",噬魂殘惢,Warlock,Destruction,dps,Theradras
+138,285.8,307329395,8,Siege of Boralus,2024-11-15T15:53:01.000Z,1752628,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",渡厄丨辰辉,Paladin,Retribution,dps,The Master's Glaive
+138,285.8,307329395,8,Siege of Boralus,2024-11-15T15:53:01.000Z,1752628,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",天津风,Paladin,Holy,healer,The Golden Plains
+138,285.8,307329395,8,Siege of Boralus,2024-11-15T15:53:01.000Z,1752628,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",春日迟迟,Shaman,Elemental,dps,Searinox
+138,285.8,307329395,8,Siege of Boralus,2024-11-15T15:53:01.000Z,1752628,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",柚子和橙子,Paladin,Protection,tank,Blanchard
+138,285.8,307329395,8,Siege of Boralus,2024-11-15T15:53:01.000Z,1752628,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",快乐向前冲,Paladin,Retribution,dps,Silver Hand
+139,285.2,307131044,8,Siege of Boralus,2024-11-14T08:59:37.000Z,1781352,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我没有在生气,Warrior,Protection,tank,Dark Iron
+139,285.2,307131044,8,Siege of Boralus,2024-11-14T08:59:37.000Z,1781352,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",时雨濛濛丷,Priest,Holy,healer,The Great Sea
+139,285.2,307131044,8,Siege of Boralus,2024-11-14T08:59:37.000Z,1781352,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",削柠檬,Paladin,Retribution,dps,Echo Ridge
+139,285.2,307131044,8,Siege of Boralus,2024-11-14T08:59:37.000Z,1781352,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",花溅丶,Warrior,Arms,dps,The Great Sea
+139,285.2,307131044,8,Siege of Boralus,2024-11-14T08:59:37.000Z,1781352,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雨夜终曲,Hunter,Survival,dps,Icecrown
+140,285.2,295150786,8,Siege of Boralus,2024-09-25T10:16:49.000Z,1781745,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熊本面包师,Mage,Fire,dps,Silver Hand
+140,285.2,295150786,8,Siege of Boralus,2024-09-25T10:16:49.000Z,1781745,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",根桑,Warrior,Protection,tank,Barrens
+140,285.2,295150786,8,Siege of Boralus,2024-09-25T10:16:49.000Z,1781745,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雲桑,Demon Hunter,Havoc,dps,Barrens
+140,285.2,295150786,8,Siege of Boralus,2024-09-25T10:16:49.000Z,1781745,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熊熊豹豹,Druid,Restoration,healer,Valley of Kings
+140,285.2,295150786,8,Siege of Boralus,2024-09-25T10:16:49.000Z,1781745,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",毁灭灬红尘,Warlock,Demonology,dps,Silver Hand
+141,285.1,294394163,8,Siege of Boralus,2024-09-23T02:35:11.000Z,1786634,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",肇事者小明,Death Knight,Unholy,dps,Scarlet Crusade
+141,285.1,294394163,8,Siege of Boralus,2024-09-23T02:35:11.000Z,1786634,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Justicerr,Hunter,Marksmanship,dps,Shadowmourne
+141,285.1,294394163,8,Siege of Boralus,2024-09-23T02:35:11.000Z,1786634,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",最后战役,Demon Hunter,Havoc,dps,Doomwalker
+141,285.1,294394163,8,Siege of Boralus,2024-09-23T02:35:11.000Z,1786634,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",你缺德吗,Druid,Guardian,tank,Silver Hand
+141,285.1,294394163,8,Siege of Boralus,2024-09-23T02:35:11.000Z,1786634,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",六牛牛,Shaman,Restoration,healer,Isillien
+142,284.7,307905679,8,Siege of Boralus,2024-11-18T13:24:13.000Z,1813503,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+142,284.7,307905679,8,Siege of Boralus,2024-11-18T13:24:13.000Z,1813503,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",浮沉,Paladin,Retribution,dps,Blackrock
+142,284.7,307905679,8,Siege of Boralus,2024-11-18T13:24:13.000Z,1813503,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爆弹狂鼠,Mage,Frost,dps,Fray Island
+142,284.7,307905679,8,Siege of Boralus,2024-11-18T13:24:13.000Z,1813503,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",胖哒,Hunter,Beast Mastery,dps,Fray Island
+142,284.7,307905679,8,Siege of Boralus,2024-11-18T13:24:13.000Z,1813503,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",字字句句,Warrior,Protection,tank,Blackrock
+143,284.6,293702100,8,Siege of Boralus,2024-09-21T05:45:22.000Z,1815402,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",信的不是很长,Warlock,Affliction,dps,Al'ar
+143,284.6,293702100,8,Siege of Boralus,2024-09-21T05:45:22.000Z,1815402,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",忘千宝,Hunter,Marksmanship,dps,Pandaren
+143,284.6,293702100,8,Siege of Boralus,2024-09-21T05:45:22.000Z,1815402,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",醉饮枫眠,Death Knight,Frost,dps,Pandaren
+143,284.6,293702100,8,Siege of Boralus,2024-09-21T05:45:22.000Z,1815402,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",亖阶堂千鸟,Druid,Guardian,tank,Anzu
+143,284.6,293702100,8,Siege of Boralus,2024-09-21T05:45:22.000Z,1815402,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶七二七丶,Shaman,Restoration,healer,Anzu
+144,284.5,294056022,8,Siege of Boralus,2024-09-22T04:05:16.000Z,1822151,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Juticed,Priest,Discipline,healer,Shadowmourne
+144,284.5,294056022,8,Siege of Boralus,2024-09-22T04:05:16.000Z,1822151,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大隆,Death Knight,Frost,dps,Burning Blade
+144,284.5,294056022,8,Siege of Boralus,2024-09-22T04:05:16.000Z,1822151,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+144,284.5,294056022,8,Siege of Boralus,2024-09-22T04:05:16.000Z,1822151,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",茜色,Death Knight,Unholy,dps,Pandaren
+144,284.5,294056022,8,Siege of Boralus,2024-09-22T04:05:16.000Z,1822151,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rimururogue,Rogue,Assassination,dps,Burning Blade
+145,284.5,294893463,8,Siege of Boralus,2024-09-24T08:02:18.000Z,1823393,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",雨魂的小叁,Warlock,Destruction,dps,Valley of Kings
+145,284.5,294893463,8,Siege of Boralus,2024-09-24T08:02:18.000Z,1823393,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+145,284.5,294893463,8,Siege of Boralus,2024-09-24T08:02:18.000Z,1823393,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Bokki,Paladin,Holy,healer,Thaurissan
+145,284.5,294893463,8,Siege of Boralus,2024-09-24T08:02:18.000Z,1823393,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",瑞克五代,Shaman,Enhancement,dps,Scarlet Crusade
+145,284.5,294893463,8,Siege of Boralus,2024-09-24T08:02:18.000Z,1823393,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",奥唯,Demon Hunter,Vengeance,tank,Echo Ridge
+146,284.1,307862755,8,Siege of Boralus,2024-11-18T04:27:51.000Z,1846729,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Agonii,Death Knight,Frost,dps,Rhonin
+146,284.1,307862755,8,Siege of Boralus,2024-11-18T04:27:51.000Z,1846729,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",你打不过我的,Shaman,Enhancement,dps,Hakkar
+146,284.1,307862755,8,Siege of Boralus,2024-11-18T04:27:51.000Z,1846729,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",赛罗曼蛇,Death Knight,Blood,tank,Blanchard
+146,284.1,307862755,8,Siege of Boralus,2024-11-18T04:27:51.000Z,1846729,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我真的很柴吗,Shaman,Elemental,dps,World Tree
+146,284.1,307862755,8,Siege of Boralus,2024-11-18T04:27:51.000Z,1846729,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",流量池,Druid,Restoration,healer,Grim Batol
+147,284,294600038,8,Siege of Boralus,2024-09-23T12:59:49.000Z,1851658,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",碧落新月,Shaman,Restoration,healer,The Great Sea
+147,284,294600038,8,Siege of Boralus,2024-09-23T12:59:49.000Z,1851658,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灵犀丶,Warlock,Affliction,dps,The Great Sea
+147,284,294600038,8,Siege of Boralus,2024-09-23T12:59:49.000Z,1851658,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",叽里咕噜,Monk,Brewmaster,tank,The Great Sea
+147,284,294600038,8,Siege of Boralus,2024-09-23T12:59:49.000Z,1851658,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小别扇,Mage,Arcane,dps,The Great Sea
+147,284,294600038,8,Siege of Boralus,2024-09-23T12:59:49.000Z,1851658,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",凛冬残月,Demon Hunter,Havoc,dps,The Great Sea
+148,283.9,300296595,8,Siege of Boralus,2024-09-20T18:58:22.000Z,1855694,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",苏小舟,Hunter,Marksmanship,dps,Barrens
+148,283.9,300296595,8,Siege of Boralus,2024-09-20T18:58:22.000Z,1855694,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",拣爱,Demon Hunter,Vengeance,tank,Dun Modr
+148,283.9,300296595,8,Siege of Boralus,2024-09-20T18:58:22.000Z,1855694,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小西明八,Death Knight,Frost,dps,Isillien
+148,283.9,300296595,8,Siege of Boralus,2024-09-20T18:58:22.000Z,1855694,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",神奇的浩浩呀,Warlock,Affliction,dps,The Great Sea
+148,283.9,300296595,8,Siege of Boralus,2024-09-20T18:58:22.000Z,1855694,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Fiordilatte,Shaman,Restoration,healer,Deathwing
+149,283.7,308069275,8,Siege of Boralus,2024-11-19T12:50:03.000Z,1868570,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禾早,Priest,Discipline,healer,Holy Chanter
+149,283.7,308069275,8,Siege of Boralus,2024-11-19T12:50:03.000Z,1868570,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大石头,Shaman,Enhancement,dps,Skywall
+149,283.7,308069275,8,Siege of Boralus,2024-11-19T12:50:03.000Z,1868570,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",幽魂之影,Warlock,Demonology,dps,The Master's Glaive
+149,283.7,308069275,8,Siege of Boralus,2024-11-19T12:50:03.000Z,1868570,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",影之斩亼,Warrior,Protection,tank,Rhonin
+149,283.7,308069275,8,Siege of Boralus,2024-11-19T12:50:03.000Z,1868570,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黛劲,Mage,Frost,dps,Isillien
+150,283.3,307463059,8,Siege of Boralus,2024-11-16T07:43:21.000Z,1888162,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Rayalexdh,Demon Hunter,Vengeance,tank,Deathwing
+150,283.3,307463059,8,Siege of Boralus,2024-11-16T07:43:21.000Z,1888162,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",振翅就嘎,Druid,Guardian,tank,Deathwing
+150,283.3,307463059,8,Siege of Boralus,2024-11-16T07:43:21.000Z,1888162,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",哦嚯丶,Rogue,Assassination,dps,Scarlet Crusade
+150,283.3,307463059,8,Siege of Boralus,2024-11-16T07:43:21.000Z,1888162,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",熬夜咕咕,Druid,Guardian,tank,Deathwing
+150,283.3,307463059,8,Siege of Boralus,2024-11-16T07:43:21.000Z,1888162,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鸡翅丶德,Druid,Restoration,healer,Burning Blade
+151,283.2,294900501,8,Siege of Boralus,2024-09-24T09:16:30.000Z,1896091,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",悟饭不是神,Mage,Arcane,dps,Al'ar
+151,283.2,294900501,8,Siege of Boralus,2024-09-24T09:16:30.000Z,1896091,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Pürples,Demon Hunter,Vengeance,tank,The Great Sea
+151,283.2,294900501,8,Siege of Boralus,2024-09-24T09:16:30.000Z,1896091,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",昨儿,Shaman,Restoration,healer,Burning Blade
+151,283.2,294900501,8,Siege of Boralus,2024-09-24T09:16:30.000Z,1896091,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鱼面筋,Death Knight,Frost,dps,Blanchard
+151,283.2,294900501,8,Siege of Boralus,2024-09-24T09:16:30.000Z,1896091,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",闹心,Rogue,Assassination,dps,Blanchard
+152,283.2,308072666,8,Siege of Boralus,2024-11-19T13:55:55.000Z,1896234,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",聖鈈如死,Death Knight,Frost,dps,Freewind
+152,283.2,308072666,8,Siege of Boralus,2024-11-19T13:55:55.000Z,1896234,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣光丶波比,Paladin,Protection,tank,Silver Hand
+152,283.2,308072666,8,Siege of Boralus,2024-11-19T13:55:55.000Z,1896234,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",勤业,Warrior,Fury,dps,Rhonin
+152,283.2,308072666,8,Siege of Boralus,2024-11-19T13:55:55.000Z,1896234,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",侧颜杀龙女,Evoker,Preservation,healer,Isillien
+152,283.2,308072666,8,Siege of Boralus,2024-11-19T13:55:55.000Z,1896234,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",前后都在喷,Evoker,Devastation,dps,Al'ar
+153,283.1,307699081,8,Siege of Boralus,2024-11-17T11:42:57.000Z,1898380,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",钻石丶之手,Paladin,Protection,tank,Silver Hand
+153,283.1,307699081,8,Siege of Boralus,2024-11-17T11:42:57.000Z,1898380,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",渡厄丨小德,Druid,Restoration,healer,The Master's Glaive
+153,283.1,307699081,8,Siege of Boralus,2024-11-17T11:42:57.000Z,1898380,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",惊悚番茄,Warlock,Destruction,dps,Blanchard
+153,283.1,307699081,8,Siege of Boralus,2024-11-17T11:42:57.000Z,1898380,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",咕咕炸鸡,Druid,Balance,dps,The Golden Plains
+153,283.1,307699081,8,Siege of Boralus,2024-11-17T11:42:57.000Z,1898380,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",柚子和抽子,Death Knight,Unholy,dps,Blanchard
+154,282.8,307659057,8,Siege of Boralus,2024-11-17T05:07:48.000Z,1914589,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",皮皮熊,Rogue,Assassination,dps,Kaleidoscope Star
+154,282.8,307659057,8,Siege of Boralus,2024-11-17T05:07:48.000Z,1914589,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Visalia,Hunter,Marksmanship,dps,Silver Hand
+154,282.8,307659057,8,Siege of Boralus,2024-11-17T05:07:48.000Z,1914589,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",薄樱,Demon Hunter,Vengeance,tank,Al'ar
+154,282.8,307659057,8,Siege of Boralus,2024-11-17T05:07:48.000Z,1914589,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",站起来自己奶,Shaman,Restoration,healer,Gadgetzan
+154,282.8,307659057,8,Siege of Boralus,2024-11-17T05:07:48.000Z,1914589,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",艾尔方斯,Paladin,Retribution,dps,The Master's Glaive
+155,282.5,307106420,8,Siege of Boralus,2024-11-14T03:22:46.000Z,1933647,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",别丿怂丿啊,Paladin,Protection,tank,The Great Sea
+155,282.5,307106420,8,Siege of Boralus,2024-11-14T03:22:46.000Z,1933647,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",晨曦大厅标兵,Shaman,Elemental,dps,Barrens
+155,282.5,307106420,8,Siege of Boralus,2024-11-14T03:22:46.000Z,1933647,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",铁血真男人,Paladin,Retribution,dps,Malygos
+155,282.5,307106420,8,Siege of Boralus,2024-11-14T03:22:46.000Z,1933647,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",安安猛治疗,Shaman,Restoration,healer,Blanchard
+155,282.5,307106420,8,Siege of Boralus,2024-11-14T03:22:46.000Z,1933647,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Klaus,Priest,Shadow,dps,Emeriss
+156,282.5,307607905,8,Siege of Boralus,2024-11-16T23:16:04.000Z,1933774,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尼妹,Priest,Discipline,healer,Rhonin
+156,282.5,307607905,8,Siege of Boralus,2024-11-16T23:16:04.000Z,1933774,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Songhainith,Druid,Balance,dps,Anzu
+156,282.5,307607905,8,Siege of Boralus,2024-11-16T23:16:04.000Z,1933774,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",尢迪庵,Demon Hunter,Vengeance,tank,The Master's Glaive
+156,282.5,307607905,8,Siege of Boralus,2024-11-16T23:16:04.000Z,1933774,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",法神玲珑,Mage,Frost,dps,Anzu
+156,282.5,307607905,8,Siege of Boralus,2024-11-16T23:16:04.000Z,1933774,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",瓦萨比,Paladin,Retribution,dps,Echo Ridge
+157,282.4,293011967,8,Siege of Boralus,2024-09-19T01:17:56.000Z,1937435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灵魂复苏,Warrior,Fury,dps,Chillwind Point
+157,282.4,293011967,8,Siege of Boralus,2024-09-19T01:17:56.000Z,1937435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小海牛,Death Knight,Blood,tank,Blanchard
+157,282.4,293011967,8,Siege of Boralus,2024-09-19T01:17:56.000Z,1937435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Kadu,Shaman,Restoration,healer,Grim Batol
+157,282.4,293011967,8,Siege of Boralus,2024-09-19T01:17:56.000Z,1937435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鸾镜丨朱颜,Death Knight,Frost,dps,Silver Hand
+157,282.4,293011967,8,Siege of Boralus,2024-09-19T01:17:56.000Z,1937435,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",登云路,Paladin,Retribution,dps,Isillien
+158,282.4,308075409,8,Siege of Boralus,2024-11-19T13:44:10.000Z,1938520,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",成果成果,Paladin,Retribution,dps,Arygos
+158,282.4,308075409,8,Siege of Boralus,2024-11-19T13:44:10.000Z,1938520,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Pien,Paladin,Protection,tank,Arygos
+158,282.4,308075409,8,Siege of Boralus,2024-11-19T13:44:10.000Z,1938520,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",皮卡啾,Shaman,Restoration,healer,Arygos
+158,282.4,308075409,8,Siege of Boralus,2024-11-19T13:44:10.000Z,1938520,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",登山家大西,Warrior,Arms,dps,Arygos
+158,282.4,308075409,8,Siege of Boralus,2024-11-19T13:44:10.000Z,1938520,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南梦芽,Evoker,Augmentation,dps,Arygos
+159,282.3,308252385,8,Siege of Boralus,2024-11-20T08:54:48.000Z,1942355,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",血色蔷薇丶,Paladin,Protection,tank,Scarlet Crusade
+159,282.3,308252385,8,Siege of Boralus,2024-11-20T08:54:48.000Z,1942355,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夜雨天天,Warlock,Destruction,dps,The Master's Glaive
+159,282.3,308252385,8,Siege of Boralus,2024-11-20T08:54:48.000Z,1942355,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",瘦驴兽,Hunter,Survival,dps,Scarlet Crusade
+159,282.3,308252385,8,Siege of Boralus,2024-11-20T08:54:48.000Z,1942355,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Long,Priest,Discipline,healer,Hyjal
+159,282.3,308252385,8,Siege of Boralus,2024-11-20T08:54:48.000Z,1942355,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",四夕仙仙贝,Paladin,Retribution,dps,Gadgetzan
+160,281.5,308246528,8,Siege of Boralus,2024-11-20T07:03:13.000Z,1990095,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",幸运小红手,Death Knight,Blood,tank,Frostmane
+160,281.5,308246528,8,Siege of Boralus,2024-11-20T07:03:13.000Z,1990095,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",豆包风暴,Shaman,Restoration,healer,The Great Sea
+160,281.5,308246528,8,Siege of Boralus,2024-11-20T07:03:13.000Z,1990095,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莫纳卡,Paladin,Retribution,dps,Burning Blade
+160,281.5,308246528,8,Siege of Boralus,2024-11-20T07:03:13.000Z,1990095,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",唭咯哢咚呛,Monk,Windwalker,dps,Deathwing
+160,281.5,308246528,8,Siege of Boralus,2024-11-20T07:03:13.000Z,1990095,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",炽热的阿昆达,Mage,Fire,dps,Blanchard
+161,281.4,307307583,8,Siege of Boralus,2024-11-15T12:44:23.000Z,1993518,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",咕咕丶鸽子王,Rogue,Assassination,dps,Chillwind Point
+161,281.4,307307583,8,Siege of Boralus,2024-11-15T12:44:23.000Z,1993518,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小时候比较浪,Hunter,Beast Mastery,dps,Chillwind Point
+161,281.4,307307583,8,Siege of Boralus,2024-11-15T12:44:23.000Z,1993518,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",水瓶座丨沐瑞,Shaman,Elemental,dps,Chillwind Point
+161,281.4,307307583,8,Siege of Boralus,2024-11-15T12:44:23.000Z,1993518,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",世界失眠,Druid,Guardian,tank,Anzu
+161,281.4,307307583,8,Siege of Boralus,2024-11-15T12:44:23.000Z,1993518,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",琴再叹听弦断,Priest,Discipline,healer,Chillwind Point
+162,281.1,307679033,8,Siege of Boralus,2024-11-17T08:37:29.000Z,2012293,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",木咕咕,Druid,Restoration,healer,Silver Hand
+162,281.1,307679033,8,Siege of Boralus,2024-11-17T08:37:29.000Z,2012293,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",暮间雪,Paladin,Protection,tank,Silver Hand
+162,281.1,307679033,8,Siege of Boralus,2024-11-17T08:37:29.000Z,2012293,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小黑人,Shaman,Elemental,dps,The Master's Glaive
+162,281.1,307679033,8,Siege of Boralus,2024-11-17T08:37:29.000Z,2012293,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Clearvison,Hunter,Survival,dps,Silver Hand
+162,281.1,307679033,8,Siege of Boralus,2024-11-17T08:37:29.000Z,2012293,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",三千待涨,Monk,Windwalker,dps,Stratholme
+163,279.3,308090780,7,Siege of Boralus,2024-11-19T16:05:12.000Z,1280751,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灵魂影者,Mage,Frost,dps,Al'ar
+163,279.3,308090780,7,Siege of Boralus,2024-11-19T16:05:12.000Z,1280751,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丷筱乄魂,Death Knight,Unholy,dps,Stonetalon Peak
+163,279.3,308090780,7,Siege of Boralus,2024-11-19T16:05:12.000Z,1280751,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",苏苏洛丶,Shaman,Restoration,healer,Al'ar
+163,279.3,308090780,7,Siege of Boralus,2024-11-19T16:05:12.000Z,1280751,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",疯愠熊拔天下,Warrior,Protection,tank,Rhonin
+163,279.3,308090780,7,Siege of Boralus,2024-11-19T16:05:12.000Z,1280751,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丶奶仔,Paladin,Retribution,dps,Lana'thel
+164,278.6,307506929,7,Siege of Boralus,2024-11-16T14:26:54.000Z,1319264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",别情,Rogue,Assassination,dps,Rhonin
+164,278.6,307506929,7,Siege of Boralus,2024-11-16T14:26:54.000Z,1319264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",三锤一疗程丨,Paladin,Protection,tank,Al'ar
+164,278.6,307506929,7,Siege of Boralus,2024-11-16T14:26:54.000Z,1319264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",于笙丨,Evoker,Preservation,healer,Al'ar
+164,278.6,307506929,7,Siege of Boralus,2024-11-16T14:26:54.000Z,1319264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",琅琊山壮士,Hunter,Beast Mastery,dps,Ysera
+164,278.6,307506929,7,Siege of Boralus,2024-11-16T14:26:54.000Z,1319264,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月光信仰,Paladin,Retribution,dps,Valley of Kings
+165,277,308138700,7,Siege of Boralus,2024-11-19T19:42:06.000Z,1409117,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",原味八宝粥,Mage,Frost,dps,Eldre'Thalas
+165,277,308138700,7,Siege of Boralus,2024-11-19T19:42:06.000Z,1409117,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",丨丶丶,Druid,Guardian,tank,Frostmourne
+165,277,308138700,7,Siege of Boralus,2024-11-19T19:42:06.000Z,1409117,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小烟凌,Paladin,Retribution,dps,Dar'Khan
+165,277,308138700,7,Siege of Boralus,2024-11-19T19:42:06.000Z,1409117,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",给你一嘴锤,Shaman,Restoration,healer,Lich King
+165,277,308138700,7,Siege of Boralus,2024-11-19T19:42:06.000Z,1409117,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",菊花茶丶,Rogue,Assassination,dps,Bleeding Hollow
+166,275.3,307541084,7,Siege of Boralus,2024-11-16T17:52:13.000Z,1501517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",猫侍逆襲,Rogue,Outlaw,dps,Deathwing
+166,275.3,307541084,7,Siege of Boralus,2024-11-16T17:52:13.000Z,1501517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我来组成裆部,Paladin,Protection,tank,Thrall
+166,275.3,307541084,7,Siege of Boralus,2024-11-16T17:52:13.000Z,1501517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",花心术,Warlock,Destruction,dps,River Pride
+166,275.3,307541084,7,Siege of Boralus,2024-11-16T17:52:13.000Z,1501517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",残影无清,Druid,Balance,dps,Marrowgar
+166,275.3,307541084,7,Siege of Boralus,2024-11-16T17:52:13.000Z,1501517,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",苏特丶,Priest,Discipline,healer,Thrall
+167,275.1,307848081,7,Siege of Boralus,2024-11-18T02:01:59.000Z,1513906,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",乄余震,Shaman,Restoration,healer,Anzu
+167,275.1,307848081,7,Siege of Boralus,2024-11-18T02:01:59.000Z,1513906,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+167,275.1,307848081,7,Siege of Boralus,2024-11-18T02:01:59.000Z,1513906,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Ggzz,Demon Hunter,Vengeance,tank,Deathwing
+167,275.1,307848081,7,Siege of Boralus,2024-11-18T02:01:59.000Z,1513906,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",瞎已丨不是虾,Demon Hunter,Havoc,dps,Alexstrasza
+167,275.1,307848081,7,Siege of Boralus,2024-11-18T02:01:59.000Z,1513906,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",锤子裤里丝,Hunter,Survival,dps,Greymane
+168,274.7,307160538,7,Siege of Boralus,2024-11-14T14:28:10.000Z,1534534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",东北野生,Paladin,Retribution,dps,Isillien
+168,274.7,307160538,7,Siege of Boralus,2024-11-14T14:28:10.000Z,1534534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",神马大哥,Druid,Restoration,healer,Dreadmist Peak
+168,274.7,307160538,7,Siege of Boralus,2024-11-14T14:28:10.000Z,1534534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",庞海,Druid,Guardian,tank,Shadowmourne
+168,274.7,307160538,7,Siege of Boralus,2024-11-14T14:28:10.000Z,1534534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",蜉蝣,Warrior,Fury,dps,Ossirian
+168,274.7,307160538,7,Siege of Boralus,2024-11-14T14:28:10.000Z,1534534,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夏花一般绚烂,Paladin,Retribution,dps,Rhonin
+169,272.6,304212536,7,Siege of Boralus,2024-09-25T13:48:03.000Z,1580099,1980999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",奥与火之歌,Mage,Frost,dps,Ravencrest
+169,272.6,304212536,7,Siege of Boralus,2024-09-25T13:48:03.000Z,1580099,1980999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鬼鬼月,Warlock,Destruction,dps,Ravencrest
+169,272.6,304212536,7,Siege of Boralus,2024-09-25T13:48:03.000Z,1580099,1980999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小只萌迪凯,Death Knight,Blood,tank,Ravencrest
+169,272.6,304212536,7,Siege of Boralus,2024-09-25T13:48:03.000Z,1580099,1980999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",龙龙飞,Evoker,Augmentation,dps,Ravencrest
+169,272.6,304212536,7,Siege of Boralus,2024-09-25T13:48:03.000Z,1580099,1980999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",忘了媛,Shaman,Restoration,healer,Well of Eternity
+170,272.6,300296259,7,Siege of Boralus,2024-09-21T03:08:59.000Z,1653143,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",穆图丶科维,Rogue,Assassination,dps,Burning Blade
+170,272.6,300296259,7,Siege of Boralus,2024-09-21T03:08:59.000Z,1653143,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",岚柯伊梦,Warrior,Protection,tank,Burning Blade
+170,272.6,300296259,7,Siege of Boralus,2024-09-21T03:08:59.000Z,1653143,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",银色呀,Warlock,Destruction,dps,The Golden Plains
+170,272.6,300296259,7,Siege of Boralus,2024-09-21T03:08:59.000Z,1653143,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",俄罗斯华侨,Mage,Frost,dps,Blanchard
+170,272.6,300296259,7,Siege of Boralus,2024-09-21T03:08:59.000Z,1653143,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",清晨唱歌的猫,Priest,Discipline,healer,Deathwing
+171,272.2,307712301,7,Siege of Boralus,2024-11-17T13:18:01.000Z,1674295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",青春学园,Druid,Guardian,tank,Flame Crest
+171,272.2,307712301,7,Siege of Boralus,2024-11-17T13:18:01.000Z,1674295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",登山家大西,Warrior,Arms,dps,Arygos
+171,272.2,307712301,7,Siege of Boralus,2024-11-17T13:18:01.000Z,1674295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",因幡爱瑠,Druid,Restoration,healer,Silverpine Forest
+171,272.2,307712301,7,Siege of Boralus,2024-11-17T13:18:01.000Z,1674295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",为爱发电,Demon Hunter,Havoc,dps,Silverpine Forest
+171,272.2,307712301,7,Siege of Boralus,2024-11-17T13:18:01.000Z,1674295,2070999,2,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",幽深不知处,Paladin,Retribution,dps,Arygos
+172,272.2,307463588,7,Siege of Boralus,2024-11-16T07:57:00.000Z,1675585,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",江牧大灬轻狂,Paladin,Retribution,dps,Silverpine Forest
+172,272.2,307463588,7,Siege of Boralus,2024-11-16T07:57:00.000Z,1675585,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",南夢芽,Shaman,Restoration,healer,Arygos
+172,272.2,307463588,7,Siege of Boralus,2024-11-16T07:57:00.000Z,1675585,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Pien,Paladin,Protection,tank,Arygos
+172,272.2,307463588,7,Siege of Boralus,2024-11-16T07:57:00.000Z,1675585,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",皮卡啾,Shaman,Elemental,dps,Arygos
+172,272.2,307463588,7,Siege of Boralus,2024-11-16T07:57:00.000Z,1675585,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",登山家大西,Warrior,Arms,dps,Arygos
+173,271.6,307468296,7,Siege of Boralus,2024-11-16T08:12:33.000Z,1707821,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",伊尔三思,Shaman,Restoration,healer,Deathwing
+173,271.6,307468296,7,Siege of Boralus,2024-11-16T08:12:33.000Z,1707821,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Evilss,Warlock,Destruction,dps,Doomwalker
+173,271.6,307468296,7,Siege of Boralus,2024-11-16T08:12:33.000Z,1707821,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Minuosi,Paladin,Protection,tank,Shadowmourne
+173,271.6,307468296,7,Siege of Boralus,2024-11-16T08:12:33.000Z,1707821,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",驍骑,Paladin,Retribution,dps,Mannoroth
+173,271.6,307468296,7,Siege of Boralus,2024-11-16T08:12:33.000Z,1707821,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Insoience,Hunter,Survival,dps,Ashenvale
+174,271.6,307155835,7,Siege of Boralus,2024-11-14T13:45:00.000Z,1709116,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",持剑人,Paladin,Protection,tank,Doomwalker
+174,271.6,307155835,7,Siege of Boralus,2024-11-14T13:45:00.000Z,1709116,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",德州大牛鼻,Paladin,Retribution,dps,Isillien
+174,271.6,307155835,7,Siege of Boralus,2024-11-14T13:45:00.000Z,1709116,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",队长我有心事,Evoker,Augmentation,dps,Deathwing
+174,271.6,307155835,7,Siege of Boralus,2024-11-14T13:45:00.000Z,1709116,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",柠檬怪一天,Priest,Discipline,healer,Swiftwind
+174,271.6,307155835,7,Siege of Boralus,2024-11-14T13:45:00.000Z,1709116,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",客官丶奶来了,Shaman,Enhancement,dps,Deathwing
+175,270.9,307674169,7,Siege of Boralus,2024-11-17T07:39:26.000Z,1745851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白色奶萨,Priest,Discipline,healer,Burning Blade
+175,270.9,307674169,7,Siege of Boralus,2024-11-17T07:39:26.000Z,1745851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+175,270.9,307674169,7,Siege of Boralus,2024-11-17T07:39:26.000Z,1745851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",大号脚皮,Paladin,Retribution,dps,Grim Batol
+175,270.9,307674169,7,Siege of Boralus,2024-11-17T07:39:26.000Z,1745851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",佳洁士小答应,Death Knight,Blood,tank,Grim Batol
+175,270.9,307674169,7,Siege of Boralus,2024-11-17T07:39:26.000Z,1745851,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",甄灬,Death Knight,Frost,dps,Grim Batol
+176,270.8,307556447,7,Siege of Boralus,2024-11-16T19:08:28.000Z,1748324,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",君澜,Paladin,Retribution,dps,Blanchard
+176,270.8,307556447,7,Siege of Boralus,2024-11-16T19:08:28.000Z,1748324,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",牛海不长,Paladin,Protection,tank,Deathwhisper
+176,270.8,307556447,7,Siege of Boralus,2024-11-16T19:08:28.000Z,1748324,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",禽流感,Warlock,Destruction,dps,Abyssal Depths
+176,270.8,307556447,7,Siege of Boralus,2024-11-16T19:08:28.000Z,1748324,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Flint,Hunter,Beast Mastery,dps,The Master's Glaive
+176,270.8,307556447,7,Siege of Boralus,2024-11-16T19:08:28.000Z,1748324,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",鸭脖小龍女,Monk,Mistweaver,healer,Chillwind Point
+177,270.7,308071043,7,Siege of Boralus,2024-11-19T13:08:05.000Z,1756212,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",冬熊夏猪,Paladin,Protection,tank,Al'ar
+177,270.7,308071043,7,Siege of Boralus,2024-11-19T13:08:05.000Z,1756212,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",麻辣白开水,Priest,Discipline,healer,Algalon
+177,270.7,308071043,7,Siege of Boralus,2024-11-19T13:08:05.000Z,1756212,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",福老二,Hunter,Survival,dps,Al'ar
+177,270.7,308071043,7,Siege of Boralus,2024-11-19T13:08:05.000Z,1756212,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",达盖尔的旗帜,Druid,Balance,dps,Gorefiend
+177,270.7,308071043,7,Siege of Boralus,2024-11-19T13:08:05.000Z,1756212,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",戎叞诫,Paladin,Retribution,dps,Pandaren
+178,270.5,293816333,7,Siege of Boralus,2024-09-21T12:21:44.000Z,1766030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",嗲灬筱寳,Mage,Arcane,dps,The Master's Glaive
+178,270.5,293816333,7,Siege of Boralus,2024-09-21T12:21:44.000Z,1766030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Sepala,Paladin,Protection,tank,Isillien
+178,270.5,293816333,7,Siege of Boralus,2024-09-21T12:21:44.000Z,1766030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Madforg,Death Knight,Unholy,dps,Burning Blade
+178,270.5,293816333,7,Siege of Boralus,2024-09-21T12:21:44.000Z,1766030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",罗恩小德,Druid,Restoration,healer,Echo Ridge
+178,270.5,293816333,7,Siege of Boralus,2024-09-21T12:21:44.000Z,1766030,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",冬离丶,Paladin,Retribution,dps,Al'ar
+179,270.3,293846544,7,Siege of Boralus,2024-09-21T13:52:40.000Z,1775930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Cpatainuc,Demon Hunter,Vengeance,tank,Doomwalker
+179,270.3,293846544,7,Siege of Boralus,2024-09-21T13:52:40.000Z,1775930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Suzuzuz,Mage,Frost,dps,Al'ar
+179,270.3,293846544,7,Siege of Boralus,2024-09-21T13:52:40.000Z,1775930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",殇魂归去,Demon Hunter,Havoc,dps,Deathwhisper
+179,270.3,293846544,7,Siege of Boralus,2024-09-21T13:52:40.000Z,1775930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",秦始皇二一四,Shaman,Restoration,healer,Hyjal
+179,270.3,293846544,7,Siege of Boralus,2024-09-21T13:52:40.000Z,1775930,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",燃烧地心,Death Knight,Frost,dps,Al'ar
+180,270.1,300295701,7,Siege of Boralus,2024-09-21T04:21:03.000Z,1788605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",傻幽,Mage,Arcane,dps,Dreadmist Peak
+180,270.1,300295701,7,Siege of Boralus,2024-09-21T04:21:03.000Z,1788605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",根桑,Warrior,Fury,dps,Barrens
+180,270.1,300295701,7,Siege of Boralus,2024-09-21T04:21:03.000Z,1788605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Aram,Rogue,Assassination,dps,Barrens
+180,270.1,300295701,7,Siege of Boralus,2024-09-21T04:21:03.000Z,1788605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",西瓜超人,Death Knight,Blood,tank,Barrens
+180,270.1,300295701,7,Siege of Boralus,2024-09-21T04:21:03.000Z,1788605,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",我会喵喵拳,Monk,Mistweaver,healer,Barrens
+181,268.3,295095635,7,Siege of Boralus,2024-09-25T02:01:13.000Z,1888482,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Justicerr,Hunter,Marksmanship,dps,Shadowmourne
+181,268.3,295095635,7,Siege of Boralus,2024-09-25T02:01:13.000Z,1888482,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Ersticktp,Mage,Frost,dps,Scarlet Crusade
+181,268.3,295095635,7,Siege of Boralus,2024-09-25T02:01:13.000Z,1888482,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",德不配位鹰,Shaman,Restoration,healer,Silver Hand
+181,268.3,295095635,7,Siege of Boralus,2024-09-25T02:01:13.000Z,1888482,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",贼娃孑,Rogue,Assassination,dps,Deathwing
+181,268.3,295095635,7,Siege of Boralus,2024-09-25T02:01:13.000Z,1888482,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",以怨报德鹰弟,Druid,Guardian,tank,Silver Hand
+182,268.2,300297138,7,Siege of Boralus,2024-09-25T07:18:27.000Z,1892809,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",胖奍奍,Evoker,Augmentation,dps,Al'ar
+182,268.2,300297138,7,Siege of Boralus,2024-09-25T07:18:27.000Z,1892809,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Hoyomaster,Druid,Guardian,tank,Silver Hand
+182,268.2,300297138,7,Siege of Boralus,2024-09-25T07:18:27.000Z,1892809,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",羊羊爱吃鱼,Druid,Balance,dps,Silver Hand
+182,268.2,300297138,7,Siege of Boralus,2024-09-25T07:18:27.000Z,1892809,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",充气吞吞,Warrior,Fury,dps,Rhonin
+182,268.2,300297138,7,Siege of Boralus,2024-09-25T07:18:27.000Z,1892809,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",胖嗨嗨,Shaman,Restoration,healer,Al'ar
+183,267.9,307842493,7,Siege of Boralus,2024-11-18T01:10:24.000Z,1908903,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Dresdens,Shaman,Enhancement,dps,Echo Ridge
+183,267.9,307842493,7,Siege of Boralus,2024-11-18T01:10:24.000Z,1908903,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",芝士雪豹,Shaman,Restoration,healer,Astalor
+183,267.9,307842493,7,Siege of Boralus,2024-11-18T01:10:24.000Z,1908903,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",魔鬼钅肉人,Death Knight,Blood,tank,Al'ar
+183,267.9,307842493,7,Siege of Boralus,2024-11-18T01:10:24.000Z,1908903,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黑阎,Death Knight,Frost,dps,Thrall
+183,267.9,307842493,7,Siege of Boralus,2024-11-18T01:10:24.000Z,1908903,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",無枫,Death Knight,Frost,dps,Zul'Aman
+184,267.8,294154248,7,Siege of Boralus,2024-09-22T10:12:31.000Z,1915857,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",夏氏情歌,Death Knight,Frost,dps,The Great Sea
+184,267.8,294154248,7,Siege of Boralus,2024-09-22T10:12:31.000Z,1915857,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",瑾然,Demon Hunter,Vengeance,tank,Frostmourne
+184,267.8,294154248,7,Siege of Boralus,2024-09-22T10:12:31.000Z,1915857,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",没有打断丶,Shaman,Restoration,healer,The Great Sea
+184,267.8,294154248,7,Siege of Boralus,2024-09-22T10:12:31.000Z,1915857,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",灵犀丶,Warlock,Affliction,dps,The Great Sea
+184,267.8,294154248,7,Siege of Boralus,2024-09-22T10:12:31.000Z,1915857,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",小小别扇,Evoker,Augmentation,dps,The Great Sea
+185,267.6,293120690,7,Siege of Boralus,2024-09-19T09:10:37.000Z,1927282,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",琉萤,Demon Hunter,Vengeance,tank,Rhonin
+185,267.6,293120690,7,Siege of Boralus,2024-09-19T09:10:37.000Z,1927282,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+185,267.6,293120690,7,Siege of Boralus,2024-09-19T09:10:37.000Z,1927282,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",莫米,Death Knight,Frost,dps,Burning Blade
+185,267.6,293120690,7,Siege of Boralus,2024-09-19T09:10:37.000Z,1927282,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",強盗,Rogue,Assassination,dps,Thunderaan
+185,267.6,293120690,7,Siege of Boralus,2024-09-19T09:10:37.000Z,1927282,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",单偷任何钱,Druid,Restoration,healer,Silver Hand
+186,267.5,294298936,7,Siege of Boralus,2024-09-22T20:38:03.000Z,1932528,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Reezy,Shaman,Elemental,dps,Deathwing
+186,267.5,294298936,7,Siege of Boralus,2024-09-22T20:38:03.000Z,1932528,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",爱吃包菜饼干,Priest,Discipline,healer,The Great Sea
+186,267.5,294298936,7,Siege of Boralus,2024-09-22T20:38:03.000Z,1932528,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白柏,Druid,Guardian,tank,Swiftwind
+186,267.5,294298936,7,Siege of Boralus,2024-09-22T20:38:03.000Z,1932528,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",流光浅,Demon Hunter,Havoc,dps,Anzu
+186,267.5,294298936,7,Siege of Boralus,2024-09-22T20:38:03.000Z,1932528,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",澜末,Mage,Frost,dps,Anachronos
+187,267.3,307174041,7,Siege of Boralus,2024-11-14T16:26:28.000Z,1942042,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",西蒙海耶,Hunter,Survival,dps,Dustbelcher
+187,267.3,307174041,7,Siege of Boralus,2024-11-14T16:26:28.000Z,1942042,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",圣十三,Paladin,Protection,tank,Dustbelcher
+187,267.3,307174041,7,Siege of Boralus,2024-11-14T16:26:28.000Z,1942042,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",易氏灬聖騎,Paladin,Retribution,dps,Dustbelcher
+187,267.3,307174041,7,Siege of Boralus,2024-11-14T16:26:28.000Z,1942042,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",猫不会表白,Druid,Restoration,healer,Deathwing
+187,267.3,307174041,7,Siege of Boralus,2024-11-14T16:26:28.000Z,1942042,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",清欢渡,Shaman,Elemental,dps,Dustbelcher
+188,266.8,294141363,7,Siege of Boralus,2024-09-22T08:54:08.000Z,1971969,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",冠东,Warrior,Protection,tank,Valley of Kings
+188,266.8,294141363,7,Siege of Boralus,2024-09-22T08:54:08.000Z,1971969,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",超越天堂丶,Demon Hunter,Havoc,dps,Silver Hand
+188,266.8,294141363,7,Siege of Boralus,2024-09-22T08:54:08.000Z,1971969,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",光铸蟹皇堡,Paladin,Retribution,dps,Silver Hand
+188,266.8,294141363,7,Siege of Boralus,2024-09-22T08:54:08.000Z,1971969,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",黃粱,Rogue,Assassination,dps,Silver Hand
+188,266.8,294141363,7,Siege of Boralus,2024-09-22T08:54:08.000Z,1971969,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",Orias,Shaman,Restoration,healer,The Great Sea
+189,266,302276400,7,Siege of Boralus,2024-09-23T13:51:27.000Z,2018216,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",孤月残心,Death Knight,Unholy,dps,Magtheridon
+189,266,302276400,7,Siege of Boralus,2024-09-23T13:51:27.000Z,2018216,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",墨染流年,Shaman,Elemental,dps,Eldre'Thalas
+189,266,302276400,7,Siege of Boralus,2024-09-23T13:51:27.000Z,2018216,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+189,266,302276400,7,Siege of Boralus,2024-09-23T13:51:27.000Z,2018216,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",叶知夏同学,Paladin,Holy,healer,Well of Eternity
+189,266,302276400,7,Siege of Boralus,2024-09-23T13:51:27.000Z,2018216,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",白洁老师,Paladin,Retribution,dps,Well of Eternity
+190,265,296994991,7,Siege of Boralus,2024-09-24T16:42:46.000Z,2069373,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",懒龙露娜,Evoker,Augmentation,dps,Chillwind Point
+190,265,296994991,7,Siege of Boralus,2024-09-24T16:42:46.000Z,2069373,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",朱空空,Death Knight,Frost,dps,Grim Batol
+190,265,296994991,7,Siege of Boralus,2024-09-24T16:42:46.000Z,2069373,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",贼乄漂亮,Rogue,Assassination,dps,The Master's Glaive
+190,265,296994991,7,Siege of Boralus,2024-09-24T16:42:46.000Z,2069373,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",月不予,Shaman,Restoration,healer,The Master's Glaive
+190,265,296994991,7,Siege of Boralus,2024-09-24T16:42:46.000Z,2069373,2070999,1,"Xal'atath's Bargain: Ascendant, Tyrannical, Challenger's Peril",下班了,Death Knight,Blood,tank,Chillwind Point

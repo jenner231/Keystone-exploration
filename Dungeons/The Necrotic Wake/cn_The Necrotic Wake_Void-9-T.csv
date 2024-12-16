@@ -1,0 +1,526 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,310,298421083,9,The Necrotic Wake,2024-10-07T15:54:07.000Z,984866,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狂小昂,Demon Hunter,Havoc,dps,The Great Sea
+1,310,298421083,9,The Necrotic Wake,2024-10-07T15:54:07.000Z,984866,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",口人鬼七夜,Warrior,Protection,tank,Shadowmourne
+1,310,298421083,9,The Necrotic Wake,2024-10-07T15:54:07.000Z,984866,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雪丷,Death Knight,Frost,dps,Shadowmourne
+1,310,298421083,9,The Necrotic Wake,2024-10-07T15:54:07.000Z,984866,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小心月亮,Rogue,Assassination,dps,Shadowmourne
+1,310,298421083,9,The Necrotic Wake,2024-10-07T15:54:07.000Z,984866,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宸音丶丶,Shaman,Restoration,healer,Scarlet Crusade
+2,310,298819717,9,The Necrotic Wake,2024-10-09T06:01:45.000Z,1121837,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Lhthy,Shaman,Restoration,healer,Burning Blade
+2,310,298819717,9,The Necrotic Wake,2024-10-09T06:01:45.000Z,1121837,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",發財,Mage,Fire,dps,Rhonin
+2,310,298819717,9,The Necrotic Wake,2024-10-09T06:01:45.000Z,1121837,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你的彦祖,Death Knight,Frost,dps,Rhonin
+2,310,298819717,9,The Necrotic Wake,2024-10-09T06:01:45.000Z,1121837,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bananaovo,Demon Hunter,Vengeance,tank,Shadowmourne
+2,310,298819717,9,The Necrotic Wake,2024-10-09T06:01:45.000Z,1121837,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",乌贼长翅膀啦,Evoker,Augmentation,dps,Anzu
+3,310,296967472,9,The Necrotic Wake,2024-10-03T14:39:09.000Z,1157124,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",别打牛牛,Druid,Guardian,tank,Deathwing
+3,310,296967472,9,The Necrotic Wake,2024-10-03T14:39:09.000Z,1157124,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",偷吃麦当劳,Warrior,Fury,dps,Lich King
+3,310,296967472,9,The Necrotic Wake,2024-10-03T14:39:09.000Z,1157124,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Merfillu,Paladin,Retribution,dps,Deathwing
+3,310,296967472,9,The Necrotic Wake,2024-10-03T14:39:09.000Z,1157124,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萨萨水,Shaman,Restoration,healer,Lich King
+3,310,296967472,9,The Necrotic Wake,2024-10-03T14:39:09.000Z,1157124,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",无敌牛牛大王,Death Knight,Frost,dps,Lich King
+4,307.6,297608197,9,The Necrotic Wake,2024-10-04T13:51:49.000Z,1294017,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",深结,Shaman,Restoration,healer,Anzu
+4,307.6,297608197,9,The Necrotic Wake,2024-10-04T13:51:49.000Z,1294017,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天才北极星,Rogue,Assassination,dps,The Master's Glaive
+4,307.6,297608197,9,The Necrotic Wake,2024-10-04T13:51:49.000Z,1294017,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我爱汉堡王,Warrior,Protection,tank,Silver Hand
+4,307.6,297608197,9,The Necrotic Wake,2024-10-04T13:51:49.000Z,1294017,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",康康来栽,Death Knight,Frost,dps,Silver Hand
+4,307.6,297608197,9,The Necrotic Wake,2024-10-04T13:51:49.000Z,1294017,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑椒牛牛,Paladin,Retribution,dps,Grim Batol
+5,307.5,298244630,9,The Necrotic Wake,2024-10-06T19:02:41.000Z,1298205,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你好牛哦,Demon Hunter,Vengeance,tank,Chillwind Point
+5,307.5,298244630,9,The Necrotic Wake,2024-10-06T19:02:41.000Z,1298205,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蓝瓜瓜,Shaman,Restoration,healer,The Forgotten Coast
+5,307.5,298244630,9,The Necrotic Wake,2024-10-06T19:02:41.000Z,1298205,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",安达妮娅,Evoker,Augmentation,dps,Shadowmourne
+5,307.5,298244630,9,The Necrotic Wake,2024-10-06T19:02:41.000Z,1298205,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Mariatheresa,Death Knight,Unholy,dps,Zealot Blade
+5,307.5,298244630,9,The Necrotic Wake,2024-10-06T19:02:41.000Z,1298205,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我总有理由,Rogue,Assassination,dps,Deathwing
+6,307.5,309497483,9,The Necrotic Wake,2024-11-28T13:28:05.000Z,1302915,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",吸鸽鸽,Priest,Discipline,healer,Burning Blade
+6,307.5,309497483,9,The Necrotic Wake,2024-11-28T13:28:05.000Z,1302915,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Masakiqaq,Hunter,Survival,dps,Burning Blade
+6,307.5,309497483,9,The Necrotic Wake,2024-11-28T13:28:05.000Z,1302915,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶肉蛋充饥,Demon Hunter,Vengeance,tank,Deathwing
+6,307.5,309497483,9,The Necrotic Wake,2024-11-28T13:28:05.000Z,1302915,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",顾教授,Paladin,Retribution,dps,Rhonin
+6,307.5,309497483,9,The Necrotic Wake,2024-11-28T13:28:05.000Z,1302915,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bahamut,Evoker,Devastation,dps,The Mechanar
+7,307.4,297859432,9,The Necrotic Wake,2024-10-05T12:51:06.000Z,1306767,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",紫夜残魂丶,Warlock,Affliction,dps,Galakrond
+7,307.4,297859432,9,The Necrotic Wake,2024-10-05T12:51:06.000Z,1306767,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萌萌丶兔,Mage,Frost,dps,Eldre'Thalas
+7,307.4,297859432,9,The Necrotic Wake,2024-10-05T12:51:06.000Z,1306767,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Naruasm,Shaman,Restoration,healer,Isillien
+7,307.4,297859432,9,The Necrotic Wake,2024-10-05T12:51:06.000Z,1306767,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鲨鱼愛吃辣椒,Death Knight,Frost,dps,The Master's Glaive
+7,307.4,297859432,9,The Necrotic Wake,2024-10-05T12:51:06.000Z,1306767,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",不见铁牛,Demon Hunter,Vengeance,tank,Blanchard
+8,307.3,297584981,9,The Necrotic Wake,2024-10-04T10:26:36.000Z,1308800,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十有九悲,Druid,Guardian,tank,Al'ar
+8,307.3,297584981,9,The Necrotic Wake,2024-10-04T10:26:36.000Z,1308800,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Wlldruid,Druid,Balance,dps,Al'ar
+8,307.3,297584981,9,The Necrotic Wake,2024-10-04T10:26:36.000Z,1308800,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",野火炸蛋,Shaman,Restoration,healer,Frostmourne
+8,307.3,297584981,9,The Necrotic Wake,2024-10-04T10:26:36.000Z,1308800,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十百千万,Death Knight,Frost,dps,Al'ar
+8,307.3,297584981,9,The Necrotic Wake,2024-10-04T10:26:36.000Z,1308800,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Drogoness,Evoker,Augmentation,dps,Al'ar
+9,306.9,297586139,9,The Necrotic Wake,2024-10-04T10:52:46.000Z,1334377,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小小布小布,Priest,Discipline,healer,Silver Hand
+9,306.9,297586139,9,The Necrotic Wake,2024-10-04T10:52:46.000Z,1334377,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶渔火,Demon Hunter,Vengeance,tank,The Golden Plains
+9,306.9,297586139,9,The Necrotic Wake,2024-10-04T10:52:46.000Z,1334377,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅草寺小狮子,Shaman,Elemental,dps,The Master's Glaive
+9,306.9,297586139,9,The Necrotic Wake,2024-10-04T10:52:46.000Z,1334377,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灬秀儿灬,Death Knight,Unholy,dps,Ravencrest
+9,306.9,297586139,9,The Necrotic Wake,2024-10-04T10:52:46.000Z,1334377,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",温柔小小,Paladin,Retribution,dps,Grim Batol
+10,306.8,298804144,9,The Necrotic Wake,2024-10-09T03:56:40.000Z,1334985,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",誘人的煎牛排,Rogue,Assassination,dps,Deathwing
+10,306.8,298804144,9,The Necrotic Wake,2024-10-09T03:56:40.000Z,1334985,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",亖阶堂千鸟,Druid,Guardian,tank,Anzu
+10,306.8,298804144,9,The Necrotic Wake,2024-10-09T03:56:40.000Z,1334985,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶七二七丶,Shaman,Restoration,healer,Anzu
+10,306.8,298804144,9,The Necrotic Wake,2024-10-09T03:56:40.000Z,1334985,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨刘先生乄,Warlock,Destruction,dps,Anzu
+10,306.8,298804144,9,The Necrotic Wake,2024-10-09T03:56:40.000Z,1334985,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",扬丶,Mage,Frost,dps,Rhonin
+11,306.7,297591824,9,The Necrotic Wake,2024-10-04T11:46:42.000Z,1343240,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",菩萨蛮蛮,Shaman,Restoration,healer,Rhonin
+11,306.7,297591824,9,The Necrotic Wake,2024-10-04T11:46:42.000Z,1343240,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",白夜丶喵,Hunter,Survival,dps,Rhonin
+11,306.7,297591824,9,The Necrotic Wake,2024-10-04T11:46:42.000Z,1343240,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月照棠未眠,Paladin,Retribution,dps,Silver Hand
+11,306.7,297591824,9,The Necrotic Wake,2024-10-04T11:46:42.000Z,1343240,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶大表哥,Demon Hunter,Vengeance,tank,Isillien
+11,306.7,297591824,9,The Necrotic Wake,2024-10-04T11:46:42.000Z,1343240,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",步坦协同迂回,Evoker,Augmentation,dps,Isillien
+12,306.5,298494646,9,The Necrotic Wake,2024-10-07T20:01:24.000Z,1350160,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bloodcookie,Death Knight,Blood,tank,Echo Ridge
+12,306.5,298494646,9,The Necrotic Wake,2024-10-07T20:01:24.000Z,1350160,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",零荭蝶,Shaman,Restoration,healer,Valley of Kings
+12,306.5,298494646,9,The Necrotic Wake,2024-10-07T20:01:24.000Z,1350160,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小猪宝,Warlock,Affliction,dps,Holy Chanter
+12,306.5,298494646,9,The Necrotic Wake,2024-10-07T20:01:24.000Z,1350160,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",这下坏了,Rogue,Outlaw,dps,Silver Hand
+12,306.5,298494646,9,The Necrotic Wake,2024-10-07T20:01:24.000Z,1350160,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",欲速则不达,Paladin,Retribution,dps,Al'ar
+13,306.5,298135715,9,The Necrotic Wake,2024-10-06T11:43:10.000Z,1350314,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",闪电松鼠儿,Shaman,Elemental,dps,Scarlet Crusade
+13,306.5,298135715,9,The Necrotic Wake,2024-10-06T11:43:10.000Z,1350314,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",牢大,Warrior,Protection,tank,Grim Batol
+13,306.5,298135715,9,The Necrotic Wake,2024-10-06T11:43:10.000Z,1350314,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",朱雀元素之锤,Shaman,Restoration,healer,Deathwing
+13,306.5,298135715,9,The Necrotic Wake,2024-10-06T11:43:10.000Z,1350314,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",次元行者,Shaman,Elemental,dps,Nozdormu
+13,306.5,298135715,9,The Necrotic Wake,2024-10-06T11:43:10.000Z,1350314,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",有马加奈,Paladin,Retribution,dps,Silver Hand
+14,306.5,309508107,9,The Necrotic Wake,2024-11-28T15:28:04.000Z,1355117,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",时梦,Paladin,Retribution,dps,Illidan
+14,306.5,309508107,9,The Necrotic Wake,2024-11-28T15:28:04.000Z,1355117,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",明日余辉,Warrior,Protection,tank,Al'ar
+14,306.5,309508107,9,The Necrotic Wake,2024-11-28T15:28:04.000Z,1355117,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",豪力,Warrior,Arms,dps,Frostmane
+14,306.5,309508107,9,The Necrotic Wake,2024-11-28T15:28:04.000Z,1355117,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",幻奏雲歌,Shaman,Restoration,healer,Anzu
+14,306.5,309508107,9,The Necrotic Wake,2024-11-28T15:28:04.000Z,1355117,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",呦嘿嘿嘻嘻,Warlock,Destruction,dps,Chillwind Point
+15,306.4,297653226,9,The Necrotic Wake,2024-10-04T17:58:07.000Z,1359127,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",啸男蝴,Paladin,Retribution,dps,Quel'Thalas
+15,306.4,297653226,9,The Necrotic Wake,2024-10-04T17:58:07.000Z,1359127,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",光嘟吃薯条,Shaman,Restoration,healer,Grim Batol
+15,306.4,297653226,9,The Necrotic Wake,2024-10-04T17:58:07.000Z,1359127,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sepala,Paladin,Protection,tank,Isillien
+15,306.4,297653226,9,The Necrotic Wake,2024-10-04T17:58:07.000Z,1359127,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",那个墓师,Shaman,Elemental,dps,Argus
+15,306.4,297653226,9,The Necrotic Wake,2024-10-04T17:58:07.000Z,1359127,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",清洛,Mage,Fire,dps,Gorehowl
+16,306.1,300296915,9,The Necrotic Wake,2024-10-06T16:26:52.000Z,1373495,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Yavuz,Druid,Balance,dps,Burning Blade
+16,306.1,300296915,9,The Necrotic Wake,2024-10-06T16:26:52.000Z,1373495,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Faitchaleur,Priest,Discipline,healer,Isillien
+16,306.1,300296915,9,The Necrotic Wake,2024-10-06T16:26:52.000Z,1373495,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶将息,Warrior,Protection,tank,Shadowmourne
+16,306.1,300296915,9,The Necrotic Wake,2024-10-06T16:26:52.000Z,1373495,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",能能豆豆,Death Knight,Frost,dps,Burning Blade
+16,306.1,300296915,9,The Necrotic Wake,2024-10-06T16:26:52.000Z,1373495,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大触生,Death Knight,Frost,dps,Scarlet Crusade
+17,306,297387063,9,The Necrotic Wake,2024-10-03T14:44:14.000Z,1376451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",咕叽乌冬,Priest,Discipline,healer,Deathwing
+17,306,297387063,9,The Necrotic Wake,2024-10-03T14:44:14.000Z,1376451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",橙龙快婿,Evoker,Augmentation,dps,Deathwing
+17,306,297387063,9,The Necrotic Wake,2024-10-03T14:44:14.000Z,1376451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冥乄夜,Demon Hunter,Vengeance,tank,Deathwing
+17,306,297387063,9,The Necrotic Wake,2024-10-03T14:44:14.000Z,1376451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超级鲨鱼辣椒,Warlock,Destruction,dps,Deathwing
+17,306,297387063,9,The Necrotic Wake,2024-10-03T14:44:14.000Z,1376451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",开心超雄,Rogue,Assassination,dps,Deathwing
+18,306,297344069,9,The Necrotic Wake,2024-10-03T08:11:40.000Z,1380960,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",睡叔叔,Rogue,Assassination,dps,Silver Hand
+18,306,297344069,9,The Necrotic Wake,2024-10-03T08:11:40.000Z,1380960,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超级丨马里奥,Demon Hunter,Vengeance,tank,Scarlet Crusade
+18,306,297344069,9,The Necrotic Wake,2024-10-03T08:11:40.000Z,1380960,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",真气啵啵,Monk,Windwalker,dps,Burning Blade
+18,306,297344069,9,The Necrotic Wake,2024-10-03T08:11:40.000Z,1380960,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胖熊圣光,Paladin,Retribution,dps,Burning Blade
+18,306,297344069,9,The Necrotic Wake,2024-10-03T08:11:40.000Z,1380960,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sunssm,Shaman,Restoration,healer,Scarlet Crusade
+19,305.5,297611745,9,The Necrotic Wake,2024-10-04T15:07:27.000Z,1405825,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",玮之戦龍,Warrior,Fury,dps,Al'ar
+19,305.5,297611745,9,The Necrotic Wake,2024-10-04T15:07:27.000Z,1405825,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",伤感獭也,Druid,Guardian,tank,Al'ar
+19,305.5,297611745,9,The Necrotic Wake,2024-10-04T15:07:27.000Z,1405825,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",零分,Paladin,Retribution,dps,Fenris
+19,305.5,297611745,9,The Necrotic Wake,2024-10-04T15:07:27.000Z,1405825,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Erorlvrnfd,Evoker,Augmentation,dps,Al'ar
+19,305.5,297611745,9,The Necrotic Wake,2024-10-04T15:07:27.000Z,1405825,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",喜拿,Shaman,Restoration,healer,Chillwind Point
+20,305.2,298243700,9,The Necrotic Wake,2024-10-06T18:12:37.000Z,1422540,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Fume,Demon Hunter,Vengeance,tank,Al'ar
+20,305.2,298243700,9,The Necrotic Wake,2024-10-06T18:12:37.000Z,1422540,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",塔瑞艾莉,Warlock,Demonology,dps,Grim Batol
+20,305.2,298243700,9,The Necrotic Wake,2024-10-06T18:12:37.000Z,1422540,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",醉澜,Priest,Discipline,healer,Grim Batol
+20,305.2,298243700,9,The Necrotic Wake,2024-10-06T18:12:37.000Z,1422540,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天阳至宁,Shaman,Enhancement,dps,Grim Batol
+20,305.2,298243700,9,The Necrotic Wake,2024-10-06T18:12:37.000Z,1422540,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",爱空想的林洛,Rogue,Assassination,dps,Grim Batol
+21,305.1,297559845,9,The Necrotic Wake,2024-10-04T09:27:24.000Z,1425071,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",赵文姗,Mage,Arcane,dps,Burning Blade
+21,305.1,297559845,9,The Necrotic Wake,2024-10-04T09:27:24.000Z,1425071,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",初音未来丶,Hunter,Marksmanship,dps,Burning Blade
+21,305.1,297559845,9,The Necrotic Wake,2024-10-04T09:27:24.000Z,1425071,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",卡德伊哔,Death Knight,Blood,tank,Burning Blade
+21,305.1,297559845,9,The Necrotic Wake,2024-10-04T09:27:24.000Z,1425071,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Lovelss,Death Knight,Frost,dps,Thrall
+21,305.1,297559845,9,The Necrotic Wake,2024-10-04T09:27:24.000Z,1425071,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",减伤交过了,Monk,Mistweaver,healer,Thrall
+22,304.5,298392913,9,The Necrotic Wake,2024-10-07T08:11:46.000Z,1454905,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",詹尼丶,Hunter,Marksmanship,dps,Windrunner
+22,304.5,298392913,9,The Necrotic Wake,2024-10-07T08:11:46.000Z,1454905,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",霓虹丶甜心,Druid,Guardian,tank,Barrens
+22,304.5,298392913,9,The Necrotic Wake,2024-10-07T08:11:46.000Z,1454905,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶乃琳,Paladin,Retribution,dps,Deathwing
+22,304.5,298392913,9,The Necrotic Wake,2024-10-07T08:11:46.000Z,1454905,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",六个总,Shaman,Restoration,healer,Al'ar
+22,304.5,298392913,9,The Necrotic Wake,2024-10-07T08:11:46.000Z,1454905,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你被点名了,Death Knight,Frost,dps,Deathwing
+23,304.5,297798611,9,The Necrotic Wake,2024-10-05T05:41:50.000Z,1458151,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Antimagee,Demon Hunter,Vengeance,tank,The Master's Glaive
+23,304.5,297798611,9,The Necrotic Wake,2024-10-05T05:41:50.000Z,1458151,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",深结,Shaman,Restoration,healer,Anzu
+23,304.5,297798611,9,The Necrotic Wake,2024-10-05T05:41:50.000Z,1458151,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天才北极星,Rogue,Assassination,dps,The Master's Glaive
+23,304.5,297798611,9,The Necrotic Wake,2024-10-05T05:41:50.000Z,1458151,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Tuuhudk,Death Knight,Frost,dps,Silver Hand
+23,304.5,297798611,9,The Necrotic Wake,2024-10-05T05:41:50.000Z,1458151,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",康康来栽,Death Knight,Frost,dps,Silver Hand
+24,304.5,297931886,9,The Necrotic Wake,2024-10-05T17:58:48.000Z,1458894,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",甄哥仙子,Demon Hunter,Vengeance,tank,The Great Sea
+24,304.5,297931886,9,The Necrotic Wake,2024-10-05T17:58:48.000Z,1458894,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蜜桃丷,Mage,Fire,dps,Al'ar
+24,304.5,297931886,9,The Necrotic Wake,2024-10-05T17:58:48.000Z,1458894,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Stylesme,Demon Hunter,Havoc,dps,Deathwing
+24,304.5,297931886,9,The Necrotic Wake,2024-10-05T17:58:48.000Z,1458894,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bomi,Death Knight,Unholy,dps,Swiftwind
+24,304.5,297931886,9,The Necrotic Wake,2024-10-05T17:58:48.000Z,1458894,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",镜鉴周刊,Shaman,Restoration,healer,Anzu
+25,304.2,298167853,9,The Necrotic Wake,2024-10-06T14:31:16.000Z,1470816,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Bigxxshow,Rogue,Assassination,dps,Al'ar
+25,304.2,298167853,9,The Necrotic Wake,2024-10-06T14:31:16.000Z,1470816,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",芋泥丶啵啵,Shaman,Restoration,healer,Blanchard
+25,304.2,298167853,9,The Necrotic Wake,2024-10-06T14:31:16.000Z,1470816,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",花裤衩的荣耀,Paladin,Retribution,dps,Silver Hand
+25,304.2,298167853,9,The Necrotic Wake,2024-10-06T14:31:16.000Z,1470816,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你家有剩饭吗,Death Knight,Frost,dps,Deathwing
+25,304.2,298167853,9,The Necrotic Wake,2024-10-06T14:31:16.000Z,1470816,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",香辣咸鱼久,Warrior,Protection,tank,Isillien
+26,304.2,298417972,9,The Necrotic Wake,2024-10-07T12:42:37.000Z,1473950,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",愿君如月,Demon Hunter,Vengeance,tank,Anzu
+26,304.2,298417972,9,The Necrotic Wake,2024-10-07T12:42:37.000Z,1473950,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",艾莎云鸽,Shaman,Restoration,healer,Anzu
+26,304.2,298417972,9,The Necrotic Wake,2024-10-07T12:42:37.000Z,1473950,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小飞棍来咯丷,Rogue,Assassination,dps,Wintergrasp
+26,304.2,298417972,9,The Necrotic Wake,2024-10-07T12:42:37.000Z,1473950,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",道格拉斯先生,Death Knight,Frost,dps,The Great Sea
+26,304.2,298417972,9,The Necrotic Wake,2024-10-07T12:42:37.000Z,1473950,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",花朵朵儿儿,Mage,Frost,dps,Anzu
+27,304,297835270,9,The Necrotic Wake,2024-10-05T10:05:16.000Z,1483931,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",集火天下无敌,Warrior,Protection,tank,Chillwind Point
+27,304,297835270,9,The Necrotic Wake,2024-10-05T10:05:16.000Z,1483931,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",消极又悲观,Priest,Discipline,healer,Al'ar
+27,304,297835270,9,The Necrotic Wake,2024-10-05T10:05:16.000Z,1483931,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",别再耍花招了,Druid,Balance,dps,Al'ar
+27,304,297835270,9,The Necrotic Wake,2024-10-05T10:05:16.000Z,1483931,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",三丶儿,Demon Hunter,Havoc,dps,Al'ar
+27,304,297835270,9,The Necrotic Wake,2024-10-05T10:05:16.000Z,1483931,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",把你们豆沙了,Death Knight,Unholy,dps,Al'ar
+28,303.9,308957735,9,The Necrotic Wake,2024-10-03T05:40:30.000Z,1487243,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",就是柚,Warrior,Fury,dps,Frostmourne
+28,303.9,308957735,9,The Necrotic Wake,2024-10-03T05:40:30.000Z,1487243,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萨丶叮叮,Shaman,Restoration,healer,Eldre'Thalas
+28,303.9,308957735,9,The Necrotic Wake,2024-10-03T05:40:30.000Z,1487243,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",宝宝你委屈么,Demon Hunter,Vengeance,tank,Eldre'Thalas
+28,303.9,308957735,9,The Necrotic Wake,2024-10-03T05:40:30.000Z,1487243,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小甜软糖,Hunter,Survival,dps,Dark Iron
+28,303.9,308957735,9,The Necrotic Wake,2024-10-03T05:40:30.000Z,1487243,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",痛苦术,Warlock,Destruction,dps,Deathwing
+29,303.9,309464424,9,The Necrotic Wake,2024-11-28T04:40:52.000Z,1488241,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",指尖的舞动,Mage,Frost,dps,Silverpine Forest
+29,303.9,309464424,9,The Necrotic Wake,2024-11-28T04:40:52.000Z,1488241,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我图腾呐,Shaman,Enhancement,dps,Deathwing
+29,303.9,309464424,9,The Necrotic Wake,2024-11-28T04:40:52.000Z,1488241,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",血雨探花刂,Warrior,Protection,tank,Tortheldrin
+29,303.9,309464424,9,The Necrotic Wake,2024-11-28T04:40:52.000Z,1488241,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",渊天齐丶,Shaman,Restoration,healer,Silver Hand
+29,303.9,309464424,9,The Necrotic Wake,2024-11-28T04:40:52.000Z,1488241,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",南栀北寒,Paladin,Retribution,dps,Isillien
+30,303.8,297287095,9,The Necrotic Wake,2024-10-03T01:56:58.000Z,1494627,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Leelins,Death Knight,Unholy,dps,Silver Hand
+30,303.8,297287095,9,The Necrotic Wake,2024-10-03T01:56:58.000Z,1494627,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",拳丶湿丶胸,Monk,Mistweaver,healer,Isillien
+30,303.8,297287095,9,The Necrotic Wake,2024-10-03T01:56:58.000Z,1494627,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小海牛,Death Knight,Blood,tank,Blanchard
+30,303.8,297287095,9,The Necrotic Wake,2024-10-03T01:56:58.000Z,1494627,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",水无怜奈,Hunter,Beast Mastery,dps,Isillien
+30,303.8,297287095,9,The Necrotic Wake,2024-10-03T01:56:58.000Z,1494627,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Rekt,Warrior,Fury,dps,Pandaren
+31,303.8,297599769,9,The Necrotic Wake,2024-10-04T12:47:17.000Z,1495527,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",满满的碎碎念,Paladin,Protection,tank,Deathwing
+31,303.8,297599769,9,The Necrotic Wake,2024-10-04T12:47:17.000Z,1495527,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Forthejaina,Mage,Fire,dps,Kel'Thuzad
+31,303.8,297599769,9,The Necrotic Wake,2024-10-04T12:47:17.000Z,1495527,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Smone,Shaman,Restoration,healer,Doomwalker
+31,303.8,297599769,9,The Necrotic Wake,2024-10-04T12:47:17.000Z,1495527,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+31,303.8,297599769,9,The Necrotic Wake,2024-10-04T12:47:17.000Z,1495527,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",圣光牛仔,Paladin,Retribution,dps,Doomwalker
+32,303.7,298136292,9,The Necrotic Wake,2024-10-06T11:50:53.000Z,1496451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",拳王月灼,Monk,Mistweaver,healer,Burning Blade
+32,303.7,298136292,9,The Necrotic Wake,2024-10-06T11:50:53.000Z,1496451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",茜色,Death Knight,Blood,tank,Pandaren
+32,303.7,298136292,9,The Necrotic Wake,2024-10-06T11:50:53.000Z,1496451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",羊濄小笼女,Mage,Fire,dps,Burning Blade
+32,303.7,298136292,9,The Necrotic Wake,2024-10-06T11:50:53.000Z,1496451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+32,303.7,298136292,9,The Necrotic Wake,2024-10-06T11:50:53.000Z,1496451,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",发条茉莉,Death Knight,Unholy,dps,The Great Sea
+33,303.7,297424077,9,The Necrotic Wake,2024-10-03T18:08:26.000Z,1496611,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",羊羊爱吃魚,Hunter,Marksmanship,dps,Al'ar
+33,303.7,297424077,9,The Necrotic Wake,2024-10-03T18:08:26.000Z,1496611,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",图图的团哥儿,Death Knight,Frost,dps,Silver Hand
+33,303.7,297424077,9,The Necrotic Wake,2024-10-03T18:08:26.000Z,1496611,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",羞涩嘚风,Druid,Guardian,tank,Anzu
+33,303.7,297424077,9,The Necrotic Wake,2024-10-03T18:08:26.000Z,1496611,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Meliodas,Priest,Shadow,dps,Scarlet Crusade
+33,303.7,297424077,9,The Necrotic Wake,2024-10-03T18:08:26.000Z,1496611,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",帮她按住我,Paladin,Holy,healer,Al'ar
+34,303.7,297799065,9,The Necrotic Wake,2024-10-05T05:51:30.000Z,1499843,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雪洛晨曦,Mage,Frost,dps,Grim Batol
+34,303.7,297799065,9,The Necrotic Wake,2024-10-05T05:51:30.000Z,1499843,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蓬蓽生輝,Death Knight,Frost,dps,Grim Batol
+34,303.7,297799065,9,The Necrotic Wake,2024-10-05T05:51:30.000Z,1499843,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶丨杀满丨,Shaman,Restoration,healer,Grim Batol
+34,303.7,297799065,9,The Necrotic Wake,2024-10-05T05:51:30.000Z,1499843,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",芋泥啵啵奶荼,Death Knight,Blood,tank,Al'ar
+34,303.7,297799065,9,The Necrotic Wake,2024-10-05T05:51:30.000Z,1499843,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",血月夜歌,Rogue,Assassination,dps,Chillwind Point
+35,303.6,298069525,9,The Necrotic Wake,2024-10-06T04:29:17.000Z,1505111,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萌狐最强,Shaman,Restoration,healer,Deathwing
+35,303.6,298069525,9,The Necrotic Wake,2024-10-06T04:29:17.000Z,1505111,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",简简单单丷,Mage,Frost,dps,Al'ar
+35,303.6,298069525,9,The Necrotic Wake,2024-10-06T04:29:17.000Z,1505111,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",听不见的烟花,Paladin,Retribution,dps,Deathwing
+35,303.6,298069525,9,The Necrotic Wake,2024-10-06T04:29:17.000Z,1505111,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",深山老基,Demon Hunter,Vengeance,tank,Deathwing
+35,303.6,298069525,9,The Necrotic Wake,2024-10-06T04:29:17.000Z,1505111,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",婉拒李知恩,Death Knight,Frost,dps,Dreadmist Peak
+36,303.1,298360718,9,The Necrotic Wake,2024-10-07T03:29:30.000Z,1528231,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",傻幽,Mage,Fire,dps,Dreadmist Peak
+36,303.1,298360718,9,The Necrotic Wake,2024-10-07T03:29:30.000Z,1528231,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",橙心实意,Druid,Guardian,tank,Swiftwind
+36,303.1,298360718,9,The Necrotic Wake,2024-10-07T03:29:30.000Z,1528231,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",屿崖,Rogue,Assassination,dps,Al'ar
+36,303.1,298360718,9,The Necrotic Wake,2024-10-07T03:29:30.000Z,1528231,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",假奶有毒,Priest,Discipline,healer,Alterac Mountains
+36,303.1,298360718,9,The Necrotic Wake,2024-10-07T03:29:30.000Z,1528231,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",反对以后,Warrior,Fury,dps,Rhonin
+37,303.1,298054917,9,The Necrotic Wake,2024-10-06T02:28:52.000Z,1529817,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雅木茶吃蔬菜,Warlock,Destruction,dps,Isillien
+37,303.1,298054917,9,The Necrotic Wake,2024-10-06T02:28:52.000Z,1529817,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",集火天下无敌,Warrior,Protection,tank,Chillwind Point
+37,303.1,298054917,9,The Necrotic Wake,2024-10-06T02:28:52.000Z,1529817,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",拉巴坎,Priest,Discipline,healer,Hectae
+37,303.1,298054917,9,The Necrotic Wake,2024-10-06T02:28:52.000Z,1529817,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",这货不是乌迪,Death Knight,Frost,dps,The Golden Plains
+37,303.1,298054917,9,The Necrotic Wake,2024-10-06T02:28:52.000Z,1529817,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月酱,Mage,Arcane,dps,The Master's Glaive
+38,303.1,297576360,9,The Necrotic Wake,2024-10-04T09:03:11.000Z,1531859,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",浅草寺小狮子,Shaman,Elemental,dps,The Master's Glaive
+38,303.1,297576360,9,The Necrotic Wake,2024-10-04T09:03:11.000Z,1531859,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灬秀儿灬,Death Knight,Unholy,dps,Ravencrest
+38,303.1,297576360,9,The Necrotic Wake,2024-10-04T09:03:11.000Z,1531859,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",听说她叫乔,Shaman,Restoration,healer,Al'ar
+38,303.1,297576360,9,The Necrotic Wake,2024-10-04T09:03:11.000Z,1531859,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",加冰不加糖,Warrior,Protection,tank,Bone Wastes
+38,303.1,297576360,9,The Necrotic Wake,2024-10-04T09:03:11.000Z,1531859,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",爱吃咖喱鸡,Death Knight,Frost,dps,Bone Wastes
+39,302.9,297305364,9,The Necrotic Wake,2024-10-03T03:22:55.000Z,1542487,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",寞離,Shaman,Restoration,healer,Rhonin
+39,302.9,297305364,9,The Necrotic Wake,2024-10-03T03:22:55.000Z,1542487,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天天晒太阳,Death Knight,Frost,dps,Chillwind Point
+39,302.9,297305364,9,The Necrotic Wake,2024-10-03T03:22:55.000Z,1542487,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",艾卢法,Mage,Frost,dps,Isillien
+39,302.9,297305364,9,The Necrotic Wake,2024-10-03T03:22:55.000Z,1542487,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胭脂染鬓,Mage,Frost,dps,The Master's Glaive
+39,302.9,297305364,9,The Necrotic Wake,2024-10-03T03:22:55.000Z,1542487,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奥雷亚斯,Death Knight,Blood,tank,Bleeding Hollow
+40,302.8,298400546,9,The Necrotic Wake,2024-10-07T09:37:59.000Z,1547721,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ambivalence,Death Knight,Frost,dps,Scarlet Crusade
+40,302.8,298400546,9,The Necrotic Wake,2024-10-07T09:37:59.000Z,1547721,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超气人衮衮酱,Druid,Guardian,tank,Pandaren
+40,302.8,298400546,9,The Necrotic Wake,2024-10-07T09:37:59.000Z,1547721,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小小懒人,Mage,Frost,dps,Cenarius
+40,302.8,298400546,9,The Necrotic Wake,2024-10-07T09:37:59.000Z,1547721,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月蝶酱,Shaman,Restoration,healer,Silver Hand
+40,302.8,298400546,9,The Necrotic Wake,2024-10-07T09:37:59.000Z,1547721,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你好小蹄子,Paladin,Retribution,dps,Valley of Kings
+41,302.6,297398790,9,The Necrotic Wake,2024-10-03T15:29:57.000Z,1553149,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",别打我打法法,Druid,Guardian,tank,Shadowmourne
+41,302.6,297398790,9,The Necrotic Wake,2024-10-03T15:29:57.000Z,1553149,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",北原和纱,Mage,Fire,dps,Shadowmourne
+41,302.6,297398790,9,The Necrotic Wake,2024-10-03T15:29:57.000Z,1553149,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",樱雪松梨,Priest,Discipline,healer,Shadowmourne
+41,302.6,297398790,9,The Necrotic Wake,2024-10-03T15:29:57.000Z,1553149,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",真島誠,Death Knight,Unholy,dps,Valley of Kings
+41,302.6,297398790,9,The Necrotic Wake,2024-10-03T15:29:57.000Z,1553149,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",墨染花雪,Warlock,Demonology,dps,Shadowmourne
+42,302,297432533,9,The Necrotic Wake,2024-10-03T18:27:39.000Z,1587397,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",紫烟冰晶,Priest,Discipline,healer,Silver Hand
+42,302,297432533,9,The Necrotic Wake,2024-10-03T18:27:39.000Z,1587397,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",还要多久,Warlock,Destruction,dps,Al'ar
+42,302,297432533,9,The Necrotic Wake,2024-10-03T18:27:39.000Z,1587397,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大摆锤送快递,Death Knight,Frost,dps,Grim Batol
+42,302,297432533,9,The Necrotic Wake,2024-10-03T18:27:39.000Z,1587397,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",川木青,Priest,Shadow,dps,Deathwing
+42,302,297432533,9,The Necrotic Wake,2024-10-03T18:27:39.000Z,1587397,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小雨堡堡,Warrior,Protection,tank,Destromath
+43,301.8,297894856,9,The Necrotic Wake,2024-10-05T17:59:15.000Z,1595209,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",伏丨地丨魔,Mage,Frost,dps,Deathwing
+43,301.8,297894856,9,The Necrotic Wake,2024-10-05T17:59:15.000Z,1595209,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",不丨良丨帅,Shaman,Restoration,healer,Pandaren
+43,301.8,297894856,9,The Necrotic Wake,2024-10-05T17:59:15.000Z,1595209,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",北戦,Warrior,Fury,dps,Al'ar
+43,301.8,297894856,9,The Necrotic Wake,2024-10-05T17:59:15.000Z,1595209,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",技师九十九,Death Knight,Unholy,dps,Grim Batol
+43,301.8,297894856,9,The Necrotic Wake,2024-10-05T17:59:15.000Z,1595209,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",技师八十六,Druid,Guardian,tank,Pandaren
+44,301.5,298143755,9,The Necrotic Wake,2024-10-06T13:09:22.000Z,1611728,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",林深迷鹿,Mage,Frost,dps,Silver Hand
+44,301.5,298143755,9,The Necrotic Wake,2024-10-06T13:09:22.000Z,1611728,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",至高雷,Demon Hunter,Havoc,dps,Grim Batol
+44,301.5,298143755,9,The Necrotic Wake,2024-10-06T13:09:22.000Z,1611728,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",铁栓爱上铁柱,Paladin,Holy,healer,Grim Batol
+44,301.5,298143755,9,The Necrotic Wake,2024-10-06T13:09:22.000Z,1611728,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+44,301.5,298143755,9,The Necrotic Wake,2024-10-06T13:09:22.000Z,1611728,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丢了魂,Monk,Brewmaster,tank,Grim Batol
+45,301.3,297782255,9,The Necrotic Wake,2024-10-05T03:58:03.000Z,1620862,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一點星空,Mage,Fire,dps,Chillwind Point
+45,301.3,297782255,9,The Necrotic Wake,2024-10-05T03:58:03.000Z,1620862,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",别打牛牛,Druid,Guardian,tank,Deathwing
+45,301.3,297782255,9,The Necrotic Wake,2024-10-05T03:58:03.000Z,1620862,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",呦卡崩,Death Knight,Frost,dps,Silver Hand
+45,301.3,297782255,9,The Necrotic Wake,2024-10-05T03:58:03.000Z,1620862,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Speichern,Druid,Balance,dps,Black Dragonflight
+45,301.3,297782255,9,The Necrotic Wake,2024-10-05T03:58:03.000Z,1620862,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",因为从有到无,Shaman,Restoration,healer,Chillwind Point
+46,300.9,297936092,9,The Necrotic Wake,2024-10-05T18:46:46.000Z,1642655,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",柠檬不柠,Shaman,Restoration,healer,Eldre'Thalas
+46,300.9,297936092,9,The Necrotic Wake,2024-10-05T18:46:46.000Z,1642655,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Factoyrat,Death Knight,Blood,tank,Eldre'Thalas
+46,300.9,297936092,9,The Necrotic Wake,2024-10-05T18:46:46.000Z,1642655,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天生打灰圣体,Paladin,Retribution,dps,Eldre'Thalas
+46,300.9,297936092,9,The Necrotic Wake,2024-10-05T18:46:46.000Z,1642655,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kkb,Demon Hunter,Havoc,dps,Eldre'Thalas
+46,300.9,297936092,9,The Necrotic Wake,2024-10-05T18:46:46.000Z,1642655,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蛇喰莉莉,Paladin,Retribution,dps,Silver Hand
+47,300.9,298058311,9,The Necrotic Wake,2024-10-06T02:42:59.000Z,1644980,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灵魂复苏,Warrior,Arms,dps,Chillwind Point
+47,300.9,298058311,9,The Necrotic Wake,2024-10-06T02:42:59.000Z,1644980,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小海牛,Death Knight,Blood,tank,Blanchard
+47,300.9,298058311,9,The Necrotic Wake,2024-10-06T02:42:59.000Z,1644980,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九窨茉莉,Death Knight,Frost,dps,Silver Hand
+47,300.9,298058311,9,The Necrotic Wake,2024-10-06T02:42:59.000Z,1644980,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",则痴,Shaman,Restoration,healer,Argus
+47,300.9,298058311,9,The Necrotic Wake,2024-10-06T02:42:59.000Z,1644980,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小白豆,Death Knight,Unholy,dps,Silver Hand
+48,300.2,298111367,9,The Necrotic Wake,2024-10-06T09:00:53.000Z,1680121,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",可爱的小号,Rogue,Assassination,dps,Anzu
+48,300.2,298111367,9,The Necrotic Wake,2024-10-06T09:00:53.000Z,1680121,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+48,300.2,298111367,9,The Necrotic Wake,2024-10-06T09:00:53.000Z,1680121,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kadu,Shaman,Elemental,dps,Grim Batol
+48,300.2,298111367,9,The Necrotic Wake,2024-10-06T09:00:53.000Z,1680121,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶膀大腰圆,Demon Hunter,Vengeance,tank,Burning Blade
+48,300.2,298111367,9,The Necrotic Wake,2024-10-06T09:00:53.000Z,1680121,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",骑女士,Paladin,Holy,healer,Pandaren
+49,300.2,302276457,9,The Necrotic Wake,2024-10-06T12:21:21.000Z,1680984,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",时光倒退,Demon Hunter,Vengeance,tank,Al'ar
+49,300.2,302276457,9,The Necrotic Wake,2024-10-06T12:21:21.000Z,1680984,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",好骑心,Paladin,Retribution,dps,Barrens
+49,300.2,302276457,9,The Necrotic Wake,2024-10-06T12:21:21.000Z,1680984,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",十年箭,Hunter,Beast Mastery,dps,Burning Blade
+49,300.2,302276457,9,The Necrotic Wake,2024-10-06T12:21:21.000Z,1680984,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶忘忧雪,Shaman,Restoration,healer,Al'ar
+49,300.2,302276457,9,The Necrotic Wake,2024-10-06T12:21:21.000Z,1680984,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",致我的星星,Mage,Frost,dps,Burning Blade
+50,300.2,297562196,9,The Necrotic Wake,2024-10-04T07:31:28.000Z,1681697,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",辣鸡守护,Shaman,Elemental,dps,Blanchard
+50,300.2,297562196,9,The Necrotic Wake,2024-10-04T07:31:28.000Z,1681697,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",咕叽咕咚,Shaman,Restoration,healer,Deathwing
+50,300.2,297562196,9,The Necrotic Wake,2024-10-04T07:31:28.000Z,1681697,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",橙龙快婿,Evoker,Devastation,dps,Deathwing
+50,300.2,297562196,9,The Necrotic Wake,2024-10-04T07:31:28.000Z,1681697,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",忧郁可乐鸡,Death Knight,Blood,tank,Deathwing
+50,300.2,297562196,9,The Necrotic Wake,2024-10-04T07:31:28.000Z,1681697,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Mccyc,Hunter,Marksmanship,dps,Azshara
+51,299.7,297904939,9,The Necrotic Wake,2024-10-05T16:10:04.000Z,1706189,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",牧瞳,Priest,Discipline,healer,Deathwing
+51,299.7,297904939,9,The Necrotic Wake,2024-10-05T16:10:04.000Z,1706189,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一只废咕,Druid,Guardian,tank,Deathwing
+51,299.7,297904939,9,The Necrotic Wake,2024-10-05T16:10:04.000Z,1706189,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶橙与晨与诚,Mage,Fire,dps,Al'ar
+51,299.7,297904939,9,The Necrotic Wake,2024-10-05T16:10:04.000Z,1706189,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kylean,Paladin,Retribution,dps,Deathwing
+51,299.7,297904939,9,The Necrotic Wake,2024-10-05T16:10:04.000Z,1706189,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",瞑生院丶祈荒,Death Knight,Frost,dps,Al'ar
+52,299.6,298387295,9,The Necrotic Wake,2024-10-07T07:05:07.000Z,1709871,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",自動手記人偶,Paladin,Retribution,dps,Eldre'Thalas
+52,299.6,298387295,9,The Necrotic Wake,2024-10-07T07:05:07.000Z,1709871,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",乔瑟夫乔斯达,Evoker,Augmentation,dps,Ravencrest
+52,299.6,298387295,9,The Necrotic Wake,2024-10-07T07:05:07.000Z,1709871,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Yeey,Death Knight,Blood,tank,Grim Batol
+52,299.6,298387295,9,The Necrotic Wake,2024-10-07T07:05:07.000Z,1709871,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",乔乔给个灌注,Death Knight,Frost,dps,Rexxar
+52,299.6,298387295,9,The Necrotic Wake,2024-10-07T07:05:07.000Z,1709871,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阿尔图罗,Priest,Discipline,healer,Burning Blade
+53,299.6,298110370,9,The Necrotic Wake,2024-10-06T08:49:55.000Z,1712668,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",醉慕清风,Warrior,Protection,tank,Blanchard
+53,299.6,298110370,9,The Necrotic Wake,2024-10-06T08:49:55.000Z,1712668,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+53,299.6,298110370,9,The Necrotic Wake,2024-10-06T08:49:55.000Z,1712668,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狸追酱丶,Shaman,Restoration,healer,Chillwind Point
+53,299.6,298110370,9,The Necrotic Wake,2024-10-06T08:49:55.000Z,1712668,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小红手寒灀,Mage,Frost,dps,Chillwind Point
+53,299.6,298110370,9,The Necrotic Wake,2024-10-06T08:49:55.000Z,1712668,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",花以诺,Death Knight,Unholy,dps,Burning Blade
+54,298.8,297584029,9,The Necrotic Wake,2024-10-04T10:16:23.000Z,1755084,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Fume,Demon Hunter,Havoc,dps,Al'ar
+54,298.8,297584029,9,The Necrotic Wake,2024-10-04T10:16:23.000Z,1755084,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",醉澜,Priest,Discipline,healer,Grim Batol
+54,298.8,297584029,9,The Necrotic Wake,2024-10-04T10:16:23.000Z,1755084,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",咕咕哒哒,Druid,Guardian,tank,Hogger
+54,298.8,297584029,9,The Necrotic Wake,2024-10-04T10:16:23.000Z,1755084,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天阳至宁,Shaman,Enhancement,dps,Grim Batol
+54,298.8,297584029,9,The Necrotic Wake,2024-10-04T10:16:23.000Z,1755084,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",梧桐君,Monk,Windwalker,dps,The Golden Plains
+55,296.9,297871503,9,The Necrotic Wake,2024-10-05T14:40:03.000Z,1853714,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",沃莱斯,Paladin,Protection,tank,Al'ar
+55,296.9,297871503,9,The Necrotic Wake,2024-10-05T14:40:03.000Z,1853714,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",心随逸飛,Shaman,Restoration,healer,Al'ar
+55,296.9,297871503,9,The Necrotic Wake,2024-10-05T14:40:03.000Z,1853714,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Yoruichi,Druid,Balance,dps,Al'ar
+55,296.9,297871503,9,The Necrotic Wake,2024-10-05T14:40:03.000Z,1853714,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Ysageras,Mage,Fire,dps,Al'ar
+55,296.9,297871503,9,The Necrotic Wake,2024-10-05T14:40:03.000Z,1853714,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我扎我自己,Evoker,Augmentation,dps,Deathwing
+56,296.8,297364692,9,The Necrotic Wake,2024-10-03T11:09:51.000Z,1854938,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",请你忘了我,Mage,Fire,dps,Barthilas
+56,296.8,297364692,9,The Necrotic Wake,2024-10-03T11:09:51.000Z,1854938,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胖大丶,Monk,Brewmaster,tank,Deathwing
+56,296.8,297364692,9,The Necrotic Wake,2024-10-03T11:09:51.000Z,1854938,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你接得住吗,Shaman,Restoration,healer,Burning Blade
+56,296.8,297364692,9,The Necrotic Wake,2024-10-03T11:09:51.000Z,1854938,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",身騎白馬,Paladin,Retribution,dps,Frostmourne
+56,296.8,297364692,9,The Necrotic Wake,2024-10-03T11:09:51.000Z,1854938,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",无炎,Death Knight,Frost,dps,Barrens
+57,296.8,298638987,9,The Necrotic Wake,2024-10-08T14:48:19.000Z,1859018,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蓝莓酸奶丶,Demon Hunter,Vengeance,tank,Rhonin
+57,296.8,298638987,9,The Necrotic Wake,2024-10-08T14:48:19.000Z,1859018,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",兔剑秋丶,Death Knight,Frost,dps,Burning Blade
+57,296.8,298638987,9,The Necrotic Wake,2024-10-08T14:48:19.000Z,1859018,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",老王啊,Shaman,Restoration,healer,Burning Blade
+57,296.8,298638987,9,The Necrotic Wake,2024-10-08T14:48:19.000Z,1859018,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",青山同云雨,Mage,Fire,dps,Rhonin
+57,296.8,298638987,9,The Necrotic Wake,2024-10-08T14:48:19.000Z,1859018,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",遊戲王,Warrior,Arms,dps,Rhonin
+58,294.7,309464841,8,The Necrotic Wake,2024-11-28T04:53:48.000Z,1185227,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黑熊哥哥,Monk,Brewmaster,tank,Eldre'Thalas
+58,294.7,309464841,8,The Necrotic Wake,2024-11-28T04:53:48.000Z,1185227,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Danniel,Mage,Frost,dps,Burning Blade
+58,294.7,309464841,8,The Necrotic Wake,2024-11-28T04:53:48.000Z,1185227,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Legendary,Shaman,Restoration,healer,Brutallus
+58,294.7,309464841,8,The Necrotic Wake,2024-11-28T04:53:48.000Z,1185227,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Qiaolingdh,Demon Hunter,Havoc,dps,Scarlet Crusade
+58,294.7,309464841,8,The Necrotic Wake,2024-11-28T04:53:48.000Z,1185227,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",凤凰萨哥,Shaman,Enhancement,dps,Al'ar
+59,293.1,298604461,8,The Necrotic Wake,2024-10-08T07:33:32.000Z,1268473,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",彩琉璃,Priest,Discipline,healer,Eldre'Thalas
+59,293.1,298604461,8,The Necrotic Wake,2024-10-08T07:33:32.000Z,1268473,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小怪兽啊哈酱,Demon Hunter,Havoc,dps,Valley of Kings
+59,293.1,298604461,8,The Necrotic Wake,2024-10-08T07:33:32.000Z,1268473,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",风暴皮卡丘,Shaman,Elemental,dps,Eldre'Thalas
+59,293.1,298604461,8,The Necrotic Wake,2024-10-08T07:33:32.000Z,1268473,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",那就好梦,Demon Hunter,Vengeance,tank,Eldre'Thalas
+59,293.1,298604461,8,The Necrotic Wake,2024-10-08T07:33:32.000Z,1268473,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Coltbaby,Druid,Balance,dps,Eldre'Thalas
+60,292.6,298435569,8,The Necrotic Wake,2024-10-07T15:04:38.000Z,1295743,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",专吃各种小孩,Evoker,Augmentation,dps,Rhonin
+60,292.6,298435569,8,The Necrotic Wake,2024-10-07T15:04:38.000Z,1295743,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶惊寒,Death Knight,Blood,tank,Isillien
+60,292.6,298435569,8,The Necrotic Wake,2024-10-07T15:04:38.000Z,1295743,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Hansmage,Mage,Frost,dps,Isillien
+60,292.6,298435569,8,The Necrotic Wake,2024-10-07T15:04:38.000Z,1295743,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Theclawsl,Rogue,Assassination,dps,Rhonin
+60,292.6,298435569,8,The Necrotic Wake,2024-10-07T15:04:38.000Z,1295743,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",土豆,Monk,Mistweaver,healer,Isillien
+61,292.2,309515203,8,The Necrotic Wake,2024-11-28T16:41:27.000Z,1314815,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",巫医扎瓦克,Shaman,Enhancement,dps,Rhonin
+61,292.2,309515203,8,The Necrotic Wake,2024-11-28T16:41:27.000Z,1314815,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",尼妹,Priest,Discipline,healer,Rhonin
+61,292.2,309515203,8,The Necrotic Wake,2024-11-28T16:41:27.000Z,1314815,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小鹿部小鹿,Paladin,Protection,tank,Silver Hand
+61,292.2,309515203,8,The Necrotic Wake,2024-11-28T16:41:27.000Z,1314815,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",艾莲西亚,Warrior,Arms,dps,Silver Hand
+61,292.2,309515203,8,The Necrotic Wake,2024-11-28T16:41:27.000Z,1314815,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",伤害伤害倪,Rogue,Assassination,dps,Anzu
+62,291.5,298594966,8,The Necrotic Wake,2024-10-08T06:02:05.000Z,1352036,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胖圈圏,Shaman,Restoration,healer,Al'ar
+62,291.5,298594966,8,The Necrotic Wake,2024-10-08T06:02:05.000Z,1352036,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胖黑黑,Death Knight,Frost,dps,Al'ar
+62,291.5,298594966,8,The Necrotic Wake,2024-10-08T06:02:05.000Z,1352036,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",图图的裂蹄牛,Warrior,Protection,tank,Silver Hand
+62,291.5,298594966,8,The Necrotic Wake,2024-10-08T06:02:05.000Z,1352036,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",一只奶熊,Shaman,Elemental,dps,Al'ar
+62,291.5,298594966,8,The Necrotic Wake,2024-10-08T06:02:05.000Z,1352036,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小諾丶,Mage,Arcane,dps,Al'ar
+63,291.4,298353351,8,The Necrotic Wake,2024-10-07T02:42:19.000Z,1356636,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",盲眼大聋瞎,Demon Hunter,Vengeance,tank,Shadowmourne
+63,291.4,298353351,8,The Necrotic Wake,2024-10-07T02:42:19.000Z,1356636,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鱼面筋,Death Knight,Frost,dps,Blanchard
+63,291.4,298353351,8,The Necrotic Wake,2024-10-07T02:42:19.000Z,1356636,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",李漓大魔王,Mage,Fire,dps,The Great Sea
+63,291.4,298353351,8,The Necrotic Wake,2024-10-07T02:42:19.000Z,1356636,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",伊人耳边话,Paladin,Retribution,dps,Detheroc
+63,291.4,298353351,8,The Necrotic Wake,2024-10-07T02:42:19.000Z,1356636,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",终曲,Priest,Discipline,healer,Shadowmourne
+64,290.7,298427777,8,The Necrotic Wake,2024-10-07T14:34:32.000Z,1392564,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Tanzhangwy,Demon Hunter,Vengeance,tank,Bloodfeather
+64,290.7,298427777,8,The Necrotic Wake,2024-10-07T14:34:32.000Z,1392564,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",遇见你像海洋,Warlock,Affliction,dps,Al'ar
+64,290.7,298427777,8,The Necrotic Wake,2024-10-07T14:34:32.000Z,1392564,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+64,290.7,298427777,8,The Necrotic Wake,2024-10-07T14:34:32.000Z,1392564,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九分十二,Death Knight,Frost,dps,Al'ar
+64,290.7,298427777,8,The Necrotic Wake,2024-10-07T14:34:32.000Z,1392564,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",魔域之刃,Rogue,Assassination,dps,Al'ar
+65,290.6,297599314,8,The Necrotic Wake,2024-10-04T12:39:14.000Z,1401418,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪比巴波灬,Warlock,Destruction,dps,Bloodfeather
+65,290.6,297599314,8,The Necrotic Wake,2024-10-04T12:39:14.000Z,1401418,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",桃小爷,Druid,Guardian,tank,Al'ar
+65,290.6,297599314,8,The Necrotic Wake,2024-10-04T12:39:14.000Z,1401418,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+65,290.6,297599314,8,The Necrotic Wake,2024-10-04T12:39:14.000Z,1401418,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九分十二,Death Knight,Unholy,dps,Al'ar
+65,290.6,297599314,8,The Necrotic Wake,2024-10-04T12:39:14.000Z,1401418,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",努力的活着,Hunter,Marksmanship,dps,Silverpine Forest
+66,290.5,297620271,8,The Necrotic Wake,2024-10-04T15:00:46.000Z,1406028,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",遇见你像海洋,Warlock,Affliction,dps,Al'ar
+66,290.5,297620271,8,The Necrotic Wake,2024-10-04T15:00:46.000Z,1406028,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪比巴波灬,Warlock,Destruction,dps,Bloodfeather
+66,290.5,297620271,8,The Necrotic Wake,2024-10-04T15:00:46.000Z,1406028,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",桃小爷,Druid,Guardian,tank,Al'ar
+66,290.5,297620271,8,The Necrotic Wake,2024-10-04T15:00:46.000Z,1406028,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+66,290.5,297620271,8,The Necrotic Wake,2024-10-04T15:00:46.000Z,1406028,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九分十二,Death Knight,Unholy,dps,Al'ar
+67,289.1,297585995,8,The Necrotic Wake,2024-10-04T10:49:40.000Z,1479779,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶天启,Demon Hunter,Vengeance,tank,Red Dragonflight
+67,289.1,297585995,8,The Necrotic Wake,2024-10-04T10:49:40.000Z,1479779,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",痛苦启阳,Warlock,Destruction,dps,The Great Sea
+67,289.1,297585995,8,The Necrotic Wake,2024-10-04T10:49:40.000Z,1479779,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+67,289.1,297585995,8,The Necrotic Wake,2024-10-04T10:49:40.000Z,1479779,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kadu,Shaman,Elemental,dps,Grim Batol
+67,289.1,297585995,8,The Necrotic Wake,2024-10-04T10:49:40.000Z,1479779,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",精灵副将,Monk,Mistweaver,healer,Nozdormu
+68,287.7,297765736,8,The Necrotic Wake,2024-10-05T02:01:32.000Z,1550972,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",野牛橘子,Paladin,Retribution,dps,Flame Crest
+68,287.7,297765736,8,The Necrotic Wake,2024-10-05T02:01:32.000Z,1550972,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",开丶开,Shaman,Restoration,healer,Burning Blade
+68,287.7,297765736,8,The Necrotic Wake,2024-10-05T02:01:32.000Z,1550972,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+68,287.7,297765736,8,The Necrotic Wake,2024-10-05T02:01:32.000Z,1550972,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丷猛将兄,Rogue,Assassination,dps,Isillien
+68,287.7,297765736,8,The Necrotic Wake,2024-10-05T02:01:32.000Z,1550972,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",风丨天,Death Knight,Blood,tank,Burning Blade
+69,287.1,298342996,8,The Necrotic Wake,2024-10-06T19:53:26.000Z,1583607,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶天谴,Shaman,Enhancement,dps,Pandaren
+69,287.1,298342996,8,The Necrotic Wake,2024-10-06T19:53:26.000Z,1583607,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夢綾,Death Knight,Frost,dps,Rhonin
+69,287.1,298342996,8,The Necrotic Wake,2024-10-06T19:53:26.000Z,1583607,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",今晚风很温柔,Demon Hunter,Vengeance,tank,Al'ar
+69,287.1,298342996,8,The Necrotic Wake,2024-10-06T19:53:26.000Z,1583607,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",老倌不老,Paladin,Retribution,dps,Alterac Mountains
+69,287.1,298342996,8,The Necrotic Wake,2024-10-06T19:53:26.000Z,1583607,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",璞耀璃娥,Evoker,Preservation,healer,Deathwing
+70,286.4,298304310,8,The Necrotic Wake,2024-10-06T21:11:44.000Z,1616522,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鱿小袅,Warrior,Protection,tank,Grim Batol
+70,286.4,298304310,8,The Necrotic Wake,2024-10-06T21:11:44.000Z,1616522,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",正在绑架母猪,Shaman,Restoration,healer,Anzu
+70,286.4,298304310,8,The Necrotic Wake,2024-10-06T21:11:44.000Z,1616522,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",至高雷,Demon Hunter,Havoc,dps,Grim Batol
+70,286.4,298304310,8,The Necrotic Wake,2024-10-06T21:11:44.000Z,1616522,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丢了魂,Monk,Windwalker,dps,Grim Batol
+70,286.4,298304310,8,The Necrotic Wake,2024-10-06T21:11:44.000Z,1616522,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",隔壁老杜,Demon Hunter,Havoc,dps,Grim Batol
+71,285.7,298447361,8,The Necrotic Wake,2024-10-07T16:02:31.000Z,1656906,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",犹记丶,Warrior,Fury,dps,Eldre'Thalas
+71,285.7,298447361,8,The Necrotic Wake,2024-10-07T16:02:31.000Z,1656906,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",猫足,Paladin,Retribution,dps,Eldre'Thalas
+71,285.7,298447361,8,The Necrotic Wake,2024-10-07T16:02:31.000Z,1656906,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天生打灰圣体,Paladin,Holy,healer,Eldre'Thalas
+71,285.7,298447361,8,The Necrotic Wake,2024-10-07T16:02:31.000Z,1656906,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kkb,Demon Hunter,Havoc,dps,Eldre'Thalas
+71,285.7,298447361,8,The Necrotic Wake,2024-10-07T16:02:31.000Z,1656906,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",骡子追飞机,Demon Hunter,Vengeance,tank,Skywall
+72,285.4,297937916,8,The Necrotic Wake,2024-10-05T19:10:09.000Z,1671664,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小巷静秋月明,Death Knight,Frost,dps,Burning Blade
+72,285.4,297937916,8,The Necrotic Wake,2024-10-05T19:10:09.000Z,1671664,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大宝贝在这里,Shaman,Elemental,dps,Burning Blade
+72,285.4,297937916,8,The Necrotic Wake,2024-10-05T19:10:09.000Z,1671664,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶雲鳴,Warrior,Protection,tank,Burning Blade
+72,285.4,297937916,8,The Necrotic Wake,2024-10-05T19:10:09.000Z,1671664,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",残酒,Paladin,Retribution,dps,Burning Blade
+72,285.4,297937916,8,The Necrotic Wake,2024-10-05T19:10:09.000Z,1671664,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小希的弯钩爪,Shaman,Restoration,healer,Burning Blade
+73,285.3,297795737,8,The Necrotic Wake,2024-10-05T05:10:12.000Z,1675795,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",咕叽乌冬,Priest,Discipline,healer,Deathwing
+73,285.3,297795737,8,The Necrotic Wake,2024-10-05T05:10:12.000Z,1675795,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超级鲨鱼辣椒,Warlock,Destruction,dps,Deathwing
+73,285.3,297795737,8,The Necrotic Wake,2024-10-05T05:10:12.000Z,1675795,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",开心超雄,Rogue,Assassination,dps,Deathwing
+73,285.3,297795737,8,The Necrotic Wake,2024-10-05T05:10:12.000Z,1675795,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",廖片儿,Death Knight,Blood,tank,Dreadmist Peak
+73,285.3,297795737,8,The Necrotic Wake,2024-10-05T05:10:12.000Z,1675795,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",三五法師,Mage,Arcane,dps,Anzu
+74,285.2,309479843,8,The Necrotic Wake,2024-11-28T08:50:01.000Z,1682490,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奥陌陌,Paladin,Retribution,dps,Deathwing
+74,285.2,309479843,8,The Necrotic Wake,2024-11-28T08:50:01.000Z,1682490,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",聖光萌主,Paladin,Retribution,dps,Al'ar
+74,285.2,309479843,8,The Necrotic Wake,2024-11-28T08:50:01.000Z,1682490,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",跑不快,Warlock,Destruction,dps,Kel'Thuzad
+74,285.2,309479843,8,The Necrotic Wake,2024-11-28T08:50:01.000Z,1682490,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sremmanuel,Priest,Holy,healer,Burning Blade
+74,285.2,309479843,8,The Necrotic Wake,2024-11-28T08:50:01.000Z,1682490,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",愿圣光庇护你,Paladin,Protection,tank,Grim Batol
+75,285.1,297330745,8,The Necrotic Wake,2024-10-03T06:06:25.000Z,1687192,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",歪比巴波灬,Warlock,Destruction,dps,Bloodfeather
+75,285.1,297330745,8,The Necrotic Wake,2024-10-03T06:06:25.000Z,1687192,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",桃小爷,Druid,Guardian,tank,Al'ar
+75,285.1,297330745,8,The Necrotic Wake,2024-10-03T06:06:25.000Z,1687192,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+75,285.1,297330745,8,The Necrotic Wake,2024-10-03T06:06:25.000Z,1687192,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",九分十二,Death Knight,Unholy,dps,Al'ar
+75,285.1,297330745,8,The Necrotic Wake,2024-10-03T06:06:25.000Z,1687192,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",真就血压拉满,Death Knight,Frost,dps,Anzu
+76,284.6,298083469,8,The Necrotic Wake,2024-10-06T05:22:15.000Z,1710101,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",死蚀,Death Knight,Unholy,dps,Al'ar
+76,284.6,298083469,8,The Necrotic Wake,2024-10-06T05:22:15.000Z,1710101,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",瓦希希,Paladin,Retribution,dps,Grim Batol
+76,284.6,298083469,8,The Necrotic Wake,2024-10-06T05:22:15.000Z,1710101,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶丨杀满丨,Shaman,Restoration,healer,Grim Batol
+76,284.6,298083469,8,The Necrotic Wake,2024-10-06T05:22:15.000Z,1710101,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",猿师傅,Warrior,Fury,dps,Al'ar
+76,284.6,298083469,8,The Necrotic Wake,2024-10-06T05:22:15.000Z,1710101,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你乃奶德,Druid,Guardian,tank,Anachronos
+77,284.6,309503172,8,The Necrotic Wake,2024-11-28T14:32:12.000Z,1711676,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冥月恶魔,Mage,Frost,dps,Feralas
+77,284.6,309503172,8,The Necrotic Wake,2024-11-28T14:32:12.000Z,1711676,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狂暴阿义,Warrior,Fury,dps,Guardian Blade
+77,284.6,309503172,8,The Necrotic Wake,2024-11-28T14:32:12.000Z,1711676,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灼热,Paladin,Retribution,dps,Ozumat
+77,284.6,309503172,8,The Necrotic Wake,2024-11-28T14:32:12.000Z,1711676,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",绯雨霖铃,Monk,Mistweaver,healer,Lightning's Blade
+77,284.6,309503172,8,The Necrotic Wake,2024-11-28T14:32:12.000Z,1711676,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",圣光丶血蹄,Paladin,Protection,tank,Lightning's Blade
+78,284.3,298640003,8,The Necrotic Wake,2024-10-08T14:06:35.000Z,1728840,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",赵铁柱,Death Knight,Blood,tank,Gyth
+78,284.3,298640003,8,The Necrotic Wake,2024-10-08T14:06:35.000Z,1728840,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",千斗五十铃,Shaman,Restoration,healer,Al'ar
+78,284.3,298640003,8,The Necrotic Wake,2024-10-08T14:06:35.000Z,1728840,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",扒肉条,Warlock,Destruction,dps,Al'ar
+78,284.3,298640003,8,The Necrotic Wake,2024-10-08T14:06:35.000Z,1728840,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",低脂滋补菌汤,Priest,Shadow,dps,Al'ar
+78,284.3,298640003,8,The Necrotic Wake,2024-10-08T14:06:35.000Z,1728840,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Stacyceh,Mage,Fire,dps,Deathwing
+79,284.2,304212575,8,The Necrotic Wake,2024-10-04T10:21:00.000Z,1654811,1860999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小只大萌德,Druid,Balance,dps,Ravencrest
+79,284.2,304212575,8,The Necrotic Wake,2024-10-04T10:21:00.000Z,1654811,1860999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",幻影之舞,Paladin,Retribution,dps,Well of Eternity
+79,284.2,304212575,8,The Necrotic Wake,2024-10-04T10:21:00.000Z,1654811,1860999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Rias,Warlock,Destruction,dps,Ravencrest
+79,284.2,304212575,8,The Necrotic Wake,2024-10-04T10:21:00.000Z,1654811,1860999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",洛璃沐唯,Evoker,Preservation,healer,Rhonin
+79,284.2,304212575,8,The Necrotic Wake,2024-10-04T10:21:00.000Z,1654811,1860999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我男神,Warrior,Protection,tank,Ravencrest
+80,283.2,309503848,8,The Necrotic Wake,2024-11-28T14:50:08.000Z,1786366,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",权志龙希尔,Evoker,Augmentation,dps,Al'ar
+80,283.2,309503848,8,The Necrotic Wake,2024-11-28T14:50:08.000Z,1786366,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶宝宝还小,Death Knight,Frost,dps,Illidan
+80,283.2,309503848,8,The Necrotic Wake,2024-11-28T14:50:08.000Z,1786366,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",五日天,Paladin,Retribution,dps,Illidan
+80,283.2,309503848,8,The Necrotic Wake,2024-11-28T14:50:08.000Z,1786366,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Athenelol,Paladin,Protection,tank,Rommath
+80,283.2,309503848,8,The Necrotic Wake,2024-11-28T14:50:08.000Z,1786366,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",痛打王德彪,Druid,Restoration,healer,Illidan
+81,282.7,297607031,8,The Necrotic Wake,2024-10-04T13:33:05.000Z,1811103,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",胖圈圏,Shaman,Elemental,dps,Al'ar
+81,282.7,297607031,8,The Necrotic Wake,2024-10-04T13:33:05.000Z,1811103,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",图图的裂蹄牛,Warrior,Protection,tank,Silver Hand
+81,282.7,297607031,8,The Necrotic Wake,2024-10-04T13:33:05.000Z,1811103,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超酷小猪,Mage,Frost,dps,Al'ar
+81,282.7,297607031,8,The Necrotic Wake,2024-10-04T13:33:05.000Z,1811103,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Skyfog,Warlock,Destruction,dps,Al'ar
+81,282.7,297607031,8,The Necrotic Wake,2024-10-04T13:33:05.000Z,1811103,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",是茶叶啊,Priest,Discipline,healer,Silver Hand
+82,280,297883363,7,The Necrotic Wake,2024-10-05T14:56:20.000Z,1111223,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",好苦,Warlock,Demonology,dps,Isillien
+82,280,297883363,7,The Necrotic Wake,2024-10-05T14:56:20.000Z,1111223,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",能猫果赖,Shaman,Restoration,healer,Burning Blade
+82,280,297883363,7,The Necrotic Wake,2024-10-05T14:56:20.000Z,1111223,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小丰丰啊,Death Knight,Frost,dps,Rhonin
+82,280,297883363,7,The Necrotic Wake,2024-10-05T14:56:20.000Z,1111223,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",藤丸立香,Death Knight,Frost,dps,Isillien
+82,280,297883363,7,The Necrotic Wake,2024-10-05T14:56:20.000Z,1111223,1950999,3,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",妙脆角丶,Druid,Guardian,tank,Isillien
+83,276.5,298671227,7,The Necrotic Wake,2024-10-08T15:41:28.000Z,1351321,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小索尔捏,Druid,Guardian,tank,Anzu
+83,276.5,298671227,7,The Necrotic Wake,2024-10-08T15:41:28.000Z,1351321,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Destiny,Rogue,Assassination,dps,Hogger
+83,276.5,298671227,7,The Necrotic Wake,2024-10-08T15:41:28.000Z,1351321,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",远雷遥,Shaman,Restoration,healer,The Golden Plains
+83,276.5,298671227,7,The Necrotic Wake,2024-10-08T15:41:28.000Z,1351321,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",我来抓你了,Hunter,Survival,dps,Dark Iron
+83,276.5,298671227,7,The Necrotic Wake,2024-10-08T15:41:28.000Z,1351321,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天生说话晚,Death Knight,Frost,dps,Anzu
+84,276,298106805,7,The Necrotic Wake,2024-10-06T08:20:07.000Z,1376910,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雪洛晨曦,Mage,Arcane,dps,Grim Batol
+84,276,298106805,7,The Necrotic Wake,2024-10-06T08:20:07.000Z,1376910,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶丨杀满丨,Shaman,Restoration,healer,Grim Batol
+84,276,298106805,7,The Necrotic Wake,2024-10-06T08:20:07.000Z,1376910,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",天堂无门,Warrior,Fury,dps,Grim Batol
+84,276,298106805,7,The Necrotic Wake,2024-10-06T08:20:07.000Z,1376910,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",疯狂灵斗士,Druid,Guardian,tank,Shadowmourne
+84,276,298106805,7,The Necrotic Wake,2024-10-06T08:20:07.000Z,1376910,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Stonecity,Paladin,Retribution,dps,Azjol-Nerub
+85,275.4,297798830,7,The Necrotic Wake,2024-10-05T05:46:21.000Z,1407914,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",集火天下无敌,Warrior,Protection,tank,Chillwind Point
+85,275.4,297798830,7,The Necrotic Wake,2024-10-05T05:46:21.000Z,1407914,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",电你牛牛,Shaman,Restoration,healer,Frostwolf
+85,275.4,297798830,7,The Necrotic Wake,2024-10-05T05:46:21.000Z,1407914,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",北城的石墙,Death Knight,Frost,dps,Burning Blade
+85,275.4,297798830,7,The Necrotic Wake,2024-10-05T05:46:21.000Z,1407914,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",紫月盟,Paladin,Retribution,dps,Swiftwind
+85,275.4,297798830,7,The Necrotic Wake,2024-10-05T05:46:21.000Z,1407914,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Rogg,Rogue,Assassination,dps,Burning Blade
+86,274.7,298387210,7,The Necrotic Wake,2024-10-07T07:34:45.000Z,1448670,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",月蝶华想,Priest,Discipline,healer,Silver Hand
+86,274.7,298387210,7,The Necrotic Wake,2024-10-07T07:34:45.000Z,1448670,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",超闪亮衮衮酱,Shaman,Enhancement,dps,Pandaren
+86,274.7,298387210,7,The Necrotic Wake,2024-10-07T07:34:45.000Z,1448670,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",咸鱼法呀,Mage,Frost,dps,Pandaren
+86,274.7,298387210,7,The Necrotic Wake,2024-10-07T07:34:45.000Z,1448670,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",黄陶,Warlock,Destruction,dps,Silver Hand
+86,274.7,298387210,7,The Necrotic Wake,2024-10-07T07:34:45.000Z,1448670,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小小懒熊,Druid,Guardian,tank,Cenarius
+87,274.6,298425976,7,The Necrotic Wake,2024-10-07T13:49:02.000Z,1451911,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小泡芙,Priest,Discipline,healer,Valley of Kings
+87,274.6,298425976,7,The Necrotic Wake,2024-10-07T13:49:02.000Z,1451911,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奇衡三,Death Knight,Blood,tank,Rhonin
+87,274.6,298425976,7,The Necrotic Wake,2024-10-07T13:49:02.000Z,1451911,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",古琹幽蘭,Warlock,Destruction,dps,Silver Hand
+87,274.6,298425976,7,The Necrotic Wake,2024-10-07T13:49:02.000Z,1451911,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Saofworld,Shaman,Elemental,dps,Kel'Thuzad
+87,274.6,298425976,7,The Necrotic Wake,2024-10-07T13:49:02.000Z,1451911,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",秋澪,Death Knight,Frost,dps,Alterac Mountains
+88,274.4,297804203,7,The Necrotic Wake,2024-10-05T06:06:10.000Z,1464269,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",如梦醒慑魂丶,Hunter,Marksmanship,dps,Kel'Thuzad
+88,274.4,297804203,7,The Necrotic Wake,2024-10-05T06:06:10.000Z,1464269,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",蹦蹦炸彈,Demon Hunter,Vengeance,tank,Blanchard
+88,274.4,297804203,7,The Necrotic Wake,2024-10-05T06:06:10.000Z,1464269,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",寻行,Rogue,Assassination,dps,Kel'Thuzad
+88,274.4,297804203,7,The Necrotic Wake,2024-10-05T06:06:10.000Z,1464269,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",如曲终破尘丶,Mage,Fire,dps,Kel'Thuzad
+88,274.4,297804203,7,The Necrotic Wake,2024-10-05T06:06:10.000Z,1464269,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小辣椒石宝宝,Shaman,Restoration,healer,Kel'Thuzad
+89,274.1,304212612,7,The Necrotic Wake,2024-10-07T04:18:23.000Z,1408306,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",幻影之舞,Paladin,Retribution,dps,Well of Eternity
+89,274.1,304212612,7,The Necrotic Wake,2024-10-07T04:18:23.000Z,1408306,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灿灿月,Monk,Windwalker,dps,Well of Eternity
+89,274.1,304212612,7,The Necrotic Wake,2024-10-07T04:18:23.000Z,1408306,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",高槻泉,Shaman,Restoration,healer,Well of Eternity
+89,274.1,304212612,7,The Necrotic Wake,2024-10-07T04:18:23.000Z,1408306,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冲钅释放,Warrior,Protection,tank,Ravencrest
+89,274.1,304212612,7,The Necrotic Wake,2024-10-07T04:18:23.000Z,1408306,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",圣光狂暴战,Paladin,Retribution,dps,Silver Hand
+90,274,300295809,7,The Necrotic Wake,2024-10-07T06:55:38.000Z,1484256,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",樱桃小丸喵,Death Knight,Frost,dps,Rhonin
+90,274,300295809,7,The Necrotic Wake,2024-10-07T06:55:38.000Z,1484256,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+90,274,300295809,7,The Necrotic Wake,2024-10-07T06:55:38.000Z,1484256,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",德云男孩,Shaman,Elemental,dps,Burning Blade
+90,274,300295809,7,The Necrotic Wake,2024-10-07T06:55:38.000Z,1484256,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",希罗多德的龙,Evoker,Devastation,dps,Rhonin
+90,274,300295809,7,The Necrotic Wake,2024-10-07T06:55:38.000Z,1484256,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Himekka,Shaman,Restoration,healer,Rhonin
+91,273.7,297575032,7,The Necrotic Wake,2024-10-04T08:47:36.000Z,1496557,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",犬丨来八荒,Monk,Brewmaster,tank,The Great Sea
+91,273.7,297575032,7,The Necrotic Wake,2024-10-04T08:47:36.000Z,1496557,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",婷婷不讲武德,Monk,Mistweaver,healer,Rhonin
+91,273.7,297575032,7,The Necrotic Wake,2024-10-04T08:47:36.000Z,1496557,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Gakki,Rogue,Assassination,dps,Gul'dan
+91,273.7,297575032,7,The Necrotic Wake,2024-10-04T08:47:36.000Z,1496557,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",虚梦老人,Hunter,Marksmanship,dps,The Great Sea
+91,273.7,297575032,7,The Necrotic Wake,2024-10-04T08:47:36.000Z,1496557,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",尼古丁的香味,Rogue,Assassination,dps,Gul'dan
+92,273.6,298812848,7,The Necrotic Wake,2024-10-09T05:11:15.000Z,1504126,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雷霆嘎灞,Druid,Guardian,tank,The Great Sea
+92,273.6,298812848,7,The Necrotic Wake,2024-10-09T05:11:15.000Z,1504126,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",额丶这奶有毒,Priest,Discipline,healer,The Great Sea
+92,273.6,298812848,7,The Necrotic Wake,2024-10-09T05:11:15.000Z,1504126,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",夜永恒,Paladin,Retribution,dps,The Great Sea
+92,273.6,298812848,7,The Necrotic Wake,2024-10-09T05:11:15.000Z,1504126,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",大胡子溜溜,Death Knight,Unholy,dps,The Great Sea
+92,273.6,298812848,7,The Necrotic Wake,2024-10-09T05:11:15.000Z,1504126,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冱渊君,Evoker,Augmentation,dps,Dar'Khan
+93,272.9,297416966,7,The Necrotic Wake,2024-10-03T17:45:36.000Z,1539528,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",沐橙秋轩,Paladin,Holy,healer,Rhonin
+93,272.9,297416966,7,The Necrotic Wake,2024-10-03T17:45:36.000Z,1539528,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",巧克力丶脉动,Paladin,Retribution,dps,Rhonin
+93,272.9,297416966,7,The Necrotic Wake,2024-10-03T17:45:36.000Z,1539528,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Janos,Death Knight,Blood,tank,Rhonin
+93,272.9,297416966,7,The Necrotic Wake,2024-10-03T17:45:36.000Z,1539528,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",马修赫伯特,Shaman,Elemental,dps,Rhonin
+93,272.9,297416966,7,The Necrotic Wake,2024-10-03T17:45:36.000Z,1539528,1950999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",疯人院小胧,Evoker,Augmentation,dps,Rhonin
+94,272.2,304212590,7,The Necrotic Wake,2024-10-05T08:27:22.000Z,1501626,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",灿灿月,Monk,Windwalker,dps,Well of Eternity
+94,272.2,304212590,7,The Necrotic Wake,2024-10-05T08:27:22.000Z,1501626,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",龙龙飞,Evoker,Devastation,dps,Ravencrest
+94,272.2,304212590,7,The Necrotic Wake,2024-10-05T08:27:22.000Z,1501626,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",忘了媛,Shaman,Restoration,healer,Well of Eternity
+94,272.2,304212590,7,The Necrotic Wake,2024-10-05T08:27:22.000Z,1501626,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",冲钅释放,Warrior,Protection,tank,Ravencrest
+94,272.2,304212590,7,The Necrotic Wake,2024-10-05T08:27:22.000Z,1501626,1860999,2,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",欧狸,Mage,Frost,dps,Deathwing
+95,271.7,303621156,7,The Necrotic Wake,2024-10-08T14:46:04.000Z,1600512,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丶迷醉,Rogue,Assassination,dps,The Great Sea
+95,271.7,303621156,7,The Necrotic Wake,2024-10-08T14:46:04.000Z,1600512,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",卜卜壹壹,Paladin,Retribution,dps,The Great Sea
+95,271.7,303621156,7,The Necrotic Wake,2024-10-08T14:46:04.000Z,1600512,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",怎么不算呢,Mage,Arcane,dps,The Great Sea
+95,271.7,303621156,7,The Necrotic Wake,2024-10-08T14:46:04.000Z,1600512,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",绝版青春,Paladin,Holy,healer,Zul'Aman
+95,271.7,303621156,7,The Necrotic Wake,2024-10-08T14:46:04.000Z,1600512,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丨丶快上车,Warrior,Protection,tank,Pandaren
+96,271.5,298400280,7,The Necrotic Wake,2024-10-07T09:33:57.000Z,1612451,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",矛知叫咩春好,Demon Hunter,Havoc,dps,Dreadmist Peak
+96,271.5,298400280,7,The Necrotic Wake,2024-10-07T09:33:57.000Z,1612451,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",无敌大防战,Warrior,Protection,tank,Rhonin
+96,271.5,298400280,7,The Necrotic Wake,2024-10-07T09:33:57.000Z,1612451,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小悬,Monk,Mistweaver,healer,Shadowmourne
+96,271.5,298400280,7,The Necrotic Wake,2024-10-07T09:33:57.000Z,1612451,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",银白之眼,Warrior,Fury,dps,Shadowmourne
+96,271.5,298400280,7,The Necrotic Wake,2024-10-07T09:33:57.000Z,1612451,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",风亭地精术,Warlock,Demonology,dps,Deathwing
+97,271.3,297822737,7,The Necrotic Wake,2024-10-05T09:39:57.000Z,1623615,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",最爱乐乐,Mage,Fire,dps,Ashenvale
+97,271.3,297822737,7,The Necrotic Wake,2024-10-05T09:39:57.000Z,1623615,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Cleric,Priest,Discipline,healer,Ashenvale
+97,271.3,297822737,7,The Necrotic Wake,2024-10-05T09:39:57.000Z,1623615,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",顾虚空,Warlock,Demonology,dps,Theramore
+97,271.3,297822737,7,The Necrotic Wake,2024-10-05T09:39:57.000Z,1623615,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",嫉妒,Death Knight,Frost,dps,Ashenvale
+97,271.3,297822737,7,The Necrotic Wake,2024-10-05T09:39:57.000Z,1623615,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",陈诗若伊,Demon Hunter,Vengeance,tank,Ashenvale
+98,271.2,297613625,7,The Necrotic Wake,2024-10-04T14:09:56.000Z,1630147,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",老气蓬勃,Druid,Guardian,tank,Frostmane
+98,271.2,297613625,7,The Necrotic Wake,2024-10-04T14:09:56.000Z,1630147,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",呦呦嚎嗖,Mage,Frost,dps,Frostmane
+98,271.2,297613625,7,The Necrotic Wake,2024-10-04T14:09:56.000Z,1630147,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",嗨豆丶法,Mage,Frost,dps,Frostmane
+98,271.2,297613625,7,The Necrotic Wake,2024-10-04T14:09:56.000Z,1630147,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",伏羲流云,Paladin,Retribution,dps,Burning Blade
+98,271.2,297613625,7,The Necrotic Wake,2024-10-04T14:09:56.000Z,1630147,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",达美乐,Monk,Mistweaver,healer,Burning Blade
+99,271,298685074,7,The Necrotic Wake,2024-10-08T17:09:08.000Z,1637142,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",鱿小袅,Warrior,Protection,tank,Grim Batol
+99,271,298685074,7,The Necrotic Wake,2024-10-08T17:09:08.000Z,1637142,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",林深迷鹿,Mage,Frost,dps,Silver Hand
+99,271,298685074,7,The Necrotic Wake,2024-10-08T17:09:08.000Z,1637142,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",丢了魂,Monk,Windwalker,dps,Grim Batol
+99,271,298685074,7,The Necrotic Wake,2024-10-08T17:09:08.000Z,1637142,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+99,271,298685074,7,The Necrotic Wake,2024-10-08T17:09:08.000Z,1637142,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",柠檬冰可乐,Shaman,Elemental,dps,Grim Batol
+100,270.5,298839583,7,The Necrotic Wake,2024-10-09T09:54:06.000Z,1665450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",小索尔捏,Druid,Guardian,tank,Anzu
+100,270.5,298839583,7,The Necrotic Wake,2024-10-09T09:54:06.000Z,1665450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",吓哭辣,Shaman,Restoration,healer,Anzu
+100,270.5,298839583,7,The Necrotic Wake,2024-10-09T09:54:06.000Z,1665450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",时我爱,Paladin,Retribution,dps,Anzu
+100,270.5,298839583,7,The Necrotic Wake,2024-10-09T09:54:06.000Z,1665450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",毒奶不能吃,Priest,Shadow,dps,Arathi
+100,270.5,298839583,7,The Necrotic Wake,2024-10-09T09:54:06.000Z,1665450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Alanthick,Death Knight,Frost,dps,Echo Ridge
+101,269.9,297642092,7,The Necrotic Wake,2024-10-04T16:46:37.000Z,1696165,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Kkid,Warlock,Destruction,dps,Red Cloud Mesa
+101,269.9,297642092,7,The Necrotic Wake,2024-10-04T16:46:37.000Z,1696165,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",爆炸小绵羊,Mage,Fire,dps,Lord Kazzak
+101,269.9,297642092,7,The Necrotic Wake,2024-10-04T16:46:37.000Z,1696165,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",寒月兮知,Warrior,Protection,tank,Moonglade
+101,269.9,297642092,7,The Necrotic Wake,2024-10-04T16:46:37.000Z,1696165,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",阿淝在学医,Shaman,Restoration,healer,Valley of Kings
+101,269.9,297642092,7,The Necrotic Wake,2024-10-04T16:46:37.000Z,1696165,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Sswtqs,Paladin,Retribution,dps,Red Cloud Mesa
+102,267.9,298432269,7,The Necrotic Wake,2024-10-07T14:38:44.000Z,1801932,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Cpatainuc,Demon Hunter,Vengeance,tank,Doomwalker
+102,267.9,298432269,7,The Necrotic Wake,2024-10-07T14:38:44.000Z,1801932,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",秦始皇二一四,Shaman,Restoration,healer,Hyjal
+102,267.9,298432269,7,The Necrotic Wake,2024-10-07T14:38:44.000Z,1801932,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",旧梦重拾丶,Paladin,Retribution,dps,Al'ar
+102,267.9,298432269,7,The Necrotic Wake,2024-10-07T14:38:44.000Z,1801932,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",Addie,Death Knight,Frost,dps,Lich King
+102,267.9,298432269,7,The Necrotic Wake,2024-10-07T14:38:44.000Z,1801932,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",骨灰白,Evoker,Augmentation,dps,Shadowmourne
+103,267.8,297539616,7,The Necrotic Wake,2024-10-04T04:14:47.000Z,1804391,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",肥天灬额,Shaman,Restoration,healer,Rhonin
+103,267.8,297539616,7,The Necrotic Wake,2024-10-04T04:14:47.000Z,1804391,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",狡猾之萨满,Shaman,Elemental,dps,Chillwind Point
+103,267.8,297539616,7,The Necrotic Wake,2024-10-04T04:14:47.000Z,1804391,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",萨拉塔嘶,Death Knight,Blood,tank,Pandaren
+103,267.8,297539616,7,The Necrotic Wake,2024-10-04T04:14:47.000Z,1804391,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",雷电法王升,Shaman,Elemental,dps,Chillwind Point
+103,267.8,297539616,7,The Necrotic Wake,2024-10-04T04:14:47.000Z,1804391,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",信仰老改改,Hunter,Survival,dps,The Master's Glaive
+104,267.4,298632013,7,The Necrotic Wake,2024-10-08T12:55:58.000Z,1826971,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",骑得龙咚锵,Evoker,Augmentation,dps,Kel'Thuzad
+104,267.4,298632013,7,The Necrotic Wake,2024-10-08T12:55:58.000Z,1826971,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",岛风,Death Knight,Frost,dps,Kel'Thuzad
+104,267.4,298632013,7,The Necrotic Wake,2024-10-08T12:55:58.000Z,1826971,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",斯溫丶,Warrior,Protection,tank,Kel'Thuzad
+104,267.4,298632013,7,The Necrotic Wake,2024-10-08T12:55:58.000Z,1826971,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",你干嘛,Death Knight,Frost,dps,Kel'Thuzad
+104,267.4,298632013,7,The Necrotic Wake,2024-10-08T12:55:58.000Z,1826971,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",筋肉野郎,Shaman,Restoration,healer,Valley of Kings
+105,267.2,297583822,7,The Necrotic Wake,2024-10-04T10:14:08.000Z,1834450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",七夜式,Mage,Frost,dps,Shadowmourne
+105,267.2,297583822,7,The Necrotic Wake,2024-10-04T10:14:08.000Z,1834450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",婷婷不讲武德,Monk,Mistweaver,healer,Rhonin
+105,267.2,297583822,7,The Necrotic Wake,2024-10-04T10:14:08.000Z,1834450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",叶凉嗯,Paladin,Retribution,dps,Scarlet Crusade
+105,267.2,297583822,7,The Necrotic Wake,2024-10-04T10:14:08.000Z,1834450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",苍白战马,Warlock,Affliction,dps,Silver Hand
+105,267.2,297583822,7,The Necrotic Wake,2024-10-04T10:14:08.000Z,1834450,1950999,1,"Xal'atath's Bargain: Voidbound, Tyrannical, Challenger's Peril",奶油爸爸一,Demon Hunter,Vengeance,tank,Shadowmourne

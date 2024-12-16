@@ -1,0 +1,136 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,304212523,3,"Ara-Kara, City of Echoes",2024-09-21T08:14:31.000Z,858615,1800999,3,Xal'atath's Bargain: Ascendant,高槻泉,Shaman,Enhancement,dps,Well of Eternity
+1,195,304212523,3,"Ara-Kara, City of Echoes",2024-09-21T08:14:31.000Z,858615,1800999,3,Xal'atath's Bargain: Ascendant,小只萌迪凯,Death Knight,Blood,tank,Ravencrest
+1,195,304212523,3,"Ara-Kara, City of Echoes",2024-09-21T08:14:31.000Z,858615,1800999,3,Xal'atath's Bargain: Ascendant,弦卷心丷,Monk,Mistweaver,healer,Silver Hand
+1,195,304212523,3,"Ara-Kara, City of Echoes",2024-09-21T08:14:31.000Z,858615,1800999,3,Xal'atath's Bargain: Ascendant,Rias,Warlock,Demonology,dps,Ravencrest
+1,195,304212523,3,"Ara-Kara, City of Echoes",2024-09-21T08:14:31.000Z,858615,1800999,3,Xal'atath's Bargain: Ascendant,吾敌,Death Knight,Frost,dps,Well of Eternity
+2,195,294936833,3,"Ara-Kara, City of Echoes",2024-09-24T15:04:13.000Z,1025710,1800999,3,Xal'atath's Bargain: Ascendant,Cpatainuc,Demon Hunter,Vengeance,tank,Doomwalker
+2,195,294936833,3,"Ara-Kara, City of Echoes",2024-09-24T15:04:13.000Z,1025710,1800999,3,Xal'atath's Bargain: Ascendant,秦始皇二一四,Shaman,Restoration,healer,Hyjal
+2,195,294936833,3,"Ara-Kara, City of Echoes",2024-09-24T15:04:13.000Z,1025710,1800999,3,Xal'atath's Bargain: Ascendant,博丽魔理沙,Mage,Arcane,dps,Hyjal
+2,195,294936833,3,"Ara-Kara, City of Echoes",2024-09-24T15:04:13.000Z,1025710,1800999,3,Xal'atath's Bargain: Ascendant,沉默的牧師,Priest,Shadow,dps,Hyjal
+2,195,294936833,3,"Ara-Kara, City of Echoes",2024-09-24T15:04:13.000Z,1025710,1800999,3,Xal'atath's Bargain: Ascendant,沉默的大酋长,Warrior,Fury,dps,Hyjal
+3,194.7,293468035,3,"Ara-Kara, City of Echoes",2024-09-21T08:09:08.000Z,1093377,1800999,2,Xal'atath's Bargain: Ascendant,一一卡卡一一,Mage,Frost,dps,Rhonin
+3,194.7,293468035,3,"Ara-Kara, City of Echoes",2024-09-21T08:09:08.000Z,1093377,1800999,2,Xal'atath's Bargain: Ascendant,轻盈的小胖子,Druid,Restoration,healer,Rhonin
+3,194.7,293468035,3,"Ara-Kara, City of Echoes",2024-09-21T08:09:08.000Z,1093377,1800999,2,Xal'atath's Bargain: Ascendant,Vangol,Druid,Guardian,tank,Rhonin
+3,194.7,293468035,3,"Ara-Kara, City of Echoes",2024-09-21T08:09:08.000Z,1093377,1800999,2,Xal'atath's Bargain: Ascendant,牧野锦,Warrior,Fury,dps,The Golden Plains
+3,194.7,293468035,3,"Ara-Kara, City of Echoes",2024-09-21T08:09:08.000Z,1093377,1800999,2,Xal'atath's Bargain: Ascendant,神鲸递质,Demon Hunter,Havoc,dps,Rhonin
+4,194.1,307107540,3,"Ara-Kara, City of Echoes",2024-11-14T03:52:31.000Z,1123655,1800999,2,Xal'atath's Bargain: Ascendant,三笠乄,Mage,Frost,dps,Executus
+4,194.1,307107540,3,"Ara-Kara, City of Echoes",2024-11-14T03:52:31.000Z,1123655,1800999,2,Xal'atath's Bargain: Ascendant,涛涛哥,Hunter,Survival,dps,Silver Hand
+4,194.1,307107540,3,"Ara-Kara, City of Echoes",2024-11-14T03:52:31.000Z,1123655,1800999,2,Xal'atath's Bargain: Ascendant,帕氪,Monk,Brewmaster,tank,Frostmane
+4,194.1,307107540,3,"Ara-Kara, City of Echoes",2024-11-14T03:52:31.000Z,1123655,1800999,2,Xal'atath's Bargain: Ascendant,陶阿陶,Priest,Discipline,healer,Gadgetzan
+4,194.1,307107540,3,"Ara-Kara, City of Echoes",2024-11-14T03:52:31.000Z,1123655,1800999,2,Xal'atath's Bargain: Ascendant,主是硬,Paladin,Retribution,dps,Vol'jin
+5,192,307668624,3,"Ara-Kara, City of Echoes",2024-11-17T06:37:59.000Z,1226957,1800999,2,Xal'atath's Bargain: Ascendant,谕緈,Paladin,Retribution,dps,Bloodscalp
+5,192,307668624,3,"Ara-Kara, City of Echoes",2024-11-17T06:37:59.000Z,1226957,1800999,2,Xal'atath's Bargain: Ascendant,萌萌哒的铁拳,Hunter,Beast Mastery,dps,Holy Chanter
+5,192,307668624,3,"Ara-Kara, City of Echoes",2024-11-17T06:37:59.000Z,1226957,1800999,2,Xal'atath's Bargain: Ascendant,Sqs,Shaman,Restoration,healer,Bloodscalp
+5,192,307668624,3,"Ara-Kara, City of Echoes",2024-11-17T06:37:59.000Z,1226957,1800999,2,Xal'atath's Bargain: Ascendant,Mambaqs,Paladin,Protection,tank,Silver Hand
+5,192,307668624,3,"Ara-Kara, City of Echoes",2024-11-17T06:37:59.000Z,1226957,1800999,2,Xal'atath's Bargain: Ascendant,壮壮队长,Mage,Frost,dps,Neptulon
+6,186.2,307904477,3,"Ara-Kara, City of Echoes",2024-11-18T13:13:41.000Z,1500945,1800999,1,Xal'atath's Bargain: Ascendant,Nóc,Warlock,Destruction,dps,Al'ar
+6,186.2,307904477,3,"Ara-Kara, City of Echoes",2024-11-18T13:13:41.000Z,1500945,1800999,1,Xal'atath's Bargain: Ascendant,黑皮野兽,Death Knight,Frost,dps,Bleeding Hollow
+6,186.2,307904477,3,"Ara-Kara, City of Echoes",2024-11-18T13:13:41.000Z,1500945,1800999,1,Xal'atath's Bargain: Ascendant,开心野猪,Priest,Discipline,healer,Bleeding Hollow
+6,186.2,307904477,3,"Ara-Kara, City of Echoes",2024-11-18T13:13:41.000Z,1500945,1800999,1,Xal'atath's Bargain: Ascendant,杯莫停与君歌,Shaman,Enhancement,dps,Blanchard
+6,186.2,307904477,3,"Ara-Kara, City of Echoes",2024-11-18T13:13:41.000Z,1500945,1800999,1,Xal'atath's Bargain: Ascendant,灬法思灬,Warrior,Protection,tank,Staghelm
+7,183,303427643,3,"Ara-Kara, City of Echoes",2024-10-28T15:25:55.000Z,1657560,1800999,1,Xal'atath's Bargain: Ascendant,薄樱,Demon Hunter,Vengeance,tank,Al'ar
+7,183,303427643,3,"Ara-Kara, City of Echoes",2024-10-28T15:25:55.000Z,1657560,1800999,1,Xal'atath's Bargain: Ascendant,飞水饺子,Evoker,Devastation,dps,Scarlet Crusade
+7,183,303427643,3,"Ara-Kara, City of Echoes",2024-10-28T15:25:55.000Z,1657560,1800999,1,Xal'atath's Bargain: Ascendant,餐蛋饭团,Shaman,Restoration,healer,Al'ar
+7,183,303427643,3,"Ara-Kara, City of Echoes",2024-10-28T15:25:55.000Z,1657560,1800999,1,Xal'atath's Bargain: Ascendant,Elvira,Paladin,Retribution,dps,Sunwell
+7,183,303427643,3,"Ara-Kara, City of Echoes",2024-10-28T15:25:55.000Z,1657560,1800999,1,Xal'atath's Bargain: Ascendant,忘川的妖精,Paladin,Retribution,dps,Scarlet Crusade
+8,180,302601202,2,"Ara-Kara, City of Echoes",2024-10-25T02:12:20.000Z,656679,1800999,3,Xal'atath's Bargain: Ascendant,月弦倚歌,Paladin,Protection,tank,Silver Hand
+8,180,302601202,2,"Ara-Kara, City of Echoes",2024-10-25T02:12:20.000Z,656679,1800999,3,Xal'atath's Bargain: Ascendant,发条茉莉,Death Knight,Unholy,dps,The Great Sea
+8,180,302601202,2,"Ara-Kara, City of Echoes",2024-10-25T02:12:20.000Z,656679,1800999,3,Xal'atath's Bargain: Ascendant,偷偷鸭,Rogue,Assassination,dps,Burning Blade
+8,180,302601202,2,"Ara-Kara, City of Echoes",2024-10-25T02:12:20.000Z,656679,1800999,3,Xal'atath's Bargain: Ascendant,Rimurumage,Mage,Arcane,dps,Burning Blade
+8,180,302601202,2,"Ara-Kara, City of Echoes",2024-10-25T02:12:20.000Z,656679,1800999,3,Xal'atath's Bargain: Ascendant,红豆月灼,Priest,Holy,healer,Burning Blade
+9,180,303137726,2,"Ara-Kara, City of Echoes",2024-10-27T08:40:33.000Z,732934,1800999,3,Xal'atath's Bargain: Ascendant,Wisher,Mage,Frost,dps,Lightning's Blade
+9,180,303137726,2,"Ara-Kara, City of Echoes",2024-10-27T08:40:33.000Z,732934,1800999,3,Xal'atath's Bargain: Ascendant,玄骨,Death Knight,Frost,dps,Eldre'Thalas
+9,180,303137726,2,"Ara-Kara, City of Echoes",2024-10-27T08:40:33.000Z,732934,1800999,3,Xal'atath's Bargain: Ascendant,事后一根白沙,Demon Hunter,Vengeance,tank,Wrath Gate
+9,180,303137726,2,"Ara-Kara, City of Echoes",2024-10-27T08:40:33.000Z,732934,1800999,3,Xal'atath's Bargain: Ascendant,小雨亚克西,Evoker,Augmentation,dps,Silver Hand
+9,180,303137726,2,"Ara-Kara, City of Echoes",2024-10-27T08:40:33.000Z,732934,1800999,3,Xal'atath's Bargain: Ascendant,小福利,Shaman,Restoration,healer,Al'ar
+10,180,304212531,2,"Ara-Kara, City of Echoes",2024-09-22T09:31:23.000Z,809334,1800999,3,Xal'atath's Bargain: Ascendant,幻影之舞,Paladin,Retribution,dps,Well of Eternity
+10,180,304212531,2,"Ara-Kara, City of Echoes",2024-09-22T09:31:23.000Z,809334,1800999,3,Xal'atath's Bargain: Ascendant,高槻泉,Shaman,Restoration,healer,Well of Eternity
+10,180,304212531,2,"Ara-Kara, City of Echoes",2024-09-22T09:31:23.000Z,809334,1800999,3,Xal'atath's Bargain: Ascendant,小只萌迪凯,Death Knight,Blood,tank,Ravencrest
+10,180,304212531,2,"Ara-Kara, City of Echoes",2024-09-22T09:31:23.000Z,809334,1800999,3,Xal'atath's Bargain: Ascendant,Rias,Warlock,Demonology,dps,Ravencrest
+10,180,304212531,2,"Ara-Kara, City of Echoes",2024-09-22T09:31:23.000Z,809334,1800999,3,Xal'atath's Bargain: Ascendant,吾敌,Death Knight,Frost,dps,Well of Eternity
+11,180,307315212,2,"Ara-Kara, City of Echoes",2024-11-15T13:58:47.000Z,820970,1800999,3,Xal'atath's Bargain: Ascendant,黑塑水,Mage,Frost,dps,Deathwing
+11,180,307315212,2,"Ara-Kara, City of Echoes",2024-11-15T13:58:47.000Z,820970,1800999,3,Xal'atath's Bargain: Ascendant,开路以马斯,Paladin,Protection,tank,Grim Batol
+11,180,307315212,2,"Ara-Kara, City of Echoes",2024-11-15T13:58:47.000Z,820970,1800999,3,Xal'atath's Bargain: Ascendant,钢琴戒断师,Priest,Discipline,healer,Grim Batol
+11,180,307315212,2,"Ara-Kara, City of Echoes",2024-11-15T13:58:47.000Z,820970,1800999,3,Xal'atath's Bargain: Ascendant,毁灭与消亡,Death Knight,Unholy,dps,Rhonin
+11,180,307315212,2,"Ara-Kara, City of Echoes",2024-11-15T13:58:47.000Z,820970,1800999,3,Xal'atath's Bargain: Ascendant,丶唐可可,Shaman,Enhancement,dps,The Master's Glaive
+12,180,303844052,2,"Ara-Kara, City of Echoes",2024-10-30T14:19:04.000Z,823994,1800999,3,Xal'atath's Bargain: Ascendant,溫西尔奶骑,Paladin,Retribution,dps,Deathwing
+12,180,303844052,2,"Ara-Kara, City of Echoes",2024-10-30T14:19:04.000Z,823994,1800999,3,Xal'atath's Bargain: Ascendant,脑浆与苹果派,Death Knight,Unholy,dps,Echo Ridge
+12,180,303844052,2,"Ara-Kara, City of Echoes",2024-10-30T14:19:04.000Z,823994,1800999,3,Xal'atath's Bargain: Ascendant,豹豹西瓜冰,Death Knight,Blood,tank,Echo Ridge
+12,180,303844052,2,"Ara-Kara, City of Echoes",2024-10-30T14:19:04.000Z,823994,1800999,3,Xal'atath's Bargain: Ascendant,淡黄色的花瓣,Rogue,Outlaw,dps,Echo Ridge
+12,180,303844052,2,"Ara-Kara, City of Echoes",2024-10-30T14:19:04.000Z,823994,1800999,3,Xal'atath's Bargain: Ascendant,玖月廿二,Shaman,Restoration,healer,Echo Ridge
+13,180,307907766,2,"Ara-Kara, City of Echoes",2024-11-18T13:45:33.000Z,826701,1800999,3,Xal'atath's Bargain: Ascendant,丶狠人睿,Warrior,Fury,dps,Silver Hand
+13,180,307907766,2,"Ara-Kara, City of Echoes",2024-11-18T13:45:33.000Z,826701,1800999,3,Xal'atath's Bargain: Ascendant,丿老王丶,Evoker,Augmentation,dps,Silver Hand
+13,180,307907766,2,"Ara-Kara, City of Echoes",2024-11-18T13:45:33.000Z,826701,1800999,3,Xal'atath's Bargain: Ascendant,禅野,Shaman,Enhancement,dps,Barrens
+13,180,307907766,2,"Ara-Kara, City of Echoes",2024-11-18T13:45:33.000Z,826701,1800999,3,Xal'atath's Bargain: Ascendant,君生,Paladin,Protection,tank,The Master's Glaive
+13,180,307907766,2,"Ara-Kara, City of Echoes",2024-11-18T13:45:33.000Z,826701,1800999,3,Xal'atath's Bargain: Ascendant,Vigvor,Shaman,Restoration,healer,Silver Hand
+14,180,307146245,2,"Ara-Kara, City of Echoes",2024-11-14T12:07:18.000Z,832057,1800999,3,Xal'atath's Bargain: Ascendant,洛箫晴,Death Knight,Blood,tank,Kel'Thuzad
+14,180,307146245,2,"Ara-Kara, City of Echoes",2024-11-14T12:07:18.000Z,832057,1800999,3,Xal'atath's Bargain: Ascendant,相白质黑,Warlock,Destruction,dps,Kel'Thuzad
+14,180,307146245,2,"Ara-Kara, City of Echoes",2024-11-14T12:07:18.000Z,832057,1800999,3,Xal'atath's Bargain: Ascendant,你要寄了吗,Druid,Restoration,healer,Kel'Thuzad
+14,180,307146245,2,"Ara-Kara, City of Echoes",2024-11-14T12:07:18.000Z,832057,1800999,3,Xal'atath's Bargain: Ascendant,海边牛肉,Shaman,Enhancement,dps,Kel'Thuzad
+14,180,307146245,2,"Ara-Kara, City of Echoes",2024-11-14T12:07:18.000Z,832057,1800999,3,Xal'atath's Bargain: Ascendant,折翼,Evoker,Augmentation,dps,Kel'Thuzad
+15,180,307668518,2,"Ara-Kara, City of Echoes",2024-11-17T06:34:24.000Z,842838,1800999,3,Xal'atath's Bargain: Ascendant,傍山屯小诸葛,Shaman,Enhancement,dps,Blanchard
+15,180,307668518,2,"Ara-Kara, City of Echoes",2024-11-17T06:34:24.000Z,842838,1800999,3,Xal'atath's Bargain: Ascendant,撒撒亮,Demon Hunter,Vengeance,tank,Blanchard
+15,180,307668518,2,"Ara-Kara, City of Echoes",2024-11-17T06:34:24.000Z,842838,1800999,3,Xal'atath's Bargain: Ascendant,岛田半藏,Hunter,Survival,dps,Isillien
+15,180,307668518,2,"Ara-Kara, City of Echoes",2024-11-17T06:34:24.000Z,842838,1800999,3,Xal'atath's Bargain: Ascendant,冷冷的,Priest,Discipline,healer,Dark Iron
+15,180,307668518,2,"Ara-Kara, City of Echoes",2024-11-17T06:34:24.000Z,842838,1800999,3,Xal'atath's Bargain: Ascendant,Gongyu,Paladin,Retribution,dps,Silver Hand
+16,180,308232145,2,"Ara-Kara, City of Echoes",2024-11-20T03:49:07.000Z,876958,1800999,3,Xal'atath's Bargain: Ascendant,想盖就盖姚明,Druid,Restoration,healer,Chillwind Point
+16,180,308232145,2,"Ara-Kara, City of Echoes",2024-11-20T03:49:07.000Z,876958,1800999,3,Xal'atath's Bargain: Ascendant,小白,Shaman,Enhancement,dps,Thunder Axe Fortress
+16,180,308232145,2,"Ara-Kara, City of Echoes",2024-11-20T03:49:07.000Z,876958,1800999,3,Xal'atath's Bargain: Ascendant,一一大宝贝,Hunter,Beast Mastery,dps,Frostmane
+16,180,308232145,2,"Ara-Kara, City of Echoes",2024-11-20T03:49:07.000Z,876958,1800999,3,Xal'atath's Bargain: Ascendant,不是京羽,Death Knight,Blood,tank,Silver Hand
+16,180,308232145,2,"Ara-Kara, City of Echoes",2024-11-20T03:49:07.000Z,876958,1800999,3,Xal'atath's Bargain: Ascendant,家常酱牛肉,Paladin,Retribution,dps,Al'ar
+17,180,300297706,2,"Ara-Kara, City of Echoes",2024-09-22T23:49:11.000Z,968401,1800999,3,Xal'atath's Bargain: Ascendant,Rayalexdh,Demon Hunter,Vengeance,tank,Deathwing
+17,180,300297706,2,"Ara-Kara, City of Echoes",2024-09-22T23:49:11.000Z,968401,1800999,3,Xal'atath's Bargain: Ascendant,Zrn,Warrior,Fury,dps,Frostmourne
+17,180,300297706,2,"Ara-Kara, City of Echoes",2024-09-22T23:49:11.000Z,968401,1800999,3,Xal'atath's Bargain: Ascendant,芝士兔奶糖,Priest,Discipline,healer,Deathwing
+17,180,300297706,2,"Ara-Kara, City of Echoes",2024-09-22T23:49:11.000Z,968401,1800999,3,Xal'atath's Bargain: Ascendant,海大贵,Mage,Frost,dps,Nozdormu
+17,180,300297706,2,"Ara-Kara, City of Echoes",2024-09-22T23:49:11.000Z,968401,1800999,3,Xal'atath's Bargain: Ascendant,回忆的天空,Paladin,Retribution,dps,Dath'Remar
+18,180,307672172,2,"Ara-Kara, City of Echoes",2024-11-17T08:03:59.000Z,993291,1800999,3,Xal'atath's Bargain: Ascendant,Mambaqs,Paladin,Protection,tank,Silver Hand
+18,180,307672172,2,"Ara-Kara, City of Echoes",2024-11-17T08:03:59.000Z,993291,1800999,3,Xal'atath's Bargain: Ascendant,补血口服液,Shaman,Restoration,healer,The Great Sea
+18,180,307672172,2,"Ara-Kara, City of Echoes",2024-11-17T08:03:59.000Z,993291,1800999,3,Xal'atath's Bargain: Ascendant,白富矮,Shaman,Elemental,dps,Rhonin
+18,180,307672172,2,"Ara-Kara, City of Echoes",2024-11-17T08:03:59.000Z,993291,1800999,3,Xal'atath's Bargain: Ascendant,汤圆白白,Paladin,Retribution,dps,Al'ar
+18,180,307672172,2,"Ara-Kara, City of Echoes",2024-11-17T08:03:59.000Z,993291,1800999,3,Xal'atath's Bargain: Ascendant,流刄若火,Death Knight,Frost,dps,Al'ar
+19,180,307711382,2,"Ara-Kara, City of Echoes",2024-11-17T13:11:35.000Z,1006147,1800999,3,Xal'atath's Bargain: Ascendant,露狄安娜,Hunter,Survival,dps,Chillwind Point
+19,180,307711382,2,"Ara-Kara, City of Echoes",2024-11-17T13:11:35.000Z,1006147,1800999,3,Xal'atath's Bargain: Ascendant,乀阿彪乄,Hunter,Survival,dps,Chillwind Point
+19,180,307711382,2,"Ara-Kara, City of Echoes",2024-11-17T13:11:35.000Z,1006147,1800999,3,Xal'atath's Bargain: Ascendant,莫余毒也,Shaman,Enhancement,dps,Silver Hand
+19,180,307711382,2,"Ara-Kara, City of Echoes",2024-11-17T13:11:35.000Z,1006147,1800999,3,Xal'atath's Bargain: Ascendant,小笨蛋喵,Priest,Holy,healer,Rhonin
+19,180,307711382,2,"Ara-Kara, City of Echoes",2024-11-17T13:11:35.000Z,1006147,1800999,3,Xal'atath's Bargain: Ascendant,塞翁吃吃马,Death Knight,Blood,tank,Chillwind Point
+20,180,308128831,2,"Ara-Kara, City of Echoes",2024-11-19T18:43:16.000Z,1056630,1800999,3,Xal'atath's Bargain: Ascendant,过期山药,Druid,Balance,dps,Deathwing
+20,180,308128831,2,"Ara-Kara, City of Echoes",2024-11-19T18:43:16.000Z,1056630,1800999,3,Xal'atath's Bargain: Ascendant,陈红花,Shaman,Restoration,healer,Zealot Blade
+20,180,308128831,2,"Ara-Kara, City of Echoes",2024-11-19T18:43:16.000Z,1056630,1800999,3,Xal'atath's Bargain: Ascendant,亨亨哈嘿,Monk,Brewmaster,tank,Proudmoore
+20,180,308128831,2,"Ara-Kara, City of Echoes",2024-11-19T18:43:16.000Z,1056630,1800999,3,Xal'atath's Bargain: Ascendant,墓钟无人,Paladin,Retribution,dps,Shadowmourne
+20,180,308128831,2,"Ara-Kara, City of Echoes",2024-11-19T18:43:16.000Z,1056630,1800999,3,Xal'atath's Bargain: Ascendant,看风景的潇潇,Warlock,Demonology,dps,Rhonin
+21,180,307505128,2,"Ara-Kara, City of Echoes",2024-11-16T14:09:24.000Z,1066016,1800999,3,Xal'atath's Bargain: Ascendant,你打不过我的,Shaman,Elemental,dps,Hakkar
+21,180,307505128,2,"Ara-Kara, City of Echoes",2024-11-16T14:09:24.000Z,1066016,1800999,3,Xal'atath's Bargain: Ascendant,雲蒸龍變,Priest,Shadow,dps,Al'ar
+21,180,307505128,2,"Ara-Kara, City of Echoes",2024-11-16T14:09:24.000Z,1066016,1800999,3,Xal'atath's Bargain: Ascendant,Sevenxz,Rogue,Assassination,dps,Silver Hand
+21,180,307505128,2,"Ara-Kara, City of Echoes",2024-11-16T14:09:24.000Z,1066016,1800999,3,Xal'atath's Bargain: Ascendant,Tianci,Paladin,Protection,tank,Swiftwind
+21,180,307505128,2,"Ara-Kara, City of Echoes",2024-11-16T14:09:24.000Z,1066016,1800999,3,Xal'atath's Bargain: Ascendant,落地求撒欢,Shaman,Restoration,healer,Grim Batol
+22,179.1,293750758,2,"Ara-Kara, City of Echoes",2024-09-21T10:32:46.000Z,1124653,1800999,2,Xal'atath's Bargain: Ascendant,艾莉丶,Paladin,Retribution,dps,Echo Ridge
+22,179.1,293750758,2,"Ara-Kara, City of Echoes",2024-09-21T10:32:46.000Z,1124653,1800999,2,Xal'atath's Bargain: Ascendant,天天晒太阳,Death Knight,Frost,dps,Chillwind Point
+22,179.1,293750758,2,"Ara-Kara, City of Echoes",2024-09-21T10:32:46.000Z,1124653,1800999,2,Xal'atath's Bargain: Ascendant,影刃者,Demon Hunter,Vengeance,tank,Al'ar
+22,179.1,293750758,2,"Ara-Kara, City of Echoes",2024-09-21T10:32:46.000Z,1124653,1800999,2,Xal'atath's Bargain: Ascendant,墓奶,Priest,Discipline,healer,Chillwind Point
+22,179.1,293750758,2,"Ara-Kara, City of Echoes",2024-09-21T10:32:46.000Z,1124653,1800999,2,Xal'atath's Bargain: Ascendant,暴食饕餮,Mage,Frost,dps,Frostmourne
+23,177.6,300297227,2,"Ara-Kara, City of Echoes",2024-09-20T14:15:57.000Z,1194488,1800999,2,Xal'atath's Bargain: Ascendant,尘埃遇风,Druid,Balance,dps,Shadowmourne
+23,177.6,300297227,2,"Ara-Kara, City of Echoes",2024-09-20T14:15:57.000Z,1194488,1800999,2,Xal'atath's Bargain: Ascendant,Wtmddnmb,Death Knight,Blood,tank,Burning Blade
+23,177.6,300297227,2,"Ara-Kara, City of Echoes",2024-09-20T14:15:57.000Z,1194488,1800999,2,Xal'atath's Bargain: Ascendant,醉后余欢丶,Mage,Frost,dps,Grim Batol
+23,177.6,300297227,2,"Ara-Kara, City of Echoes",2024-09-20T14:15:57.000Z,1194488,1800999,2,Xal'atath's Bargain: Ascendant,丶臭乌龟丶,Death Knight,Unholy,dps,Burning Blade
+23,177.6,300297227,2,"Ara-Kara, City of Echoes",2024-09-20T14:15:57.000Z,1194488,1800999,2,Xal'atath's Bargain: Ascendant,折耳根,Shaman,Restoration,healer,Hogger
+24,175.7,303404985,2,"Ara-Kara, City of Echoes",2024-10-28T12:12:25.000Z,1285521,1800999,2,Xal'atath's Bargain: Ascendant,Rachêl,Priest,Discipline,healer,Eldre'Thalas
+24,175.7,303404985,2,"Ara-Kara, City of Echoes",2024-10-28T12:12:25.000Z,1285521,1800999,2,Xal'atath's Bargain: Ascendant,丷萨拉塔斯,Priest,Shadow,dps,Eldre'Thalas
+24,175.7,303404985,2,"Ara-Kara, City of Echoes",2024-10-28T12:12:25.000Z,1285521,1800999,2,Xal'atath's Bargain: Ascendant,一大只,Druid,Guardian,tank,Eldre'Thalas
+24,175.7,303404985,2,"Ara-Kara, City of Echoes",2024-10-28T12:12:25.000Z,1285521,1800999,2,Xal'atath's Bargain: Ascendant,雪之下雪乃,Mage,Frost,dps,Thaurissan
+24,175.7,303404985,2,"Ara-Kara, City of Echoes",2024-10-28T12:12:25.000Z,1285521,1800999,2,Xal'atath's Bargain: Ascendant,情报贩子,Evoker,Augmentation,dps,Eldre'Thalas
+25,173.5,307469851,2,"Ara-Kara, City of Echoes",2024-11-16T08:45:29.000Z,1390573,1800999,2,Xal'atath's Bargain: Ascendant,Lointain,Shaman,Restoration,healer,The Master's Glaive
+25,173.5,307469851,2,"Ara-Kara, City of Echoes",2024-11-16T08:45:29.000Z,1390573,1800999,2,Xal'atath's Bargain: Ascendant,有个人,Evoker,Augmentation,dps,Moonglade
+25,173.5,307469851,2,"Ara-Kara, City of Echoes",2024-11-16T08:45:29.000Z,1390573,1800999,2,Xal'atath's Bargain: Ascendant,青崖冫冫,Monk,Brewmaster,tank,Anzu
+25,173.5,307469851,2,"Ara-Kara, City of Echoes",2024-11-16T08:45:29.000Z,1390573,1800999,2,Xal'atath's Bargain: Ascendant,Leavessm,Shaman,Elemental,dps,Tortheldrin
+25,173.5,307469851,2,"Ara-Kara, City of Echoes",2024-11-16T08:45:29.000Z,1390573,1800999,2,Xal'atath's Bargain: Ascendant,Verzweiflung,Paladin,Retribution,dps,Al'ar
+26,167.3,307101659,2,"Ara-Kara, City of Echoes",2024-11-14T02:33:44.000Z,1688432,1800999,1,Xal'atath's Bargain: Ascendant,Jarvenn,Hunter,Survival,dps,Pandaren
+26,167.3,307101659,2,"Ara-Kara, City of Echoes",2024-11-14T02:33:44.000Z,1688432,1800999,1,Xal'atath's Bargain: Ascendant,Answerq,Demon Hunter,Vengeance,tank,Al'ar
+26,167.3,307101659,2,"Ara-Kara, City of Echoes",2024-11-14T02:33:44.000Z,1688432,1800999,1,Xal'atath's Bargain: Ascendant,窗外月朦胧夜,Shaman,Restoration,healer,Fray Island
+26,167.3,307101659,2,"Ara-Kara, City of Echoes",2024-11-14T02:33:44.000Z,1688432,1800999,1,Xal'atath's Bargain: Ascendant,粒粒万乡,Mage,Frost,dps,Frostmourne
+26,167.3,307101659,2,"Ara-Kara, City of Echoes",2024-11-14T02:33:44.000Z,1688432,1800999,1,Xal'atath's Bargain: Ascendant,Flydog,Hunter,Marksmanship,dps,Bronze Dragonflight
+27,165.6,303427438,2,"Ara-Kara, City of Echoes",2024-10-28T15:22:54.000Z,1771232,1800999,1,Xal'atath's Bargain: Ascendant,粒托儿弟,Rogue,Assassination,dps,Burning Blade
+27,165.6,303427438,2,"Ara-Kara, City of Echoes",2024-10-28T15:22:54.000Z,1771232,1800999,1,Xal'atath's Bargain: Ascendant,戒律术,Priest,Discipline,healer,Whisperwind
+27,165.6,303427438,2,"Ara-Kara, City of Echoes",2024-10-28T15:22:54.000Z,1771232,1800999,1,Xal'atath's Bargain: Ascendant,神奇的果果,Demon Hunter,Vengeance,tank,Burning Blade
+27,165.6,303427438,2,"Ara-Kara, City of Echoes",2024-10-28T15:22:54.000Z,1771232,1800999,1,Xal'atath's Bargain: Ascendant,萨满狗腿,Warrior,Fury,dps,Red Cloud Mesa
+27,165.6,303427438,2,"Ara-Kara, City of Echoes",2024-10-28T15:22:54.000Z,1771232,1800999,1,Xal'atath's Bargain: Ascendant,月薪八万八,Mage,Arcane,dps,Red Cloud Mesa

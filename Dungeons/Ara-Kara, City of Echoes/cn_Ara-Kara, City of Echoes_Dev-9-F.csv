@@ -1,0 +1,881 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,310,299107407,9,"Ara-Kara, City of Echoes",2024-10-10T17:16:02.000Z,920463,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鳌虾寿司,Shaman,Elemental,dps,Silver Hand
+1,310,299107407,9,"Ara-Kara, City of Echoes",2024-10-10T17:16:02.000Z,920463,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萌新小木耳,Demon Hunter,Vengeance,tank,Pandaren
+1,310,299107407,9,"Ara-Kara, City of Echoes",2024-10-10T17:16:02.000Z,920463,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南小音大魔王,Mage,Frost,dps,Al'ar
+1,310,299107407,9,"Ara-Kara, City of Echoes",2024-10-10T17:16:02.000Z,920463,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鳌虾盖饭,Shaman,Restoration,healer,Silver Hand
+1,310,299107407,9,"Ara-Kara, City of Echoes",2024-10-10T17:16:02.000Z,920463,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",途经过百川,Death Knight,Frost,dps,Pandaren
+2,310,299505733,9,"Ara-Kara, City of Echoes",2024-10-12T05:33:03.000Z,953698,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大嘴灬,Demon Hunter,Vengeance,tank,Al'ar
+2,310,299505733,9,"Ara-Kara, City of Echoes",2024-10-12T05:33:03.000Z,953698,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Io,Warrior,Fury,dps,Frostmane
+2,310,299505733,9,"Ara-Kara, City of Echoes",2024-10-12T05:33:03.000Z,953698,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶奶助我,Shaman,Elemental,dps,Frostmane
+2,310,299505733,9,"Ara-Kara, City of Echoes",2024-10-12T05:33:03.000Z,953698,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",请叫我法王,Shaman,Restoration,healer,Deathwing
+2,310,299505733,9,"Ara-Kara, City of Echoes",2024-10-12T05:33:03.000Z,953698,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",欧买噶德侠,Paladin,Retribution,dps,Al'ar
+3,310,299591364,9,"Ara-Kara, City of Echoes",2024-10-12T14:43:57.000Z,1025831,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",潔世一,Mage,Frost,dps,Isillien
+3,310,299591364,9,"Ara-Kara, City of Echoes",2024-10-12T14:43:57.000Z,1025831,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冻喵爪子,Death Knight,Frost,dps,Pandaren
+3,310,299591364,9,"Ara-Kara, City of Echoes",2024-10-12T14:43:57.000Z,1025831,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阔乐乐,Rogue,Assassination,dps,Silver Hand
+3,310,299591364,9,"Ara-Kara, City of Echoes",2024-10-12T14:43:57.000Z,1025831,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",茉莉蜜茶丶,Druid,Guardian,tank,Isillien
+3,310,299591364,9,"Ara-Kara, City of Echoes",2024-10-12T14:43:57.000Z,1025831,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",帅猛哥,Shaman,Restoration,healer,Kel'Thuzad
+4,310,299585500,9,"Ara-Kara, City of Echoes",2024-10-12T14:02:21.000Z,1066848,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+4,310,299585500,9,"Ara-Kara, City of Echoes",2024-10-12T14:02:21.000Z,1066848,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",秋山舞红叶,Paladin,Retribution,dps,Kil'jaeden
+4,310,299585500,9,"Ara-Kara, City of Echoes",2024-10-12T14:02:21.000Z,1066848,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Haocai,Mage,Frost,dps,Isillien
+4,310,299585500,9,"Ara-Kara, City of Echoes",2024-10-12T14:02:21.000Z,1066848,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伊塔尔多,Priest,Discipline,healer,Scarlet Crusade
+4,310,299585500,9,"Ara-Kara, City of Echoes",2024-10-12T14:02:21.000Z,1066848,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",不是原批,Paladin,Retribution,dps,Valley of Kings
+5,310,299600523,9,"Ara-Kara, City of Echoes",2024-10-12T15:09:49.000Z,1077158,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",潔世一,Mage,Frost,dps,Isillien
+5,310,299600523,9,"Ara-Kara, City of Echoes",2024-10-12T15:09:49.000Z,1077158,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Alimpse,Priest,Discipline,healer,Rhonin
+5,310,299600523,9,"Ara-Kara, City of Echoes",2024-10-12T15:09:49.000Z,1077158,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冻喵爪子,Death Knight,Frost,dps,Pandaren
+5,310,299600523,9,"Ara-Kara, City of Echoes",2024-10-12T15:09:49.000Z,1077158,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阔乐乐,Rogue,Assassination,dps,Silver Hand
+5,310,299600523,9,"Ara-Kara, City of Echoes",2024-10-12T15:09:49.000Z,1077158,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",茉莉蜜茶丶,Druid,Guardian,tank,Isillien
+6,310,300606640,9,"Ara-Kara, City of Echoes",2024-10-16T12:16:36.000Z,1081572,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",枫郁落,Death Knight,Unholy,dps,Rhonin
+6,310,300606640,9,"Ara-Kara, City of Echoes",2024-10-16T12:16:36.000Z,1081572,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",若叶睦丶,Warlock,Destruction,dps,Rhonin
+6,310,300606640,9,"Ara-Kara, City of Echoes",2024-10-16T12:16:36.000Z,1081572,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ncp,Paladin,Retribution,dps,Rhonin
+6,310,300606640,9,"Ara-Kara, City of Echoes",2024-10-16T12:16:36.000Z,1081572,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",长崎素世丶丶,Warrior,Protection,tank,Rhonin
+6,310,300606640,9,"Ara-Kara, City of Echoes",2024-10-16T12:16:36.000Z,1081572,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",纯奶二块二,Priest,Holy,healer,The Master's Glaive
+7,310,299958620,9,"Ara-Kara, City of Echoes",2024-10-13T18:46:34.000Z,1088916,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",贼神乐乐,Rogue,Assassination,dps,Silver Hand
+7,310,299958620,9,"Ara-Kara, City of Echoes",2024-10-13T18:46:34.000Z,1088916,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶咕咾肉,Druid,Restoration,healer,Burning Blade
+7,310,299958620,9,"Ara-Kara, City of Echoes",2024-10-13T18:46:34.000Z,1088916,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",亓小鱼丶,Demon Hunter,Vengeance,tank,Al'ar
+7,310,299958620,9,"Ara-Kara, City of Echoes",2024-10-13T18:46:34.000Z,1088916,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夏紫瞳丶,Rogue,Assassination,dps,Blanchard
+7,310,299958620,9,"Ara-Kara, City of Echoes",2024-10-13T18:46:34.000Z,1088916,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕咕漂移,Druid,Balance,dps,Al'ar
+8,310,300113507,9,"Ara-Kara, City of Echoes",2024-10-14T08:54:18.000Z,1104792,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+8,310,300113507,9,"Ara-Kara, City of Echoes",2024-10-14T08:54:18.000Z,1104792,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",打网救人,Shaman,Restoration,healer,Scarlet Crusade
+8,310,300113507,9,"Ara-Kara, City of Echoes",2024-10-14T08:54:18.000Z,1104792,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",无双暴龙战神,Death Knight,Frost,dps,Deathwing
+8,310,300113507,9,"Ara-Kara, City of Echoes",2024-10-14T08:54:18.000Z,1104792,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",口袋月灼,Druid,Balance,dps,Burning Blade
+8,310,300113507,9,"Ara-Kara, City of Echoes",2024-10-14T08:54:18.000Z,1104792,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",塔姆小盾,Paladin,Retribution,dps,Silver Hand
+9,310,300432139,9,"Ara-Kara, City of Echoes",2024-10-15T18:04:18.000Z,1109726,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",劍丨圣,Warrior,Fury,dps,Al'ar
+9,310,300432139,9,"Ara-Kara, City of Echoes",2024-10-15T18:04:18.000Z,1109726,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jenifferr,Warrior,Protection,tank,Al'ar
+9,310,300432139,9,"Ara-Kara, City of Echoes",2024-10-15T18:04:18.000Z,1109726,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",轰鳴月,Warlock,Demonology,dps,Silver Hand
+9,310,300432139,9,"Ara-Kara, City of Echoes",2024-10-15T18:04:18.000Z,1109726,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ronlymonk,Monk,Windwalker,dps,Eldre'Thalas
+9,310,300432139,9,"Ara-Kara, City of Echoes",2024-10-15T18:04:18.000Z,1109726,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lifccanang,Shaman,Restoration,healer,Eldre'Thalas
+10,310,299813153,9,"Ara-Kara, City of Echoes",2024-10-13T06:55:43.000Z,1110153,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灬奎爷丿,Rogue,Assassination,dps,Eldre'Thalas
+10,310,299813153,9,"Ara-Kara, City of Echoes",2024-10-13T06:55:43.000Z,1110153,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+10,310,299813153,9,"Ara-Kara, City of Echoes",2024-10-13T06:55:43.000Z,1110153,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+10,310,299813153,9,"Ara-Kara, City of Echoes",2024-10-13T06:55:43.000Z,1110153,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",流风回雪冫,Death Knight,Frost,dps,Burning Blade
+10,310,299813153,9,"Ara-Kara, City of Echoes",2024-10-13T06:55:43.000Z,1110153,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罐罐丶,Shaman,Restoration,healer,The Master's Glaive
+11,310,299291935,9,"Ara-Kara, City of Echoes",2024-10-11T12:41:07.000Z,1123060,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凌霄丶,Paladin,Retribution,dps,The Great Sea
+11,310,299291935,9,"Ara-Kara, City of Echoes",2024-10-11T12:41:07.000Z,1123060,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拆尼斯空腹,Warrior,Fury,dps,Ring of Trials
+11,310,299291935,9,"Ara-Kara, City of Echoes",2024-10-11T12:41:07.000Z,1123060,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+11,310,299291935,9,"Ara-Kara, City of Echoes",2024-10-11T12:41:07.000Z,1123060,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",倒二不捉三,Mage,Frost,dps,Pandaren
+11,310,299291935,9,"Ara-Kara, City of Echoes",2024-10-11T12:41:07.000Z,1123060,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",芋圆小呆包,Priest,Discipline,healer,Thrall
+12,310,299855131,9,"Ara-Kara, City of Echoes",2024-10-13T11:28:55.000Z,1123291,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我看看怎么事,Warrior,Fury,dps,Burning Blade
+12,310,299855131,9,"Ara-Kara, City of Echoes",2024-10-13T11:28:55.000Z,1123291,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+12,310,299855131,9,"Ara-Kara, City of Echoes",2024-10-13T11:28:55.000Z,1123291,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",努力鸭,Shaman,Restoration,healer,Isillien
+12,310,299855131,9,"Ara-Kara, City of Echoes",2024-10-13T11:28:55.000Z,1123291,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",特浓无糖美式,Warlock,Demonology,dps,The Great Sea
+12,310,299855131,9,"Ara-Kara, City of Echoes",2024-10-13T11:28:55.000Z,1123291,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嘿忒丶,Evoker,Augmentation,dps,Chillwind Point
+13,310,299333435,9,"Ara-Kara, City of Echoes",2024-10-11T16:15:20.000Z,1126351,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蓝啸月,Hunter,Marksmanship,dps,Al'ar
+13,310,299333435,9,"Ara-Kara, City of Echoes",2024-10-11T16:15:20.000Z,1126351,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叶風,Druid,Guardian,tank,Blanchard
+13,310,299333435,9,"Ara-Kara, City of Echoes",2024-10-11T16:15:20.000Z,1126351,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",涵韵无心,Hunter,Marksmanship,dps,Burning Blade
+13,310,299333435,9,"Ara-Kara, City of Echoes",2024-10-11T16:15:20.000Z,1126351,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Restoration,healer,Burning Blade
+13,310,299333435,9,"Ara-Kara, City of Echoes",2024-10-11T16:15:20.000Z,1126351,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",女蒲萨,Shaman,Elemental,dps,The Master's Glaive
+14,310,298995272,9,"Ara-Kara, City of Echoes",2024-10-10T01:49:12.000Z,1132488,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Radiant,Paladin,Retribution,dps,Demon Soul
+14,310,298995272,9,"Ara-Kara, City of Echoes",2024-10-10T01:49:12.000Z,1132488,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",結城寧,Mage,Frost,dps,Holy Chanter
+14,310,298995272,9,"Ara-Kara, City of Echoes",2024-10-10T01:49:12.000Z,1132488,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Balasenski,Shaman,Restoration,healer,Isillien
+14,310,298995272,9,"Ara-Kara, City of Echoes",2024-10-10T01:49:12.000Z,1132488,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星见雅,Demon Hunter,Havoc,dps,Rhonin
+14,310,298995272,9,"Ara-Kara, City of Echoes",2024-10-10T01:49:12.000Z,1132488,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",最机智小飞,Druid,Guardian,tank,Scholomance
+15,310,299578718,9,"Ara-Kara, City of Echoes",2024-10-12T13:47:45.000Z,1135009,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",可馨爸,Rogue,Assassination,dps,Deathwing
+15,310,299578718,9,"Ara-Kara, City of Echoes",2024-10-12T13:47:45.000Z,1135009,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",杀籍现代史,Paladin,Holy,healer,Chillwind Point
+15,310,299578718,9,"Ara-Kara, City of Echoes",2024-10-12T13:47:45.000Z,1135009,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Buffbm,Hunter,Marksmanship,dps,Al'ar
+15,310,299578718,9,"Ara-Kara, City of Echoes",2024-10-12T13:47:45.000Z,1135009,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小掱趴趴熊,Druid,Guardian,tank,Marrowgar
+15,310,299578718,9,"Ara-Kara, City of Echoes",2024-10-12T13:47:45.000Z,1135009,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月之武神,Paladin,Retribution,dps,Al'ar
+16,310,299836685,9,"Ara-Kara, City of Echoes",2024-10-13T09:47:53.000Z,1136601,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",万事入歌吹,Death Knight,Unholy,dps,Kel'Thuzad
+16,310,299836685,9,"Ara-Kara, City of Echoes",2024-10-13T09:47:53.000Z,1136601,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+16,310,299836685,9,"Ara-Kara, City of Echoes",2024-10-13T09:47:53.000Z,1136601,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",形式主意,Paladin,Retribution,dps,Burning Blade
+16,310,299836685,9,"Ara-Kara, City of Echoes",2024-10-13T09:47:53.000Z,1136601,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一剑长歌,Shaman,Restoration,healer,Al'ar
+16,310,299836685,9,"Ara-Kara, City of Echoes",2024-10-13T09:47:53.000Z,1136601,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",山城丶棒棒军,Death Knight,Unholy,dps,Shadowmourne
+17,309.9,300309973,9,"Ara-Kara, City of Echoes",2024-10-15T03:13:52.000Z,1138000,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玖灵墨,Priest,Discipline,healer,Pandaren
+17,309.9,300309973,9,"Ara-Kara, City of Echoes",2024-10-15T03:13:52.000Z,1138000,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dfpld,Paladin,Retribution,dps,The Great Sea
+17,309.9,300309973,9,"Ara-Kara, City of Echoes",2024-10-15T03:13:52.000Z,1138000,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嚣必宰之,Warrior,Protection,tank,Eldre'Thalas
+17,309.9,300309973,9,"Ara-Kara, City of Echoes",2024-10-15T03:13:52.000Z,1138000,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",琪亚娜丶,Rogue,Assassination,dps,Barrens
+17,309.9,300309973,9,"Ara-Kara, City of Echoes",2024-10-15T03:13:52.000Z,1138000,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",已故神牧,Shaman,Elemental,dps,Shadowmoon
+18,309.9,299291107,9,"Ara-Kara, City of Echoes",2024-10-11T12:27:21.000Z,1139109,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",猫骷,Rogue,Subtlety,dps,Feralas
+18,309.9,299291107,9,"Ara-Kara, City of Echoes",2024-10-11T12:27:21.000Z,1139109,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+18,309.9,299291107,9,"Ara-Kara, City of Echoes",2024-10-11T12:27:21.000Z,1139109,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鹏萨的天空,Shaman,Restoration,healer,Anachronos
+18,309.9,299291107,9,"Ara-Kara, City of Echoes",2024-10-11T12:27:21.000Z,1139109,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶骑士精神,Paladin,Retribution,dps,Frostmane
+18,309.9,299291107,9,"Ara-Kara, City of Echoes",2024-10-11T12:27:21.000Z,1139109,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+19,309.9,300385863,9,"Ara-Kara, City of Echoes",2024-10-15T14:33:48.000Z,1139217,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",极品大暴雨,Mage,Fire,dps,The Master's Glaive
+19,309.9,300385863,9,"Ara-Kara, City of Echoes",2024-10-15T14:33:48.000Z,1139217,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",给你五比斗,Rogue,Assassination,dps,The Master's Glaive
+19,309.9,300385863,9,"Ara-Kara, City of Echoes",2024-10-15T14:33:48.000Z,1139217,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",勇敢能能,Druid,Guardian,tank,Rhonin
+19,309.9,300385863,9,"Ara-Kara, City of Echoes",2024-10-15T14:33:48.000Z,1139217,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰冻小柯基,Death Knight,Frost,dps,Rhonin
+19,309.9,300385863,9,"Ara-Kara, City of Echoes",2024-10-15T14:33:48.000Z,1139217,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Clearchina,Shaman,Restoration,healer,Malfurion
+20,309.3,299818687,9,"Ara-Kara, City of Echoes",2024-10-13T07:28:35.000Z,1170586,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",依楼丶听雨,Mage,Frost,dps,Skywall
+20,309.3,299818687,9,"Ara-Kara, City of Echoes",2024-10-13T07:28:35.000Z,1170586,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夏詩,Shaman,Restoration,healer,Chillwind Point
+20,309.3,299818687,9,"Ara-Kara, City of Echoes",2024-10-13T07:28:35.000Z,1170586,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+20,309.3,299818687,9,"Ara-Kara, City of Echoes",2024-10-13T07:28:35.000Z,1170586,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+20,309.3,299818687,9,"Ara-Kara, City of Echoes",2024-10-13T07:28:35.000Z,1170586,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龙岗十大孝子,Death Knight,Frost,dps,Deathwing
+21,309.2,299592019,9,"Ara-Kara, City of Echoes",2024-10-16T13:34:16.000Z,1172625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",仙女,Demon Hunter,Vengeance,tank,Deepfury
+21,309.2,299592019,9,"Ara-Kara, City of Echoes",2024-10-16T13:34:16.000Z,1172625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yossi,Paladin,Retribution,dps,Isillien
+21,309.2,299592019,9,"Ara-Kara, City of Echoes",2024-10-16T13:34:16.000Z,1172625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",北极,Death Knight,Frost,dps,Deepfury
+21,309.2,299592019,9,"Ara-Kara, City of Echoes",2024-10-16T13:34:16.000Z,1172625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鲜肉大包,Shaman,Restoration,healer,Deepfury
+21,309.2,299592019,9,"Ara-Kara, City of Echoes",2024-10-16T13:34:16.000Z,1172625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",菠渡荬,Hunter,Marksmanship,dps,Deepfury
+22,309.1,299063150,9,"Ara-Kara, City of Echoes",2024-10-10T12:07:00.000Z,1178863,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+22,309.1,299063150,9,"Ara-Kara, City of Echoes",2024-10-10T12:07:00.000Z,1178863,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",与风私语,Shaman,Elemental,dps,Isillien
+22,309.1,299063150,9,"Ara-Kara, City of Echoes",2024-10-10T12:07:00.000Z,1178863,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yourdad,Demon Hunter,Vengeance,tank,Dreadmist Peak
+22,309.1,299063150,9,"Ara-Kara, City of Echoes",2024-10-10T12:07:00.000Z,1178863,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶曦玥丨,Shaman,Restoration,healer,The Great Sea
+22,309.1,299063150,9,"Ara-Kara, City of Echoes",2024-10-10T12:07:00.000Z,1178863,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",純屬澫珃,Rogue,Assassination,dps,Shadowmourne
+23,309.1,299289381,9,"Ara-Kara, City of Echoes",2024-10-11T12:07:01.000Z,1179775,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+23,309.1,299289381,9,"Ara-Kara, City of Echoes",2024-10-11T12:07:01.000Z,1179775,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",填命人,Shaman,Elemental,dps,Silver Hand
+23,309.1,299289381,9,"Ara-Kara, City of Echoes",2024-10-11T12:07:01.000Z,1179775,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",爱乃逆生长,Death Knight,Frost,dps,Doomwalker
+23,309.1,299289381,9,"Ara-Kara, City of Echoes",2024-10-11T12:07:01.000Z,1179775,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",影汐,Demon Hunter,Havoc,dps,Well of Eternity
+23,309.1,299289381,9,"Ara-Kara, City of Echoes",2024-10-11T12:07:01.000Z,1179775,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雨落纱幔,Shaman,Restoration,healer,Skywall
+24,308.9,299297297,9,"Ara-Kara, City of Echoes",2024-10-11T13:08:16.000Z,1190641,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+24,308.9,299297297,9,"Ara-Kara, City of Echoes",2024-10-11T13:08:16.000Z,1190641,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",霜曜,Druid,Guardian,tank,Silver Hand
+24,308.9,299297297,9,"Ara-Kara, City of Echoes",2024-10-11T13:08:16.000Z,1190641,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狸追酱丶,Shaman,Restoration,healer,Chillwind Point
+24,308.9,299297297,9,"Ara-Kara, City of Echoes",2024-10-11T13:08:16.000Z,1190641,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小红手寒灀,Mage,Frost,dps,Chillwind Point
+24,308.9,299297297,9,"Ara-Kara, City of Echoes",2024-10-11T13:08:16.000Z,1190641,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡布達,Evoker,Augmentation,dps,Chillwind Point
+25,308.8,299609560,9,"Ara-Kara, City of Echoes",2024-10-12T15:51:51.000Z,1192757,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶饼,Druid,Balance,dps,Isillien
+25,308.8,299609560,9,"Ara-Kara, City of Echoes",2024-10-12T15:51:51.000Z,1192757,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ujkk,Warlock,Destruction,dps,Holy Chanter
+25,308.8,299609560,9,"Ara-Kara, City of Echoes",2024-10-12T15:51:51.000Z,1192757,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我看看怎么事,Warrior,Fury,dps,Burning Blade
+25,308.8,299609560,9,"Ara-Kara, City of Echoes",2024-10-12T15:51:51.000Z,1192757,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+25,308.8,299609560,9,"Ara-Kara, City of Echoes",2024-10-12T15:51:51.000Z,1192757,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Talrashà,Shaman,Restoration,healer,Isillien
+26,308.8,299622176,9,"Ara-Kara, City of Echoes",2024-10-12T16:29:16.000Z,1195704,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",赵铁柱,Death Knight,Blood,tank,Gyth
+26,308.8,299622176,9,"Ara-Kara, City of Echoes",2024-10-12T16:29:16.000Z,1195704,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",千斗五十铃,Shaman,Restoration,healer,Al'ar
+26,308.8,299622176,9,"Ara-Kara, City of Echoes",2024-10-12T16:29:16.000Z,1195704,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ysageras,Mage,Frost,dps,Al'ar
+26,308.8,299622176,9,"Ara-Kara, City of Echoes",2024-10-12T16:29:16.000Z,1195704,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bloodboìl,Death Knight,Frost,dps,Burning Blade
+26,308.8,299622176,9,"Ara-Kara, City of Echoes",2024-10-12T16:29:16.000Z,1195704,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我扎我自己,Evoker,Augmentation,dps,Deathwing
+27,308.7,299911155,9,"Ara-Kara, City of Echoes",2024-10-13T15:19:09.000Z,1201570,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",至高雷,Demon Hunter,Havoc,dps,Grim Batol
+27,308.7,299911155,9,"Ara-Kara, City of Echoes",2024-10-13T15:19:09.000Z,1201570,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",铁栓爱上铁柱,Paladin,Retribution,dps,Grim Batol
+27,308.7,299911155,9,"Ara-Kara, City of Echoes",2024-10-13T15:19:09.000Z,1201570,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+27,308.7,299911155,9,"Ara-Kara, City of Echoes",2024-10-13T15:19:09.000Z,1201570,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",扎鲁特二锅头,Druid,Guardian,tank,Grim Batol
+27,308.7,299911155,9,"Ara-Kara, City of Echoes",2024-10-13T15:19:09.000Z,1201570,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+28,308.6,300420096,9,"Ara-Kara, City of Echoes",2024-10-16T14:20:58.000Z,1205929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",想做偷心贼丶,Rogue,Assassination,dps,Burning Blade
+28,308.6,300420096,9,"Ara-Kara, City of Echoes",2024-10-16T14:20:58.000Z,1205929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Tribebaine,Druid,Guardian,tank,Grim Batol
+28,308.6,300420096,9,"Ara-Kara, City of Echoes",2024-10-16T14:20:58.000Z,1205929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Restoration,healer,Burning Blade
+28,308.6,300420096,9,"Ara-Kara, City of Echoes",2024-10-16T14:20:58.000Z,1205929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶雪碧邪邪,Death Knight,Frost,dps,Burning Blade
+28,308.6,300420096,9,"Ara-Kara, City of Echoes",2024-10-16T14:20:58.000Z,1205929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",为谁而歌,Shaman,Elemental,dps,The Great Sea
+29,308.4,302276488,9,"Ara-Kara, City of Echoes",2024-10-14T12:36:18.000Z,1213765,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银月之傲,Warlock,Destruction,dps,Hakkar
+29,308.4,302276488,9,"Ara-Kara, City of Echoes",2024-10-14T12:36:18.000Z,1213765,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨染流年,Shaman,Restoration,healer,Eldre'Thalas
+29,308.4,302276488,9,"Ara-Kara, City of Echoes",2024-10-14T12:36:18.000Z,1213765,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌拉的贼,Rogue,Assassination,dps,Anzu
+29,308.4,302276488,9,"Ara-Kara, City of Echoes",2024-10-14T12:36:18.000Z,1213765,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+29,308.4,302276488,9,"Ara-Kara, City of Echoes",2024-10-14T12:36:18.000Z,1213765,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",口可口渴,Death Knight,Frost,dps,Scarlet Crusade
+30,308.4,299593752,9,"Ara-Kara, City of Echoes",2024-10-12T14:55:56.000Z,1215786,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+30,308.4,299593752,9,"Ara-Kara, City of Echoes",2024-10-12T14:55:56.000Z,1215786,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Pjmage,Mage,Frost,dps,Al'ar
+30,308.4,299593752,9,"Ara-Kara, City of Echoes",2024-10-12T14:55:56.000Z,1215786,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",赛拉维灬,Warlock,Destruction,dps,Silver Hand
+30,308.4,299593752,9,"Ara-Kara, City of Echoes",2024-10-12T14:55:56.000Z,1215786,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",女孩,Priest,Discipline,healer,Deathwing
+30,308.4,299593752,9,"Ara-Kara, City of Echoes",2024-10-12T14:55:56.000Z,1215786,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dkt,Mage,Frost,dps,Shadowfang Keep
+31,308.3,299555722,9,"Ara-Kara, City of Echoes",2024-10-12T11:31:28.000Z,1222580,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Nikox,Demon Hunter,Vengeance,tank,Al'ar
+31,308.3,299555722,9,"Ara-Kara, City of Echoes",2024-10-12T11:31:28.000Z,1222580,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",既定咸鱼,Death Knight,Frost,dps,Al'ar
+31,308.3,299555722,9,"Ara-Kara, City of Echoes",2024-10-12T11:31:28.000Z,1222580,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凯尔苏莎,Warlock,Affliction,dps,Al'ar
+31,308.3,299555722,9,"Ara-Kara, City of Echoes",2024-10-12T11:31:28.000Z,1222580,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",多晒太阳,Priest,Shadow,dps,Al'ar
+31,308.3,299555722,9,"Ara-Kara, City of Echoes",2024-10-12T11:31:28.000Z,1222580,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",高端冰箱,Paladin,Holy,healer,Al'ar
+32,308.1,299268823,9,"Ara-Kara, City of Echoes",2024-10-11T09:04:27.000Z,1232527,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灬傲娇灬,Mage,Frost,dps,Skywall
+32,308.1,299268823,9,"Ara-Kara, City of Echoes",2024-10-11T09:04:27.000Z,1232527,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖黑黒,Paladin,Retribution,dps,Al'ar
+32,308.1,299268823,9,"Ara-Kara, City of Echoes",2024-10-11T09:04:27.000Z,1232527,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的裂蹄牛,Warrior,Protection,tank,Silver Hand
+32,308.1,299268823,9,"Ara-Kara, City of Echoes",2024-10-11T09:04:27.000Z,1232527,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萨达哈噜,Warlock,Destruction,dps,Skywall
+32,308.1,299268823,9,"Ara-Kara, City of Echoes",2024-10-11T09:04:27.000Z,1232527,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",是茶叶啊,Priest,Discipline,healer,Silver Hand
+33,307.9,299915094,9,"Ara-Kara, City of Echoes",2024-10-13T15:50:49.000Z,1241674,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",零式丶白,Evoker,Augmentation,dps,The Master's Glaive
+33,307.9,299915094,9,"Ara-Kara, City of Echoes",2024-10-13T15:50:49.000Z,1241674,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+33,307.9,299915094,9,"Ara-Kara, City of Echoes",2024-10-13T15:50:49.000Z,1241674,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jacketh,Paladin,Retribution,dps,Alterac Mountains
+33,307.9,299915094,9,"Ara-Kara, City of Echoes",2024-10-13T15:50:49.000Z,1241674,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冬夏与秋冬,Druid,Restoration,healer,Rhonin
+33,307.9,299915094,9,"Ara-Kara, City of Echoes",2024-10-13T15:50:49.000Z,1241674,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶豆豆君,Death Knight,Frost,dps,The Master's Glaive
+34,307.8,297306616,9,"Ara-Kara, City of Echoes",2024-10-11T13:36:44.000Z,1243467,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",痴断肠,Warrior,Arms,dps,Moonglade
+34,307.8,297306616,9,"Ara-Kara, City of Echoes",2024-10-11T13:36:44.000Z,1243467,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",风雨灵歌,Shaman,Restoration,healer,Isillien
+34,307.8,297306616,9,"Ara-Kara, City of Echoes",2024-10-11T13:36:44.000Z,1243467,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龙族小天才,Evoker,Devastation,dps,Khadgar
+34,307.8,297306616,9,"Ara-Kara, City of Echoes",2024-10-11T13:36:44.000Z,1243467,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",身騎白馬,Paladin,Retribution,dps,Frostmourne
+34,307.8,297306616,9,"Ara-Kara, City of Echoes",2024-10-11T13:36:44.000Z,1243467,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雾雨魔理纱,Demon Hunter,Vengeance,tank,Khadgar
+35,307.6,302276490,9,"Ara-Kara, City of Echoes",2024-10-15T13:03:35.000Z,1258097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银月之傲,Warlock,Destruction,dps,Hakkar
+35,307.6,302276490,9,"Ara-Kara, City of Echoes",2024-10-15T13:03:35.000Z,1258097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨染流年,Shaman,Restoration,healer,Eldre'Thalas
+35,307.6,302276490,9,"Ara-Kara, City of Echoes",2024-10-15T13:03:35.000Z,1258097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌拉的贼,Rogue,Assassination,dps,Anzu
+35,307.6,302276490,9,"Ara-Kara, City of Echoes",2024-10-15T13:03:35.000Z,1258097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+35,307.6,302276490,9,"Ara-Kara, City of Echoes",2024-10-15T13:03:35.000Z,1258097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",帅的一脸迷茫,Death Knight,Unholy,dps,Burning Blade
+36,307.4,299403455,9,"Ara-Kara, City of Echoes",2024-10-11T21:05:01.000Z,1264002,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",葉咕咕,Druid,Guardian,tank,Silver Hand
+36,307.4,299403455,9,"Ara-Kara, City of Echoes",2024-10-11T21:05:01.000Z,1264002,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",社会王,Warlock,Destruction,dps,Blanchard
+36,307.4,299403455,9,"Ara-Kara, City of Echoes",2024-10-11T21:05:01.000Z,1264002,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",渣女搅拌机,Rogue,Assassination,dps,Anzu
+36,307.4,299403455,9,"Ara-Kara, City of Echoes",2024-10-11T21:05:01.000Z,1264002,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵绵喵丶,Shaman,Restoration,healer,Swiftwind
+36,307.4,299403455,9,"Ara-Kara, City of Echoes",2024-10-11T21:05:01.000Z,1264002,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",端正你的态度,Death Knight,Frost,dps,Silver Hand
+37,307.4,300163115,9,"Ara-Kara, City of Echoes",2024-10-14T15:38:57.000Z,1266548,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+37,307.4,300163115,9,"Ara-Kara, City of Echoes",2024-10-14T15:38:57.000Z,1266548,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狸追酱丶,Shaman,Restoration,healer,Chillwind Point
+37,307.4,300163115,9,"Ara-Kara, City of Echoes",2024-10-14T15:38:57.000Z,1266548,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡布達,Evoker,Augmentation,dps,Chillwind Point
+37,307.4,300163115,9,"Ara-Kara, City of Echoes",2024-10-14T15:38:57.000Z,1266548,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大漠孤烟丶,Death Knight,Frost,dps,Chillwind Point
+37,307.4,300163115,9,"Ara-Kara, City of Echoes",2024-10-14T15:38:57.000Z,1266548,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",贪生丶怕死,Death Knight,Blood,tank,Valley of Kings
+38,307.1,299294986,9,"Ara-Kara, City of Echoes",2024-10-11T13:00:57.000Z,1282473,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",心随逸飛,Shaman,Restoration,healer,Al'ar
+38,307.1,299294986,9,"Ara-Kara, City of Echoes",2024-10-11T13:00:57.000Z,1282473,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yoruichi,Druid,Balance,dps,Al'ar
+38,307.1,299294986,9,"Ara-Kara, City of Echoes",2024-10-11T13:00:57.000Z,1282473,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ysageras,Mage,Frost,dps,Al'ar
+38,307.1,299294986,9,"Ara-Kara, City of Echoes",2024-10-11T13:00:57.000Z,1282473,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我扎我自己,Evoker,Augmentation,dps,Deathwing
+38,307.1,299294986,9,"Ara-Kara, City of Echoes",2024-10-11T13:00:57.000Z,1282473,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",思恩僧,Monk,Brewmaster,tank,Chillwind Point
+39,307,299577366,9,"Ara-Kara, City of Echoes",2024-10-12T13:35:20.000Z,1285486,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",花落无缺丶,Mage,Frost,dps,Silver Hand
+39,307,299577366,9,"Ara-Kara, City of Echoes",2024-10-12T13:35:20.000Z,1285486,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",睡叔叔,Rogue,Assassination,dps,Silver Hand
+39,307,299577366,9,"Ara-Kara, City of Echoes",2024-10-12T13:35:20.000Z,1285486,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蛮骨,Shaman,Restoration,healer,Zalazane
+39,307,299577366,9,"Ara-Kara, City of Echoes",2024-10-12T13:35:20.000Z,1285486,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",在沉默中爆發,Paladin,Retribution,dps,Barrens
+39,307,299577366,9,"Ara-Kara, City of Echoes",2024-10-12T13:35:20.000Z,1285486,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",诗写云上丨,Warrior,Protection,tank,The Master's Glaive
+40,306.9,299796475,9,"Ara-Kara, City of Echoes",2024-10-13T04:58:47.000Z,1291856,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柠檬冰不加冰,Paladin,Retribution,dps,Silver Hand
+40,306.9,299796475,9,"Ara-Kara, City of Echoes",2024-10-13T04:58:47.000Z,1291856,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",倒立拉稀,Shaman,Elemental,dps,Valley of Kings
+40,306.9,299796475,9,"Ara-Kara, City of Echoes",2024-10-13T04:58:47.000Z,1291856,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",最帅的熊猫,Shaman,Restoration,healer,Azuregos
+40,306.9,299796475,9,"Ara-Kara, City of Echoes",2024-10-13T04:58:47.000Z,1291856,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",啊对对,Druid,Guardian,tank,Valley of Kings
+40,306.9,299796475,9,"Ara-Kara, City of Echoes",2024-10-13T04:58:47.000Z,1291856,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lurcker,Death Knight,Frost,dps,Thunder Axe Fortress
+41,306.9,299259468,9,"Ara-Kara, City of Echoes",2024-10-11T07:23:55.000Z,1291899,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+41,306.9,299259468,9,"Ara-Kara, City of Echoes",2024-10-11T07:23:55.000Z,1291899,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好多余好多鱼,Death Knight,Frost,dps,Al'ar
+41,306.9,299259468,9,"Ara-Kara, City of Echoes",2024-10-11T07:23:55.000Z,1291899,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+41,306.9,299259468,9,"Ara-Kara, City of Echoes",2024-10-11T07:23:55.000Z,1291899,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我是保安,Paladin,Retribution,dps,Deathwing
+41,306.9,299259468,9,"Ara-Kara, City of Echoes",2024-10-11T07:23:55.000Z,1291899,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",纳兰珠珠,Shaman,Restoration,healer,Khardros
+42,306.8,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T08:51:49.000Z,1294625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",完能,Hunter,Survival,dps,Eldre'Thalas
+42,306.8,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T08:51:49.000Z,1294625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+42,306.8,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T08:51:49.000Z,1294625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",靈獸鳴途,Shaman,Elemental,dps,Eldre'Thalas
+42,306.8,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T08:51:49.000Z,1294625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",熊沢嵐澔丶,Warrior,Fury,dps,Scarlet Crusade
+42,306.8,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T08:51:49.000Z,1294625,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",泽曼钦,Druid,Restoration,healer,Frostmane
+43,306.8,300348990,9,"Ara-Kara, City of Echoes",2024-10-15T08:58:48.000Z,1296244,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Fantast,Warlock,Affliction,dps,Taerar
+43,306.8,300348990,9,"Ara-Kara, City of Echoes",2024-10-15T08:58:48.000Z,1296244,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",歐富美,Death Knight,Unholy,dps,Al'ar
+43,306.8,300348990,9,"Ara-Kara, City of Echoes",2024-10-15T08:58:48.000Z,1296244,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兵主部一兵卫,Shaman,Enhancement,dps,Al'ar
+43,306.8,300348990,9,"Ara-Kara, City of Echoes",2024-10-15T08:58:48.000Z,1296244,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雷霆风暴,Shaman,Restoration,healer,Al'ar
+43,306.8,300348990,9,"Ara-Kara, City of Echoes",2024-10-15T08:58:48.000Z,1296244,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",香膓,Paladin,Protection,tank,Pandaren
+44,306.7,300120371,9,"Ara-Kara, City of Echoes",2024-10-14T10:06:23.000Z,1298687,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",加拉格尔,Shaman,Elemental,dps,Frostmourne
+44,306.7,300120371,9,"Ara-Kara, City of Echoes",2024-10-14T10:06:23.000Z,1298687,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",愿同笑亦同悲,Paladin,Retribution,dps,Frostmourne
+44,306.7,300120371,9,"Ara-Kara, City of Echoes",2024-10-14T10:06:23.000Z,1298687,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伊普莉丝,Priest,Discipline,healer,The Golden Plains
+44,306.7,300120371,9,"Ara-Kara, City of Echoes",2024-10-14T10:06:23.000Z,1298687,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",栖梧岛,Death Knight,Blood,tank,The Golden Plains
+44,306.7,300120371,9,"Ara-Kara, City of Echoes",2024-10-14T10:06:23.000Z,1298687,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小苹果大冒险,Death Knight,Frost,dps,Chillwind Point
+45,306.7,299913107,9,"Ara-Kara, City of Echoes",2024-10-13T15:33:02.000Z,1302030,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",治疗药水,Paladin,Retribution,dps,Lich King
+45,306.7,299913107,9,"Ara-Kara, City of Echoes",2024-10-13T15:33:02.000Z,1302030,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Insana,Death Knight,Blood,tank,Pandaren
+45,306.7,299913107,9,"Ara-Kara, City of Echoes",2024-10-13T15:33:02.000Z,1302030,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",原子核可乐,Shaman,Restoration,healer,Pandaren
+45,306.7,299913107,9,"Ara-Kara, City of Echoes",2024-10-13T15:33:02.000Z,1302030,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雪糕在哪儿,Death Knight,Frost,dps,Deathwing
+45,306.7,299913107,9,"Ara-Kara, City of Echoes",2024-10-13T15:33:02.000Z,1302030,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吃夜宵吗,Warlock,Demonology,dps,Deathwing
+46,306.6,299575004,9,"Ara-Kara, City of Echoes",2024-10-12T13:18:39.000Z,1306001,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Aordnap,Mage,Arcane,dps,Chillwind Point
+46,306.6,299575004,9,"Ara-Kara, City of Echoes",2024-10-12T13:18:39.000Z,1306001,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",红黑忠魂,Paladin,Retribution,dps,Rhonin
+46,306.6,299575004,9,"Ara-Kara, City of Echoes",2024-10-12T13:18:39.000Z,1306001,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",身騎白馬,Paladin,Protection,tank,Frostmourne
+46,306.6,299575004,9,"Ara-Kara, City of Echoes",2024-10-12T13:18:39.000Z,1306001,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",施巴拉谷大师,Shaman,Restoration,healer,Khadgar
+46,306.6,299575004,9,"Ara-Kara, City of Echoes",2024-10-12T13:18:39.000Z,1306001,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",少年清隽,Hunter,Survival,dps,Chillwind Point
+47,306.6,299523114,9,"Ara-Kara, City of Echoes",2024-10-12T07:46:15.000Z,1307805,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",薅吖,Death Knight,Blood,tank,Silver Hand
+47,306.6,299523114,9,"Ara-Kara, City of Echoes",2024-10-12T07:46:15.000Z,1307805,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丹妮莉絲,Evoker,Augmentation,dps,Barrens
+47,306.6,299523114,9,"Ara-Kara, City of Echoes",2024-10-12T07:46:15.000Z,1307805,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Animøsite,Warlock,Demonology,dps,Silver Hand
+47,306.6,299523114,9,"Ara-Kara, City of Echoes",2024-10-12T07:46:15.000Z,1307805,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",真俊,Death Knight,Frost,dps,Burning Blade
+47,306.6,299523114,9,"Ara-Kara, City of Echoes",2024-10-12T07:46:15.000Z,1307805,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",浪十三,Shaman,Restoration,healer,Rhonin
+48,306.5,299089380,9,"Ara-Kara, City of Echoes",2024-10-10T15:26:12.000Z,1308858,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉阑,Hunter,Marksmanship,dps,Grim Batol
+48,306.5,299089380,9,"Ara-Kara, City of Echoes",2024-10-10T15:26:12.000Z,1308858,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Voulez,Mage,Frost,dps,Grim Batol
+48,306.5,299089380,9,"Ara-Kara, City of Echoes",2024-10-10T15:26:12.000Z,1308858,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",怠惰的苹果,Monk,Brewmaster,tank,Grim Batol
+48,306.5,299089380,9,"Ara-Kara, City of Echoes",2024-10-10T15:26:12.000Z,1308858,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",巫莽莽,Mage,Fire,dps,Grim Batol
+48,306.5,299089380,9,"Ara-Kara, City of Echoes",2024-10-10T15:26:12.000Z,1308858,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡菈酱,Monk,Mistweaver,healer,Grim Batol
+49,306.4,299249339,9,"Ara-Kara, City of Echoes",2024-10-11T05:59:30.000Z,1316915,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罪過聖堂,Paladin,Retribution,dps,Eldre'Thalas
+49,306.4,299249339,9,"Ara-Kara, City of Echoes",2024-10-11T05:59:30.000Z,1316915,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",可尔必斯,Shaman,Elemental,dps,Eldre'Thalas
+49,306.4,299249339,9,"Ara-Kara, City of Echoes",2024-10-11T05:59:30.000Z,1316915,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",煙霞,Shaman,Restoration,healer,Deathwing
+49,306.4,299249339,9,"Ara-Kara, City of Echoes",2024-10-11T05:59:30.000Z,1316915,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",海螺历险记,Hunter,Marksmanship,dps,Varian
+49,306.4,299249339,9,"Ara-Kara, City of Echoes",2024-10-11T05:59:30.000Z,1316915,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丸子的鸡脖,Warrior,Protection,tank,Anzu
+50,306.1,299106286,9,"Ara-Kara, City of Echoes",2024-10-10T17:34:43.000Z,1332497,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你能多拉点嘛,Death Knight,Frost,dps,The Great Sea
+50,306.1,299106286,9,"Ara-Kara, City of Echoes",2024-10-10T17:34:43.000Z,1332497,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜永恒,Paladin,Retribution,dps,The Great Sea
+50,306.1,299106286,9,"Ara-Kara, City of Echoes",2024-10-10T17:34:43.000Z,1332497,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你能玩治疗吗,Shaman,Restoration,healer,The Great Sea
+50,306.1,299106286,9,"Ara-Kara, City of Echoes",2024-10-10T17:34:43.000Z,1332497,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Phénix,Mage,Frost,dps,Burning Blade
+50,306.1,299106286,9,"Ara-Kara, City of Echoes",2024-10-10T17:34:43.000Z,1332497,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",别紧张放松点,Warrior,Protection,tank,The Great Sea
+51,306,300369228,9,"Ara-Kara, City of Echoes",2024-10-15T12:21:44.000Z,1333929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bbstupidmer,Shaman,Enhancement,dps,Al'ar
+51,306,300369228,9,"Ara-Kara, City of Echoes",2024-10-15T12:21:44.000Z,1333929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Erkectar,Priest,Discipline,healer,Silver Hand
+51,306,300369228,9,"Ara-Kara, City of Echoes",2024-10-15T12:21:44.000Z,1333929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",还是那么帅,Warrior,Fury,dps,Silver Hand
+51,306,300369228,9,"Ara-Kara, City of Echoes",2024-10-15T12:21:44.000Z,1333929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Idkwardf,Warlock,Destruction,dps,Al'ar
+51,306,300369228,9,"Ara-Kara, City of Echoes",2024-10-15T12:21:44.000Z,1333929,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蜜汁咕腿堡,Druid,Guardian,tank,Deathwing
+52,305.7,299853299,9,"Ara-Kara, City of Echoes",2024-10-13T11:12:19.000Z,1349426,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迷城再见你,Demon Hunter,Vengeance,tank,Kul Tiras
+52,305.7,299853299,9,"Ara-Kara, City of Echoes",2024-10-13T11:12:19.000Z,1349426,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星辰叹息,Death Knight,Frost,dps,Silver Hand
+52,305.7,299853299,9,"Ara-Kara, City of Echoes",2024-10-13T11:12:19.000Z,1349426,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",身騎白馬,Paladin,Retribution,dps,Frostmourne
+52,305.7,299853299,9,"Ara-Kara, City of Echoes",2024-10-13T11:12:19.000Z,1349426,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Iis,Shaman,Restoration,healer,Doomwalker
+52,305.7,299853299,9,"Ara-Kara, City of Echoes",2024-10-13T11:12:19.000Z,1349426,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜雨带刀,Paladin,Retribution,dps,Silver Hand
+53,305.6,299531297,9,"Ara-Kara, City of Echoes",2024-10-12T08:51:10.000Z,1354285,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉澜,Priest,Discipline,healer,Grim Batol
+53,305.6,299531297,9,"Ara-Kara, City of Echoes",2024-10-12T08:51:10.000Z,1354285,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龙丶慕楠,Death Knight,Frost,dps,Grim Batol
+53,305.6,299531297,9,"Ara-Kara, City of Echoes",2024-10-12T08:51:10.000Z,1354285,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨余,Paladin,Retribution,dps,Sandfury
+53,305.6,299531297,9,"Ara-Kara, City of Echoes",2024-10-12T08:51:10.000Z,1354285,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龍璈天,Death Knight,Blood,tank,Al'ar
+53,305.6,299531297,9,"Ara-Kara, City of Echoes",2024-10-12T08:51:10.000Z,1354285,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",杺霄,Mage,Frost,dps,Scarlet Crusade
+54,305.6,299266744,9,"Ara-Kara, City of Echoes",2024-10-11T08:55:51.000Z,1358908,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夏詩,Shaman,Restoration,healer,Chillwind Point
+54,305.6,299266744,9,"Ara-Kara, City of Echoes",2024-10-11T08:55:51.000Z,1358908,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+54,305.6,299266744,9,"Ara-Kara, City of Echoes",2024-10-11T08:55:51.000Z,1358908,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+54,305.6,299266744,9,"Ara-Kara, City of Echoes",2024-10-11T08:55:51.000Z,1358908,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星星不抱你,Death Knight,Unholy,dps,Burning Blade
+54,305.6,299266744,9,"Ara-Kara, City of Echoes",2024-10-11T08:55:51.000Z,1358908,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶魔鬼筋肉人,Mage,Frost,dps,Chillwind Point
+55,305.5,300282002,9,"Ara-Kara, City of Echoes",2024-10-15T00:46:42.000Z,1361191,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",作死丶,Death Knight,Frost,dps,The Great Sea
+55,305.5,300282002,9,"Ara-Kara, City of Echoes",2024-10-15T00:46:42.000Z,1361191,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",俺是一棵葱,Demon Hunter,Vengeance,tank,Silver Hand
+55,305.5,300282002,9,"Ara-Kara, City of Echoes",2024-10-15T00:46:42.000Z,1361191,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",云澜焱星,Mage,Frost,dps,Hectae
+55,305.5,300282002,9,"Ara-Kara, City of Echoes",2024-10-15T00:46:42.000Z,1361191,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Pigk,Paladin,Retribution,dps,Deathwing
+55,305.5,300282002,9,"Ara-Kara, City of Echoes",2024-10-15T00:46:42.000Z,1361191,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",修修杯,Shaman,Restoration,healer,Burning Blade
+56,305.3,299518811,9,"Ara-Kara, City of Echoes",2024-10-12T07:04:16.000Z,1369558,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ashtoash,Paladin,Protection,tank,Barrens
+56,305.3,299518811,9,"Ara-Kara, City of Echoes",2024-10-12T07:04:16.000Z,1369558,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",扎伊呜噜,Paladin,Retribution,dps,Algalon
+56,305.3,299518811,9,"Ara-Kara, City of Echoes",2024-10-12T07:04:16.000Z,1369558,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哈哟哟,Paladin,Retribution,dps,Deathwing
+56,305.3,299518811,9,"Ara-Kara, City of Echoes",2024-10-12T07:04:16.000Z,1369558,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",莉霞班宁斯,Paladin,Retribution,dps,Barrens
+56,305.3,299518811,9,"Ara-Kara, City of Echoes",2024-10-12T07:04:16.000Z,1369558,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",打住一点点,Shaman,Restoration,healer,Barrens
+57,305.3,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T09:21:34.000Z,1373027,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",完能,Hunter,Survival,dps,Eldre'Thalas
+57,305.3,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T09:21:34.000Z,1373027,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+57,305.3,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T09:21:34.000Z,1373027,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",靈獸鳴途,Shaman,Elemental,dps,Eldre'Thalas
+57,305.3,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T09:21:34.000Z,1373027,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",熊沢嵐澔丶,Warrior,Fury,dps,Scarlet Crusade
+57,305.3,298434444,9,"Ara-Kara, City of Echoes",2024-10-13T09:21:34.000Z,1373027,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",泽曼钦,Druid,Restoration,healer,Frostmane
+58,305.1,299588505,9,"Ara-Kara, City of Echoes",2024-10-12T14:15:32.000Z,1380931,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",毛尖儿丿,Paladin,Retribution,dps,Anzu
+58,305.1,299588505,9,"Ara-Kara, City of Echoes",2024-10-12T14:15:32.000Z,1380931,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叛逆丨圣王,Paladin,Retribution,dps,Al'ar
+58,305.1,299588505,9,"Ara-Kara, City of Echoes",2024-10-12T14:15:32.000Z,1380931,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瞳瞳,Priest,Discipline,healer,Medivh
+58,305.1,299588505,9,"Ara-Kara, City of Echoes",2024-10-12T14:15:32.000Z,1380931,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好的丶佩奇,Warrior,Fury,dps,Deathwing
+58,305.1,299588505,9,"Ara-Kara, City of Echoes",2024-10-12T14:15:32.000Z,1380931,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶千里曰空妇,Warrior,Protection,tank,Thunderaan
+59,305.1,299373454,9,"Ara-Kara, City of Echoes",2024-10-11T19:33:06.000Z,1381911,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Fallonzz,Death Knight,Frost,dps,Burning Blade
+59,305.1,299373454,9,"Ara-Kara, City of Echoes",2024-10-11T19:33:06.000Z,1381911,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉丨萨,Shaman,Restoration,healer,Burning Blade
+59,305.1,299373454,9,"Ara-Kara, City of Echoes",2024-10-11T19:33:06.000Z,1381911,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",寒鸦义父,Demon Hunter,Vengeance,tank,Al'ar
+59,305.1,299373454,9,"Ara-Kara, City of Echoes",2024-10-11T19:33:06.000Z,1381911,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Rosaono,Evoker,Augmentation,dps,Deathwing
+59,305.1,299373454,9,"Ara-Kara, City of Echoes",2024-10-11T19:33:06.000Z,1381911,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",给你一圣光,Paladin,Retribution,dps,Deathwing
+60,304.9,299044451,9,"Ara-Kara, City of Echoes",2024-10-10T08:58:54.000Z,1389971,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",喵喵仔丶熊仔,Hunter,Marksmanship,dps,Holy Chanter
+60,304.9,299044451,9,"Ara-Kara, City of Echoes",2024-10-10T08:58:54.000Z,1389971,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",作死丶,Death Knight,Frost,dps,The Great Sea
+60,304.9,299044451,9,"Ara-Kara, City of Echoes",2024-10-10T08:58:54.000Z,1389971,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Miawong,Shaman,Restoration,healer,Holy Chanter
+60,304.9,299044451,9,"Ara-Kara, City of Echoes",2024-10-10T08:58:54.000Z,1389971,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",某个小骑,Paladin,Retribution,dps,Holy Chanter
+60,304.9,299044451,9,"Ara-Kara, City of Echoes",2024-10-10T08:58:54.000Z,1389971,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",闲云丨池中敛,Demon Hunter,Vengeance,tank,Rhonin
+61,304.9,299943265,9,"Ara-Kara, City of Echoes",2024-10-13T17:27:33.000Z,1390678,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",北斩,Mage,Frost,dps,Doomwalker
+61,304.9,299943265,9,"Ara-Kara, City of Echoes",2024-10-13T17:27:33.000Z,1390678,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Puddiin,Evoker,Augmentation,dps,Doomwalker
+61,304.9,299943265,9,"Ara-Kara, City of Echoes",2024-10-13T17:27:33.000Z,1390678,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超火琉星,Demon Hunter,Vengeance,tank,Doomwalker
+61,304.9,299943265,9,"Ara-Kara, City of Echoes",2024-10-13T17:27:33.000Z,1390678,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",按毒阴,Priest,Shadow,dps,Doomwalker
+61,304.9,299943265,9,"Ara-Kara, City of Echoes",2024-10-13T17:27:33.000Z,1390678,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南部响介,Paladin,Holy,healer,Gothik
+62,304.9,299078957,9,"Ara-Kara, City of Echoes",2024-10-10T14:41:19.000Z,1392874,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",陌小南,Warlock,Demonology,dps,Shadowmourne
+62,304.9,299078957,9,"Ara-Kara, City of Echoes",2024-10-10T14:41:19.000Z,1392874,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",埃布罗托,Death Knight,Unholy,dps,Shadowmourne
+62,304.9,299078957,9,"Ara-Kara, City of Echoes",2024-10-10T14:41:19.000Z,1392874,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",怼怼吖,Priest,Holy,healer,Shadowmourne
+62,304.9,299078957,9,"Ara-Kara, City of Echoes",2024-10-10T14:41:19.000Z,1392874,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卜德了,Druid,Guardian,tank,Shadowmourne
+62,304.9,299078957,9,"Ara-Kara, City of Echoes",2024-10-10T14:41:19.000Z,1392874,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂高歌,Mage,Arcane,dps,The Underbog
+63,304.4,299108175,9,"Ara-Kara, City of Echoes",2024-10-10T17:27:34.000Z,1417873,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",溢水浮尘,Mage,Arcane,dps,Rhonin
+63,304.4,299108175,9,"Ara-Kara, City of Echoes",2024-10-10T17:27:34.000Z,1417873,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",草莓香瓜子,Paladin,Retribution,dps,Rhonin
+63,304.4,299108175,9,"Ara-Kara, City of Echoes",2024-10-10T17:27:34.000Z,1417873,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+63,304.4,299108175,9,"Ara-Kara, City of Echoes",2024-10-10T17:27:34.000Z,1417873,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",福柯的黑爪爪,Priest,Shadow,dps,Rhonin
+63,304.4,299108175,9,"Ara-Kara, City of Echoes",2024-10-10T17:27:34.000Z,1417873,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Himekka,Shaman,Restoration,healer,Rhonin
+64,304.3,299892549,9,"Ara-Kara, City of Echoes",2024-10-13T14:10:46.000Z,1423310,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉花间,Rogue,Assassination,dps,Menethil
+64,304.3,299892549,9,"Ara-Kara, City of Echoes",2024-10-13T14:10:46.000Z,1423310,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",忘千宝,Hunter,Marksmanship,dps,Pandaren
+64,304.3,299892549,9,"Ara-Kara, City of Echoes",2024-10-13T14:10:46.000Z,1423310,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",德智体美劳,Druid,Restoration,healer,Ring of Trials
+64,304.3,299892549,9,"Ara-Kara, City of Echoes",2024-10-13T14:10:46.000Z,1423310,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",那个谁呢,Paladin,Protection,tank,Menethil
+64,304.3,299892549,9,"Ara-Kara, City of Echoes",2024-10-13T14:10:46.000Z,1423310,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",是荔枝呀,Shaman,Elemental,dps,The Great Sea
+65,304.2,300152548,9,"Ara-Kara, City of Echoes",2024-10-14T14:40:02.000Z,1429279,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",云晚丶,Death Knight,Frost,dps,Al'ar
+65,304.2,300152548,9,"Ara-Kara, City of Echoes",2024-10-14T14:40:02.000Z,1429279,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Nikox,Demon Hunter,Vengeance,tank,Al'ar
+65,304.2,300152548,9,"Ara-Kara, City of Echoes",2024-10-14T14:40:02.000Z,1429279,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",太子悦神,Monk,Mistweaver,healer,Al'ar
+65,304.2,300152548,9,"Ara-Kara, City of Echoes",2024-10-14T14:40:02.000Z,1429279,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",薅羊毛的经理,Hunter,Marksmanship,dps,Al'ar
+65,304.2,300152548,9,"Ara-Kara, City of Echoes",2024-10-14T14:40:02.000Z,1429279,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",男人帅,Paladin,Retribution,dps,Al'ar
+66,303.9,300093355,9,"Ara-Kara, City of Echoes",2024-10-14T05:35:26.000Z,1442753,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",艺术系教授,Death Knight,Frost,dps,Anzu
+66,303.9,300093355,9,"Ara-Kara, City of Echoes",2024-10-14T05:35:26.000Z,1442753,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",药不狐了,Monk,Mistweaver,healer,Rhonin
+66,303.9,300093355,9,"Ara-Kara, City of Echoes",2024-10-14T05:35:26.000Z,1442753,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",春夜风牵雨,Priest,Shadow,dps,Rhonin
+66,303.9,300093355,9,"Ara-Kara, City of Echoes",2024-10-14T05:35:26.000Z,1442753,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柴郡猫酱,Warrior,Fury,dps,Doom's Vigil
+66,303.9,300093355,9,"Ara-Kara, City of Echoes",2024-10-14T05:35:26.000Z,1442753,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",盾牌格挡断啦,Warrior,Protection,tank,Silver Hand
+67,303.5,304964595,9,"Ara-Kara, City of Echoes",2024-10-13T09:46:10.000Z,1463443,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Shadowlc,Death Knight,Blood,tank,Rhonin
+67,303.5,304964595,9,"Ara-Kara, City of Echoes",2024-10-13T09:46:10.000Z,1463443,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Burningwind,Evoker,Devastation,dps,Silver Hand
+67,303.5,304964595,9,"Ara-Kara, City of Echoes",2024-10-13T09:46:10.000Z,1463443,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一叶挚秋,Paladin,Retribution,dps,Pandaren
+67,303.5,304964595,9,"Ara-Kara, City of Echoes",2024-10-13T09:46:10.000Z,1463443,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜魅灬影,Rogue,Assassination,dps,The Master's Glaive
+67,303.5,304964595,9,"Ara-Kara, City of Echoes",2024-10-13T09:46:10.000Z,1463443,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",七星静香,Evoker,Preservation,healer,Force of Elemental
+68,303,298142265,9,"Ara-Kara, City of Echoes",2024-10-12T13:51:54.000Z,1486988,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Cpatainuc,Demon Hunter,Vengeance,tank,Doomwalker
+68,303,298142265,9,"Ara-Kara, City of Echoes",2024-10-12T13:51:54.000Z,1486988,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",殇魂归去,Demon Hunter,Havoc,dps,Deathwhisper
+68,303,298142265,9,"Ara-Kara, City of Echoes",2024-10-12T13:51:54.000Z,1486988,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",秦始皇二一四,Shaman,Restoration,healer,Hyjal
+68,303,298142265,9,"Ara-Kara, City of Echoes",2024-10-12T13:51:54.000Z,1486988,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",旧梦重拾丶,Paladin,Retribution,dps,Al'ar
+68,303,298142265,9,"Ara-Kara, City of Echoes",2024-10-12T13:51:54.000Z,1486988,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Addie,Death Knight,Frost,dps,Lich King
+69,302.7,299089338,9,"Ara-Kara, City of Echoes",2024-10-10T15:25:30.000Z,1503995,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叁仟世界丶,Warrior,Protection,tank,Rhonin
+69,302.7,299089338,9,"Ara-Kara, City of Echoes",2024-10-10T15:25:30.000Z,1503995,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",唐风宋月,Priest,Discipline,healer,Al'ar
+69,302.7,299089338,9,"Ara-Kara, City of Echoes",2024-10-10T15:25:30.000Z,1503995,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这个层数奔放,Hunter,Survival,dps,Al'ar
+69,302.7,299089338,9,"Ara-Kara, City of Echoes",2024-10-10T15:25:30.000Z,1503995,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兰溪体育生,Shaman,Elemental,dps,Rhonin
+69,302.7,299089338,9,"Ara-Kara, City of Echoes",2024-10-10T15:25:30.000Z,1503995,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Naiveghost,Warrior,Fury,dps,Al'ar
+70,302.3,299985721,9,"Ara-Kara, City of Echoes",2024-10-13T19:57:12.000Z,1521853,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超越天堂丶,Demon Hunter,Havoc,dps,Silver Hand
+70,302.3,299985721,9,"Ara-Kara, City of Echoes",2024-10-13T19:57:12.000Z,1521853,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黃粱,Rogue,Assassination,dps,Silver Hand
+70,302.3,299985721,9,"Ara-Kara, City of Echoes",2024-10-13T19:57:12.000Z,1521853,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",剩饭卡比兽,Shaman,Restoration,healer,Silver Hand
+70,302.3,299985721,9,"Ara-Kara, City of Echoes",2024-10-13T19:57:12.000Z,1521853,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你无敌了奥,Death Knight,Unholy,dps,Silver Hand
+70,302.3,299985721,9,"Ara-Kara, City of Echoes",2024-10-13T19:57:12.000Z,1521853,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我要吃牛肉干,Paladin,Protection,tank,Scarlet Crusade
+71,302.1,299119351,9,"Ara-Kara, City of Echoes",2024-10-10T18:10:17.000Z,1534311,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",飛丷飛,Paladin,Retribution,dps,Doomwalker
+71,302.1,299119351,9,"Ara-Kara, City of Echoes",2024-10-10T18:10:17.000Z,1534311,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",恶魔早睡早起,Warlock,Destruction,dps,Pandaren
+71,302.1,299119351,9,"Ara-Kara, City of Echoes",2024-10-10T18:10:17.000Z,1534311,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",守岸人丶,Priest,Discipline,healer,Silver Hand
+71,302.1,299119351,9,"Ara-Kara, City of Echoes",2024-10-10T18:10:17.000Z,1534311,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伊利丷小雷,Demon Hunter,Vengeance,tank,Valley of Kings
+71,302.1,299119351,9,"Ara-Kara, City of Echoes",2024-10-10T18:10:17.000Z,1534311,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",途经过百川,Death Knight,Frost,dps,Pandaren
+72,302,299247037,9,"Ara-Kara, City of Echoes",2024-10-11T05:26:39.000Z,1537979,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罪過聖堂,Paladin,Retribution,dps,Eldre'Thalas
+72,302,299247037,9,"Ara-Kara, City of Echoes",2024-10-11T05:26:39.000Z,1537979,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",可尔必斯,Shaman,Restoration,healer,Eldre'Thalas
+72,302,299247037,9,"Ara-Kara, City of Echoes",2024-10-11T05:26:39.000Z,1537979,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月光下的闪电,Shaman,Elemental,dps,Deathwing
+72,302,299247037,9,"Ara-Kara, City of Echoes",2024-10-11T05:26:39.000Z,1537979,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛德古,Druid,Guardian,tank,Barrens
+72,302,299247037,9,"Ara-Kara, City of Echoes",2024-10-11T05:26:39.000Z,1537979,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",春哥真汉子,Death Knight,Frost,dps,Arygos
+73,301.9,300086518,9,"Ara-Kara, City of Echoes",2024-10-14T04:24:54.000Z,1542034,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龍丨大師,Monk,Brewmaster,tank,Chillwind Point
+73,301.9,300086518,9,"Ara-Kara, City of Echoes",2024-10-14T04:24:54.000Z,1542034,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我不是骡子,Druid,Feral,dps,Silver Hand
+73,301.9,300086518,9,"Ara-Kara, City of Echoes",2024-10-14T04:24:54.000Z,1542034,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",塔姆小盾,Paladin,Retribution,dps,Silver Hand
+73,301.9,300086518,9,"Ara-Kara, City of Echoes",2024-10-14T04:24:54.000Z,1542034,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龍丨戰,Warrior,Fury,dps,Chillwind Point
+73,301.9,300086518,9,"Ara-Kara, City of Echoes",2024-10-14T04:24:54.000Z,1542034,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萨非酋,Shaman,Restoration,healer,Al'ar
+74,301.9,299556747,9,"Ara-Kara, City of Echoes",2024-10-12T11:45:41.000Z,1544821,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",随便盖姚明,Monk,Mistweaver,healer,Chillwind Point
+74,301.9,299556747,9,"Ara-Kara, City of Echoes",2024-10-12T11:45:41.000Z,1544821,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嘿灬咻嘿灬咻,Warrior,Fury,dps,The Master's Glaive
+74,301.9,299556747,9,"Ara-Kara, City of Echoes",2024-10-12T11:45:41.000Z,1544821,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛哔带圣光,Paladin,Retribution,dps,Scarlet Crusade
+74,301.9,299556747,9,"Ara-Kara, City of Echoes",2024-10-12T11:45:41.000Z,1544821,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",零贰零柒,Monk,Brewmaster,tank,Deathwing
+74,301.9,299556747,9,"Ara-Kara, City of Echoes",2024-10-12T11:45:41.000Z,1544821,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",唯月,Hunter,Marksmanship,dps,Barrens
+75,301.4,299030136,9,"Ara-Kara, City of Echoes",2024-10-10T06:06:16.000Z,1569431,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狡猾之萨满,Shaman,Restoration,healer,Chillwind Point
+75,301.4,299030136,9,"Ara-Kara, City of Echoes",2024-10-10T06:06:16.000Z,1569431,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Crucifyme,Evoker,Augmentation,dps,Burning Blade
+75,301.4,299030136,9,"Ara-Kara, City of Echoes",2024-10-10T06:06:16.000Z,1569431,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",光蹄子丶,Paladin,Retribution,dps,Scarlet Crusade
+75,301.4,299030136,9,"Ara-Kara, City of Echoes",2024-10-10T06:06:16.000Z,1569431,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",尸山血海,Death Knight,Blood,tank,Shadowmoon
+75,301.4,299030136,9,"Ara-Kara, City of Echoes",2024-10-10T06:06:16.000Z,1569431,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萨满嘟嘟哒,Shaman,Elemental,dps,The Master's Glaive
+76,301.3,300152242,9,"Ara-Kara, City of Echoes",2024-10-14T15:09:48.000Z,1571764,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",佳莉丶霜,Death Knight,Frost,dps,Doomwalker
+76,301.3,300152242,9,"Ara-Kara, City of Echoes",2024-10-14T15:09:48.000Z,1571764,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿露酱丶嗷呜,Evoker,Augmentation,dps,Doomwalker
+76,301.3,300152242,9,"Ara-Kara, City of Echoes",2024-10-14T15:09:48.000Z,1571764,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玉米卷儿,Shaman,Restoration,healer,Doomwalker
+76,301.3,300152242,9,"Ara-Kara, City of Echoes",2024-10-14T15:09:48.000Z,1571764,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",了了雄,Druid,Guardian,tank,Doomwalker
+76,301.3,300152242,9,"Ara-Kara, City of Echoes",2024-10-14T15:09:48.000Z,1571764,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我就是法神,Mage,Frost,dps,Doomwalker
+77,301.2,300181869,9,"Ara-Kara, City of Echoes",2024-10-14T17:07:21.000Z,1579802,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嗨雅,Death Knight,Frost,dps,Feralas
+77,301.2,300181869,9,"Ara-Kara, City of Echoes",2024-10-14T17:07:21.000Z,1579802,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小压力怪,Death Knight,Frost,dps,Rhonin
+77,301.2,300181869,9,"Ara-Kara, City of Echoes",2024-10-14T17:07:21.000Z,1579802,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",打豆豆,Priest,Discipline,healer,Vaelastrasz
+77,301.2,300181869,9,"Ara-Kara, City of Echoes",2024-10-14T17:07:21.000Z,1579802,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大象,Warrior,Protection,tank,Executus
+77,301.2,300181869,9,"Ara-Kara, City of Echoes",2024-10-14T17:07:21.000Z,1579802,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕你个咕,Druid,Balance,dps,Barrens
+78,300.9,300297372,9,"Ara-Kara, City of Echoes",2024-10-13T06:05:47.000Z,1595847,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",托奇丶,Mage,Fire,dps,Al'ar
+78,300.9,300297372,9,"Ara-Kara, City of Echoes",2024-10-13T06:05:47.000Z,1595847,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",惊雪,Shaman,Restoration,healer,The Forgotten Coast
+78,300.9,300297372,9,"Ara-Kara, City of Echoes",2024-10-13T06:05:47.000Z,1595847,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我要开演了,Death Knight,Unholy,dps,Swiftwind
+78,300.9,300297372,9,"Ara-Kara, City of Echoes",2024-10-13T06:05:47.000Z,1595847,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Superdruid,Druid,Guardian,tank,Fenris
+78,300.9,300297372,9,"Ara-Kara, City of Echoes",2024-10-13T06:05:47.000Z,1595847,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萨家来也,Shaman,Enhancement,dps,Al'ar
+79,300.8,299250229,9,"Ara-Kara, City of Echoes",2024-10-11T06:30:13.000Z,1598269,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂复苏,Warrior,Protection,tank,Chillwind Point
+79,300.8,299250229,9,"Ara-Kara, City of Echoes",2024-10-11T06:30:13.000Z,1598269,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超越天堂丶,Demon Hunter,Havoc,dps,Silver Hand
+79,300.8,299250229,9,"Ara-Kara, City of Echoes",2024-10-11T06:30:13.000Z,1598269,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+79,300.8,299250229,9,"Ara-Kara, City of Echoes",2024-10-11T06:30:13.000Z,1598269,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kada,Priest,Discipline,healer,Al'ar
+79,300.8,299250229,9,"Ara-Kara, City of Echoes",2024-10-11T06:30:13.000Z,1598269,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小白豆,Death Knight,Unholy,dps,Silver Hand
+80,300.5,299591670,9,"Ara-Kara, City of Echoes",2024-10-12T14:46:54.000Z,1615992,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牧瞳,Priest,Discipline,healer,Deathwing
+80,300.5,299591670,9,"Ara-Kara, City of Echoes",2024-10-12T14:46:54.000Z,1615992,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kylean,Paladin,Retribution,dps,Deathwing
+80,300.5,299591670,9,"Ara-Kara, City of Echoes",2024-10-12T14:46:54.000Z,1615992,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",巧哥丶小法,Mage,Fire,dps,Nighthaven
+80,300.5,299591670,9,"Ara-Kara, City of Echoes",2024-10-12T14:46:54.000Z,1615992,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天天出装备,Shaman,Enhancement,dps,Deathwing
+80,300.5,299591670,9,"Ara-Kara, City of Echoes",2024-10-12T14:46:54.000Z,1615992,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",利群大德,Druid,Guardian,tank,Dor'Danil
+81,300.2,302276474,9,"Ara-Kara, City of Echoes",2024-10-10T14:02:29.000Z,1626600,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银月之傲,Warlock,Destruction,dps,Hakkar
+81,300.2,302276474,9,"Ara-Kara, City of Echoes",2024-10-10T14:02:29.000Z,1626600,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨染流年,Shaman,Elemental,dps,Eldre'Thalas
+81,300.2,302276474,9,"Ara-Kara, City of Echoes",2024-10-10T14:02:29.000Z,1626600,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌拉的贼,Rogue,Assassination,dps,Anzu
+81,300.2,302276474,9,"Ara-Kara, City of Echoes",2024-10-10T14:02:29.000Z,1626600,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+81,300.2,302276474,9,"Ara-Kara, City of Echoes",2024-10-10T14:02:29.000Z,1626600,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",彤彤的萨满,Shaman,Restoration,healer,Grim Batol
+82,299.8,299613643,9,"Ara-Kara, City of Echoes",2024-10-12T15:59:43.000Z,1650316,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丁香与醋栗,Mage,Arcane,dps,Dark Iron
+82,299.8,299613643,9,"Ara-Kara, City of Echoes",2024-10-12T15:59:43.000Z,1650316,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bambipriest,Priest,Shadow,dps,Blanchard
+82,299.8,299613643,9,"Ara-Kara, City of Echoes",2024-10-12T15:59:43.000Z,1650316,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",傍山屯小诸葛,Shaman,Restoration,healer,Blanchard
+82,299.8,299613643,9,"Ara-Kara, City of Echoes",2024-10-12T15:59:43.000Z,1650316,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",洛凡尘,Death Knight,Blood,tank,Dark Iron
+82,299.8,299613643,9,"Ara-Kara, City of Echoes",2024-10-12T15:59:43.000Z,1650316,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",布莱德尼,Paladin,Retribution,dps,Dark Iron
+83,299.5,299460101,9,"Ara-Kara, City of Echoes",2024-10-12T01:02:04.000Z,1665318,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萩茗,Mage,Frost,dps,Isillien
+83,299.5,299460101,9,"Ara-Kara, City of Echoes",2024-10-12T01:02:04.000Z,1665318,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛逼萨满丶,Shaman,Enhancement,dps,Scarlet Crusade
+83,299.5,299460101,9,"Ara-Kara, City of Echoes",2024-10-12T01:02:04.000Z,1665318,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",陈朵拉,Shaman,Restoration,healer,Al'ar
+83,299.5,299460101,9,"Ara-Kara, City of Echoes",2024-10-12T01:02:04.000Z,1665318,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",趁手红打灯笼,Demon Hunter,Vengeance,tank,Deathwing
+83,299.5,299460101,9,"Ara-Kara, City of Echoes",2024-10-12T01:02:04.000Z,1665318,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",舞者,Evoker,Augmentation,dps,Rhonin
+84,299.2,299942991,9,"Ara-Kara, City of Echoes",2024-10-13T17:18:37.000Z,1678961,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",完能,Hunter,Survival,dps,Eldre'Thalas
+84,299.2,299942991,9,"Ara-Kara, City of Echoes",2024-10-13T17:18:37.000Z,1678961,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罪過聖堂,Paladin,Retribution,dps,Eldre'Thalas
+84,299.2,299942991,9,"Ara-Kara, City of Echoes",2024-10-13T17:18:37.000Z,1678961,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",就叫星星丶,Monk,Brewmaster,tank,Deathwing
+84,299.2,299942991,9,"Ara-Kara, City of Echoes",2024-10-13T17:18:37.000Z,1678961,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",两秒打十八拳,Monk,Windwalker,dps,Deathwing
+84,299.2,299942991,9,"Ara-Kara, City of Echoes",2024-10-13T17:18:37.000Z,1678961,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",二二酱,Priest,Holy,healer,Isillien
+85,298.1,299117537,9,"Ara-Kara, City of Echoes",2024-10-10T18:02:12.000Z,1736988,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lcsalty,Mage,Frost,dps,Echo Ridge
+85,298.1,299117537,9,"Ara-Kara, City of Echoes",2024-10-10T18:02:12.000Z,1736988,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Nigihayami,Evoker,Preservation,healer,Deathwing
+85,298.1,299117537,9,"Ara-Kara, City of Echoes",2024-10-10T18:02:12.000Z,1736988,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",浮华落尽似梦,Druid,Guardian,tank,Shadowmourne
+85,298.1,299117537,9,"Ara-Kara, City of Echoes",2024-10-10T18:02:12.000Z,1736988,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ninodk,Death Knight,Frost,dps,Rhonin
+85,298.1,299117537,9,"Ara-Kara, City of Echoes",2024-10-10T18:02:12.000Z,1736988,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+86,297.7,300128956,9,"Ara-Kara, City of Echoes",2024-10-14T11:30:20.000Z,1756729,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",专门找揍,Druid,Guardian,tank,Doomwalker
+86,297.7,300128956,9,"Ara-Kara, City of Echoes",2024-10-14T11:30:20.000Z,1756729,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柊筱婭,Shaman,Restoration,healer,Barrens
+86,297.7,300128956,9,"Ara-Kara, City of Echoes",2024-10-14T11:30:20.000Z,1756729,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣光怜悯,Paladin,Retribution,dps,Bone Wastes
+86,297.7,300128956,9,"Ara-Kara, City of Echoes",2024-10-14T11:30:20.000Z,1756729,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",風暴之灵,Shaman,Elemental,dps,Bone Wastes
+86,297.7,300128956,9,"Ara-Kara, City of Echoes",2024-10-14T11:30:20.000Z,1756729,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橘子味可乐吖,Paladin,Retribution,dps,Silver Hand
+87,297.6,299308038,9,"Ara-Kara, City of Echoes",2024-10-11T14:37:03.000Z,1762058,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大摆锤送快递,Death Knight,Frost,dps,Grim Batol
+87,297.6,299308038,9,"Ara-Kara, City of Echoes",2024-10-11T14:37:03.000Z,1762058,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灌奶糕手,Shaman,Restoration,healer,Shadowmourne
+87,297.6,299308038,9,"Ara-Kara, City of Echoes",2024-10-11T14:37:03.000Z,1762058,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拾月初四,Priest,Shadow,dps,Shadowmourne
+87,297.6,299308038,9,"Ara-Kara, City of Echoes",2024-10-11T14:37:03.000Z,1762058,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",耀麟丶,Mage,Fire,dps,Scarlet Crusade
+87,297.6,299308038,9,"Ara-Kara, City of Echoes",2024-10-11T14:37:03.000Z,1762058,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小雨堡堡,Warrior,Protection,tank,Destromath
+88,297.1,299254505,9,"Ara-Kara, City of Echoes",2024-10-11T06:39:01.000Z,1783018,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",回忆的尘埃,Shaman,Restoration,healer,Ashenvale
+88,297.1,299254505,9,"Ara-Kara, City of Echoes",2024-10-11T06:39:01.000Z,1783018,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",陈诗若伊,Demon Hunter,Vengeance,tank,Ashenvale
+88,297.1,299254505,9,"Ara-Kara, City of Echoes",2024-10-11T06:39:01.000Z,1783018,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",December,Druid,Balance,dps,Ashenvale
+88,297.1,299254505,9,"Ara-Kara, City of Echoes",2024-10-11T06:39:01.000Z,1783018,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",若霜,Mage,Arcane,dps,Ashenvale
+88,297.1,299254505,9,"Ara-Kara, City of Echoes",2024-10-11T06:39:01.000Z,1783018,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",站逗胜利,Paladin,Retribution,dps,Silver Hand
+89,297.1,299129203,9,"Ara-Kara, City of Echoes",2024-10-10T19:16:03.000Z,1784535,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南月海棠,Druid,Restoration,healer,Pandaren
+89,297.1,299129203,9,"Ara-Kara, City of Echoes",2024-10-10T19:16:03.000Z,1784535,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兜里有杆枪,Hunter,Survival,dps,Burning Blade
+89,297.1,299129203,9,"Ara-Kara, City of Echoes",2024-10-10T19:16:03.000Z,1784535,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Puddiin,Evoker,Augmentation,dps,Doomwalker
+89,297.1,299129203,9,"Ara-Kara, City of Echoes",2024-10-10T19:16:03.000Z,1784535,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超火琉星,Demon Hunter,Vengeance,tank,Doomwalker
+89,297.1,299129203,9,"Ara-Kara, City of Echoes",2024-10-10T19:16:03.000Z,1784535,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一只熊丶,Paladin,Retribution,dps,Blanchard
+90,296.8,300142974,9,"Ara-Kara, City of Echoes",2024-10-14T13:17:54.000Z,1798629,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+90,296.8,300142974,9,"Ara-Kara, City of Echoes",2024-10-14T13:17:54.000Z,1798629,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小红手寒灀,Mage,Frost,dps,Chillwind Point
+90,296.8,300142974,9,"Ara-Kara, City of Echoes",2024-10-14T13:17:54.000Z,1798629,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡布達,Evoker,Augmentation,dps,Chillwind Point
+90,296.8,300142974,9,"Ara-Kara, City of Echoes",2024-10-14T13:17:54.000Z,1798629,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",原味舒芙蕾,Druid,Guardian,tank,Chillwind Point
+90,296.8,300142974,9,"Ara-Kara, City of Echoes",2024-10-14T13:17:54.000Z,1798629,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶小也是奶,Shaman,Restoration,healer,Chillwind Point
+91,296.8,300157658,9,"Ara-Kara, City of Echoes",2024-10-14T16:11:23.000Z,1801132,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雪洛晨曦,Mage,Frost,dps,Grim Batol
+91,296.8,300157658,9,"Ara-Kara, City of Echoes",2024-10-14T16:11:23.000Z,1801132,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哈吉龙,Evoker,Augmentation,dps,Grim Batol
+91,296.8,300157658,9,"Ara-Kara, City of Echoes",2024-10-14T16:11:23.000Z,1801132,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶丨杀满丨,Shaman,Restoration,healer,Grim Batol
+91,296.8,300157658,9,"Ara-Kara, City of Echoes",2024-10-14T16:11:23.000Z,1801132,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Istolil,Priest,Shadow,dps,Kilrogg
+91,296.8,300157658,9,"Ara-Kara, City of Echoes",2024-10-14T16:11:23.000Z,1801132,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一路向南,Druid,Guardian,tank,Kilrogg
+92,296.5,299875215,9,"Ara-Kara, City of Echoes",2024-10-13T13:02:32.000Z,1814079,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",身騎白馬,Paladin,Retribution,dps,Frostmourne
+92,296.5,299875215,9,"Ara-Kara, City of Echoes",2024-10-13T13:02:32.000Z,1814079,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",甘雨,Paladin,Protection,tank,World Tree
+92,296.5,299875215,9,"Ara-Kara, City of Echoes",2024-10-13T13:02:32.000Z,1814079,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",无尽丨烧麦,Shaman,Restoration,healer,World Tree
+92,296.5,299875215,9,"Ara-Kara, City of Echoes",2024-10-13T13:02:32.000Z,1814079,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",刀扇丶过背刺,Rogue,Assassination,dps,Hellscream
+92,296.5,299875215,9,"Ara-Kara, City of Echoes",2024-10-13T13:02:32.000Z,1814079,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",战时,Warrior,Fury,dps,World Tree
+93,296.2,300565678,9,"Ara-Kara, City of Echoes",2024-10-16T06:06:06.000Z,1828222,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暮黎,Demon Hunter,Vengeance,tank,Al'ar
+93,296.2,300565678,9,"Ara-Kara, City of Echoes",2024-10-16T06:06:06.000Z,1828222,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Skullcindy,Paladin,Retribution,dps,Chillwind Point
+93,296.2,300565678,9,"Ara-Kara, City of Echoes",2024-10-16T06:06:06.000Z,1828222,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Danniel,Mage,Frost,dps,Burning Blade
+93,296.2,300565678,9,"Ara-Kara, City of Echoes",2024-10-16T06:06:06.000Z,1828222,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",登场得有气势,Shaman,Restoration,healer,Grim Batol
+93,296.2,300565678,9,"Ara-Kara, City of Echoes",2024-10-16T06:06:06.000Z,1828222,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Icedragon,Death Knight,Unholy,dps,The Great Sea
+94,295.7,300297371,9,"Ara-Kara, City of Echoes",2024-10-13T05:21:21.000Z,1855523,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",惊雪,Shaman,Restoration,healer,The Forgotten Coast
+94,295.7,300297371,9,"Ara-Kara, City of Echoes",2024-10-13T05:21:21.000Z,1855523,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我要开演了,Death Knight,Unholy,dps,Swiftwind
+94,295.7,300297371,9,"Ara-Kara, City of Echoes",2024-10-13T05:21:21.000Z,1855523,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",王宝强丶,Death Knight,Frost,dps,River Pride
+94,295.7,300297371,9,"Ara-Kara, City of Echoes",2024-10-13T05:21:21.000Z,1855523,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",七歌,Monk,Brewmaster,tank,Kel'Thuzad
+94,295.7,300297371,9,"Ara-Kara, City of Echoes",2024-10-13T05:21:21.000Z,1855523,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",挽梦意笙歌丶,Mage,Fire,dps,Barrens
+95,295.7,299099349,9,"Ara-Kara, City of Echoes",2024-10-10T16:32:12.000Z,1857922,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yoruichi,Druid,Restoration,healer,Al'ar
+95,295.7,299099349,9,"Ara-Kara, City of Echoes",2024-10-10T16:32:12.000Z,1857922,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ysageras,Mage,Frost,dps,Al'ar
+95,295.7,299099349,9,"Ara-Kara, City of Echoes",2024-10-10T16:32:12.000Z,1857922,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bloodboìl,Death Knight,Frost,dps,Burning Blade
+95,295.7,299099349,9,"Ara-Kara, City of Echoes",2024-10-10T16:32:12.000Z,1857922,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",靴迪凯,Death Knight,Blood,tank,Al'ar
+95,295.7,299099349,9,"Ara-Kara, City of Echoes",2024-10-10T16:32:12.000Z,1857922,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",扒肉条,Warlock,Affliction,dps,Al'ar
+96,295,299522269,8,"Ara-Kara, City of Echoes",2024-10-12T07:36:53.000Z,917407,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黄焖人米饭,Druid,Balance,dps,Al'ar
+96,295,299522269,8,"Ara-Kara, City of Echoes",2024-10-12T07:36:53.000Z,917407,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖黑黒,Paladin,Retribution,dps,Al'ar
+96,295,299522269,8,"Ara-Kara, City of Echoes",2024-10-12T07:36:53.000Z,917407,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的裂蹄牛,Warrior,Protection,tank,Silver Hand
+96,295,299522269,8,"Ara-Kara, City of Echoes",2024-10-12T07:36:53.000Z,917407,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吃完飯睡覺,Shaman,Restoration,healer,Al'ar
+96,295,299522269,8,"Ara-Kara, City of Echoes",2024-10-12T07:36:53.000Z,917407,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",稳不住,Death Knight,Frost,dps,Valley of Kings
+97,295,299834295,8,"Ara-Kara, City of Echoes",2024-10-13T09:23:38.000Z,967335,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+97,295,299834295,8,"Ara-Kara, City of Echoes",2024-10-13T09:23:38.000Z,967335,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我爱小屁屁,Death Knight,Unholy,dps,Isillien
+97,295,299834295,8,"Ara-Kara, City of Echoes",2024-10-13T09:23:38.000Z,967335,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶魔鬼筋肉人,Mage,Frost,dps,Chillwind Point
+97,295,299834295,8,"Ara-Kara, City of Echoes",2024-10-13T09:23:38.000Z,967335,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰冰冻,Paladin,Retribution,dps,Grim Batol
+97,295,299834295,8,"Ara-Kara, City of Echoes",2024-10-13T09:23:38.000Z,967335,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一只小狐狸,Shaman,Restoration,healer,The Master's Glaive
+98,295,300370373,8,"Ara-Kara, City of Echoes",2024-10-15T13:31:46.000Z,1002250,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",仙女,Demon Hunter,Vengeance,tank,Deepfury
+98,295,300370373,8,"Ara-Kara, City of Echoes",2024-10-15T13:31:46.000Z,1002250,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yossi,Paladin,Retribution,dps,Isillien
+98,295,300370373,8,"Ara-Kara, City of Echoes",2024-10-15T13:31:46.000Z,1002250,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",北极,Death Knight,Frost,dps,Deepfury
+98,295,300370373,8,"Ara-Kara, City of Echoes",2024-10-15T13:31:46.000Z,1002250,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",开山,Shaman,Restoration,healer,Deepfury
+98,295,300370373,8,"Ara-Kara, City of Echoes",2024-10-15T13:31:46.000Z,1002250,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",特兰希尔,Evoker,Augmentation,dps,Warsong
+99,295,299074718,8,"Ara-Kara, City of Echoes",2024-10-10T13:53:50.000Z,1004265,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",電竞梁朝伟,Demon Hunter,Vengeance,tank,Alterac Mountains
+99,295,299074718,8,"Ara-Kara, City of Echoes",2024-10-10T13:53:50.000Z,1004265,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灬小地瓜灬,Mage,Frost,dps,Silver Hand
+99,295,299074718,8,"Ara-Kara, City of Echoes",2024-10-10T13:53:50.000Z,1004265,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",网红镇,Priest,Discipline,healer,Silver Hand
+99,295,299074718,8,"Ara-Kara, City of Echoes",2024-10-10T13:53:50.000Z,1004265,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银叶纷飞丶,Warlock,Destruction,dps,Rhonin
+99,295,299074718,8,"Ara-Kara, City of Echoes",2024-10-10T13:53:50.000Z,1004265,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鱼语欲遇雨,Warlock,Destruction,dps,The Master's Glaive
+100,295,299224948,8,"Ara-Kara, City of Echoes",2024-10-11T02:46:13.000Z,1030185,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玖灵墨,Priest,Discipline,healer,Pandaren
+100,295,299224948,8,"Ara-Kara, City of Echoes",2024-10-11T02:46:13.000Z,1030185,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶梦的遇见,Warrior,Protection,tank,The Great Sea
+100,295,299224948,8,"Ara-Kara, City of Echoes",2024-10-11T02:46:13.000Z,1030185,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Qsxyl,Paladin,Retribution,dps,The Great Sea
+100,295,299224948,8,"Ara-Kara, City of Echoes",2024-10-11T02:46:13.000Z,1030185,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Liamkk,Death Knight,Frost,dps,Doomwalker
+100,295,299224948,8,"Ara-Kara, City of Echoes",2024-10-11T02:46:13.000Z,1030185,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",支配协律,Mage,Fire,dps,The Golden Plains
+101,295,299587246,8,"Ara-Kara, City of Echoes",2024-10-12T14:13:19.000Z,1033364,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小宗桑,Paladin,Retribution,dps,The Great Sea
+101,295,299587246,8,"Ara-Kara, City of Echoes",2024-10-12T14:13:19.000Z,1033364,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Shadow,dps,Rhonin
+101,295,299587246,8,"Ara-Kara, City of Echoes",2024-10-12T14:13:19.000Z,1033364,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",獬丶,Demon Hunter,Vengeance,tank,Emerald Dream
+101,295,299587246,8,"Ara-Kara, City of Echoes",2024-10-12T14:13:19.000Z,1033364,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Foin,Mage,Frost,dps,Blanchard
+101,295,299587246,8,"Ara-Kara, City of Echoes",2024-10-12T14:13:19.000Z,1033364,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",烈焰飞花,Priest,Holy,healer,Pandaren
+102,295,299903538,8,"Ara-Kara, City of Echoes",2024-10-13T15:03:48.000Z,1050878,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+102,295,299903538,8,"Ara-Kara, City of Echoes",2024-10-13T15:03:48.000Z,1050878,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yycc,Death Knight,Frost,dps,Abbendis
+102,295,299903538,8,"Ara-Kara, City of Echoes",2024-10-13T15:03:48.000Z,1050878,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",核能气质,Shaman,Restoration,healer,Silver Hand
+102,295,299903538,8,"Ara-Kara, City of Echoes",2024-10-13T15:03:48.000Z,1050878,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",魔力甜甜圈,Warrior,Fury,dps,Argus
+102,295,299903538,8,"Ara-Kara, City of Echoes",2024-10-13T15:03:48.000Z,1050878,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",何法海,Mage,Frost,dps,Silver Hand
+103,295,299335686,8,"Ara-Kara, City of Echoes",2024-10-11T16:29:22.000Z,1082989,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小太子乃,Priest,Discipline,healer,Isillien
+103,295,299335686,8,"Ara-Kara, City of Echoes",2024-10-11T16:29:22.000Z,1082989,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",睿多多吃西瓜,Mage,Frost,dps,The Master's Glaive
+103,295,299335686,8,"Ara-Kara, City of Echoes",2024-10-11T16:29:22.000Z,1082989,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",梦德呢,Druid,Guardian,tank,The Master's Glaive
+103,295,299335686,8,"Ara-Kara, City of Echoes",2024-10-11T16:29:22.000Z,1082989,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",妖王术,Warlock,Destruction,dps,Rhonin
+103,295,299335686,8,"Ara-Kara, City of Echoes",2024-10-11T16:29:22.000Z,1082989,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Wennuan,Mage,Frost,dps,Pandaren
+104,295,299775922,8,"Ara-Kara, City of Echoes",2024-10-13T02:50:49.000Z,1114078,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迪蒙亨特吖,Demon Hunter,Havoc,dps,Al'ar
+104,295,299775922,8,"Ara-Kara, City of Echoes",2024-10-13T02:50:49.000Z,1114078,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",沈妙,Warrior,Protection,tank,Pandaren
+104,295,299775922,8,"Ara-Kara, City of Echoes",2024-10-13T02:50:49.000Z,1114078,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",番茄堡堡,Mage,Frost,dps,The Master's Glaive
+104,295,299775922,8,"Ara-Kara, City of Echoes",2024-10-13T02:50:49.000Z,1114078,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",皮卡秋,Shaman,Restoration,healer,Pandaren
+104,295,299775922,8,"Ara-Kara, City of Echoes",2024-10-13T02:50:49.000Z,1114078,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",熊某人灬,Mage,Frost,dps,Isillien
+105,295,299903011,8,"Ara-Kara, City of Echoes",2024-10-13T15:04:02.000Z,1120673,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Sukmydic,Death Knight,Unholy,dps,Silver Hand
+105,295,299903011,8,"Ara-Kara, City of Echoes",2024-10-13T15:04:02.000Z,1120673,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kananishino,Warlock,Destruction,dps,Silver Hand
+105,295,299903011,8,"Ara-Kara, City of Echoes",2024-10-13T15:04:02.000Z,1120673,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",疾风般划过,Rogue,Assassination,dps,Silver Hand
+105,295,299903011,8,"Ara-Kara, City of Echoes",2024-10-13T15:04:02.000Z,1120673,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+105,295,299903011,8,"Ara-Kara, City of Echoes",2024-10-13T15:04:02.000Z,1120673,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ancientonee,Shaman,Restoration,healer,Silver Hand
+106,295,299534285,8,"Ara-Kara, City of Echoes",2024-10-12T09:03:33.000Z,1135464,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",温眸,Warlock,Demonology,dps,Silver Hand
+106,295,299534285,8,"Ara-Kara, City of Echoes",2024-10-12T09:03:33.000Z,1135464,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",豆豆的德,Druid,Guardian,tank,Silver Hand
+106,295,299534285,8,"Ara-Kara, City of Echoes",2024-10-12T09:03:33.000Z,1135464,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",海狸家的鱼,Shaman,Restoration,healer,Alterac Mountains
+106,295,299534285,8,"Ara-Kara, City of Echoes",2024-10-12T09:03:33.000Z,1135464,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雨果丶光刃,Paladin,Retribution,dps,The Golden Plains
+106,295,299534285,8,"Ara-Kara, City of Echoes",2024-10-12T09:03:33.000Z,1135464,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我也是小胖几,Death Knight,Frost,dps,Immol'thar
+107,294.5,300163151,8,"Ara-Kara, City of Echoes",2024-10-14T15:39:14.000Z,1157728,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兎你一脸,Demon Hunter,Vengeance,tank,Burning Blade
+107,294.5,300163151,8,"Ara-Kara, City of Echoes",2024-10-14T15:39:14.000Z,1157728,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+107,294.5,300163151,8,"Ara-Kara, City of Echoes",2024-10-14T15:39:14.000Z,1157728,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lapintoto,Death Knight,Unholy,dps,Burning Blade
+107,294.5,300163151,8,"Ara-Kara, City of Echoes",2024-10-14T15:39:14.000Z,1157728,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",香辣鱼丸,Evoker,Augmentation,dps,Burning Blade
+107,294.5,300163151,8,"Ara-Kara, City of Echoes",2024-10-14T15:39:14.000Z,1157728,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰渊雪,Mage,Frost,dps,Swiftwind
+108,294.5,299487403,8,"Ara-Kara, City of Echoes",2024-10-12T03:46:05.000Z,1160806,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星光龙,Mage,Frost,dps,Anzu
+108,294.5,299487403,8,"Ara-Kara, City of Echoes",2024-10-12T03:46:05.000Z,1160806,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暴力的咕咕,Demon Hunter,Vengeance,tank,Anzu
+108,294.5,299487403,8,"Ara-Kara, City of Echoes",2024-10-12T03:46:05.000Z,1160806,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",快使用圣光,Paladin,Retribution,dps,Anzu
+108,294.5,299487403,8,"Ara-Kara, City of Echoes",2024-10-12T03:46:05.000Z,1160806,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",肖狗收徒,Warlock,Destruction,dps,Frostmourne
+108,294.5,299487403,8,"Ara-Kara, City of Echoes",2024-10-12T03:46:05.000Z,1160806,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",烦烦丶,Shaman,Restoration,healer,Shadowmourne
+109,294.4,298142265,8,"Ara-Kara, City of Echoes",2024-10-12T14:16:45.000Z,1162419,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Cpatainuc,Demon Hunter,Vengeance,tank,Doomwalker
+109,294.4,298142265,8,"Ara-Kara, City of Echoes",2024-10-12T14:16:45.000Z,1162419,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",殇魂归去,Demon Hunter,Havoc,dps,Deathwhisper
+109,294.4,298142265,8,"Ara-Kara, City of Echoes",2024-10-12T14:16:45.000Z,1162419,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",秦始皇二一四,Shaman,Restoration,healer,Hyjal
+109,294.4,298142265,8,"Ara-Kara, City of Echoes",2024-10-12T14:16:45.000Z,1162419,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",旧梦重拾丶,Paladin,Retribution,dps,Al'ar
+109,294.4,298142265,8,"Ara-Kara, City of Echoes",2024-10-12T14:16:45.000Z,1162419,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Addie,Death Knight,Frost,dps,Lich King
+110,294.3,300351027,8,"Ara-Kara, City of Echoes",2024-10-15T09:27:57.000Z,1168403,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",纯真丁一郎丨,Warlock,Destruction,dps,The Master's Glaive
+110,294.3,300351027,8,"Ara-Kara, City of Echoes",2024-10-15T09:27:57.000Z,1168403,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",云曦,Mage,Frost,dps,Dalvengyr
+110,294.3,300351027,8,"Ara-Kara, City of Echoes",2024-10-15T09:27:57.000Z,1168403,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冲就完事了丶,Warrior,Protection,tank,Al'ar
+110,294.3,300351027,8,"Ara-Kara, City of Echoes",2024-10-15T09:27:57.000Z,1168403,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",歪歪迪艾斯,Shaman,Restoration,healer,Algalon
+110,294.3,300351027,8,"Ara-Kara, City of Echoes",2024-10-15T09:27:57.000Z,1168403,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黄裙子,Paladin,Retribution,dps,Deathwing
+111,294,299852401,8,"Ara-Kara, City of Echoes",2024-10-13T11:08:16.000Z,1184729,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",两断寒水,Mage,Fire,dps,Rhonin
+111,294,299852401,8,"Ara-Kara, City of Echoes",2024-10-13T11:08:16.000Z,1184729,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我真猛,Death Knight,Unholy,dps,Dark Iron
+111,294,299852401,8,"Ara-Kara, City of Echoes",2024-10-13T11:08:16.000Z,1184729,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",简小繁,Druid,Guardian,tank,The Great Sea
+111,294,299852401,8,"Ara-Kara, City of Echoes",2024-10-13T11:08:16.000Z,1184729,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Meraxes,Evoker,Preservation,healer,The Forgotten Coast
+111,294,299852401,8,"Ara-Kara, City of Echoes",2024-10-13T11:08:16.000Z,1184729,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",长风吹过山岗,Warrior,Fury,dps,The Master's Glaive
+112,293.9,300123291,8,"Ara-Kara, City of Echoes",2024-10-14T10:52:48.000Z,1191259,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",加拉格尔,Shaman,Elemental,dps,Frostmourne
+112,293.9,300123291,8,"Ara-Kara, City of Echoes",2024-10-14T10:52:48.000Z,1191259,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",愿同笑亦同悲,Paladin,Retribution,dps,Frostmourne
+112,293.9,300123291,8,"Ara-Kara, City of Echoes",2024-10-14T10:52:48.000Z,1191259,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣言术丶萌,Priest,Holy,healer,Holy Chanter
+112,293.9,300123291,8,"Ara-Kara, City of Echoes",2024-10-14T10:52:48.000Z,1191259,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",塔林丶達爾,Warrior,Protection,tank,The Golden Plains
+112,293.9,300123291,8,"Ara-Kara, City of Echoes",2024-10-14T10:52:48.000Z,1191259,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冬夜饮寒水,Death Knight,Frost,dps,Al'ar
+113,293.5,300565717,8,"Ara-Kara, City of Echoes",2024-10-16T06:07:09.000Z,1212718,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖圈圏,Shaman,Elemental,dps,Al'ar
+113,293.5,300565717,8,"Ara-Kara, City of Echoes",2024-10-16T06:07:09.000Z,1212718,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的团哥儿,Death Knight,Frost,dps,Silver Hand
+113,293.5,300565717,8,"Ara-Kara, City of Echoes",2024-10-16T06:07:09.000Z,1212718,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶狗狗丶,Death Knight,Blood,tank,Al'ar
+113,293.5,300565717,8,"Ara-Kara, City of Echoes",2024-10-16T06:07:09.000Z,1212718,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天然啾啾呆,Hunter,Marksmanship,dps,Al'ar
+113,293.5,300565717,8,"Ara-Kara, City of Echoes",2024-10-16T06:07:09.000Z,1212718,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",亚历克斯贰贰,Priest,Holy,healer,Silver Hand
+114,293.4,300408625,8,"Ara-Kara, City of Echoes",2024-10-15T16:16:57.000Z,1215423,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Tossboy,Mage,Frost,dps,Scarlet Crusade
+114,293.4,300408625,8,"Ara-Kara, City of Echoes",2024-10-15T16:16:57.000Z,1215423,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",故人归,Paladin,Retribution,dps,Rhonin
+114,293.4,300408625,8,"Ara-Kara, City of Echoes",2024-10-15T16:16:57.000Z,1215423,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",闪闪要努力丷,Shaman,Restoration,healer,Isillien
+114,293.4,300408625,8,"Ara-Kara, City of Echoes",2024-10-15T16:16:57.000Z,1215423,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黑锋要塞村草,Death Knight,Frost,dps,Anzu
+114,293.4,300408625,8,"Ara-Kara, City of Echoes",2024-10-15T16:16:57.000Z,1215423,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绝望后的希望,Warrior,Protection,tank,Thaurissan
+115,293.4,299858852,8,"Ara-Kara, City of Echoes",2024-10-13T14:34:12.000Z,1216538,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜斗,Paladin,Protection,tank,Pandaren
+115,293.4,299858852,8,"Ara-Kara, City of Echoes",2024-10-13T14:34:12.000Z,1216538,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",节超大魔王,Warlock,Demonology,dps,Pandaren
+115,293.4,299858852,8,"Ara-Kara, City of Echoes",2024-10-13T14:34:12.000Z,1216538,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星星也晚睡,Priest,Discipline,healer,Pandaren
+115,293.4,299858852,8,"Ara-Kara, City of Echoes",2024-10-13T14:34:12.000Z,1216538,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",流年沉香丶,Priest,Shadow,dps,Frostmourne
+115,293.4,299858852,8,"Ara-Kara, City of Echoes",2024-10-13T14:34:12.000Z,1216538,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三仟世界,Warlock,Destruction,dps,Dream Bough
+116,293.3,299933084,8,"Ara-Kara, City of Echoes",2024-10-13T16:59:46.000Z,1219241,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",微婳,Priest,Discipline,healer,Valley of Kings
+116,293.3,299933084,8,"Ara-Kara, City of Echoes",2024-10-13T16:59:46.000Z,1219241,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Golwhale,Paladin,Retribution,dps,Isillien
+116,293.3,299933084,8,"Ara-Kara, City of Echoes",2024-10-13T16:59:46.000Z,1219241,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿喱,Paladin,Retribution,dps,Pandaren
+116,293.3,299933084,8,"Ara-Kara, City of Echoes",2024-10-13T16:59:46.000Z,1219241,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Rhythmic,Mage,Frost,dps,Darrowmere
+116,293.3,299933084,8,"Ara-Kara, City of Echoes",2024-10-13T16:59:46.000Z,1219241,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小潇潇冲鸭,Warrior,Protection,tank,Pandaren
+117,293.1,299792774,8,"Ara-Kara, City of Echoes",2024-10-13T04:25:51.000Z,1228248,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",性感吊带裙,Death Knight,Blood,tank,Alterac Mountains
+117,293.1,299792774,8,"Ara-Kara, City of Echoes",2024-10-13T04:25:51.000Z,1228248,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",仙力,Monk,Windwalker,dps,Gazlowe
+117,293.1,299792774,8,"Ara-Kara, City of Echoes",2024-10-13T04:25:51.000Z,1228248,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",寓言,Hunter,Marksmanship,dps,Rhonin
+117,293.1,299792774,8,"Ara-Kara, City of Echoes",2024-10-13T04:25:51.000Z,1228248,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bilibili,Shaman,Restoration,healer,Silver Hand
+117,293.1,299792774,8,"Ara-Kara, City of Echoes",2024-10-13T04:25:51.000Z,1228248,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Sslcqs,Paladin,Retribution,dps,Silver Hand
+118,293,300358421,8,"Ara-Kara, City of Echoes",2024-10-15T10:49:48.000Z,1237204,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃小爷,Druid,Balance,dps,Al'ar
+118,293,300358421,8,"Ara-Kara, City of Echoes",2024-10-15T10:49:48.000Z,1237204,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+118,293,300358421,8,"Ara-Kara, City of Echoes",2024-10-15T10:49:48.000Z,1237204,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",九分十二,Death Knight,Frost,dps,Al'ar
+118,293,300358421,8,"Ara-Kara, City of Echoes",2024-10-15T10:49:48.000Z,1237204,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鹽你一脸,Demon Hunter,Vengeance,tank,Al'ar
+118,293,300358421,8,"Ara-Kara, City of Echoes",2024-10-15T10:49:48.000Z,1237204,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",和光同尘丨,Priest,Shadow,dps,Al'ar
+119,292.9,300600614,8,"Ara-Kara, City of Echoes",2024-10-16T11:24:05.000Z,1238779,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",性感的曾哥哥,Shaman,Elemental,dps,Burning Blade
+119,292.9,300600614,8,"Ara-Kara, City of Echoes",2024-10-16T11:24:05.000Z,1238779,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",张开嘴大口吃,Shaman,Restoration,healer,Al'ar
+119,292.9,300600614,8,"Ara-Kara, City of Echoes",2024-10-16T11:24:05.000Z,1238779,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Enhancement,dps,Burning Blade
+119,292.9,300600614,8,"Ara-Kara, City of Echoes",2024-10-16T11:24:05.000Z,1238779,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",爱在两块钱,Druid,Guardian,tank,Bloodscalp
+119,292.9,300600614,8,"Ara-Kara, City of Echoes",2024-10-16T11:24:05.000Z,1238779,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瑪丽莲梦露,Shaman,Restoration,healer,Isillien
+120,292.8,299732839,8,"Ara-Kara, City of Echoes",2024-10-12T22:05:01.000Z,1244143,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+120,292.8,299732839,8,"Ara-Kara, City of Echoes",2024-10-12T22:05:01.000Z,1244143,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",焼姬,Paladin,Retribution,dps,The Master's Glaive
+120,292.8,299732839,8,"Ara-Kara, City of Echoes",2024-10-12T22:05:01.000Z,1244143,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",苦手上手,Shaman,Restoration,healer,Silver Hand
+120,292.8,299732839,8,"Ara-Kara, City of Echoes",2024-10-12T22:05:01.000Z,1244143,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",沪爷冲击,Death Knight,Unholy,dps,Doomwalker
+120,292.8,299732839,8,"Ara-Kara, City of Echoes",2024-10-12T22:05:01.000Z,1244143,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",什么名字叫,Warrior,Fury,dps,Dreadmist Peak
+121,292.3,299585233,8,"Ara-Kara, City of Echoes",2024-10-12T14:01:41.000Z,1272074,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三千莲花,Paladin,Retribution,dps,Rhonin
+121,292.3,299585233,8,"Ara-Kara, City of Echoes",2024-10-12T14:01:41.000Z,1272074,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小压力怪,Death Knight,Frost,dps,Rhonin
+121,292.3,299585233,8,"Ara-Kara, City of Echoes",2024-10-12T14:01:41.000Z,1272074,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乔治丨船长,Paladin,Protection,tank,Al'ar
+121,292.3,299585233,8,"Ara-Kara, City of Echoes",2024-10-12T14:01:41.000Z,1272074,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",云片糕,Shaman,Restoration,healer,The Great Sea
+121,292.3,299585233,8,"Ara-Kara, City of Echoes",2024-10-12T14:01:41.000Z,1272074,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雾月再次来也,Mage,Frost,dps,Al'ar
+122,292.1,299576509,8,"Ara-Kara, City of Echoes",2024-10-12T13:25:11.000Z,1282614,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨韵审判,Paladin,Retribution,dps,Al'ar
+122,292.1,299576509,8,"Ara-Kara, City of Echoes",2024-10-12T13:25:11.000Z,1282614,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冬月教授,Shaman,Restoration,healer,Silver Hand
+122,292.1,299576509,8,"Ara-Kara, City of Echoes",2024-10-12T13:25:11.000Z,1282614,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",琥丨珀,Paladin,Retribution,dps,The Forgotten Coast
+122,292.1,299576509,8,"Ara-Kara, City of Echoes",2024-10-12T13:25:11.000Z,1282614,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",青虹漱雪,Druid,Guardian,tank,Silver Hand
+122,292.1,299576509,8,"Ara-Kara, City of Echoes",2024-10-12T13:25:11.000Z,1282614,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",秉性纯良,Hunter,Marksmanship,dps,Holy Chanter
+123,291.8,299503717,8,"Ara-Kara, City of Echoes",2024-10-12T05:14:07.000Z,1295865,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蓬蓽生輝,Death Knight,Frost,dps,Grim Batol
+123,291.8,299503717,8,"Ara-Kara, City of Echoes",2024-10-12T05:14:07.000Z,1295865,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瓦东东,Death Knight,Unholy,dps,Grim Batol
+123,291.8,299503717,8,"Ara-Kara, City of Echoes",2024-10-12T05:14:07.000Z,1295865,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小鸟乖乖,Druid,Balance,dps,Grim Batol
+123,291.8,299503717,8,"Ara-Kara, City of Echoes",2024-10-12T05:14:07.000Z,1295865,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鸡蛋布丁,Shaman,Restoration,healer,Scarlet Crusade
+123,291.8,299503717,8,"Ara-Kara, City of Echoes",2024-10-12T05:14:07.000Z,1295865,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大秘陪你演戏,Druid,Guardian,tank,Deathwing
+124,291.7,300385274,8,"Ara-Kara, City of Echoes",2024-10-15T14:23:04.000Z,1303282,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",席儿,Mage,Frost,dps,Deathwing
+124,291.7,300385274,8,"Ara-Kara, City of Echoes",2024-10-15T14:23:04.000Z,1303282,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+124,291.7,300385274,8,"Ara-Kara, City of Echoes",2024-10-15T14:23:04.000Z,1303282,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萌哒酱,Death Knight,Frost,dps,Chillwind Point
+124,291.7,300385274,8,"Ara-Kara, City of Echoes",2024-10-15T14:23:04.000Z,1303282,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",花包包,Evoker,Devastation,dps,Burning Blade
+124,291.7,300385274,8,"Ara-Kara, City of Echoes",2024-10-15T14:23:04.000Z,1303282,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",朱乄雀,Warrior,Protection,tank,Al'ar
+125,291.6,299344061,8,"Ara-Kara, City of Echoes",2024-10-11T17:06:24.000Z,1307078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一瓶酒,Demon Hunter,Vengeance,tank,Shadowmourne
+125,291.6,299344061,8,"Ara-Kara, City of Echoes",2024-10-11T17:06:24.000Z,1307078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",怼怼吖,Priest,Holy,healer,Shadowmourne
+125,291.6,299344061,8,"Ara-Kara, City of Echoes",2024-10-11T17:06:24.000Z,1307078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",马克丨罗伯特,Paladin,Retribution,dps,Shadowmourne
+125,291.6,299344061,8,"Ara-Kara, City of Echoes",2024-10-11T17:06:24.000Z,1307078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",上尉龙希尔,Evoker,Devastation,dps,Shadowmourne
+125,291.6,299344061,8,"Ara-Kara, City of Echoes",2024-10-11T17:06:24.000Z,1307078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",傅泡泡,Shaman,Elemental,dps,Deathwing
+126,291.6,299271329,8,"Ara-Kara, City of Echoes",2024-10-11T09:42:08.000Z,1307366,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奇怪的劣人,Hunter,Marksmanship,dps,Doomwalker
+126,291.6,299271329,8,"Ara-Kara, City of Echoes",2024-10-11T09:42:08.000Z,1307366,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",云晚丶,Death Knight,Blood,tank,Al'ar
+126,291.6,299271329,8,"Ara-Kara, City of Echoes",2024-10-11T09:42:08.000Z,1307366,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凯尔苏莎,Warlock,Affliction,dps,Al'ar
+126,291.6,299271329,8,"Ara-Kara, City of Echoes",2024-10-11T09:42:08.000Z,1307366,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",关你屁事,Warrior,Fury,dps,Eldre'Thalas
+126,291.6,299271329,8,"Ara-Kara, City of Echoes",2024-10-11T09:42:08.000Z,1307366,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小桔梗,Shaman,Restoration,healer,Molten Core
+127,291.6,299812202,8,"Ara-Kara, City of Echoes",2024-10-13T06:43:40.000Z,1307998,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+127,291.6,299812202,8,"Ara-Kara, City of Echoes",2024-10-13T06:43:40.000Z,1307998,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",笨笨的心哀,Death Knight,Blood,tank,Silver Hand
+127,291.6,299812202,8,"Ara-Kara, City of Echoes",2024-10-13T06:43:40.000Z,1307998,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+127,291.6,299812202,8,"Ara-Kara, City of Echoes",2024-10-13T06:43:40.000Z,1307998,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lasnimam,Death Knight,Frost,dps,Chillwind Point
+127,291.6,299812202,8,"Ara-Kara, City of Echoes",2024-10-13T06:43:40.000Z,1307998,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",五花肉吃人,Paladin,Protection,tank,Isillien
+128,291.3,299563335,8,"Ara-Kara, City of Echoes",2024-10-12T12:26:41.000Z,1323478,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶梦的遇见,Warrior,Protection,tank,The Great Sea
+128,291.3,299563335,8,"Ara-Kara, City of Echoes",2024-10-12T12:26:41.000Z,1323478,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",海南第一孝子,Death Knight,Frost,dps,Burning Blade
+128,291.3,299563335,8,"Ara-Kara, City of Echoes",2024-10-12T12:26:41.000Z,1323478,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",钻地逃跑,Warlock,Destruction,dps,Stonetalon Peak
+128,291.3,299563335,8,"Ara-Kara, City of Echoes",2024-10-12T12:26:41.000Z,1323478,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",愤怒的大饺子,Paladin,Retribution,dps,Stonetalon Peak
+128,291.3,299563335,8,"Ara-Kara, City of Echoes",2024-10-12T12:26:41.000Z,1323478,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨灬萌貓丶乄,Shaman,Restoration,healer,Stonetalon Peak
+129,291.1,299896931,8,"Ara-Kara, City of Echoes",2024-10-13T14:36:12.000Z,1330788,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+129,291.1,299896931,8,"Ara-Kara, City of Echoes",2024-10-13T14:36:12.000Z,1330788,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",遗忘悲伤,Shaman,Enhancement,dps,Archimonde
+129,291.1,299896931,8,"Ara-Kara, City of Echoes",2024-10-13T14:36:12.000Z,1330788,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",硬梆梆丶,Demon Hunter,Havoc,dps,Dragonmaw
+129,291.1,299896931,8,"Ara-Kara, City of Echoes",2024-10-13T14:36:12.000Z,1330788,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小小,Evoker,Augmentation,dps,Dragonmaw
+129,291.1,299896931,8,"Ara-Kara, City of Echoes",2024-10-13T14:36:12.000Z,1330788,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",都怪宇宙,Druid,Restoration,healer,Baelgun
+130,291,299823299,8,"Ara-Kara, City of Echoes",2024-10-13T08:02:35.000Z,1334780,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",方圆几里丷,Hunter,Marksmanship,dps,Shadowmourne
+130,291,299823299,8,"Ara-Kara, City of Echoes",2024-10-13T08:02:35.000Z,1334780,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",为了联盟那,Mage,Frost,dps,Silver Hand
+130,291,299823299,8,"Ara-Kara, City of Echoes",2024-10-13T08:02:35.000Z,1334780,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凶灬器,Druid,Restoration,healer,Grim Batol
+130,291,299823299,8,"Ara-Kara, City of Echoes",2024-10-13T08:02:35.000Z,1334780,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",污欲污求,Demon Hunter,Vengeance,tank,Grim Batol
+130,291,299823299,8,"Ara-Kara, City of Echoes",2024-10-13T08:02:35.000Z,1334780,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",傀束仟寻,Paladin,Retribution,dps,Grim Batol
+131,290.8,299578823,8,"Ara-Kara, City of Echoes",2024-10-12T13:48:43.000Z,1344725,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶梦的遇见,Warrior,Protection,tank,The Great Sea
+131,290.8,299578823,8,"Ara-Kara, City of Echoes",2024-10-12T13:48:43.000Z,1344725,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银月城先生,Paladin,Retribution,dps,Bleeding Hollow
+131,290.8,299578823,8,"Ara-Kara, City of Echoes",2024-10-12T13:48:43.000Z,1344725,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",杨霸天除三害,Death Knight,Frost,dps,Rhonin
+131,290.8,299578823,8,"Ara-Kara, City of Echoes",2024-10-12T13:48:43.000Z,1344725,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",幽冥震天,Mage,Frost,dps,Bleeding Hollow
+131,290.8,299578823,8,"Ara-Kara, City of Echoes",2024-10-12T13:48:43.000Z,1344725,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",双子座萨满,Shaman,Restoration,healer,Frostmane
+132,290.8,300611032,8,"Ara-Kara, City of Echoes",2024-10-16T12:51:41.000Z,1345078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",养眼,Mage,Frost,dps,Doomwalker
+132,290.8,300611032,8,"Ara-Kara, City of Echoes",2024-10-16T12:51:41.000Z,1345078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",铠武丶,Paladin,Retribution,dps,Rhonin
+132,290.8,300611032,8,"Ara-Kara, City of Echoes",2024-10-16T12:51:41.000Z,1345078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",珞瞳相忆,Death Knight,Frost,dps,Anzu
+132,290.8,300611032,8,"Ara-Kara, City of Echoes",2024-10-16T12:51:41.000Z,1345078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌贼长尾巴啦,Shaman,Restoration,healer,Anzu
+132,290.8,300611032,8,"Ara-Kara, City of Echoes",2024-10-16T12:51:41.000Z,1345078,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",女神丨恩静,Druid,Guardian,tank,Doomwalker
+133,289.8,300616068,8,"Ara-Kara, City of Echoes",2024-10-16T14:20:09.000Z,1398308,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Shadow,dps,Rhonin
+133,289.8,300616068,8,"Ara-Kara, City of Echoes",2024-10-16T14:20:09.000Z,1398308,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Xlgrape,Priest,Discipline,healer,Grim Batol
+133,289.8,300616068,8,"Ara-Kara, City of Echoes",2024-10-16T14:20:09.000Z,1398308,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狵丶,Warrior,Protection,tank,Silver Hand
+133,289.8,300616068,8,"Ara-Kara, City of Echoes",2024-10-16T14:20:09.000Z,1398308,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",坏坏兔子,Shaman,Elemental,dps,Silver Hand
+133,289.8,300616068,8,"Ara-Kara, City of Echoes",2024-10-16T14:20:09.000Z,1398308,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奥坤丶,Death Knight,Frost,dps,The Underbog
+134,289.7,300329399,8,"Ara-Kara, City of Echoes",2024-10-15T05:43:00.000Z,1403069,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",简萌丶,Death Knight,Blood,tank,Anzu
+134,289.7,300329399,8,"Ara-Kara, City of Echoes",2024-10-15T05:43:00.000Z,1403069,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月夜战神的狗,Demon Hunter,Havoc,dps,Pandaren
+134,289.7,300329399,8,"Ara-Kara, City of Echoes",2024-10-15T05:43:00.000Z,1403069,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小満,Paladin,Retribution,dps,Whispering Shore
+134,289.7,300329399,8,"Ara-Kara, City of Echoes",2024-10-15T05:43:00.000Z,1403069,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",陈气球丶,Shaman,Restoration,healer,Barrens
+134,289.7,300329399,8,"Ara-Kara, City of Echoes",2024-10-15T05:43:00.000Z,1403069,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大脚丫子德,Druid,Balance,dps,Deathwing
+135,289.3,300625239,8,"Ara-Kara, City of Echoes",2024-10-16T14:31:27.000Z,1423186,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",午夜镰刀,Death Knight,Unholy,dps,Blue Dragonflight
+135,289.3,300625239,8,"Ara-Kara, City of Echoes",2024-10-16T14:31:27.000Z,1423186,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Crewz,Priest,Discipline,healer,Silver Hand
+135,289.3,300625239,8,"Ara-Kara, City of Echoes",2024-10-16T14:31:27.000Z,1423186,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",快使用圣光,Paladin,Retribution,dps,Anzu
+135,289.3,300625239,8,"Ara-Kara, City of Echoes",2024-10-16T14:31:27.000Z,1423186,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",泪泪,Death Knight,Frost,dps,Anzu
+135,289.3,300625239,8,"Ara-Kara, City of Echoes",2024-10-16T14:31:27.000Z,1423186,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",末世编织者,Death Knight,Blood,tank,Isillien
+136,289.1,299590833,8,"Ara-Kara, City of Echoes",2024-10-12T14:38:48.000Z,1431356,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",壶出乱目,Shaman,Elemental,dps,Chillwind Point
+136,289.1,299590833,8,"Ara-Kara, City of Echoes",2024-10-12T14:38:48.000Z,1431356,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",干瘪牛牛,Rogue,Outlaw,dps,Chillwind Point
+136,289.1,299590833,8,"Ara-Kara, City of Echoes",2024-10-12T14:38:48.000Z,1431356,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",刻板行为,Paladin,Retribution,dps,Chillwind Point
+136,289.1,299590833,8,"Ara-Kara, City of Echoes",2024-10-12T14:38:48.000Z,1431356,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大熊喵,Warrior,Protection,tank,Chillwind Point
+136,289.1,299590833,8,"Ara-Kara, City of Echoes",2024-10-12T14:38:48.000Z,1431356,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",尛堃堃,Shaman,Restoration,healer,Chillwind Point
+137,288.9,299844109,8,"Ara-Kara, City of Echoes",2024-10-13T10:17:08.000Z,1440697,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",已然春日,Monk,Mistweaver,healer,Theramore
+137,288.9,299844109,8,"Ara-Kara, City of Echoes",2024-10-13T10:17:08.000Z,1440697,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+137,288.9,299844109,8,"Ara-Kara, City of Echoes",2024-10-13T10:17:08.000Z,1440697,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",形式主意,Paladin,Retribution,dps,Burning Blade
+137,288.9,299844109,8,"Ara-Kara, City of Echoes",2024-10-13T10:17:08.000Z,1440697,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",尼莫夕妮,Death Knight,Unholy,dps,The Master's Glaive
+137,288.9,299844109,8,"Ara-Kara, City of Echoes",2024-10-13T10:17:08.000Z,1440697,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",逍遥灬圣军,Paladin,Retribution,dps,Silver Hand
+138,288.4,299302276,8,"Ara-Kara, City of Echoes",2024-10-11T13:57:51.000Z,1466097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",随便盖姚明,Monk,Brewmaster,tank,Chillwind Point
+138,288.4,299302276,8,"Ara-Kara, City of Echoes",2024-10-11T13:57:51.000Z,1466097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Neir,Warlock,Affliction,dps,Chillwind Point
+138,288.4,299302276,8,"Ara-Kara, City of Echoes",2024-10-11T13:57:51.000Z,1466097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",撸猫大叔,Death Knight,Unholy,dps,Chillwind Point
+138,288.4,299302276,8,"Ara-Kara, City of Echoes",2024-10-11T13:57:51.000Z,1466097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",腼腆的菊花君,Hunter,Marksmanship,dps,Gorefiend
+138,288.4,299302276,8,"Ara-Kara, City of Echoes",2024-10-11T13:57:51.000Z,1466097,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一位萨满老板,Shaman,Restoration,healer,Scarlet Crusade
+139,286.3,300297324,8,"Ara-Kara, City of Echoes",2024-10-11T10:40:49.000Z,1574221,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",惊雪,Shaman,Restoration,healer,The Forgotten Coast
+139,286.3,300297324,8,"Ara-Kara, City of Echoes",2024-10-11T10:40:49.000Z,1574221,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我要开演了,Death Knight,Frost,dps,Swiftwind
+139,286.3,300297324,8,"Ara-Kara, City of Echoes",2024-10-11T10:40:49.000Z,1574221,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",潮叽叽,Warrior,Fury,dps,Burning Blade
+139,286.3,300297324,8,"Ara-Kara, City of Echoes",2024-10-11T10:40:49.000Z,1574221,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",恰瓶冰阔落,Paladin,Retribution,dps,Al'ar
+139,286.3,300297324,8,"Ara-Kara, City of Echoes",2024-10-11T10:40:49.000Z,1574221,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",门子,Druid,Guardian,tank,Kel'Thuzad
+140,284.6,299578610,8,"Ara-Kara, City of Echoes",2024-10-12T13:46:16.000Z,1656771,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",断一身奶,Shaman,Restoration,healer,Deathwing
+140,284.6,299578610,8,"Ara-Kara, City of Echoes",2024-10-12T13:46:16.000Z,1656771,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小索尔捏,Druid,Guardian,tank,Anzu
+140,284.6,299578610,8,"Ara-Kara, City of Echoes",2024-10-12T13:46:16.000Z,1656771,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",清白漫野,Warlock,Destruction,dps,Kel'Thuzad
+140,284.6,299578610,8,"Ara-Kara, City of Echoes",2024-10-12T13:46:16.000Z,1656771,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暴力美学可乐,Mage,Frost,dps,The Master's Glaive
+140,284.6,299578610,8,"Ara-Kara, City of Echoes",2024-10-12T13:46:16.000Z,1656771,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",野牦牛,Death Knight,Frost,dps,Al'ar
+141,284.3,300321106,8,"Ara-Kara, City of Echoes",2024-10-15T04:56:01.000Z,1676533,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ectoplasma,Demon Hunter,Vengeance,tank,Pandaren
+141,284.3,300321106,8,"Ara-Kara, City of Echoes",2024-10-15T04:56:01.000Z,1676533,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",悠悠贝拉,Shaman,Restoration,healer,The Underbog
+141,284.3,300321106,8,"Ara-Kara, City of Echoes",2024-10-15T04:56:01.000Z,1676533,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Golwhale,Paladin,Retribution,dps,Isillien
+141,284.3,300321106,8,"Ara-Kara, City of Echoes",2024-10-15T04:56:01.000Z,1676533,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",果冻,Warlock,Destruction,dps,Isillien
+141,284.3,300321106,8,"Ara-Kara, City of Echoes",2024-10-15T04:56:01.000Z,1676533,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",盛怒海棠,Paladin,Retribution,dps,Pandaren
+142,283.6,299090314,8,"Ara-Kara, City of Echoes",2024-10-10T16:25:40.000Z,1708187,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",华子与牠皆失,Druid,Guardian,tank,Anzu
+142,283.6,299090314,8,"Ara-Kara, City of Echoes",2024-10-10T16:25:40.000Z,1708187,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",艾莎云鸽,Shaman,Restoration,healer,Anzu
+142,283.6,299090314,8,"Ara-Kara, City of Echoes",2024-10-10T16:25:40.000Z,1708187,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",苩吽芇,Hunter,Marksmanship,dps,Anzu
+142,283.6,299090314,8,"Ara-Kara, City of Echoes",2024-10-10T16:25:40.000Z,1708187,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶茶碎冰冰,Mage,Fire,dps,Anzu
+142,283.6,299090314,8,"Ara-Kara, City of Echoes",2024-10-10T16:25:40.000Z,1708187,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你踩我脚了,Death Knight,Frost,dps,Wintergrasp
+143,280,299326131,7,"Ara-Kara, City of Echoes",2024-10-11T15:45:46.000Z,841401,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",网红镇,Priest,Discipline,healer,Silver Hand
+143,280,299326131,7,"Ara-Kara, City of Echoes",2024-10-11T15:45:46.000Z,841401,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",沈吉安丶,Paladin,Protection,tank,Rhonin
+143,280,299326131,7,"Ara-Kara, City of Echoes",2024-10-11T15:45:46.000Z,841401,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",原味麻酱,Warrior,Fury,dps,Silver Hand
+143,280,299326131,7,"Ara-Kara, City of Echoes",2024-10-11T15:45:46.000Z,841401,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",啪嗒叮,Paladin,Retribution,dps,Barrens
+143,280,299326131,7,"Ara-Kara, City of Echoes",2024-10-11T15:45:46.000Z,841401,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夯夯面包代购,Mage,Fire,dps,Chromaggus
+144,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T13:03:01.000Z,883215,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凡哥丶,Mage,Frost,dps,The Great Sea
+144,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T13:03:01.000Z,883215,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌鴉灬,Hunter,Beast Mastery,dps,Grim Batol
+144,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T13:03:01.000Z,883215,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Mambadk,Death Knight,Unholy,dps,Burning Blade
+144,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T13:03:01.000Z,883215,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",德鲁咕丷,Druid,Guardian,tank,Al'ar
+144,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T13:03:01.000Z,883215,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嘻口喜口合哈,Paladin,Holy,healer,Shadowmourne
+145,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T12:42:25.000Z,926029,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凡哥丶,Mage,Frost,dps,The Great Sea
+145,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T12:42:25.000Z,926029,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌鴉灬,Hunter,Survival,dps,Grim Batol
+145,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T12:42:25.000Z,926029,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Mambadk,Death Knight,Unholy,dps,Burning Blade
+145,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T12:42:25.000Z,926029,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",德鲁咕丷,Druid,Guardian,tank,Al'ar
+145,280,300609939,7,"Ara-Kara, City of Echoes",2024-10-16T12:42:25.000Z,926029,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嘻口喜口合哈,Paladin,Holy,healer,Shadowmourne
+146,280,299053077,7,"Ara-Kara, City of Echoes",2024-10-10T10:36:17.000Z,955749,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",放羊的少年,Hunter,Survival,dps,Scarlet Crusade
+146,280,299053077,7,"Ara-Kara, City of Echoes",2024-10-10T10:36:17.000Z,955749,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乄轨跡,Demon Hunter,Vengeance,tank,Silver Hand
+146,280,299053077,7,"Ara-Kara, City of Echoes",2024-10-10T10:36:17.000Z,955749,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",信仰老改改,Hunter,Survival,dps,The Master's Glaive
+146,280,299053077,7,"Ara-Kara, City of Echoes",2024-10-10T10:36:17.000Z,955749,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Restoration,healer,Burning Blade
+146,280,299053077,7,"Ara-Kara, City of Echoes",2024-10-10T10:36:17.000Z,955749,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",遥阔湛蓝,Hunter,Marksmanship,dps,Isillien
+147,280,300395064,7,"Ara-Kara, City of Echoes",2024-10-15T15:04:55.000Z,1004887,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lovelss,Death Knight,Frost,dps,Thrall
+147,280,300395064,7,"Ara-Kara, City of Echoes",2024-10-15T15:04:55.000Z,1004887,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",常山赵子龙,Evoker,Augmentation,dps,Thrall
+147,280,300395064,7,"Ara-Kara, City of Echoes",2024-10-15T15:04:55.000Z,1004887,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这我奶不上,Paladin,Retribution,dps,Burning Blade
+147,280,300395064,7,"Ara-Kara, City of Echoes",2024-10-15T15:04:55.000Z,1004887,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Pivot,Druid,Guardian,tank,The Great Sea
+147,280,300395064,7,"Ara-Kara, City of Echoes",2024-10-15T15:04:55.000Z,1004887,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",城市黑牛哥,Shaman,Restoration,healer,Burning Blade
+148,280,299027406,7,"Ara-Kara, City of Echoes",2024-10-10T05:59:39.000Z,1005782,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奥义灬柱擎天,Death Knight,Frost,dps,Bleeding Hollow
+148,280,299027406,7,"Ara-Kara, City of Echoes",2024-10-10T05:59:39.000Z,1005782,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小笨蛋哒布琉,Monk,Windwalker,dps,Rhonin
+148,280,299027406,7,"Ara-Kara, City of Echoes",2024-10-10T05:59:39.000Z,1005782,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+148,280,299027406,7,"Ara-Kara, City of Echoes",2024-10-10T05:59:39.000Z,1005782,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夏诗小朋友,Priest,Discipline,healer,Chillwind Point
+148,280,299027406,7,"Ara-Kara, City of Echoes",2024-10-10T05:59:39.000Z,1005782,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+149,280,300555274,7,"Ara-Kara, City of Echoes",2024-10-16T04:43:23.000Z,1030980,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黄焖人米饭,Druid,Balance,dps,Al'ar
+149,280,300555274,7,"Ara-Kara, City of Echoes",2024-10-16T04:43:23.000Z,1030980,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天然啾啾呆,Hunter,Marksmanship,dps,Al'ar
+149,280,300555274,7,"Ara-Kara, City of Echoes",2024-10-16T04:43:23.000Z,1030980,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的圣光,Paladin,Protection,tank,Silver Hand
+149,280,300555274,7,"Ara-Kara, City of Echoes",2024-10-16T04:43:23.000Z,1030980,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",手残老登,Paladin,Retribution,dps,The Master's Glaive
+149,280,300555274,7,"Ara-Kara, City of Echoes",2024-10-16T04:43:23.000Z,1030980,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",亚历克斯贰贰,Priest,Holy,healer,Silver Hand
+150,280,299070475,7,"Ara-Kara, City of Echoes",2024-10-10T13:04:12.000Z,1060372,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鎭魂曲丶,Warlock,Demonology,dps,The Great Sea
+150,280,299070475,7,"Ara-Kara, City of Echoes",2024-10-10T13:04:12.000Z,1060372,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",尾随伏击男,Druid,Guardian,tank,Blanchard
+150,280,299070475,7,"Ara-Kara, City of Echoes",2024-10-10T13:04:12.000Z,1060372,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一杯奶茶丶,Mage,Frost,dps,Silver Hand
+150,280,299070475,7,"Ara-Kara, City of Echoes",2024-10-10T13:04:12.000Z,1060372,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",心愛,Priest,Discipline,healer,Isillien
+150,280,299070475,7,"Ara-Kara, City of Echoes",2024-10-10T13:04:12.000Z,1060372,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿加莎没有底,Mage,Frost,dps,Al'ar
+151,280,300610994,7,"Ara-Kara, City of Echoes",2024-10-16T12:51:02.000Z,1070693,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Shadow,dps,Rhonin
+151,280,300610994,7,"Ara-Kara, City of Echoes",2024-10-16T12:51:02.000Z,1070693,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Xlgrape,Priest,Discipline,healer,Grim Batol
+151,280,300610994,7,"Ara-Kara, City of Echoes",2024-10-16T12:51:02.000Z,1070693,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狵丶,Warrior,Protection,tank,Silver Hand
+151,280,300610994,7,"Ara-Kara, City of Echoes",2024-10-16T12:51:02.000Z,1070693,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",坏坏兔子,Shaman,Elemental,dps,Silver Hand
+151,280,300610994,7,"Ara-Kara, City of Echoes",2024-10-16T12:51:02.000Z,1070693,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小贼灬别跑,Rogue,Assassination,dps,Shadowmourne
+152,280,299589750,7,"Ara-Kara, City of Echoes",2024-10-12T14:27:42.000Z,1080870,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+152,280,299589750,7,"Ara-Kara, City of Echoes",2024-10-12T14:27:42.000Z,1080870,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冻天寒,Warrior,Fury,dps,Algalon
+152,280,299589750,7,"Ara-Kara, City of Echoes",2024-10-12T14:27:42.000Z,1080870,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",找到那片海,Priest,Holy,healer,Alexstrasza
+152,280,299589750,7,"Ara-Kara, City of Echoes",2024-10-12T14:27:42.000Z,1080870,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暴力格林,Paladin,Retribution,dps,Alexstrasza
+152,280,299589750,7,"Ara-Kara, City of Echoes",2024-10-12T14:27:42.000Z,1080870,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",维娜苟萨,Mage,Frost,dps,The Golden Plains
+153,280,300404567,7,"Ara-Kara, City of Echoes",2024-10-15T16:00:57.000Z,1118703,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",舞动的弓弦,Hunter,Beast Mastery,dps,Baelgun
+153,280,300404567,7,"Ara-Kara, City of Echoes",2024-10-15T16:00:57.000Z,1118703,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖圈圏,Shaman,Restoration,healer,Al'ar
+153,280,300404567,7,"Ara-Kara, City of Echoes",2024-10-15T16:00:57.000Z,1118703,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超酷小猪,Mage,Frost,dps,Al'ar
+153,280,300404567,7,"Ara-Kara, City of Echoes",2024-10-15T16:00:57.000Z,1118703,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖黑黑丶,Shaman,Elemental,dps,Al'ar
+153,280,300404567,7,"Ara-Kara, City of Echoes",2024-10-15T16:00:57.000Z,1118703,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的圣光,Paladin,Protection,tank,Silver Hand
+154,279.6,299071822,7,"Ara-Kara, City of Echoes",2024-10-10T13:16:20.000Z,1156911,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+154,279.6,299071822,7,"Ara-Kara, City of Echoes",2024-10-10T13:16:20.000Z,1156911,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+154,279.6,299071822,7,"Ara-Kara, City of Echoes",2024-10-10T13:16:20.000Z,1156911,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Shiki,Death Knight,Unholy,dps,Shadowmourne
+154,279.6,299071822,7,"Ara-Kara, City of Echoes",2024-10-10T13:16:20.000Z,1156911,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Prayyer,Paladin,Retribution,dps,Al'ar
+154,279.6,299071822,7,"Ara-Kara, City of Echoes",2024-10-10T13:16:20.000Z,1156911,1890999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lasnimam,Death Knight,Blood,tank,Chillwind Point
+155,279.2,299926962,7,"Ara-Kara, City of Echoes",2024-10-13T16:23:33.000Z,1173827,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",浅打,Mage,Frost,dps,Rhonin
+155,279.2,299926962,7,"Ara-Kara, City of Echoes",2024-10-13T16:23:33.000Z,1173827,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奔波霸耶,Rogue,Assassination,dps,Scarlet Crusade
+155,279.2,299926962,7,"Ara-Kara, City of Echoes",2024-10-13T16:23:33.000Z,1173827,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Aesi,Demon Hunter,Vengeance,tank,Al'ar
+155,279.2,299926962,7,"Ara-Kara, City of Echoes",2024-10-13T16:23:33.000Z,1173827,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小佛,Evoker,Augmentation,dps,The Botanica
+155,279.2,299926962,7,"Ara-Kara, City of Echoes",2024-10-13T16:23:33.000Z,1173827,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",爆啦,Shaman,Restoration,healer,Scarlet Crusade
+156,278.7,299514491,7,"Ara-Kara, City of Echoes",2024-10-12T06:48:13.000Z,1198129,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月光吃不下了,Evoker,Preservation,healer,Swiftwind
+156,278.7,299514491,7,"Ara-Kara, City of Echoes",2024-10-12T06:48:13.000Z,1198129,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",响零,Mage,Frost,dps,Al'ar
+156,278.7,299514491,7,"Ara-Kara, City of Echoes",2024-10-12T06:48:13.000Z,1198129,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",马来二号,Paladin,Protection,tank,Silver Hand
+156,278.7,299514491,7,"Ara-Kara, City of Echoes",2024-10-12T06:48:13.000Z,1198129,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Harlyno,Paladin,Retribution,dps,Chillwind Point
+156,278.7,299514491,7,"Ara-Kara, City of Echoes",2024-10-12T06:48:13.000Z,1198129,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",从清晨到日暮,Hunter,Survival,dps,Swiftwind
+157,278.4,300650007,7,"Ara-Kara, City of Echoes",2024-10-16T16:51:32.000Z,1213494,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜与声烦,Druid,Feral,dps,Al'ar
+157,278.4,300650007,7,"Ara-Kara, City of Echoes",2024-10-16T16:51:32.000Z,1213494,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",藝高人疍大,Druid,Restoration,healer,Deathwing
+157,278.4,300650007,7,"Ara-Kara, City of Echoes",2024-10-16T16:51:32.000Z,1213494,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+157,278.4,300650007,7,"Ara-Kara, City of Echoes",2024-10-16T16:51:32.000Z,1213494,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",二月吃什么,Druid,Balance,dps,Deathwing
+157,278.4,300650007,7,"Ara-Kara, City of Echoes",2024-10-16T16:51:32.000Z,1213494,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",豆豆的传说,Druid,Guardian,tank,Frostmourne
+158,278.1,299608160,7,"Ara-Kara, City of Echoes",2024-10-12T16:02:37.000Z,1230679,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",追灬龙,Warrior,Fury,dps,Frostmane
+158,278.1,299608160,7,"Ara-Kara, City of Echoes",2024-10-12T16:02:37.000Z,1230679,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Io,Warrior,Protection,tank,Frostmane
+158,278.1,299608160,7,"Ara-Kara, City of Echoes",2024-10-12T16:02:37.000Z,1230679,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",脆皮咕咕面,Evoker,Preservation,healer,Frostmane
+158,278.1,299608160,7,"Ara-Kara, City of Echoes",2024-10-12T16:02:37.000Z,1230679,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伏羲流云,Paladin,Retribution,dps,Burning Blade
+158,278.1,299608160,7,"Ara-Kara, City of Echoes",2024-10-12T16:02:37.000Z,1230679,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",脊霸骨折,Paladin,Retribution,dps,Frostmane
+159,278,299590871,7,"Ara-Kara, City of Echoes",2024-10-12T14:39:11.000Z,1237222,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Junio,Death Knight,Blood,tank,The Master's Glaive
+159,278,299590871,7,"Ara-Kara, City of Echoes",2024-10-12T14:39:11.000Z,1237222,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",本能寺小狮子,Death Knight,Frost,dps,The Master's Glaive
+159,278,299590871,7,"Ara-Kara, City of Echoes",2024-10-12T14:39:11.000Z,1237222,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",风恋情语,Paladin,Retribution,dps,The Great Sea
+159,278,299590871,7,"Ara-Kara, City of Echoes",2024-10-12T14:39:11.000Z,1237222,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",书离,Death Knight,Frost,dps,The Master's Glaive
+159,278,299590871,7,"Ara-Kara, City of Echoes",2024-10-12T14:39:11.000Z,1237222,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一只誀环喵,Shaman,Restoration,healer,Doomwalker
+160,277.4,300335600,7,"Ara-Kara, City of Echoes",2024-10-15T06:32:41.000Z,1264696,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嘚丿瑟,Paladin,Protection,tank,Al'ar
+160,277.4,300335600,7,"Ara-Kara, City of Echoes",2024-10-15T06:32:41.000Z,1264696,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Elemental,dps,Burning Blade
+160,277.4,300335600,7,"Ara-Kara, City of Echoes",2024-10-15T06:32:41.000Z,1264696,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",璨星,Shaman,Restoration,healer,Blanchard
+160,277.4,300335600,7,"Ara-Kara, City of Echoes",2024-10-15T06:32:41.000Z,1264696,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Amazingx,Hunter,Survival,dps,Al'ar
+160,277.4,300335600,7,"Ara-Kara, City of Echoes",2024-10-15T06:32:41.000Z,1264696,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨涌宗丨,Shaman,Elemental,dps,Rhonin
+161,277.2,299828459,7,"Ara-Kara, City of Echoes",2024-10-13T08:47:41.000Z,1277852,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",傾國傾城,Shaman,Restoration,healer,Valley of Kings
+161,277.2,299828459,7,"Ara-Kara, City of Echoes",2024-10-13T08:47:41.000Z,1277852,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嗨雅,Death Knight,Frost,dps,Feralas
+161,277.2,299828459,7,"Ara-Kara, City of Echoes",2024-10-13T08:47:41.000Z,1277852,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三千莲花,Paladin,Retribution,dps,Rhonin
+161,277.2,299828459,7,"Ara-Kara, City of Echoes",2024-10-13T08:47:41.000Z,1277852,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小压力怪,Death Knight,Frost,dps,Rhonin
+161,277.2,299828459,7,"Ara-Kara, City of Echoes",2024-10-13T08:47:41.000Z,1277852,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月武轻狂,Death Knight,Blood,tank,Deathwing
+162,276.8,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T14:12:29.000Z,1296689,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Astrid,Shaman,Restoration,healer,Zul'jin
+162,276.8,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T14:12:29.000Z,1296689,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南乔几晶秋,Druid,Guardian,tank,Pandaren
+162,276.8,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T14:12:29.000Z,1296689,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕咕估,Druid,Balance,dps,Pandaren
+162,276.8,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T14:12:29.000Z,1296689,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迪蒙亨特吖,Demon Hunter,Havoc,dps,Al'ar
+162,276.8,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T14:12:29.000Z,1296689,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌梅小番茄,Druid,Balance,dps,The Master's Glaive
+163,276.7,300690452,7,"Ara-Kara, City of Echoes",2024-10-16T18:11:06.000Z,1300870,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉傲的宝宝,Druid,Balance,dps,Grim Batol
+163,276.7,300690452,7,"Ara-Kara, City of Echoes",2024-10-16T18:11:06.000Z,1300870,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",邻家王叔叔,Paladin,Retribution,dps,Nozdormu
+163,276.7,300690452,7,"Ara-Kara, City of Echoes",2024-10-16T18:11:06.000Z,1300870,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",克罗地亚灭霸,Paladin,Protection,tank,Grim Batol
+163,276.7,300690452,7,"Ara-Kara, City of Echoes",2024-10-16T18:11:06.000Z,1300870,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",神圣新星,Priest,Holy,healer,Grim Batol
+163,276.7,300690452,7,"Ara-Kara, City of Echoes",2024-10-16T18:11:06.000Z,1300870,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",酸奶芒多多,Mage,Frost,dps,Al'ar
+164,276.7,300419312,7,"Ara-Kara, City of Echoes",2024-10-15T17:05:00.000Z,1303175,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Shadow,dps,Rhonin
+164,276.7,300419312,7,"Ara-Kara, City of Echoes",2024-10-15T17:05:00.000Z,1303175,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",最佳損友丶,Shaman,Restoration,healer,Burning Blade
+164,276.7,300419312,7,"Ara-Kara, City of Echoes",2024-10-15T17:05:00.000Z,1303175,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Xdlz,Mage,Frost,dps,Deathwing
+164,276.7,300419312,7,"Ara-Kara, City of Echoes",2024-10-15T17:05:00.000Z,1303175,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",看我哭的样子,Hunter,Survival,dps,Arathi
+164,276.7,300419312,7,"Ara-Kara, City of Echoes",2024-10-15T17:05:00.000Z,1303175,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰谷雪夜,Death Knight,Blood,tank,Rhonin
+165,276.5,300157658,7,"Ara-Kara, City of Echoes",2024-10-14T15:05:31.000Z,1311684,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雪洛晨曦,Mage,Arcane,dps,Grim Batol
+165,276.5,300157658,7,"Ara-Kara, City of Echoes",2024-10-14T15:05:31.000Z,1311684,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哈吉龙,Evoker,Augmentation,dps,Grim Batol
+165,276.5,300157658,7,"Ara-Kara, City of Echoes",2024-10-14T15:05:31.000Z,1311684,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶丨杀满丨,Shaman,Restoration,healer,Grim Batol
+165,276.5,300157658,7,"Ara-Kara, City of Echoes",2024-10-14T15:05:31.000Z,1311684,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Istolil,Priest,Shadow,dps,Kilrogg
+165,276.5,300157658,7,"Ara-Kara, City of Echoes",2024-10-14T15:05:31.000Z,1311684,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一路向南,Druid,Guardian,tank,Kilrogg
+166,276.4,299576637,7,"Ara-Kara, City of Echoes",2024-10-12T13:27:33.000Z,1316430,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+166,276.4,299576637,7,"Ara-Kara, City of Echoes",2024-10-12T13:27:33.000Z,1316430,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罪過聖堂,Paladin,Retribution,dps,Eldre'Thalas
+166,276.4,299576637,7,"Ara-Kara, City of Echoes",2024-10-12T13:27:33.000Z,1316430,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你被强化了,Evoker,Augmentation,dps,Eldre'Thalas
+166,276.4,299576637,7,"Ara-Kara, City of Echoes",2024-10-12T13:27:33.000Z,1316430,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",西瓜狐,Shaman,Restoration,healer,Silverpine Forest
+166,276.4,299576637,7,"Ara-Kara, City of Echoes",2024-10-12T13:27:33.000Z,1316430,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超级康师傅,Death Knight,Frost,dps,Galakrond
+167,275.9,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T13:46:09.000Z,1343294,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Astrid,Shaman,Restoration,healer,Zul'jin
+167,275.9,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T13:46:09.000Z,1343294,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南乔几晶秋,Druid,Guardian,tank,Pandaren
+167,275.9,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T13:46:09.000Z,1343294,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕咕估,Druid,Balance,dps,Pandaren
+167,275.9,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T13:46:09.000Z,1343294,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迪蒙亨特吖,Demon Hunter,Havoc,dps,Al'ar
+167,275.9,299883656,7,"Ara-Kara, City of Echoes",2024-10-13T13:46:09.000Z,1343294,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌梅小番茄,Druid,Balance,dps,The Master's Glaive
+168,275.8,299575620,7,"Ara-Kara, City of Echoes",2024-10-12T13:22:06.000Z,1345940,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+168,275.8,299575620,7,"Ara-Kara, City of Echoes",2024-10-12T13:22:06.000Z,1345940,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",形式主意,Paladin,Retribution,dps,Burning Blade
+168,275.8,299575620,7,"Ara-Kara, City of Echoes",2024-10-12T13:22:06.000Z,1345940,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萌猛德,Druid,Restoration,healer,Argus
+168,275.8,299575620,7,"Ara-Kara, City of Echoes",2024-10-12T13:22:06.000Z,1345940,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Renle,Mage,Fire,dps,Grim Batol
+168,275.8,299575620,7,"Ara-Kara, City of Echoes",2024-10-12T13:22:06.000Z,1345940,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",王者中的小兵,Warrior,Fury,dps,Al'ar
+169,275.1,300735213,7,"Ara-Kara, City of Echoes",2024-10-16T19:27:40.000Z,1382231,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",钓以倾心,Death Knight,Blood,tank,Al'ar
+169,275.1,300735213,7,"Ara-Kara, City of Echoes",2024-10-16T19:27:40.000Z,1382231,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",举踵思牧,Shaman,Restoration,healer,Al'ar
+169,275.1,300735213,7,"Ara-Kara, City of Echoes",2024-10-16T19:27:40.000Z,1382231,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",欧大锤,Paladin,Retribution,dps,Al'ar
+169,275.1,300735213,7,"Ara-Kara, City of Echoes",2024-10-16T19:27:40.000Z,1382231,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Zmajor,Mage,Frost,dps,The Master's Glaive
+169,275.1,300735213,7,"Ara-Kara, City of Echoes",2024-10-16T19:27:40.000Z,1382231,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蓝色防骑,Death Knight,Frost,dps,Burning Blade
+170,273.7,300092774,7,"Ara-Kara, City of Echoes",2024-10-14T05:21:11.000Z,1454090,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哀伤猪,Paladin,Holy,healer,Deephome
+170,273.7,300092774,7,"Ara-Kara, City of Echoes",2024-10-14T05:21:11.000Z,1454090,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",完能,Hunter,Survival,dps,Eldre'Thalas
+170,273.7,300092774,7,"Ara-Kara, City of Echoes",2024-10-14T05:21:11.000Z,1454090,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罪過聖堂,Paladin,Protection,tank,Eldre'Thalas
+170,273.7,300092774,7,"Ara-Kara, City of Echoes",2024-10-14T05:21:11.000Z,1454090,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狂拽伏特加,Paladin,Retribution,dps,Rangers
+170,273.7,300092774,7,"Ara-Kara, City of Echoes",2024-10-14T05:21:11.000Z,1454090,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",恋上你滴床,Demon Hunter,Havoc,dps,Deathwing
+171,273.3,299832420,7,"Ara-Kara, City of Echoes",2024-10-13T09:05:47.000Z,1474189,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",爆啦,Shaman,Restoration,healer,Scarlet Crusade
+171,273.3,299832420,7,"Ara-Kara, City of Echoes",2024-10-13T09:05:47.000Z,1474189,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",酒笙青栀丶,Monk,Brewmaster,tank,Silver Hand
+171,273.3,299832420,7,"Ara-Kara, City of Echoes",2024-10-13T09:05:47.000Z,1474189,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大胖达,Death Knight,Unholy,dps,Lightning's Blade
+171,273.3,299832420,7,"Ara-Kara, City of Echoes",2024-10-13T09:05:47.000Z,1474189,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蒙圈老牛,Paladin,Retribution,dps,Frostmourne
+171,273.3,299832420,7,"Ara-Kara, City of Echoes",2024-10-13T09:05:47.000Z,1474189,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",曰王貝才,Warlock,Destruction,dps,Silver Hand
+172,273,300568265,7,"Ara-Kara, City of Echoes",2024-10-16T06:29:12.000Z,1489602,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",长卿丶,Paladin,Protection,tank,Al'ar
+172,273,300568265,7,"Ara-Kara, City of Echoes",2024-10-16T06:29:12.000Z,1489602,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拉风丶男人,Warrior,Fury,dps,Al'ar
+172,273,300568265,7,"Ara-Kara, City of Echoes",2024-10-16T06:29:12.000Z,1489602,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Discipline,healer,Rhonin
+172,273,300568265,7,"Ara-Kara, City of Echoes",2024-10-16T06:29:12.000Z,1489602,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你要吃蛋黄吗,Mage,Frost,dps,Deathwing
+172,273,300568265,7,"Ara-Kara, City of Echoes",2024-10-16T06:29:12.000Z,1489602,1890999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",劉大人丨,Paladin,Retribution,dps,Hectae
+173,271.4,300582686,7,"Ara-Kara, City of Echoes",2024-10-16T08:43:43.000Z,1568358,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",烟雨平生丶,Paladin,Retribution,dps,Kel'Thuzad
+173,271.4,300582686,7,"Ara-Kara, City of Echoes",2024-10-16T08:43:43.000Z,1568358,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一只河马呀,Mage,Fire,dps,Shadowmourne
+173,271.4,300582686,7,"Ara-Kara, City of Echoes",2024-10-16T08:43:43.000Z,1568358,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",部落周润发,Death Knight,Frost,dps,Blanchard
+173,271.4,300582686,7,"Ara-Kara, City of Echoes",2024-10-16T08:43:43.000Z,1568358,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",恶魔曓君,Demon Hunter,Vengeance,tank,Scarlet Crusade
+173,271.4,300582686,7,"Ara-Kara, City of Echoes",2024-10-16T08:43:43.000Z,1568358,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣光猜猜,Priest,Discipline,healer,Hectae
+174,270.4,299089571,7,"Ara-Kara, City of Echoes",2024-10-10T16:23:26.000Z,1618881,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",李滇滇,Death Knight,Frost,dps,Grim Batol
+174,270.4,299089571,7,"Ara-Kara, City of Echoes",2024-10-10T16:23:26.000Z,1618881,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dina,Shaman,Restoration,healer,Grim Batol
+174,270.4,299089571,7,"Ara-Kara, City of Echoes",2024-10-10T16:23:26.000Z,1618881,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",钛坦爆击,Paladin,Retribution,dps,The Master's Glaive
+174,270.4,299089571,7,"Ara-Kara, City of Echoes",2024-10-10T16:23:26.000Z,1618881,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瓦东东,Death Knight,Unholy,dps,Grim Batol
+174,270.4,299089571,7,"Ara-Kara, City of Echoes",2024-10-10T16:23:26.000Z,1618881,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Iwa,Warrior,Protection,tank,Grim Batol
+175,269.2,299897619,7,"Ara-Kara, City of Echoes",2024-10-13T14:42:59.000Z,1681074,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",睡个昏,Druid,Guardian,tank,Swiftwind
+175,269.2,299897619,7,"Ara-Kara, City of Echoes",2024-10-13T14:42:59.000Z,1681074,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",娜娜子丶,Shaman,Restoration,healer,Chillwind Point
+175,269.2,299897619,7,"Ara-Kara, City of Echoes",2024-10-13T14:42:59.000Z,1681074,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",集火默不作声,Paladin,Retribution,dps,Chillwind Point
+175,269.2,299897619,7,"Ara-Kara, City of Echoes",2024-10-13T14:42:59.000Z,1681074,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",花師傅,Paladin,Retribution,dps,Isillien
+175,269.2,299897619,7,"Ara-Kara, City of Echoes",2024-10-13T14:42:59.000Z,1681074,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡洛樱,Warlock,Destruction,dps,Silver Hand
+176,267.7,299632577,7,"Ara-Kara, City of Echoes",2024-10-12T17:29:22.000Z,1755401,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+176,267.7,299632577,7,"Ara-Kara, City of Echoes",2024-10-12T17:29:22.000Z,1755401,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",上古侠风,Monk,Brewmaster,tank,Deathwing
+176,267.7,299632577,7,"Ara-Kara, City of Echoes",2024-10-12T17:29:22.000Z,1755401,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暴力美學法,Mage,Frost,dps,Deathwing
+176,267.7,299632577,7,"Ara-Kara, City of Echoes",2024-10-12T17:29:22.000Z,1755401,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",亮晶晶神牧,Priest,Discipline,healer,Deathwing
+176,267.7,299632577,7,"Ara-Kara, City of Echoes",2024-10-12T17:29:22.000Z,1755401,1890999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灬癫狂十三,Paladin,Retribution,dps,Burning Blade

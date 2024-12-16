@@ -1,0 +1,621 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,309.9,302448554,9,City of Threads,2024-10-24T08:09:20.000Z,1320710,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",穆图丶科维,Rogue,Assassination,dps,Burning Blade
+1,309.9,302448554,9,City of Threads,2024-10-24T08:09:20.000Z,1320710,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",银色呀,Warlock,Demonology,dps,The Golden Plains
+1,309.9,302448554,9,City of Threads,2024-10-24T08:09:20.000Z,1320710,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",俄罗斯华侨,Mage,Frost,dps,Blanchard
+1,309.9,302448554,9,City of Threads,2024-10-24T08:09:20.000Z,1320710,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",西班牙图拉真,Paladin,Protection,tank,Grim Batol
+1,309.9,302448554,9,City of Threads,2024-10-24T08:09:20.000Z,1320710,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",公狗,Priest,Discipline,healer,Shadowmourne
+2,309.4,302700763,9,City of Threads,2024-10-25T18:43:29.000Z,1349362,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",战貂,Warrior,Fury,dps,Burning Blade
+2,309.4,302700763,9,City of Threads,2024-10-25T18:43:29.000Z,1349362,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大领主丶,Death Knight,Unholy,dps,Alterac Mountains
+2,309.4,302700763,9,City of Threads,2024-10-25T18:43:29.000Z,1349362,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大丨雄,Paladin,Protection,tank,Deathwing
+2,309.4,302700763,9,City of Threads,2024-10-25T18:43:29.000Z,1349362,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大呀么大肚腩,Monk,Mistweaver,healer,Alterac Mountains
+2,309.4,302700763,9,City of Threads,2024-10-25T18:43:29.000Z,1349362,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",传说中的逗逼,Paladin,Retribution,dps,Abbendis
+3,306.9,302861294,9,City of Threads,2024-10-26T06:54:57.000Z,1493548,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Bryantrui,Demon Hunter,Havoc,dps,Dark Iron
+3,306.9,302861294,9,City of Threads,2024-10-26T06:54:57.000Z,1493548,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鲁鲁不干活,Druid,Guardian,tank,Dark Iron
+3,306.9,302861294,9,City of Threads,2024-10-26T06:54:57.000Z,1493548,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",会飛的鱼,Shaman,Restoration,healer,Gorehowl
+3,306.9,302861294,9,City of Threads,2024-10-26T06:54:57.000Z,1493548,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一条龙服丶务,Evoker,Augmentation,dps,Dark Iron
+3,306.9,302861294,9,City of Threads,2024-10-26T06:54:57.000Z,1493548,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玖瓶,Death Knight,Frost,dps,Grim Batol
+4,306.5,302671044,9,City of Threads,2024-10-25T14:09:35.000Z,1517501,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Yossi,Paladin,Protection,tank,Isillien
+4,306.5,302671044,9,City of Threads,2024-10-25T14:09:35.000Z,1517501,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",北极,Death Knight,Frost,dps,Deepfury
+4,306.5,302671044,9,City of Threads,2024-10-25T14:09:35.000Z,1517501,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",华熊,Mage,Fire,dps,Isillien
+4,306.5,302671044,9,City of Threads,2024-10-25T14:09:35.000Z,1517501,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",特兰希尔,Evoker,Augmentation,dps,Warsong
+4,306.5,302671044,9,City of Threads,2024-10-25T14:09:35.000Z,1517501,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛妈妈爱你唷,Shaman,Restoration,healer,Deepfury
+5,306.2,303674036,9,City of Threads,2024-10-29T18:11:34.000Z,1533964,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",荀彧熊熊,Druid,Guardian,tank,Doomwalker
+5,306.2,303674036,9,City of Threads,2024-10-29T18:11:34.000Z,1533964,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",绚丽圣光,Paladin,Retribution,dps,Sunwell
+5,306.2,303674036,9,City of Threads,2024-10-29T18:11:34.000Z,1533964,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Swordlfs,Mage,Arcane,dps,Silver Hand
+5,306.2,303674036,9,City of Threads,2024-10-29T18:11:34.000Z,1533964,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小米狐,Shaman,Restoration,healer,Al'ar
+5,306.2,303674036,9,City of Threads,2024-10-29T18:11:34.000Z,1533964,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蓝莓绛紫,Paladin,Retribution,dps,Sutarn
+6,305.8,303606760,9,City of Threads,2024-10-29T10:02:16.000Z,1560118,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Chillings,Mage,Frost,dps,Valley of Kings
+6,305.8,303606760,9,City of Threads,2024-10-29T10:02:16.000Z,1560118,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",疯狂的查尔斯,Warrior,Fury,dps,Valley of Kings
+6,305.8,303606760,9,City of Threads,2024-10-29T10:02:16.000Z,1560118,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rickdance,Druid,Guardian,tank,Valley of Kings
+6,305.8,303606760,9,City of Threads,2024-10-29T10:02:16.000Z,1560118,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手阿伦,Paladin,Retribution,dps,Valley of Kings
+6,305.8,303606760,9,City of Threads,2024-10-29T10:02:16.000Z,1560118,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",这辈子不打工,Shaman,Restoration,healer,The Botanica
+7,305.7,302479521,9,City of Threads,2024-10-24T15:41:37.000Z,1568620,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",狐仙知我意丶,Shaman,Restoration,healer,Deathwing
+7,305.7,302479521,9,City of Threads,2024-10-24T15:41:37.000Z,1568620,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",听不见的烟花,Paladin,Retribution,dps,Deathwing
+7,305.7,302479521,9,City of Threads,2024-10-24T15:41:37.000Z,1568620,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿正王,Paladin,Protection,tank,Deathwing
+7,305.7,302479521,9,City of Threads,2024-10-24T15:41:37.000Z,1568620,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨横度彼岸丨,Evoker,Augmentation,dps,Deathwing
+7,305.7,302479521,9,City of Threads,2024-10-24T15:41:37.000Z,1568620,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",邮差,Shaman,Elemental,dps,Deathwing
+8,305.2,303467442,9,City of Threads,2024-10-28T19:25:29.000Z,1592163,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",语乄風,Rogue,Assassination,dps,Deathwing
+8,305.2,303467442,9,City of Threads,2024-10-28T19:25:29.000Z,1592163,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",贞楠廿,Monk,Mistweaver,healer,Al'ar
+8,305.2,303467442,9,City of Threads,2024-10-28T19:25:29.000Z,1592163,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Eyès,Warrior,Protection,tank,Rhonin
+8,305.2,303467442,9,City of Threads,2024-10-28T19:25:29.000Z,1592163,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",加血呀白桃,Evoker,Augmentation,dps,The Great Sea
+8,305.2,303467442,9,City of Threads,2024-10-28T19:25:29.000Z,1592163,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光光,Paladin,Retribution,dps,Pandaren
+9,305.1,304964897,9,City of Threads,2024-10-27T08:31:54.000Z,1598387,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",毒久丶,Death Knight,Frost,dps,Shadowmourne
+9,305.1,304964897,9,City of Threads,2024-10-27T08:31:54.000Z,1598387,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ôutman,Paladin,Retribution,dps,Shadowmourne
+9,305.1,304964897,9,City of Threads,2024-10-27T08:31:54.000Z,1598387,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",心情太晚,Evoker,Augmentation,dps,Shadowmourne
+9,305.1,304964897,9,City of Threads,2024-10-27T08:31:54.000Z,1598387,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",喃丁歌尔,Paladin,Protection,tank,Shadowmourne
+9,305.1,304964897,9,City of Threads,2024-10-27T08:31:54.000Z,1598387,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",巴耶赫力丶,Shaman,Restoration,healer,Shadowmourne
+10,305,303146269,9,City of Threads,2024-10-27T10:01:32.000Z,1604918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",乌鸦过载了,Shaman,Restoration,healer,Scarlet Crusade
+10,305,303146269,9,City of Threads,2024-10-27T10:01:32.000Z,1604918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",是兔砸哇,Evoker,Augmentation,dps,Deathwing
+10,305,303146269,9,City of Threads,2024-10-27T10:01:32.000Z,1604918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rayalexfq,Paladin,Retribution,dps,Burning Blade
+10,305,303146269,9,City of Threads,2024-10-27T10:01:32.000Z,1604918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",酷酷耳朵,Mage,Frost,dps,Nozdormu
+10,305,303146269,9,City of Threads,2024-10-27T10:01:32.000Z,1604918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",散魔功,Monk,Brewmaster,tank,Deathwing
+11,304.7,303807523,9,City of Threads,2024-10-30T07:46:31.000Z,1622229,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",橙花香,Paladin,Protection,tank,Deathwing
+11,304.7,303807523,9,City of Threads,2024-10-30T07:46:31.000Z,1622229,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",没头盔不能活,Shaman,Restoration,healer,Deathwing
+11,304.7,303807523,9,City of Threads,2024-10-30T07:46:31.000Z,1622229,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花有重开日,Mage,Frost,dps,Chillwind Point
+11,304.7,303807523,9,City of Threads,2024-10-30T07:46:31.000Z,1622229,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",靓仔啊,Death Knight,Frost,dps,Barrens
+11,304.7,303807523,9,City of Threads,2024-10-30T07:46:31.000Z,1622229,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",学校的沃柑,Paladin,Retribution,dps,Duskwood
+12,304.7,303457316,9,City of Threads,2024-10-28T18:18:24.000Z,1626165,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",三哥丶丶,Druid,Balance,dps,Deathwing
+12,304.7,303457316,9,City of Threads,2024-10-28T18:18:24.000Z,1626165,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超级鲨鱼辣椒,Warlock,Destruction,dps,Deathwing
+12,304.7,303457316,9,City of Threads,2024-10-28T18:18:24.000Z,1626165,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小熊焰焰,Druid,Guardian,tank,Azshara
+12,304.7,303457316,9,City of Threads,2024-10-28T18:18:24.000Z,1626165,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+12,304.7,303457316,9,City of Threads,2024-10-28T18:18:24.000Z,1626165,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",咕哩咕叽,Paladin,Holy,healer,Deathwing
+13,304.5,303413564,9,City of Threads,2024-10-28T13:48:39.000Z,1633804,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",曰后好相见,Mage,Fire,dps,Valley of Kings
+13,304.5,303413564,9,City of Threads,2024-10-28T13:48:39.000Z,1633804,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",傍山屯小诸葛,Shaman,Restoration,healer,Blanchard
+13,304.5,303413564,9,City of Threads,2024-10-28T13:48:39.000Z,1633804,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",布莱德尼,Paladin,Retribution,dps,Dark Iron
+13,304.5,303413564,9,City of Threads,2024-10-28T13:48:39.000Z,1633804,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",筱胖丶,Monk,Brewmaster,tank,Dark Iron
+13,304.5,303413564,9,City of Threads,2024-10-28T13:48:39.000Z,1633804,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",瑞幸咖啡,Hunter,Marksmanship,dps,Valley of Kings
+14,304.5,303800277,9,City of Threads,2024-10-30T06:00:02.000Z,1635139,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",韵白丶,Paladin,Holy,healer,Deathwing
+14,304.5,303800277,9,City of Threads,2024-10-30T06:00:02.000Z,1635139,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶王自闭,Paladin,Retribution,dps,Deathwing
+14,304.5,303800277,9,City of Threads,2024-10-30T06:00:02.000Z,1635139,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",姣姣白月,Hunter,Survival,dps,Holy Chanter
+14,304.5,303800277,9,City of Threads,2024-10-30T06:00:02.000Z,1635139,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",陈不住气丿,Paladin,Protection,tank,Isillien
+14,304.5,303800277,9,City of Threads,2024-10-30T06:00:02.000Z,1635139,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱喝龙景,Evoker,Augmentation,dps,Chromaggus
+15,304.5,303221071,9,City of Threads,2024-10-27T16:43:30.000Z,1636078,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",热爱人民,Mage,Frost,dps,Silver Hand
+15,304.5,303221071,9,City of Threads,2024-10-27T16:43:30.000Z,1636078,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",肥手大脚怪,Paladin,Protection,tank,Shadowmourne
+15,304.5,303221071,9,City of Threads,2024-10-27T16:43:30.000Z,1636078,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Inthepeace,Death Knight,Unholy,dps,Silver Hand
+15,304.5,303221071,9,City of Threads,2024-10-27T16:43:30.000Z,1636078,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Grimm,Paladin,Retribution,dps,Isillien
+15,304.5,303221071,9,City of Threads,2024-10-27T16:43:30.000Z,1636078,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",半延,Shaman,Restoration,healer,Valley of Kings
+16,304.4,303627408,9,City of Threads,2024-10-29T13:04:01.000Z,1641219,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",霜之皑殇,Warrior,Fury,dps,Al'ar
+16,304.4,303627408,9,City of Threads,2024-10-29T13:04:01.000Z,1641219,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Apologist,Death Knight,Unholy,dps,Al'ar
+16,304.4,303627408,9,City of Threads,2024-10-29T13:04:01.000Z,1641219,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鬼鬼小黑丶,Rogue,Assassination,dps,Bleeding Hollow
+16,304.4,303627408,9,City of Threads,2024-10-29T13:04:01.000Z,1641219,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龙场悟道,Shaman,Restoration,healer,Al'ar
+16,304.4,303627408,9,City of Threads,2024-10-29T13:04:01.000Z,1641219,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Paladinzing,Paladin,Protection,tank,Isillien
+17,304.1,302439154,9,City of Threads,2024-10-24T06:40:04.000Z,1657617,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",这下坏了,Rogue,Outlaw,dps,Silver Hand
+17,304.1,302439154,9,City of Threads,2024-10-24T06:40:04.000Z,1657617,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",徒手开电门丶,Shaman,Elemental,dps,Shadowmourne
+17,304.1,302439154,9,City of Threads,2024-10-24T06:40:04.000Z,1657617,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你冲锋我辅助,Evoker,Augmentation,dps,The Forgotten Coast
+17,304.1,302439154,9,City of Threads,2024-10-24T06:40:04.000Z,1657617,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",祝你今天愉快,Warrior,Protection,tank,Burning Blade
+17,304.1,302439154,9,City of Threads,2024-10-24T06:40:04.000Z,1657617,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶玥叶,Druid,Restoration,healer,The Master's Glaive
+18,304,302999826,9,City of Threads,2024-10-26T19:29:51.000Z,1667099,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rddice,Death Knight,Frost,dps,Grim Batol
+18,304,302999826,9,City of Threads,2024-10-26T19:29:51.000Z,1667099,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",省电骑士,Paladin,Protection,tank,Rhonin
+18,304,302999826,9,City of Threads,2024-10-26T19:29:51.000Z,1667099,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",喵小德,Druid,Balance,dps,Deathwing
+18,304,302999826,9,City of Threads,2024-10-26T19:29:51.000Z,1667099,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬舒克灬,Shaman,Elemental,dps,Isillien
+18,304,302999826,9,City of Threads,2024-10-26T19:29:51.000Z,1667099,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",杨永信本人,Shaman,Restoration,healer,Anzu
+19,303.7,302437989,9,City of Threads,2024-10-24T07:31:53.000Z,1682736,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一只奶熊,Shaman,Restoration,healer,Al'ar
+19,303.7,302437989,9,City of Threads,2024-10-24T07:31:53.000Z,1682736,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胖奍奍,Evoker,Augmentation,dps,Al'ar
+19,303.7,302437989,9,City of Threads,2024-10-24T07:31:53.000Z,1682736,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胖黑黑丶,Shaman,Elemental,dps,Al'ar
+19,303.7,302437989,9,City of Threads,2024-10-24T07:31:53.000Z,1682736,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暗夜之鸦,Warlock,Destruction,dps,Chillwind Point
+19,303.7,302437989,9,City of Threads,2024-10-24T07:31:53.000Z,1682736,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我要没蓝了,Paladin,Protection,tank,Silver Hand
+20,303.3,303358220,9,City of Threads,2024-10-28T03:36:56.000Z,1706473,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶皮卡丘丶,Priest,Discipline,healer,Strand of the Ancients
+20,303.3,303358220,9,City of Threads,2024-10-28T03:36:56.000Z,1706473,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",千本櫻,Mage,Frost,dps,Burning Blade
+20,303.3,303358220,9,City of Threads,2024-10-28T03:36:56.000Z,1706473,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花开淡墨痕,Warrior,Protection,tank,Ashenvale
+20,303.3,303358220,9,City of Threads,2024-10-28T03:36:56.000Z,1706473,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",聖之翼卡卡,Warlock,Demonology,dps,Al'ar
+20,303.3,303358220,9,City of Threads,2024-10-28T03:36:56.000Z,1706473,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",王不知道,Paladin,Retribution,dps,Silver Hand
+21,302.8,303137438,9,City of Threads,2024-10-27T08:33:30.000Z,1734256,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鳌虾寿司,Shaman,Elemental,dps,Silver Hand
+21,302.8,303137438,9,City of Threads,2024-10-27T08:33:30.000Z,1734256,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天可汗,Evoker,Preservation,healer,Amani
+21,302.8,303137438,9,City of Threads,2024-10-27T08:33:30.000Z,1734256,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Hibikii,Mage,Frost,dps,Rhonin
+21,302.8,303137438,9,City of Threads,2024-10-27T08:33:30.000Z,1734256,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",俺也一样灬,Warrior,Protection,tank,Rhonin
+21,302.8,303137438,9,City of Threads,2024-10-27T08:33:30.000Z,1734256,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",犀利丶伟哥,Paladin,Retribution,dps,Barrens
+22,301.7,302871314,9,City of Threads,2024-10-26T08:07:10.000Z,1797153,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿侬,Death Knight,Blood,tank,Eldre'Thalas
+22,301.7,302871314,9,City of Threads,2024-10-26T08:07:10.000Z,1797153,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿蓝丶,Shaman,Enhancement,dps,Gul'dan
+22,301.7,302871314,9,City of Threads,2024-10-26T08:07:10.000Z,1797153,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大专保安丶,Warlock,Destruction,dps,Deathwing
+22,301.7,302871314,9,City of Threads,2024-10-26T08:07:10.000Z,1797153,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",认真男孩,Shaman,Elemental,dps,Rhonin
+22,301.7,302871314,9,City of Threads,2024-10-26T08:07:10.000Z,1797153,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",友榕,Priest,Discipline,healer,Silver Hand
+23,301.7,303843630,9,City of Threads,2024-10-30T14:14:13.000Z,1798738,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",长生不老,Shaman,Elemental,dps,Chillwind Point
+23,301.7,303843630,9,City of Threads,2024-10-30T14:14:13.000Z,1798738,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶狠人睿,Warrior,Fury,dps,Silver Hand
+23,301.7,303843630,9,City of Threads,2024-10-30T14:14:13.000Z,1798738,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",毛毛儿,Paladin,Protection,tank,Valley of Kings
+23,301.7,303843630,9,City of Threads,2024-10-30T14:14:13.000Z,1798738,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",彧乄幺幺,Druid,Restoration,healer,Doomwalker
+23,301.7,303843630,9,City of Threads,2024-10-30T14:14:13.000Z,1798738,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小骚阳,Paladin,Retribution,dps,Silver Hand
+24,301.4,302437267,9,City of Threads,2024-10-24T06:39:18.000Z,1819094,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",如果你追到我,Monk,Brewmaster,tank,Kel'Thuzad
+24,301.4,302437267,9,City of Threads,2024-10-24T06:39:18.000Z,1819094,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宜家鲨鱼,Priest,Discipline,healer,Galakrond
+24,301.4,302437267,9,City of Threads,2024-10-24T06:39:18.000Z,1819094,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鱼卡鈤,Paladin,Retribution,dps,Kel'Thuzad
+24,301.4,302437267,9,City of Threads,2024-10-24T06:39:18.000Z,1819094,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",欧修缇,Hunter,Survival,dps,Scarlet Crusade
+24,301.4,302437267,9,City of Threads,2024-10-24T06:39:18.000Z,1819094,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",至矮王,Shaman,Elemental,dps,Galakrond
+25,301.2,302986877,9,City of Threads,2024-10-26T18:35:40.000Z,1829945,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",麻点大人丶,Demon Hunter,Vengeance,tank,Chillwind Point
+25,301.2,302986877,9,City of Threads,2024-10-26T18:35:40.000Z,1829945,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",洛斯薇瑟,Paladin,Retribution,dps,Scarlet Crusade
+25,301.2,302986877,9,City of Threads,2024-10-26T18:35:40.000Z,1829945,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",曲彤,Priest,Discipline,healer,Chillwind Point
+25,301.2,302986877,9,City of Threads,2024-10-26T18:35:40.000Z,1829945,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小人顶蘑菇,Shaman,Elemental,dps,Chillwind Point
+25,301.2,302986877,9,City of Threads,2024-10-26T18:35:40.000Z,1829945,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ggsky,Death Knight,Frost,dps,Chillwind Point
+26,300.9,302682653,9,City of Threads,2024-10-25T16:48:46.000Z,1846035,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玉米卷儿,Shaman,Restoration,healer,Doomwalker
+26,300.9,302682653,9,City of Threads,2024-10-25T16:48:46.000Z,1846035,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",脆皮小羊羔,Demon Hunter,Vengeance,tank,Doomwalker
+26,300.9,302682653,9,City of Threads,2024-10-25T16:48:46.000Z,1846035,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",年糕炒毛蟹,Death Knight,Frost,dps,Grim Batol
+26,300.9,302682653,9,City of Threads,2024-10-25T16:48:46.000Z,1846035,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",土豆灬拗拗,Shaman,Elemental,dps,Doomwalker
+26,300.9,302682653,9,City of Threads,2024-10-25T16:48:46.000Z,1846035,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",了了萌,Shaman,Elemental,dps,Tirisfal Glades
+27,300.4,303808948,9,City of Threads,2024-10-30T08:02:45.000Z,1873017,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Mqerovo,Mage,Frost,dps,Burning Blade
+27,300.4,303808948,9,City of Threads,2024-10-30T08:02:45.000Z,1873017,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吨吨最强,Shaman,Restoration,healer,Burning Blade
+27,300.4,303808948,9,City of Threads,2024-10-30T08:02:45.000Z,1873017,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卢米安,Warrior,Protection,tank,Dar'Khan
+27,300.4,303808948,9,City of Threads,2024-10-30T08:02:45.000Z,1873017,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",牛仔筷,Paladin,Retribution,dps,Al'ar
+27,300.4,303808948,9,City of Threads,2024-10-30T08:02:45.000Z,1873017,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",黄昏磷然,Paladin,Retribution,dps,Hectae
+28,299.8,303392992,9,City of Threads,2024-10-28T10:02:31.000Z,1911612,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花开淡墨痕,Warrior,Protection,tank,Ashenvale
+28,299.8,303392992,9,City of Threads,2024-10-28T10:02:31.000Z,1911612,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一曲长眠,Rogue,Assassination,dps,Zealot Blade
+28,299.8,303392992,9,City of Threads,2024-10-28T10:02:31.000Z,1911612,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",羊大仙儿,Paladin,Retribution,dps,Barthilas
+28,299.8,303392992,9,City of Threads,2024-10-28T10:02:31.000Z,1911612,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大百运,Shaman,Restoration,healer,Barthilas
+28,299.8,303392992,9,City of Threads,2024-10-28T10:02:31.000Z,1911612,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Infollow,Mage,Frost,dps,Echo Ridge
+29,298.9,302646195,9,City of Threads,2024-10-25T10:49:15.000Z,1964993,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大国酒,Death Knight,Frost,dps,Swiftwind
+29,298.9,302646195,9,City of Threads,2024-10-25T10:49:15.000Z,1964993,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",云曦,Mage,Frost,dps,Dalvengyr
+29,298.9,302646195,9,City of Threads,2024-10-25T10:49:15.000Z,1964993,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冲就完事了丶,Warrior,Protection,tank,Al'ar
+29,298.9,302646195,9,City of Threads,2024-10-25T10:49:15.000Z,1964993,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不诉,Death Knight,Frost,dps,Holy Chanter
+29,298.9,302646195,9,City of Threads,2024-10-25T10:49:15.000Z,1964993,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",青凤丶,Shaman,Restoration,healer,Blanchard
+30,298.4,302422485,9,City of Threads,2024-10-24T07:59:22.000Z,1993418,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",悠悠贝拉,Shaman,Elemental,dps,The Underbog
+30,298.4,302422485,9,City of Threads,2024-10-24T07:59:22.000Z,1993418,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小笼包,Shaman,Restoration,healer,River Pride
+30,298.4,302422485,9,City of Threads,2024-10-24T07:59:22.000Z,1993418,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吗喽,Shaman,Elemental,dps,Kael'thas
+30,298.4,302422485,9,City of Threads,2024-10-24T07:59:22.000Z,1993418,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Mimomimo,Death Knight,Blood,tank,Red Cloud Mesa
+30,298.4,302422485,9,City of Threads,2024-10-24T07:59:22.000Z,1993418,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光斩首,Shaman,Elemental,dps,Pandaren
+31,298.1,303882052,9,City of Threads,2024-10-30T18:41:37.000Z,2011924,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",好爽,Death Knight,Unholy,dps,Chillwind Point
+31,298.1,303882052,9,City of Threads,2024-10-30T18:41:37.000Z,2011924,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+31,298.1,303882052,9,City of Threads,2024-10-30T18:41:37.000Z,2011924,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老郑睡不醒,Paladin,Holy,healer,Chillwind Point
+31,298.1,303882052,9,City of Threads,2024-10-30T18:41:37.000Z,2011924,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Flashingsuns,Rogue,Assassination,dps,Chillwind Point
+31,298.1,303882052,9,City of Threads,2024-10-30T18:41:37.000Z,2011924,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",斩焱,Demon Hunter,Vengeance,tank,Chillwind Point
+32,298,302971650,9,City of Threads,2024-10-26T17:10:37.000Z,2017824,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Evine,Paladin,Holy,healer,Rhonin
+32,298,302971650,9,City of Threads,2024-10-26T17:10:37.000Z,2017824,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+32,298,302971650,9,City of Threads,2024-10-26T17:10:37.000Z,2017824,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",上古侠风,Monk,Brewmaster,tank,Deathwing
+32,298,302971650,9,City of Threads,2024-10-26T17:10:37.000Z,2017824,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暴力美學法,Mage,Frost,dps,Deathwing
+32,298,302971650,9,City of Threads,2024-10-26T17:10:37.000Z,2017824,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奇士,Monk,Windwalker,dps,Blackhand
+33,297.9,302684378,9,City of Threads,2024-10-25T15:05:53.000Z,2018865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",这有山,Rogue,Assassination,dps,Eldre'Thalas
+33,297.9,302684378,9,City of Threads,2024-10-25T15:05:53.000Z,2018865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",也許回到過去,Paladin,Protection,tank,Eldre'Thalas
+33,297.9,302684378,9,City of Threads,2024-10-25T15:05:53.000Z,2018865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tammysm,Shaman,Elemental,dps,Eldre'Thalas
+33,297.9,302684378,9,City of Threads,2024-10-25T15:05:53.000Z,2018865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",呲喇喇,Shaman,Elemental,dps,Rhonin
+33,297.9,302684378,9,City of Threads,2024-10-25T15:05:53.000Z,2018865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",仙道爷,Shaman,Restoration,healer,Echo Ridge
+34,297.6,303169113,9,City of Threads,2024-10-27T12:16:43.000Z,2036722,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",乌蓬离慯,Mage,Frost,dps,Kel'Thuzad
+34,297.6,303169113,9,City of Threads,2024-10-27T12:16:43.000Z,2036722,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",前尘如梦,Death Knight,Blood,tank,Kel'Thuzad
+34,297.6,303169113,9,City of Threads,2024-10-27T12:16:43.000Z,2036722,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",拼命三娘,Monk,Windwalker,dps,Kel'Thuzad
+34,297.6,303169113,9,City of Threads,2024-10-27T12:16:43.000Z,2036722,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小步兵,Shaman,Restoration,healer,The Great Sea
+34,297.6,303169113,9,City of Threads,2024-10-27T12:16:43.000Z,2036722,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬聖丨騎灬,Paladin,Retribution,dps,Shadowmourne
+35,297.4,302865815,9,City of Threads,2024-10-26T08:36:46.000Z,2049146,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",保国丶,Monk,Mistweaver,healer,Al'ar
+35,297.4,302865815,9,City of Threads,2024-10-26T08:36:46.000Z,2049146,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",兰溪体育生,Shaman,Enhancement,dps,Rhonin
+35,297.4,302865815,9,City of Threads,2024-10-26T08:36:46.000Z,2049146,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吉他大神,Paladin,Protection,tank,Al'ar
+35,297.4,302865815,9,City of Threads,2024-10-26T08:36:46.000Z,2049146,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",又肉又有输出,Paladin,Retribution,dps,Al'ar
+35,297.4,302865815,9,City of Threads,2024-10-26T08:36:46.000Z,2049146,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",该硬不硬身板,Hunter,Beast Mastery,dps,Al'ar
+36,297.1,302860622,9,City of Threads,2024-10-26T06:41:29.000Z,2066865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宫胁咲良丶,Paladin,Protection,tank,Dark Iron
+36,297.1,302860622,9,City of Threads,2024-10-26T06:41:29.000Z,2066865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不关摇曳的事,Druid,Balance,dps,Dark Iron
+36,297.1,302860622,9,City of Threads,2024-10-26T06:41:29.000Z,2066865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冷酷前妻,Shaman,Elemental,dps,Al'ar
+36,297.1,302860622,9,City of Threads,2024-10-26T06:41:29.000Z,2066865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Serendipiity,Shaman,Elemental,dps,Al'ar
+36,297.1,302860622,9,City of Threads,2024-10-26T06:41:29.000Z,2066865,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱丶丶,Priest,Discipline,healer,Dark Iron
+37,296.7,302497006,9,City of Threads,2024-10-24T16:01:40.000Z,2092724,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",得儿丶指尖萨,Shaman,Restoration,healer,Theramore
+37,296.7,302497006,9,City of Threads,2024-10-24T16:01:40.000Z,2092724,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丷筱乄龙,Evoker,Augmentation,dps,Al'ar
+37,296.7,302497006,9,City of Threads,2024-10-24T16:01:40.000Z,2092724,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小厚会武术灬,Paladin,Retribution,dps,Shadowmourne
+37,296.7,302497006,9,City of Threads,2024-10-24T16:01:40.000Z,2092724,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Mautice,Warrior,Protection,tank,Shadowmourne
+37,296.7,302497006,9,City of Threads,2024-10-24T16:01:40.000Z,2092724,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",不曾圣骑,Paladin,Retribution,dps,Isillien
+38,295.9,302414166,9,City of Threads,2024-10-24T02:58:21.000Z,2139107,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",哟吼啦呀,Rogue,Outlaw,dps,Rhonin
+38,295.9,302414166,9,City of Threads,2024-10-24T02:58:21.000Z,2139107,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",长崎素世丶丶,Warrior,Protection,tank,Rhonin
+38,295.9,302414166,9,City of Threads,2024-10-24T02:58:21.000Z,2139107,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",纯奶二块二,Priest,Holy,healer,The Master's Glaive
+38,295.9,302414166,9,City of Threads,2024-10-24T02:58:21.000Z,2139107,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",响雷大宝,Shaman,Elemental,dps,Rhonin
+38,295.9,302414166,9,City of Threads,2024-10-24T02:58:21.000Z,2139107,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风驭落,Shaman,Elemental,dps,Rhonin
+39,295.7,302853741,9,City of Threads,2024-10-26T05:41:07.000Z,2149630,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Likeasong,Warrior,Protection,tank,Al'ar
+39,295.7,302853741,9,City of Threads,2024-10-26T05:41:07.000Z,2149630,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",欧狸,Mage,Frost,dps,Deathwing
+39,295.7,302853741,9,City of Threads,2024-10-26T05:41:07.000Z,2149630,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胖胖女侠,Shaman,Elemental,dps,Isillien
+39,295.7,302853741,9,City of Threads,2024-10-26T05:41:07.000Z,2149630,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Crimsons,Hunter,Survival,dps,Burning Blade
+39,295.7,302853741,9,City of Threads,2024-10-26T05:41:07.000Z,2149630,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",赫斯提亞,Shaman,Restoration,healer,The Master's Glaive
+40,295,303834442,8,City of Threads,2024-10-30T12:51:05.000Z,1212989,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",抓狂松鼠,Rogue,Assassination,dps,Alterac Mountains
+40,295,303834442,8,City of Threads,2024-10-30T12:51:05.000Z,1212989,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",湘琴,Priest,Shadow,dps,The Great Sea
+40,295,303834442,8,City of Threads,2024-10-30T12:51:05.000Z,1212989,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",网红镇,Priest,Discipline,healer,Silver Hand
+40,295,303834442,8,City of Threads,2024-10-30T12:51:05.000Z,1212989,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Upham,Paladin,Protection,tank,Silver Hand
+40,295,303834442,8,City of Threads,2024-10-30T12:51:05.000Z,1212989,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玉足六喰,Shaman,Enhancement,dps,Silver Hand
+41,295,303401457,8,City of Threads,2024-10-28T11:50:07.000Z,1267828,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",霸气桃桃,Shaman,Restoration,healer,Barrens
+41,295,303401457,8,City of Threads,2024-10-28T11:50:07.000Z,1267828,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",愿君如月,Demon Hunter,Vengeance,tank,Anzu
+41,295,303401457,8,City of Threads,2024-10-28T11:50:07.000Z,1267828,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你踩我脚了,Death Knight,Frost,dps,Wintergrasp
+41,295,303401457,8,City of Threads,2024-10-28T11:50:07.000Z,1267828,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Levitation,Hunter,Survival,dps,Northrend
+41,295,303401457,8,City of Threads,2024-10-28T11:50:07.000Z,1267828,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶桃丸,Paladin,Retribution,dps,Burning Blade
+42,295,306079804,8,City of Threads,2024-10-24T12:50:41.000Z,1269695,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",游荡的长颈鹿,Shaman,Restoration,healer,Al'ar
+42,295,306079804,8,City of Threads,2024-10-24T12:50:41.000Z,1269695,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",木槿离年,Hunter,Marksmanship,dps,Swiftwind
+42,295,306079804,8,City of Threads,2024-10-24T12:50:41.000Z,1269695,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕真冷呀,Hunter,Survival,dps,The Great Sea
+42,295,306079804,8,City of Threads,2024-10-24T12:50:41.000Z,1269695,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",专业玩家丶,Paladin,Protection,tank,Burning Blade
+42,295,306079804,8,City of Threads,2024-10-24T12:50:41.000Z,1269695,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蓝皮保送生,Shaman,Elemental,dps,Deathwing
+43,295,303423174,8,City of Threads,2024-10-28T14:49:07.000Z,1299321,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",铭伏,Rogue,Assassination,dps,Deathwing
+43,295,303423174,8,City of Threads,2024-10-28T14:49:07.000Z,1299321,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光斩首,Shaman,Enhancement,dps,Pandaren
+43,295,303423174,8,City of Threads,2024-10-28T14:49:07.000Z,1299321,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+43,295,303423174,8,City of Threads,2024-10-28T14:49:07.000Z,1299321,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亅七二七丿,Priest,Discipline,healer,Anzu
+43,295,303423174,8,City of Threads,2024-10-28T14:49:07.000Z,1299321,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",香草知识,Druid,Balance,dps,Kel'Thuzad
+44,294.9,303868384,8,City of Threads,2024-10-30T17:08:09.000Z,1320782,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",至高雷,Demon Hunter,Havoc,dps,Grim Batol
+44,294.9,303868384,8,City of Threads,2024-10-30T17:08:09.000Z,1320782,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丢了魂,Monk,Windwalker,dps,Grim Batol
+44,294.9,303868384,8,City of Threads,2024-10-30T17:08:09.000Z,1320782,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",扎鲁特二锅头,Druid,Guardian,tank,Grim Batol
+44,294.9,303868384,8,City of Threads,2024-10-30T17:08:09.000Z,1320782,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+44,294.9,303868384,8,City of Threads,2024-10-30T17:08:09.000Z,1320782,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",噗噗的萨满,Shaman,Elemental,dps,Grim Batol
+45,294.8,302921398,8,City of Threads,2024-10-26T13:11:37.000Z,1324689,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",随便盖姚明,Monk,Brewmaster,tank,Chillwind Point
+45,294.8,302921398,8,City of Threads,2024-10-26T13:11:37.000Z,1324689,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Neir,Warlock,Destruction,dps,Chillwind Point
+45,294.8,302921398,8,City of Threads,2024-10-26T13:11:37.000Z,1324689,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Coconutshake,Paladin,Retribution,dps,Chillwind Point
+45,294.8,302921398,8,City of Threads,2024-10-26T13:11:37.000Z,1324689,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",下身丨夜微凉,Shaman,Restoration,healer,Gorefiend
+45,294.8,302921398,8,City of Threads,2024-10-26T13:11:37.000Z,1324689,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",炼狱之国,Death Knight,Frost,dps,Doomwalker
+46,294.8,303818019,8,City of Threads,2024-10-30T09:58:58.000Z,1326755,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灯毓,Demon Hunter,Vengeance,tank,Rhonin
+46,294.8,303818019,8,City of Threads,2024-10-30T09:58:58.000Z,1326755,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亅七二七丿,Priest,Discipline,healer,Anzu
+46,294.8,303818019,8,City of Threads,2024-10-30T09:58:58.000Z,1326755,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",驯鹿鲁道夫,Mage,Arcane,dps,Burning Blade
+46,294.8,303818019,8,City of Threads,2024-10-30T09:58:58.000Z,1326755,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",剑舞残雪,Paladin,Retribution,dps,Wing of the Whelping
+46,294.8,303818019,8,City of Threads,2024-10-30T09:58:58.000Z,1326755,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",你给路哒哟,Paladin,Retribution,dps,Grim Batol
+47,294.6,306079802,8,City of Threads,2024-10-24T11:41:58.000Z,1336024,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",捷卡林娜,Demon Hunter,Vengeance,tank,The Great Sea
+47,294.6,306079802,8,City of Threads,2024-10-24T11:41:58.000Z,1336024,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕真冷呀,Hunter,Survival,dps,The Great Sea
+47,294.6,306079802,8,City of Threads,2024-10-24T11:41:58.000Z,1336024,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Nanhua,Shaman,Restoration,healer,Al'ar
+47,294.6,306079802,8,City of Threads,2024-10-24T11:41:58.000Z,1336024,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蓝皮保送生,Shaman,Elemental,dps,Deathwing
+47,294.6,306079802,8,City of Threads,2024-10-24T11:41:58.000Z,1336024,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灬辰怡灬,Shaman,Elemental,dps,Al'ar
+48,294.3,302454613,8,City of Threads,2024-10-24T09:39:15.000Z,1356037,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",弑乄神,Death Knight,Frost,dps,Isillien
+48,294.3,302454613,8,City of Threads,2024-10-24T09:39:15.000Z,1356037,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",谁大爷,Shaman,Restoration,healer,Deathwing
+48,294.3,302454613,8,City of Threads,2024-10-24T09:39:15.000Z,1356037,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+48,294.3,302454613,8,City of Threads,2024-10-24T09:39:15.000Z,1356037,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Carlsm,Shaman,Elemental,dps,Deathwing
+48,294.3,302454613,8,City of Threads,2024-10-24T09:39:15.000Z,1356037,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我本自然,Shaman,Elemental,dps,Alleria
+49,293.7,303829904,8,City of Threads,2024-10-30T12:12:48.000Z,1388301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",钓以清心,Rogue,Assassination,dps,Al'ar
+49,293.7,303829904,8,City of Threads,2024-10-30T12:12:48.000Z,1388301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",風轻雲淡,Warrior,Fury,dps,The Botanica
+49,293.7,303829904,8,City of Threads,2024-10-30T12:12:48.000Z,1388301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一牧十夯,Druid,Guardian,tank,Al'ar
+49,293.7,303829904,8,City of Threads,2024-10-30T12:12:48.000Z,1388301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灵魂行者黑角,Druid,Balance,dps,Arygos
+49,293.7,303829904,8,City of Threads,2024-10-30T12:12:48.000Z,1388301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",嘿嘿呼哈哈,Shaman,Restoration,healer,Ahune
+50,293.7,303255255,8,City of Threads,2024-10-27T19:16:33.000Z,1391628,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",莫格莱尼,Paladin,Retribution,dps,Echo Ridge
+50,293.7,303255255,8,City of Threads,2024-10-27T19:16:33.000Z,1391628,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",红色萨满,Shaman,Restoration,healer,Valley of Kings
+50,293.7,303255255,8,City of Threads,2024-10-27T19:16:33.000Z,1391628,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",闪光小火龍,Rogue,Assassination,dps,Al'ar
+50,293.7,303255255,8,City of Threads,2024-10-27T19:16:33.000Z,1391628,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",橙丶奥丁,Warrior,Protection,tank,Isillien
+50,293.7,303255255,8,City of Threads,2024-10-27T19:16:33.000Z,1391628,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",酒酿桃子,Shaman,Elemental,dps,Pandaren
+51,293.4,303185750,8,City of Threads,2024-10-27T14:01:38.000Z,1408402,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Oyyqs,Paladin,Protection,tank,Deathwing
+51,293.4,303185750,8,City of Threads,2024-10-27T14:01:38.000Z,1408402,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",哈湫,Priest,Shadow,dps,Grim Batol
+51,293.4,303185750,8,City of Threads,2024-10-27T14:01:38.000Z,1408402,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶月半弯,Death Knight,Frost,dps,Grim Batol
+51,293.4,303185750,8,City of Threads,2024-10-27T14:01:38.000Z,1408402,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暮雨觞,Warlock,Demonology,dps,Kel'Thuzad
+51,293.4,303185750,8,City of Threads,2024-10-27T14:01:38.000Z,1408402,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",辛赛西斯萨蒂,Priest,Holy,healer,Isillien
+52,293.3,302686939,8,City of Threads,2024-10-25T15:42:51.000Z,1415918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃小爷,Druid,Guardian,tank,Al'ar
+52,293.3,302686939,8,City of Threads,2024-10-25T15:42:51.000Z,1415918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+52,293.3,302686939,8,City of Threads,2024-10-25T15:42:51.000Z,1415918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",九分十二,Death Knight,Unholy,dps,Al'ar
+52,293.3,302686939,8,City of Threads,2024-10-25T15:42:51.000Z,1415918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",魔域之刃,Rogue,Assassination,dps,Al'ar
+52,293.3,302686939,8,City of Threads,2024-10-25T15:42:51.000Z,1415918,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小飞萨满,Shaman,Enhancement,dps,Al'ar
+53,293,306079810,8,City of Threads,2024-10-24T17:37:46.000Z,1432379,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",游荡的长颈鹿,Shaman,Elemental,dps,Al'ar
+53,293,306079810,8,City of Threads,2024-10-24T17:37:46.000Z,1432379,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕真冷呀,Hunter,Survival,dps,The Great Sea
+53,293,306079810,8,City of Threads,2024-10-24T17:37:46.000Z,1432379,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",翻翘,Evoker,Preservation,healer,Rhonin
+53,293,306079810,8,City of Threads,2024-10-24T17:37:46.000Z,1432379,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冷冽恶魔丨,Paladin,Protection,tank,Frostmourne
+53,293,306079810,8,City of Threads,2024-10-24T17:37:46.000Z,1432379,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",擂肥,Shaman,Elemental,dps,Rhonin
+54,293,303802288,8,City of Threads,2024-10-30T06:43:02.000Z,1434364,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尘埃遇风,Druid,Balance,dps,Shadowmourne
+54,293,303802288,8,City of Threads,2024-10-30T06:43:02.000Z,1434364,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Alliancesham,Shaman,Restoration,healer,Anzu
+54,293,303802288,8,City of Threads,2024-10-30T06:43:02.000Z,1434364,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",紫冰灵儿,Paladin,Retribution,dps,Silver Hand
+54,293,303802288,8,City of Threads,2024-10-30T06:43:02.000Z,1434364,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Darkreturn,Demon Hunter,Havoc,dps,Galakrond
+54,293,303802288,8,City of Threads,2024-10-30T06:43:02.000Z,1434364,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Accake,Paladin,Protection,tank,Silver Hand
+55,292.4,303427676,8,City of Threads,2024-10-28T15:26:28.000Z,1466173,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",醒丶醒,Death Knight,Unholy,dps,Isillien
+55,292.4,303427676,8,City of Threads,2024-10-28T15:26:28.000Z,1466173,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Kadu,Shaman,Elemental,dps,Grim Batol
+55,292.4,303427676,8,City of Threads,2024-10-28T15:26:28.000Z,1466173,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",艾斯托佛,Paladin,Protection,tank,Anzu
+55,292.4,303427676,8,City of Threads,2024-10-28T15:26:28.000Z,1466173,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",拳丶湿丶肾,Shaman,Enhancement,dps,Isillien
+55,292.4,303427676,8,City of Threads,2024-10-28T15:26:28.000Z,1466173,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风如拔山怒,Shaman,Restoration,healer,Isillien
+56,292.3,302654577,8,City of Threads,2024-10-25T10:58:26.000Z,1470455,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",犹记丶,Warrior,Protection,tank,Eldre'Thalas
+56,292.3,302654577,8,City of Threads,2024-10-25T10:58:26.000Z,1470455,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Megumii,Druid,Balance,dps,Eldre'Thalas
+56,292.3,302654577,8,City of Threads,2024-10-25T10:58:26.000Z,1470455,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",好鸭,Priest,Discipline,healer,Eldre'Thalas
+56,292.3,302654577,8,City of Threads,2024-10-25T10:58:26.000Z,1470455,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Kpig,Warrior,Fury,dps,Eldre'Thalas
+56,292.3,302654577,8,City of Threads,2024-10-25T10:58:26.000Z,1470455,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",傅老师丶,Death Knight,Frost,dps,Eldre'Thalas
+57,292.2,303646463,8,City of Threads,2024-10-29T15:29:08.000Z,1476730,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苁茏,Death Knight,Unholy,dps,Grim Batol
+57,292.2,303646463,8,City of Threads,2024-10-29T15:29:08.000Z,1476730,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+57,292.2,303646463,8,City of Threads,2024-10-29T15:29:08.000Z,1476730,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",隔壁老杜,Demon Hunter,Havoc,dps,Grim Batol
+57,292.2,303646463,8,City of Threads,2024-10-29T15:29:08.000Z,1476730,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",噗嗤打次,Paladin,Protection,tank,Grim Batol
+57,292.2,303646463,8,City of Threads,2024-10-29T15:29:08.000Z,1476730,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+58,292.1,303439803,8,City of Threads,2024-10-28T16:26:00.000Z,1484460,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Eyès,Warrior,Protection,tank,Rhonin
+58,292.1,303439803,8,City of Threads,2024-10-28T16:26:00.000Z,1484460,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",球球无敌,Priest,Discipline,healer,Blanchard
+58,292.1,303439803,8,City of Threads,2024-10-28T16:26:00.000Z,1484460,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大唐小吃,Death Knight,Frost,dps,The Great Sea
+58,292.1,303439803,8,City of Threads,2024-10-28T16:26:00.000Z,1484460,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",惠晴天,Death Knight,Unholy,dps,Blanchard
+58,292.1,303439803,8,City of Threads,2024-10-28T16:26:00.000Z,1484460,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",今晚有女骑吗,Paladin,Retribution,dps,Deathwing
+59,292,302510086,8,City of Threads,2024-10-24T16:41:13.000Z,1488442,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Ubuntu,Shaman,Elemental,dps,Tortheldrin
+59,292,302510086,8,City of Threads,2024-10-24T16:41:13.000Z,1488442,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Nikox,Demon Hunter,Vengeance,tank,Al'ar
+59,292,302510086,8,City of Threads,2024-10-24T16:41:13.000Z,1488442,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",An,Rogue,Assassination,dps,Dreamwalker
+59,292,302510086,8,City of Threads,2024-10-24T16:41:13.000Z,1488442,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",高端冰箱,Paladin,Holy,healer,Al'ar
+59,292,302510086,8,City of Threads,2024-10-24T16:41:13.000Z,1488442,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",白毛老灰灰,Shaman,Restoration,healer,Al'ar
+60,292,303840896,8,City of Threads,2024-10-30T13:55:23.000Z,1488557,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",咿呀咿呀喲,Warrior,Protection,tank,Shadowmourne
+60,292,303840896,8,City of Threads,2024-10-30T13:55:23.000Z,1488557,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",海布里之王,Druid,Balance,dps,The Forgotten Coast
+60,292,303840896,8,City of Threads,2024-10-30T13:55:23.000Z,1488557,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",发如雪丶,Death Knight,Frost,dps,Kel'Thuzad
+60,292,303840896,8,City of Threads,2024-10-30T13:55:23.000Z,1488557,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",柳如烟,Shaman,Restoration,healer,Alleria
+60,292,303840896,8,City of Threads,2024-10-30T13:55:23.000Z,1488557,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叶梦娜,Paladin,Retribution,dps,Strand of the Ancients
+61,291.6,302932081,8,City of Threads,2024-10-26T14:11:38.000Z,1510492,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",婷婷不讲武德,Monk,Mistweaver,healer,Rhonin
+61,291.6,302932081,8,City of Threads,2024-10-26T14:11:38.000Z,1510492,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",清雨海棠,Warlock,Demonology,dps,Rhonin
+61,291.6,302932081,8,City of Threads,2024-10-26T14:11:38.000Z,1510492,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",兰德鲁的傻满,Shaman,Elemental,dps,Rhonin
+61,291.6,302932081,8,City of Threads,2024-10-26T14:11:38.000Z,1510492,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",绞肉机,Warrior,Protection,tank,Direwing
+61,291.6,302932081,8,City of Threads,2024-10-26T14:11:38.000Z,1510492,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",速度灭,Mage,Frost,dps,Direwing
+62,291.3,303108710,8,City of Threads,2024-10-27T04:49:55.000Z,1529148,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",土爹,Shaman,Elemental,dps,Blackwing Lair
+62,291.3,303108710,8,City of Threads,2024-10-27T04:49:55.000Z,1529148,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",木兮木有枝,Priest,Discipline,healer,Deathwing
+62,291.3,303108710,8,City of Threads,2024-10-27T04:49:55.000Z,1529148,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小猫发财丶,Rogue,Assassination,dps,Anzu
+62,291.3,303108710,8,City of Threads,2024-10-27T04:49:55.000Z,1529148,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨道法自然丶,Druid,Guardian,tank,Silver Hand
+62,291.3,303108710,8,City of Threads,2024-10-27T04:49:55.000Z,1529148,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",殇灬下雨天,Paladin,Retribution,dps,Scarlet Crusade
+63,291.2,302938539,8,City of Threads,2024-10-26T14:44:40.000Z,1535946,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",克劳斯,Death Knight,Blood,tank,Zul'Aman
+63,291.2,302938539,8,City of Threads,2024-10-26T14:44:40.000Z,1535946,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",为何不可,Paladin,Retribution,dps,Pandaren
+63,291.2,302938539,8,City of Threads,2024-10-26T14:44:40.000Z,1535946,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尹志平丶,Death Knight,Frost,dps,Dustbelcher
+63,291.2,302938539,8,City of Threads,2024-10-26T14:44:40.000Z,1535946,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花开丶春来到,Shaman,Restoration,healer,Dustbelcher
+63,291.2,302938539,8,City of Threads,2024-10-26T14:44:40.000Z,1535946,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",打脸萨,Shaman,Elemental,dps,Dustbelcher
+64,291.1,302422558,8,City of Threads,2024-10-24T04:43:23.000Z,1540755,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Krices,Hunter,Survival,dps,Frostmane
+64,291.1,302422558,8,City of Threads,2024-10-24T04:43:23.000Z,1540755,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Io,Warrior,Protection,tank,Frostmane
+64,291.1,302422558,8,City of Threads,2024-10-24T04:43:23.000Z,1540755,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奶奶助我,Shaman,Elemental,dps,Frostmane
+64,291.1,302422558,8,City of Threads,2024-10-24T04:43:23.000Z,1540755,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",附魔制皮小东,Demon Hunter,Havoc,dps,Al'ar
+64,291.1,302422558,8,City of Threads,2024-10-24T04:43:23.000Z,1540755,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",粉色好友,Paladin,Holy,healer,Frostmane
+65,291,303399931,8,City of Threads,2024-10-28T11:15:03.000Z,1550381,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",麻老师最红了,Mage,Frost,dps,Chillwind Point
+65,291,303399931,8,City of Threads,2024-10-28T11:15:03.000Z,1550381,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",查理八世,Paladin,Protection,tank,Silver Hand
+65,291,303399931,8,City of Threads,2024-10-28T11:15:03.000Z,1550381,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老天师丶,Monk,Windwalker,dps,Chillwind Point
+65,291,303399931,8,City of Threads,2024-10-28T11:15:03.000Z,1550381,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奶遍天下,Priest,Discipline,healer,Khadgar
+65,291,303399931,8,City of Threads,2024-10-28T11:15:03.000Z,1550381,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",给你一定子,Shaman,Elemental,dps,Arygos
+66,290.9,302294807,8,City of Threads,2024-10-26T14:59:57.000Z,1555688,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",想做偷心贼丶,Rogue,Assassination,dps,Burning Blade
+66,290.9,302294807,8,City of Threads,2024-10-26T14:59:57.000Z,1555688,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Elemental,dps,Burning Blade
+66,290.9,302294807,8,City of Threads,2024-10-26T14:59:57.000Z,1555688,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶雪碧邪邪,Death Knight,Unholy,dps,Burning Blade
+66,290.9,302294807,8,City of Threads,2024-10-26T14:59:57.000Z,1555688,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tribeillidan,Demon Hunter,Vengeance,tank,Grim Batol
+66,290.9,302294807,8,City of Threads,2024-10-26T14:59:57.000Z,1555688,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",为谁而歌,Shaman,Restoration,healer,The Great Sea
+67,290.8,302621359,8,City of Threads,2024-10-25T05:31:15.000Z,1559808,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",驯受師,Hunter,Marksmanship,dps,Silver Hand
+67,290.8,302621359,8,City of Threads,2024-10-25T05:31:15.000Z,1559808,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",酷酷的雷丶,Rogue,Assassination,dps,The Golden Plains
+67,290.8,302621359,8,City of Threads,2024-10-25T05:31:15.000Z,1559808,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无敌小阿喵,Paladin,Protection,tank,Silver Hand
+67,290.8,302621359,8,City of Threads,2024-10-25T05:31:15.000Z,1559808,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",赵薇,Shaman,Elemental,dps,Chillwind Point
+67,290.8,302621359,8,City of Threads,2024-10-25T05:31:15.000Z,1559808,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",火舞银龙杰,Evoker,Preservation,healer,Silver Hand
+68,290.7,303459446,8,City of Threads,2024-10-28T18:41:12.000Z,1568474,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",三一零小萨满,Shaman,Restoration,healer,Red Dragonflight
+68,290.7,303459446,8,City of Threads,2024-10-28T18:41:12.000Z,1568474,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",地底人,Paladin,Retribution,dps,The Botanica
+68,290.7,303459446,8,City of Threads,2024-10-28T18:41:12.000Z,1568474,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃屁娘,Paladin,Retribution,dps,Rhonin
+68,290.7,303459446,8,City of Threads,2024-10-28T18:41:12.000Z,1568474,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爱玩艾斯艾慕,Shaman,Enhancement,dps,Burning Blade
+68,290.7,303459446,8,City of Threads,2024-10-28T18:41:12.000Z,1568474,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Aiyoe,Paladin,Protection,tank,Burning Blade
+69,290.5,303600810,8,City of Threads,2024-10-29T09:36:55.000Z,1580276,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Mqerovo,Mage,Frost,dps,Burning Blade
+69,290.5,303600810,8,City of Threads,2024-10-29T09:36:55.000Z,1580276,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",姑苏雨,Druid,Balance,dps,Al'ar
+69,290.5,303600810,8,City of Threads,2024-10-29T09:36:55.000Z,1580276,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",十万伏特丷,Shaman,Restoration,healer,Chillwind Point
+69,290.5,303600810,8,City of Threads,2024-10-29T09:36:55.000Z,1580276,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奥斯卡丷,Druid,Balance,dps,Chillwind Point
+69,290.5,303600810,8,City of Threads,2024-10-29T09:36:55.000Z,1580276,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",击鹦鲸,Warrior,Protection,tank,Arygos
+70,290.4,303633348,8,City of Threads,2024-10-29T13:50:15.000Z,1581588,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月之优雅,Shaman,Enhancement,dps,Stonetalon Peak
+70,290.4,303633348,8,City of Threads,2024-10-29T13:50:15.000Z,1581588,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",等风来,Mage,Frost,dps,Zealot Blade
+70,290.4,303633348,8,City of Threads,2024-10-29T13:50:15.000Z,1581588,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龙宫礼奈,Rogue,Assassination,dps,Thousand Needles
+70,290.4,303633348,8,City of Threads,2024-10-29T13:50:15.000Z,1581588,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",終期于尽,Druid,Restoration,healer,Eldre'Thalas
+70,290.4,303633348,8,City of Threads,2024-10-29T13:50:15.000Z,1581588,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小田心,Warrior,Protection,tank,Rhonin
+71,290.4,302645643,8,City of Threads,2024-10-25T10:33:58.000Z,1581663,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",七树烟花,Paladin,Retribution,dps,Al'ar
+71,290.4,302645643,8,City of Threads,2024-10-25T10:33:58.000Z,1581663,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老天师丶,Monk,Windwalker,dps,Chillwind Point
+71,290.4,302645643,8,City of Threads,2024-10-25T10:33:58.000Z,1581663,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小虎酱丶,Paladin,Retribution,dps,Chillwind Point
+71,290.4,302645643,8,City of Threads,2024-10-25T10:33:58.000Z,1581663,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风暴夏天,Death Knight,Blood,tank,Chillwind Point
+71,290.4,302645643,8,City of Threads,2024-10-25T10:33:58.000Z,1581663,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",布拉格铜须,Shaman,Restoration,healer,Al'ar
+72,290.4,303352454,8,City of Threads,2024-10-28T02:47:17.000Z,1585119,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",七喜賊,Rogue,Outlaw,dps,Al'ar
+72,290.4,303352454,8,City of Threads,2024-10-28T02:47:17.000Z,1585119,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",龙之悟,Evoker,Devastation,dps,Burning Steppes
+72,290.4,303352454,8,City of Threads,2024-10-28T02:47:17.000Z,1585119,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胡豆,Shaman,Restoration,healer,Skywall
+72,290.4,303352454,8,City of Threads,2024-10-28T02:47:17.000Z,1585119,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",铁憨憨扛大炮,Paladin,Retribution,dps,Burning Blade
+72,290.4,303352454,8,City of Threads,2024-10-28T02:47:17.000Z,1585119,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",失眠灬,Warrior,Protection,tank,Deathwing
+73,290.3,302695099,8,City of Threads,2024-10-25T17:33:44.000Z,1591160,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Nanlo,Priest,Discipline,healer,Chillwind Point
+73,290.3,302695099,8,City of Threads,2024-10-25T17:33:44.000Z,1591160,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+73,290.3,302695099,8,City of Threads,2024-10-25T17:33:44.000Z,1591160,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暴力美學法,Mage,Frost,dps,Deathwing
+73,290.3,302695099,8,City of Threads,2024-10-25T17:33:44.000Z,1591160,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",樱啾啾,Paladin,Retribution,dps,Deathwing
+73,290.3,302695099,8,City of Threads,2024-10-25T17:33:44.000Z,1591160,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",花卷毛,Warrior,Protection,tank,Chillwind Point
+74,290,303400906,8,City of Threads,2024-10-28T14:17:18.000Z,1607763,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Cathinone,Priest,Discipline,healer,Swiftwind
+74,290,303400906,8,City of Threads,2024-10-28T14:17:18.000Z,1607763,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",贪念而已,Shaman,Elemental,dps,Deathwing
+74,290,303400906,8,City of Threads,2024-10-28T14:17:18.000Z,1607763,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",沐芝,Paladin,Protection,tank,Deathwing
+74,290,303400906,8,City of Threads,2024-10-28T14:17:18.000Z,1607763,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",痞痞丶德,Druid,Balance,dps,Bleeding Hollow
+74,290,303400906,8,City of Threads,2024-10-28T14:17:18.000Z,1607763,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",多吃点行不,Evoker,Augmentation,dps,Deathwing
+75,290,302845277,8,City of Threads,2024-10-26T04:21:48.000Z,1608226,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超度我,Druid,Balance,dps,Scarlet Crusade
+75,290,302845277,8,City of Threads,2024-10-26T04:21:48.000Z,1608226,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃夭的小伙伴,Druid,Guardian,tank,Runetotem
+75,290,302845277,8,City of Threads,2024-10-26T04:21:48.000Z,1608226,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Tlnysecret,Mage,Frost,dps,Al'ar
+75,290,302845277,8,City of Threads,2024-10-26T04:21:48.000Z,1608226,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",慈龙莲颂,Evoker,Preservation,healer,Shadowmourne
+75,290,302845277,8,City of Threads,2024-10-26T04:21:48.000Z,1608226,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",可口香蕉,Paladin,Retribution,dps,Al'Akir
+76,289.9,302644972,8,City of Threads,2024-10-25T10:17:53.000Z,1610577,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奔波儿霸霸丶,Paladin,Protection,tank,The Master's Glaive
+76,289.9,302644972,8,City of Threads,2024-10-25T10:17:53.000Z,1610577,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨虚渡彼岸丨,Warlock,Affliction,dps,Deathwing
+76,289.9,302644972,8,City of Threads,2024-10-25T10:17:53.000Z,1610577,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",听不见的烟花,Paladin,Holy,healer,Deathwing
+76,289.9,302644972,8,City of Threads,2024-10-25T10:17:53.000Z,1610577,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",十香丶,Priest,Shadow,dps,Argus
+76,289.9,302644972,8,City of Threads,2024-10-25T10:17:53.000Z,1610577,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",煮书及夜,Warrior,Fury,dps,Deathwing
+77,289.8,303422376,8,City of Threads,2024-10-28T15:09:26.000Z,1618912,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",朔望之刃,Demon Hunter,Vengeance,tank,Chillwind Point
+77,289.8,303422376,8,City of Threads,2024-10-28T15:09:26.000Z,1618912,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",泡芙冰冰碎,Mage,Arcane,dps,Silver Hand
+77,289.8,303422376,8,City of Threads,2024-10-28T15:09:26.000Z,1618912,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",叉叉丶好萌,Hunter,Beast Mastery,dps,The Master's Glaive
+77,289.8,303422376,8,City of Threads,2024-10-28T15:09:26.000Z,1618912,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Murazel,Priest,Discipline,healer,Chillwind Point
+77,289.8,303422376,8,City of Threads,2024-10-28T15:09:26.000Z,1618912,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玲歼灭,Shaman,Elemental,dps,Storm Eye
+78,289.5,303116215,8,City of Threads,2024-10-27T05:38:27.000Z,1635301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",憨小猪,Demon Hunter,Vengeance,tank,Pandaren
+78,289.5,303116215,8,City of Threads,2024-10-27T05:38:27.000Z,1635301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",帅帅的殺手,Paladin,Retribution,dps,Chillwind Point
+78,289.5,303116215,8,City of Threads,2024-10-27T05:38:27.000Z,1635301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Sivispacemfa,Mage,Frost,dps,Isillien
+78,289.5,303116215,8,City of Threads,2024-10-27T05:38:27.000Z,1635301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",兰催清辞雨,Mage,Frost,dps,Al'ar
+78,289.5,303116215,8,City of Threads,2024-10-27T05:38:27.000Z,1635301,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",老鹿蹒跚,Shaman,Restoration,healer,Burning Blade
+79,289,302687333,8,City of Threads,2024-10-25T15:48:15.000Z,1665928,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",超度我,Druid,Balance,dps,Scarlet Crusade
+79,289,302687333,8,City of Threads,2024-10-25T15:48:15.000Z,1665928,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",海盐芝士饼干,Evoker,Augmentation,dps,Silvermoon
+79,289,302687333,8,City of Threads,2024-10-25T15:48:15.000Z,1665928,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",好开心喔,Shaman,Restoration,healer,Rhonin
+79,289,302687333,8,City of Threads,2024-10-25T15:48:15.000Z,1665928,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",最爱天使萌,Monk,Brewmaster,tank,Feralas
+79,289,302687333,8,City of Threads,2024-10-25T15:48:15.000Z,1665928,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光要进来咯,Paladin,Retribution,dps,Silver Hand
+80,288.9,303621185,8,City of Threads,2024-10-25T14:30:02.000Z,1669803,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶迷醉,Rogue,Assassination,dps,The Great Sea
+80,288.9,303621185,8,City of Threads,2024-10-25T14:30:02.000Z,1669803,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",混混児,Druid,Restoration,healer,The Great Sea
+80,288.9,303621185,8,City of Threads,2024-10-25T14:30:02.000Z,1669803,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卜卜壹壹,Paladin,Retribution,dps,The Great Sea
+80,288.9,303621185,8,City of Threads,2024-10-25T14:30:02.000Z,1669803,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",栈别小巷,Monk,Windwalker,dps,Isillien
+80,288.9,303621185,8,City of Threads,2024-10-25T14:30:02.000Z,1669803,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨丶快上车,Warrior,Protection,tank,Pandaren
+81,288.9,305650941,8,City of Threads,2024-10-26T07:16:22.000Z,1672356,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Naowh,Death Knight,Frost,dps,Lordaeron
+81,288.9,305650941,8,City of Threads,2024-10-26T07:16:22.000Z,1672356,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",摸鱼的胖狐狸,Shaman,Restoration,healer,Quel'Thalas
+81,288.9,305650941,8,City of Threads,2024-10-26T07:16:22.000Z,1672356,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",极强,Monk,Windwalker,dps,Arathi
+81,288.9,305650941,8,City of Threads,2024-10-26T07:16:22.000Z,1672356,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",青龍,Paladin,Retribution,dps,Silver Hand
+81,288.9,305650941,8,City of Threads,2024-10-26T07:16:22.000Z,1672356,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Burp,Warrior,Protection,tank,Silver Hand
+82,288.7,302912611,8,City of Threads,2024-10-26T12:21:21.000Z,1679831,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星光龙,Mage,Fire,dps,Anzu
+82,288.7,302912611,8,City of Threads,2024-10-26T12:21:21.000Z,1679831,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小镇小雨了,Hunter,Beast Mastery,dps,Anzu
+82,288.7,302912611,8,City of Threads,2024-10-26T12:21:21.000Z,1679831,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宵丶满,Shaman,Restoration,healer,Deathwing
+82,288.7,302912611,8,City of Threads,2024-10-26T12:21:21.000Z,1679831,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",奕大鸣,Death Knight,Frost,dps,Anzu
+82,288.7,302912611,8,City of Threads,2024-10-26T12:21:21.000Z,1679831,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我挺牛的,Warrior,Protection,tank,Burning Blade
+83,288.7,306079797,8,City of Threads,2024-10-24T09:14:56.000Z,1683850,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",狙人,Hunter,Beast Mastery,dps,Eldre'Thalas
+83,288.7,306079797,8,City of Threads,2024-10-24T09:14:56.000Z,1683850,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",刹风之神,Hunter,Beast Mastery,dps,Emeriss
+83,288.7,306079797,8,City of Threads,2024-10-24T09:14:56.000Z,1683850,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",雪糕真冷呀,Hunter,Survival,dps,The Great Sea
+83,288.7,306079797,8,City of Threads,2024-10-24T09:14:56.000Z,1683850,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夜雨池,Paladin,Protection,tank,Burning Blade
+83,288.7,306079797,8,City of Threads,2024-10-24T09:14:56.000Z,1683850,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",穷得想卖裤衩,Shaman,Restoration,healer,Burning Blade
+84,288.5,303838409,8,City of Threads,2024-10-30T13:29:48.000Z,1697218,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Lastsweet,Death Knight,Unholy,dps,Silver Hand
+84,288.5,303838409,8,City of Threads,2024-10-30T13:29:48.000Z,1697218,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",糖醋鱼不放醋,Shaman,Elemental,dps,Shadowmourne
+84,288.5,303838409,8,City of Threads,2024-10-30T13:29:48.000Z,1697218,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小雨亚克西,Evoker,Preservation,healer,Silver Hand
+84,288.5,303838409,8,City of Threads,2024-10-30T13:29:48.000Z,1697218,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夜问,Druid,Guardian,tank,Warsong
+84,288.5,303838409,8,City of Threads,2024-10-30T13:29:48.000Z,1697218,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",狼族怪瘦,Mage,Frost,dps,Deathwing
+85,287.7,302513496,8,City of Threads,2024-10-24T17:01:19.000Z,1743274,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",苁茏,Death Knight,Frost,dps,Grim Batol
+85,287.7,302513496,8,City of Threads,2024-10-24T17:01:19.000Z,1743274,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",扑哧哧打次,Demon Hunter,Vengeance,tank,Grim Batol
+85,287.7,302513496,8,City of Threads,2024-10-24T17:01:19.000Z,1743274,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",铁栓爱上铁柱,Paladin,Retribution,dps,Grim Batol
+85,287.7,302513496,8,City of Threads,2024-10-24T17:01:19.000Z,1743274,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+85,287.7,302513496,8,City of Threads,2024-10-24T17:01:19.000Z,1743274,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",噗噗的萨满,Shaman,Elemental,dps,Grim Batol
+86,287.6,303587625,8,City of Threads,2024-10-29T06:52:10.000Z,1747749,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",图图的土爹,Shaman,Enhancement,dps,Silver Hand
+86,287.6,303587625,8,City of Threads,2024-10-29T06:52:10.000Z,1747749,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胖黑黒,Paladin,Retribution,dps,Silver Hand
+86,287.6,303587625,8,City of Threads,2024-10-29T06:52:10.000Z,1747749,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Zeden,Mage,Frost,dps,Deathwing
+86,287.6,303587625,8,City of Threads,2024-10-29T06:52:10.000Z,1747749,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",二百二十伏,Shaman,Restoration,healer,Chillwind Point
+86,287.6,303587625,8,City of Threads,2024-10-29T06:52:10.000Z,1747749,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",轻舟过,Warrior,Protection,tank,Burning Blade
+87,287.6,303850474,8,City of Threads,2024-10-30T15:09:13.000Z,1749520,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",紫林,Death Knight,Frost,dps,Burning Blade
+87,287.6,303850474,8,City of Threads,2024-10-30T15:09:13.000Z,1749520,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",咿呀咿呀喲,Warrior,Protection,tank,Shadowmourne
+87,287.6,303850474,8,City of Threads,2024-10-30T15:09:13.000Z,1749520,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",萤石,Shaman,Restoration,healer,Well of Eternity
+87,287.6,303850474,8,City of Threads,2024-10-30T15:09:13.000Z,1749520,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灵灬炎灬姬,Rogue,Outlaw,dps,Barrens
+87,287.6,303850474,8,City of Threads,2024-10-30T15:09:13.000Z,1749520,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",风之璇,Warlock,Destruction,dps,Al'ar
+88,287.5,303391407,8,City of Threads,2024-10-28T09:37:04.000Z,1754033,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",图图的土爹,Shaman,Enhancement,dps,Silver Hand
+88,287.5,303391407,8,City of Threads,2024-10-28T09:37:04.000Z,1754033,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",胖黑黑丶,Shaman,Restoration,healer,Al'ar
+88,287.5,303391407,8,City of Threads,2024-10-28T09:37:04.000Z,1754033,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",秋刀鱼丶丶,Demon Hunter,Vengeance,tank,Silver Hand
+88,287.5,303391407,8,City of Threads,2024-10-28T09:37:04.000Z,1754033,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Blueblood,Paladin,Retribution,dps,Arathor
+88,287.5,303391407,8,City of Threads,2024-10-28T09:37:04.000Z,1754033,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Reyndrope,Hunter,Beast Mastery,dps,The Great Sea
+89,287.5,302640612,8,City of Threads,2024-10-25T09:21:33.000Z,1755103,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",夜灬你妹,Hunter,Beast Mastery,dps,Emeriss
+89,287.5,302640612,8,City of Threads,2024-10-25T09:21:33.000Z,1755103,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一件体恤衫,Shaman,Restoration,healer,Anzu
+89,287.5,302640612,8,City of Threads,2024-10-25T09:21:33.000Z,1755103,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",懆作会变形,Paladin,Protection,tank,Chillwind Point
+89,287.5,302640612,8,City of Threads,2024-10-25T09:21:33.000Z,1755103,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",宇智波派大星,Paladin,Retribution,dps,Sunwell
+89,287.5,302640612,8,City of Threads,2024-10-25T09:21:33.000Z,1755103,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",南瓜太郎,Shaman,Elemental,dps,The Master's Glaive
+90,287.3,303390902,8,City of Threads,2024-10-28T09:29:11.000Z,1763802,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",将戈,Druid,Balance,dps,Echo Ridge
+90,287.3,303390902,8,City of Threads,2024-10-28T09:29:11.000Z,1763802,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",汝就是乃,Warrior,Protection,tank,Deathwing
+90,287.3,303390902,8,City of Threads,2024-10-28T09:29:11.000Z,1763802,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小唯秋,Shaman,Restoration,healer,Rhonin
+90,287.3,303390902,8,City of Threads,2024-10-28T09:29:11.000Z,1763802,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月不西沉,Warrior,Protection,tank,Rhonin
+90,287.3,303390902,8,City of Threads,2024-10-28T09:29:11.000Z,1763802,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",菠萝大力士,Paladin,Retribution,dps,Al'ar
+91,287.2,302618127,8,City of Threads,2024-10-25T04:41:54.000Z,1769750,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",燃公子,Paladin,Retribution,dps,The Forgotten Coast
+91,287.2,302618127,8,City of Threads,2024-10-25T04:41:54.000Z,1769750,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",厨艺之神,Mage,Frost,dps,Silver Hand
+91,287.2,302618127,8,City of Threads,2024-10-25T04:41:54.000Z,1769750,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+91,287.2,302618127,8,City of Threads,2024-10-25T04:41:54.000Z,1769750,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Niko,Shaman,Restoration,healer,Peak of Serenity
+91,287.2,302618127,8,City of Threads,2024-10-25T04:41:54.000Z,1769750,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",马来喳喳,Mage,Frost,dps,Burning Blade
+92,287,303619620,8,City of Threads,2024-10-29T11:41:52.000Z,1779858,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",查理八世,Paladin,Protection,tank,Silver Hand
+92,287,303619620,8,City of Threads,2024-10-29T11:41:52.000Z,1779858,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",曲彤,Priest,Discipline,healer,Chillwind Point
+92,287,303619620,8,City of Threads,2024-10-29T11:41:52.000Z,1779858,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",点燃木星,Paladin,Retribution,dps,Al'ar
+92,287,303619620,8,City of Threads,2024-10-29T11:41:52.000Z,1779858,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶树花同发,Shaman,Elemental,dps,Silver Hand
+92,287,303619620,8,City of Threads,2024-10-29T11:41:52.000Z,1779858,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶飛丶,Death Knight,Frost,dps,Aggramar
+93,286.6,303413316,8,City of Threads,2024-10-28T13:44:37.000Z,1804914,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+93,286.6,303413316,8,City of Threads,2024-10-28T13:44:37.000Z,1804914,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Lapintoto,Death Knight,Unholy,dps,Burning Blade
+93,286.6,303413316,8,City of Threads,2024-10-28T13:44:37.000Z,1804914,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",山椒鱼丸,Death Knight,Blood,tank,Burning Blade
+93,286.6,303413316,8,City of Threads,2024-10-28T13:44:37.000Z,1804914,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",赵晓茹快喷火,Evoker,Augmentation,dps,Al'ar
+93,286.6,303413316,8,City of Threads,2024-10-28T13:44:37.000Z,1804914,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",大师玛格丽特,Mage,Frost,dps,Burning Blade
+94,286.5,303427525,8,City of Threads,2024-10-28T15:24:05.000Z,1809344,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",钓以清心,Rogue,Assassination,dps,Al'ar
+94,286.5,303427525,8,City of Threads,2024-10-28T15:24:05.000Z,1809344,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一牧十夯,Druid,Guardian,tank,Al'ar
+94,286.5,303427525,8,City of Threads,2024-10-28T15:24:05.000Z,1809344,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",欧大锤,Paladin,Retribution,dps,Al'ar
+94,286.5,303427525,8,City of Threads,2024-10-28T15:24:05.000Z,1809344,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",弱弱,Shaman,Restoration,healer,Frostmourne
+94,286.5,303427525,8,City of Threads,2024-10-28T15:24:05.000Z,1809344,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",薩魯法爾,Death Knight,Frost,dps,Firetree
+95,285.9,303625651,8,City of Threads,2024-10-29T12:42:42.000Z,1848413,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天雾遥,Priest,Discipline,healer,The Great Sea
+95,285.9,303625651,8,City of Threads,2024-10-29T12:42:42.000Z,1848413,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",拾萬伏特,Shaman,Elemental,dps,Barrens
+95,285.9,303625651,8,City of Threads,2024-10-29T12:42:42.000Z,1848413,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Emolulu,Warlock,Destruction,dps,Isillien
+95,285.9,303625651,8,City of Threads,2024-10-29T12:42:42.000Z,1848413,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",魔法菜咕咕,Death Knight,Frost,dps,Burning Blade
+95,285.9,303625651,8,City of Threads,2024-10-29T12:42:42.000Z,1848413,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",防战,Warrior,Protection,tank,Isillien
+96,285.9,303075676,8,City of Threads,2024-10-27T00:47:08.000Z,1849186,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凋零者,Death Knight,Blood,tank,Blackwing Lair
+96,285.9,303075676,8,City of Threads,2024-10-27T00:47:08.000Z,1849186,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我喝可乐,Hunter,Marksmanship,dps,Shadow Labyrinth
+96,285.9,303075676,8,City of Threads,2024-10-27T00:47:08.000Z,1849186,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rhasdry,Mage,Frost,dps,Eldre'Thalas
+96,285.9,303075676,8,City of Threads,2024-10-27T00:47:08.000Z,1849186,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨小闷丨,Shaman,Restoration,healer,Dark Iron
+96,285.9,303075676,8,City of Threads,2024-10-27T00:47:08.000Z,1849186,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",百年离索,Paladin,Retribution,dps,Valley of Kings
+97,285.7,303858373,8,City of Threads,2024-10-30T16:05:33.000Z,1858774,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",凡凡大傻狗,Evoker,Devastation,dps,Burning Blade
+97,285.7,303858373,8,City of Threads,2024-10-30T16:05:33.000Z,1858774,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小红手蓝莓,Paladin,Protection,tank,Rhonin
+97,285.7,303858373,8,City of Threads,2024-10-30T16:05:33.000Z,1858774,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",勇闯海角社区,Shaman,Restoration,healer,World Tree
+97,285.7,303858373,8,City of Threads,2024-10-30T16:05:33.000Z,1858774,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暴打龟龟,Paladin,Retribution,dps,World Tree
+97,285.7,303858373,8,City of Threads,2024-10-30T16:05:33.000Z,1858774,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亖了,Paladin,Retribution,dps,World Tree
+98,285.1,303846801,8,City of Threads,2024-10-30T14:40:47.000Z,1891852,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",鱼叉到人宠亡,Hunter,Beast Mastery,dps,Pandaren
+98,285.1,303846801,8,City of Threads,2024-10-30T14:40:47.000Z,1891852,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小小懒骑,Paladin,Protection,tank,Silver Hand
+98,285.1,303846801,8,City of Threads,2024-10-30T14:40:47.000Z,1891852,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",温柔呀,Shaman,Restoration,healer,Pandaren
+98,285.1,303846801,8,City of Threads,2024-10-30T14:40:47.000Z,1891852,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",别鸭,Hunter,Beast Mastery,dps,Pandaren
+98,285.1,303846801,8,City of Threads,2024-10-30T14:40:47.000Z,1891852,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",脏东西,Monk,Windwalker,dps,Pandaren
+99,284,302469850,8,City of Threads,2024-10-24T12:31:06.000Z,1955765,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月光吃不下了,Evoker,Preservation,healer,Swiftwind
+99,284,302469850,8,City of Threads,2024-10-24T12:31:06.000Z,1955765,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Carlsm,Shaman,Elemental,dps,Deathwing
+99,284,302469850,8,City of Threads,2024-10-24T12:31:06.000Z,1955765,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",聖光者,Paladin,Retribution,dps,Isillien
+99,284,302469850,8,City of Threads,2024-10-24T12:31:06.000Z,1955765,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阿萝拉,Death Knight,Frost,dps,Doomwalker
+99,284,302469850,8,City of Threads,2024-10-24T12:31:06.000Z,1955765,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",刮风这天,Paladin,Protection,tank,Doomwalker
+100,283.9,303220663,8,City of Threads,2024-10-27T16:39:15.000Z,1961101,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",知防骑,Paladin,Protection,tank,Anzu
+100,283.9,303220663,8,City of Threads,2024-10-27T16:39:15.000Z,1961101,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",蔻德卡了,Priest,Discipline,healer,The Great Sea
+100,283.9,303220663,8,City of Threads,2024-10-27T16:39:15.000Z,1961101,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月夜之痕,Mage,Fire,dps,The Great Sea
+100,283.9,303220663,8,City of Threads,2024-10-27T16:39:15.000Z,1961101,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",整点啤啤,Death Knight,Frost,dps,Deathwing
+100,283.9,303220663,8,City of Threads,2024-10-27T16:39:15.000Z,1961101,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",惩戒老表,Paladin,Retribution,dps,Arygos
+101,283.9,303439329,8,City of Threads,2024-10-28T16:58:02.000Z,1964148,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",沙沙宫纱夜丨,Mage,Frost,dps,Al'ar
+101,283.9,303439329,8,City of Threads,2024-10-28T16:58:02.000Z,1964148,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",水様冰泪,Druid,Restoration,healer,Hectae
+101,283.9,303439329,8,City of Threads,2024-10-28T16:58:02.000Z,1964148,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",阮秀丶,Paladin,Protection,tank,Scarlet Crusade
+101,283.9,303439329,8,City of Threads,2024-10-28T16:58:02.000Z,1964148,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",高钙朱古力,Shaman,Enhancement,dps,Rhonin
+101,283.9,303439329,8,City of Threads,2024-10-28T16:58:02.000Z,1964148,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光晓筱,Paladin,Retribution,dps,Rhonin
+102,282.7,302919724,8,City of Threads,2024-10-26T13:00:48.000Z,2033977,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丨明玥丨,Paladin,Retribution,dps,Frostmourne
+102,282.7,302919724,8,City of Threads,2024-10-26T13:00:48.000Z,2033977,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",钓以倾心,Death Knight,Blood,tank,Al'ar
+102,282.7,302919724,8,City of Threads,2024-10-26T13:00:48.000Z,2033977,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",举踵思牧,Shaman,Restoration,healer,Al'ar
+102,282.7,302919724,8,City of Threads,2024-10-26T13:00:48.000Z,2033977,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",欧大锤,Paladin,Retribution,dps,Al'ar
+102,282.7,302919724,8,City of Threads,2024-10-26T13:00:48.000Z,2033977,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",薩魯法爾,Death Knight,Frost,dps,Firetree
+103,280.8,302681317,8,City of Threads,2024-10-25T14:22:15.000Z,2142957,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",林搜索,Priest,Discipline,healer,Deathwing
+103,280.8,302681317,8,City of Threads,2024-10-25T14:22:15.000Z,2142957,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",法力药水,Mage,Frost,dps,Lich King
+103,280.8,302681317,8,City of Threads,2024-10-25T14:22:15.000Z,2142957,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",尾小尾,Paladin,Protection,tank,Pandaren
+103,280.8,302681317,8,City of Threads,2024-10-25T14:22:15.000Z,2142957,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",卢本熊,Hunter,Survival,dps,Pandaren
+103,280.8,302681317,8,City of Threads,2024-10-25T14:22:15.000Z,2142957,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",亚洲勇气传说,Paladin,Retribution,dps,Pandaren
+104,280.2,303653796,8,City of Threads,2024-10-29T16:19:44.000Z,2178636,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",冇蓝啦,Shaman,Restoration,healer,Burning Blade
+104,280.2,303653796,8,City of Threads,2024-10-29T16:19:44.000Z,2178636,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Rain,Rogue,Outlaw,dps,Kel'Thuzad
+104,280.2,303653796,8,City of Threads,2024-10-29T16:19:44.000Z,2178636,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",基尼太妹,Paladin,Retribution,dps,Nozdormu
+104,280.2,303653796,8,City of Threads,2024-10-29T16:19:44.000Z,2178636,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",戰天龙,Druid,Guardian,tank,Anzu
+104,280.2,303653796,8,City of Threads,2024-10-29T16:19:44.000Z,2178636,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",哪只羊,Shaman,Elemental,dps,Nozdormu
+105,280.1,303422872,8,City of Threads,2024-10-28T14:44:13.000Z,2185095,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",戏水小妞,Mage,Frost,dps,Arygos
+105,280.1,303422872,8,City of Threads,2024-10-28T14:44:13.000Z,2185095,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",西園幽子,Death Knight,Frost,dps,Arygos
+105,280.1,303422872,8,City of Threads,2024-10-28T14:44:13.000Z,2185095,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",斯內克大炮,Demon Hunter,Vengeance,tank,Arygos
+105,280.1,303422872,8,City of Threads,2024-10-28T14:44:13.000Z,2185095,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",芹菜玛奇朵,Warlock,Destruction,dps,Arygos
+105,280.1,303422872,8,City of Threads,2024-10-28T14:44:13.000Z,2185095,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",成果成果,Paladin,Holy,healer,Arygos
+106,280,303404762,7,City of Threads,2024-10-28T12:10:21.000Z,1174920,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Huhuhuhuhuhf,Mage,Frost,dps,Shadowmourne
+106,280,303404762,7,City of Threads,2024-10-28T12:10:21.000Z,1174920,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",给我俩分钟,Druid,Balance,dps,Burning Blade
+106,280,303404762,7,City of Threads,2024-10-28T12:10:21.000Z,1174920,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",月不西沉,Warrior,Protection,tank,Rhonin
+106,280,303404762,7,City of Threads,2024-10-28T12:10:21.000Z,1174920,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",菠萝大力士,Paladin,Retribution,dps,Al'ar
+106,280,303404762,7,City of Threads,2024-10-28T12:10:21.000Z,1174920,2190999,3,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",理寺龙鸣,Priest,Discipline,healer,Burning Blade
+107,279,303469566,7,City of Threads,2024-10-28T19:47:27.000Z,1374515,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+107,279,303469566,7,City of Threads,2024-10-28T19:47:27.000Z,1374515,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",余樂天,Shaman,Restoration,healer,Silver Hand
+107,279,303469566,7,City of Threads,2024-10-28T19:47:27.000Z,1374515,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶盲仔,Demon Hunter,Havoc,dps,Malygos
+107,279,303469566,7,City of Threads,2024-10-28T19:47:27.000Z,1374515,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",遗失灬悠朵,Druid,Guardian,tank,Gyth
+107,279,303469566,7,City of Threads,2024-10-28T19:47:27.000Z,1374515,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",東晓默丷,Paladin,Retribution,dps,Silver Hand
+108,278.6,303383456,7,City of Threads,2024-10-28T07:55:48.000Z,1396523,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",磊亅子,Hunter,Beast Mastery,dps,Al'ar
+108,278.6,303383456,7,City of Threads,2024-10-28T07:55:48.000Z,1396523,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+108,278.6,303383456,7,City of Threads,2024-10-28T07:55:48.000Z,1396523,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",涵韵无心,Hunter,Beast Mastery,dps,Burning Blade
+108,278.6,303383456,7,City of Threads,2024-10-28T07:55:48.000Z,1396523,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我是小浩子,Shaman,Restoration,healer,Isillien
+108,278.6,303383456,7,City of Threads,2024-10-28T07:55:48.000Z,1396523,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",潮汐之弟,Shaman,Restoration,healer,Silver Hand
+109,278.1,302873739,7,City of Threads,2024-10-26T08:32:56.000Z,1425461,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烈火奔雷,Warrior,Fury,dps,Isillien
+109,278.1,302873739,7,City of Threads,2024-10-26T08:32:56.000Z,1425461,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烟雨平生丶,Paladin,Protection,tank,Kel'Thuzad
+109,278.1,302873739,7,City of Threads,2024-10-26T08:32:56.000Z,1425461,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",睦头人,Paladin,Retribution,dps,Kel'Thuzad
+109,278.1,302873739,7,City of Threads,2024-10-26T08:32:56.000Z,1425461,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",洛君珩,Shaman,Enhancement,dps,Kel'Thuzad
+109,278.1,302873739,7,City of Threads,2024-10-26T08:32:56.000Z,1425461,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",萨鸼丶,Shaman,Restoration,healer,Greymane
+110,277.2,303211994,7,City of Threads,2024-10-27T16:11:50.000Z,1476735,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+110,277.2,303211994,7,City of Threads,2024-10-27T16:11:50.000Z,1476735,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",肉熊先生丶,Shaman,Restoration,healer,Hellscream
+110,277.2,303211994,7,City of Threads,2024-10-27T16:11:50.000Z,1476735,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",果汁喵,Demon Hunter,Vengeance,tank,The Great Sea
+110,277.2,303211994,7,City of Threads,2024-10-27T16:11:50.000Z,1476735,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",星灿夜宁,Mage,Frost,dps,Deathwing
+110,277.2,303211994,7,City of Threads,2024-10-27T16:11:50.000Z,1476735,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",通灵丶,Warlock,Destruction,dps,The Great Sea
+111,277.1,302686553,7,City of Threads,2024-10-25T15:37:17.000Z,1484143,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",吃龙虾不剝殼,Death Knight,Frost,dps,Burning Blade
+111,277.1,302686553,7,City of Threads,2024-10-25T15:37:17.000Z,1484143,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",下一个猎物,Demon Hunter,Vengeance,tank,Scarlet Crusade
+111,277.1,302686553,7,City of Threads,2024-10-25T15:37:17.000Z,1484143,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Fiammetta,Shaman,Elemental,dps,Silver Hand
+111,277.1,302686553,7,City of Threads,2024-10-25T15:37:17.000Z,1484143,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",風斩火丶,Shaman,Elemental,dps,Scarlet Crusade
+111,277.1,302686553,7,City of Threads,2024-10-25T15:37:17.000Z,1484143,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",暹罗喵,Shaman,Restoration,healer,Barrens
+112,276.4,303100195,7,City of Threads,2024-10-27T03:55:58.000Z,1525471,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",维吉尼娅,Hunter,Beast Mastery,dps,The Great Sea
+112,276.4,303100195,7,City of Threads,2024-10-27T03:55:58.000Z,1525471,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小颗粒,Death Knight,Frost,dps,Pandaren
+112,276.4,303100195,7,City of Threads,2024-10-27T03:55:58.000Z,1525471,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Chint,Monk,Brewmaster,tank,Pandaren
+112,276.4,303100195,7,City of Threads,2024-10-27T03:55:58.000Z,1525471,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",锦瑞瑶瑶,Shaman,Restoration,healer,Pandaren
+112,276.4,303100195,7,City of Threads,2024-10-27T03:55:58.000Z,1525471,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丶米沙,Hunter,Beast Mastery,dps,The Great Sea
+113,276.3,302498373,7,City of Threads,2024-10-24T15:28:32.000Z,1533074,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",邪得不得了,Death Knight,Unholy,dps,The Great Sea
+113,276.3,302498373,7,City of Threads,2024-10-24T15:28:32.000Z,1533074,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",别丿怂丿啊,Warrior,Protection,tank,Al'ar
+113,276.3,302498373,7,City of Threads,2024-10-24T15:28:32.000Z,1533074,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Sayanight,Shaman,Restoration,healer,Sacrolash
+113,276.3,302498373,7,City of Threads,2024-10-24T15:28:32.000Z,1533074,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",芝士蛋塔,Death Knight,Frost,dps,Hectae
+113,276.3,302498373,7,City of Threads,2024-10-24T15:28:32.000Z,1533074,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",黑白雙絲德,Druid,Balance,dps,Silver Hand
+114,275.5,302997883,7,City of Threads,2024-10-26T19:14:29.000Z,1576875,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+114,275.5,302997883,7,City of Threads,2024-10-26T19:14:29.000Z,1576875,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",太极天帝,Warrior,Protection,tank,Cenarius
+114,275.5,302997883,7,City of Threads,2024-10-26T19:14:29.000Z,1576875,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",翠花的苦恼,Rogue,Assassination,dps,Deathwing
+114,275.5,302997883,7,City of Threads,2024-10-26T19:14:29.000Z,1576875,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",帮俺按住你姐,Shaman,Restoration,healer,Pandaren
+114,275.5,302997883,7,City of Threads,2024-10-26T19:14:29.000Z,1576875,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",无双圣伺者,Paladin,Retribution,dps,Aggramar
+115,275.4,303819784,7,City of Threads,2024-10-30T10:17:57.000Z,1582722,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我知道要聚怪,Shaman,Restoration,healer,Loken
+115,275.4,303819784,7,City of Threads,2024-10-30T10:17:57.000Z,1582722,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Alssace,Death Knight,Frost,dps,Barrens
+115,275.4,303819784,7,City of Threads,2024-10-30T10:17:57.000Z,1582722,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",巴巴啦酷妹,Warrior,Protection,tank,Whispering Shore
+115,275.4,303819784,7,City of Threads,2024-10-30T10:17:57.000Z,1582722,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",狂暴聪聪,Warrior,Fury,dps,Rhonin
+115,275.4,303819784,7,City of Threads,2024-10-30T10:17:57.000Z,1582722,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",就爱喝喜力,Shaman,Elemental,dps,Doomwalker
+116,274.6,302877682,7,City of Threads,2024-10-26T09:04:41.000Z,1629096,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一杯敬未来,Hunter,Marksmanship,dps,Dark Iron
+116,274.6,302877682,7,City of Threads,2024-10-26T09:04:41.000Z,1629096,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",一零零五,Demon Hunter,Vengeance,tank,Rhonin
+116,274.6,302877682,7,City of Threads,2024-10-26T09:04:41.000Z,1629096,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",天灵浴血,Death Knight,Frost,dps,Nozdormu
+116,274.6,302877682,7,City of Threads,2024-10-26T09:04:41.000Z,1629096,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",开门查地嗪,Shaman,Restoration,healer,Silver Hand
+116,274.6,302877682,7,City of Threads,2024-10-26T09:04:41.000Z,1629096,2190999,2,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",沐沐思沐,Paladin,Retribution,dps,Valley of Kings
+117,271.3,303832170,7,City of Threads,2024-10-30T12:40:41.000Z,1823210,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",灵魂影者,Mage,Frost,dps,Al'ar
+117,271.3,303832170,7,City of Threads,2024-10-30T12:40:41.000Z,1823210,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",熊宝是小德吖,Druid,Feral,dps,Al'ar
+117,271.3,303832170,7,City of Threads,2024-10-30T12:40:41.000Z,1823210,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",德天犊厚灬,Druid,Guardian,tank,Shadowmourne
+117,271.3,303832170,7,City of Threads,2024-10-30T12:40:41.000Z,1823210,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",丷筱乄龙,Evoker,Preservation,healer,Al'ar
+117,271.3,303832170,7,City of Threads,2024-10-30T12:40:41.000Z,1823210,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",光頭王老师,Paladin,Retribution,dps,Al'ar
+118,270.6,303010265,7,City of Threads,2024-10-26T20:09:58.000Z,1861437,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+118,270.6,303010265,7,City of Threads,2024-10-26T20:09:58.000Z,1861437,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",驯鹿鲁道夫,Mage,Frost,dps,Burning Blade
+118,270.6,303010265,7,City of Threads,2024-10-26T20:09:58.000Z,1861437,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",额子,Druid,Guardian,tank,Anzu
+118,270.6,303010265,7,City of Threads,2024-10-26T20:09:58.000Z,1861437,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",罐罐全知道,Rogue,Assassination,dps,Burning Blade
+118,270.6,303010265,7,City of Threads,2024-10-26T20:09:58.000Z,1861437,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",四海求凤,Priest,Discipline,healer,Silver Hand
+119,270.1,303372480,7,City of Threads,2024-10-28T05:32:46.000Z,1893911,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",只是朱颜改,Shaman,Elemental,dps,Deathwing
+119,270.1,303372480,7,City of Threads,2024-10-28T05:32:46.000Z,1893911,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Yellowmiss,Paladin,Retribution,dps,Shadowmourne
+119,270.1,303372480,7,City of Threads,2024-10-28T05:32:46.000Z,1893911,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",咚呛咚呛丶,Shaman,Restoration,healer,Silver Hand
+119,270.1,303372480,7,City of Threads,2024-10-28T05:32:46.000Z,1893911,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",果玥,Paladin,Retribution,dps,Dark Iron
+119,270.1,303372480,7,City of Threads,2024-10-28T05:32:46.000Z,1893911,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",巧克力囖鈤,Death Knight,Blood,tank,Stormrage
+120,268.7,303852884,7,City of Threads,2024-10-30T15:36:57.000Z,1975235,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",圣光会制裁妳,Paladin,Retribution,dps,Thunder Axe Fortress
+120,268.7,303852884,7,City of Threads,2024-10-30T15:36:57.000Z,1975235,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",扛不住怪奶,Druid,Guardian,tank,Thunder Axe Fortress
+120,268.7,303852884,7,City of Threads,2024-10-30T15:36:57.000Z,1975235,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",极速冷却,Mage,Fire,dps,Chillwind Point
+120,268.7,303852884,7,City of Threads,2024-10-30T15:36:57.000Z,1975235,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玛丽莲丨曼丽,Paladin,Holy,healer,Grim Batol
+120,268.7,303852884,7,City of Threads,2024-10-30T15:36:57.000Z,1975235,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",南赡小仙,Paladin,Retribution,dps,Grim Batol
+121,267.9,303587252,7,City of Threads,2024-10-29T06:36:38.000Z,2021057,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",集火这个帅哥,Shaman,Elemental,dps,Grim Batol
+121,267.9,303587252,7,City of Threads,2024-10-29T06:36:38.000Z,2021057,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",三更寒,Demon Hunter,Vengeance,tank,Deathwing
+121,267.9,303587252,7,City of Threads,2024-10-29T06:36:38.000Z,2021057,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",繁星丶,Paladin,Retribution,dps,Emerald Dream
+121,267.9,303587252,7,City of Threads,2024-10-29T06:36:38.000Z,2021057,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",小太子奶,Shaman,Restoration,healer,Storm Eye
+121,267.9,303587252,7,City of Threads,2024-10-29T06:36:38.000Z,2021057,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",繁文缛节,Hunter,Beast Mastery,dps,Scarlet Crusade
+122,267.8,303193821,7,City of Threads,2024-10-27T14:50:58.000Z,2027144,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",玉米卷儿,Shaman,Restoration,healer,Doomwalker
+122,267.8,303193821,7,City of Threads,2024-10-27T14:50:58.000Z,2027144,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",东方星辰,Warrior,Protection,tank,Doomwalker
+122,267.8,303193821,7,City of Threads,2024-10-27T14:50:58.000Z,2027144,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",土豆灬拗拗,Shaman,Elemental,dps,Doomwalker
+122,267.8,303193821,7,City of Threads,2024-10-27T14:50:58.000Z,2027144,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",了了萌,Shaman,Elemental,dps,Tirisfal Glades
+122,267.8,303193821,7,City of Threads,2024-10-27T14:50:58.000Z,2027144,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",佳莉丶萨,Shaman,Enhancement,dps,Doomwalker
+123,267.4,302677395,7,City of Threads,2024-10-25T13:54:57.000Z,2049519,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",Guillemot,Druid,Guardian,tank,Grim Batol
+123,267.4,302677395,7,City of Threads,2024-10-25T13:54:57.000Z,2049519,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",爔梦,Warrior,Arms,dps,The Master's Glaive
+123,267.4,302677395,7,City of Threads,2024-10-25T13:54:57.000Z,2049519,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",提丰,Hunter,Marksmanship,dps,The Great Sea
+123,267.4,302677395,7,City of Threads,2024-10-25T13:54:57.000Z,2049519,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",羽蛇,Druid,Feral,dps,Deathwing
+123,267.4,302677395,7,City of Threads,2024-10-25T13:54:57.000Z,2049519,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",桃之窈窈,Priest,Holy,healer,Pandaren
+124,266.5,303632273,7,City of Threads,2024-10-29T13:39:56.000Z,2103971,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",姣姣白月,Hunter,Survival,dps,Holy Chanter
+124,266.5,303632273,7,City of Threads,2024-10-29T13:39:56.000Z,2103971,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",烤苞米,Paladin,Retribution,dps,Valley of Kings
+124,266.5,303632273,7,City of Threads,2024-10-29T13:39:56.000Z,2103971,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",柚子丷半夏丶,Paladin,Retribution,dps,Deathwing
+124,266.5,303632273,7,City of Threads,2024-10-29T13:39:56.000Z,2103971,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",可乐狂,Death Knight,Blood,tank,Burning Blade
+124,266.5,303632273,7,City of Threads,2024-10-29T13:39:56.000Z,2103971,2190999,1,"Xal'atath's Bargain: Ascendant, Fortified, Challenger's Peril",我吃豆腐,Shaman,Restoration,healer,Anzu

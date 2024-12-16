@@ -1,0 +1,71 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,191.9,298670753,3,The Necrotic Wake,2024-10-08T16:00:34.000Z,1269366,1860999,2,Xal'atath's Bargain: Voidbound,丶大角牛丶,Death Knight,Frost,dps,Isillien
+1,191.9,298670753,3,The Necrotic Wake,2024-10-08T16:00:34.000Z,1269366,1860999,2,Xal'atath's Bargain: Voidbound,欧巴刚恁死他,Death Knight,Unholy,dps,Burning Blade
+1,191.9,298670753,3,The Necrotic Wake,2024-10-08T16:00:34.000Z,1269366,1860999,2,Xal'atath's Bargain: Voidbound,Darkshape,Rogue,Assassination,dps,Karazhan
+1,191.9,298670753,3,The Necrotic Wake,2024-10-08T16:00:34.000Z,1269366,1860999,2,Xal'atath's Bargain: Voidbound,东北大冷面,Warrior,Protection,tank,Isillien
+1,191.9,298670753,3,The Necrotic Wake,2024-10-08T16:00:34.000Z,1269366,1860999,2,Xal'atath's Bargain: Voidbound,暴走熊吉君,Shaman,Restoration,healer,Barrens
+2,181.2,306543134,3,The Necrotic Wake,2024-11-11T13:32:20.000Z,1800586,1860999,1,Xal'atath's Bargain: Voidbound,萌四肥仔,Warrior,Protection,tank,Anzu
+2,181.2,306543134,3,The Necrotic Wake,2024-11-11T13:32:20.000Z,1800586,1860999,1,Xal'atath's Bargain: Voidbound,丨后羿丨,Hunter,Beast Mastery,dps,Eldre'Thalas
+2,181.2,306543134,3,The Necrotic Wake,2024-11-11T13:32:20.000Z,1800586,1860999,1,Xal'atath's Bargain: Voidbound,丶草莓奶茶,Evoker,Devastation,dps,Burning Blade
+2,181.2,306543134,3,The Necrotic Wake,2024-11-11T13:32:20.000Z,1800586,1860999,1,Xal'atath's Bargain: Voidbound,白石茉莉乃,Shaman,Elemental,dps,Anzu
+2,181.2,306543134,3,The Necrotic Wake,2024-11-11T13:32:20.000Z,1800586,1860999,1,Xal'atath's Bargain: Voidbound,别狐来,Shaman,Restoration,healer,Isillien
+3,180,298416657,2,The Necrotic Wake,2024-10-07T12:34:03.000Z,1033250,1860999,3,Xal'atath's Bargain: Voidbound,德芙鲁花伊利,Druid,Guardian,tank,Hectae
+3,180,298416657,2,The Necrotic Wake,2024-10-07T12:34:03.000Z,1033250,1860999,3,Xal'atath's Bargain: Voidbound,猜卟透人心,Mage,Frost,dps,Burning Blade
+3,180,298416657,2,The Necrotic Wake,2024-10-07T12:34:03.000Z,1033250,1860999,3,Xal'atath's Bargain: Voidbound,集火这个嘚嘚,Druid,Guardian,tank,Grim Batol
+3,180,298416657,2,The Necrotic Wake,2024-10-07T12:34:03.000Z,1033250,1860999,3,Xal'atath's Bargain: Voidbound,虫妹,Death Knight,Frost,dps,Silver Hand
+3,180,298416657,2,The Necrotic Wake,2024-10-07T12:34:03.000Z,1033250,1860999,3,Xal'atath's Bargain: Voidbound,贰拾伍号底片,Shaman,Restoration,healer,Silver Hand
+4,180,306736346,2,The Necrotic Wake,2024-11-12T12:07:46.000Z,1053598,1860999,3,Xal'atath's Bargain: Voidbound,黯白,Demon Hunter,Vengeance,tank,Barrens
+4,180,306736346,2,The Necrotic Wake,2024-11-12T12:07:46.000Z,1053598,1860999,3,Xal'atath's Bargain: Voidbound,长崎素世,Shaman,Restoration,healer,Executus
+4,180,306736346,2,The Necrotic Wake,2024-11-12T12:07:46.000Z,1053598,1860999,3,Xal'atath's Bargain: Voidbound,三笠乄,Mage,Frost,dps,Executus
+4,180,306736346,2,The Necrotic Wake,2024-11-12T12:07:46.000Z,1053598,1860999,3,Xal'atath's Bargain: Voidbound,倒地就划水,Monk,Windwalker,dps,Anzu
+4,180,306736346,2,The Necrotic Wake,2024-11-12T12:07:46.000Z,1053598,1860999,3,Xal'atath's Bargain: Voidbound,风行亚马逊,Hunter,Beast Mastery,dps,Gorehowl
+5,180,305988724,2,The Necrotic Wake,2024-11-09T03:55:16.000Z,1070474,1860999,3,Xal'atath's Bargain: Voidbound,萌四肥仔,Warrior,Protection,tank,Anzu
+5,180,305988724,2,The Necrotic Wake,2024-11-09T03:55:16.000Z,1070474,1860999,3,Xal'atath's Bargain: Voidbound,马里奥佛丁,Paladin,Retribution,dps,Crushridge
+5,180,305988724,2,The Necrotic Wake,2024-11-09T03:55:16.000Z,1070474,1860999,3,Xal'atath's Bargain: Voidbound,Eileenii,Monk,Mistweaver,healer,Shadowmourne
+5,180,305988724,2,The Necrotic Wake,2024-11-09T03:55:16.000Z,1070474,1860999,3,Xal'atath's Bargain: Voidbound,流云丨永殇,Mage,Frost,dps,Gorgonnash
+5,180,305988724,2,The Necrotic Wake,2024-11-09T03:55:16.000Z,1070474,1860999,3,Xal'atath's Bargain: Voidbound,老登冲冲沖,Paladin,Retribution,dps,Kel'Thuzad
+6,179.9,297910836,2,The Necrotic Wake,2024-10-05T16:49:06.000Z,1123603,1860999,2,Xal'atath's Bargain: Voidbound,天启图腾,Shaman,Enhancement,dps,Scarlet Crusade
+6,179.9,297910836,2,The Necrotic Wake,2024-10-05T16:49:06.000Z,1123603,1860999,2,Xal'atath's Bargain: Voidbound,千钱钱,Demon Hunter,Vengeance,tank,Pandaren
+6,179.9,297910836,2,The Necrotic Wake,2024-10-05T16:49:06.000Z,1123603,1860999,2,Xal'atath's Bargain: Voidbound,丨七二七丿,Mage,Frost,dps,Anzu
+6,179.9,297910836,2,The Necrotic Wake,2024-10-05T16:49:06.000Z,1123603,1860999,2,Xal'atath's Bargain: Voidbound,幸运鲸鱼,Shaman,Restoration,healer,Pandaren
+6,179.9,297910836,2,The Necrotic Wake,2024-10-05T16:49:06.000Z,1123603,1860999,2,Xal'atath's Bargain: Voidbound,蛇姬师琴爹,Mage,Fire,dps,Anzu
+7,179.2,305685384,2,The Necrotic Wake,2024-11-07T19:47:47.000Z,1157787,1860999,2,Xal'atath's Bargain: Voidbound,滴滴打德,Druid,Restoration,healer,Loken
+7,179.2,305685384,2,The Necrotic Wake,2024-11-07T19:47:47.000Z,1157787,1860999,2,Xal'atath's Bargain: Voidbound,美呔呔,Hunter,Beast Mastery,dps,Algalon
+7,179.2,305685384,2,The Necrotic Wake,2024-11-07T19:47:47.000Z,1157787,1860999,2,Xal'atath's Bargain: Voidbound,萌牛兄猫,Warrior,Arms,dps,Maim
+7,179.2,305685384,2,The Necrotic Wake,2024-11-07T19:47:47.000Z,1157787,1860999,2,Xal'atath's Bargain: Voidbound,逸瞬之光,Paladin,Retribution,dps,Isillien
+7,179.2,305685384,2,The Necrotic Wake,2024-11-07T19:47:47.000Z,1157787,1860999,2,Xal'atath's Bargain: Voidbound,丨小小酥,Warrior,Protection,tank,Grim Batol
+8,178.5,297659156,2,The Necrotic Wake,2024-10-04T18:11:29.000Z,1190492,1860999,2,Xal'atath's Bargain: Voidbound,沐橙秋轩,Paladin,Holy,healer,Rhonin
+8,178.5,297659156,2,The Necrotic Wake,2024-10-04T18:11:29.000Z,1190492,1860999,2,Xal'atath's Bargain: Voidbound,长崎素世丶丶,Warrior,Protection,tank,Rhonin
+8,178.5,297659156,2,The Necrotic Wake,2024-10-04T18:11:29.000Z,1190492,1860999,2,Xal'atath's Bargain: Voidbound,暗爪波比,Evoker,Augmentation,dps,Theramore
+8,178.5,297659156,2,The Necrotic Wake,2024-10-04T18:11:29.000Z,1190492,1860999,2,Xal'atath's Bargain: Voidbound,迷恋圣光,Paladin,Retribution,dps,Gadgetzan
+8,178.5,297659156,2,The Necrotic Wake,2024-10-04T18:11:29.000Z,1190492,1860999,2,Xal'atath's Bargain: Voidbound,洛杉矶湖人丶,Hunter,Survival,dps,Alterac Mountains
+9,177.6,297566845,2,The Necrotic Wake,2024-10-04T07:30:23.000Z,1235213,1860999,2,Xal'atath's Bargain: Voidbound,虔诚欢乐小猫,Monk,Mistweaver,healer,Silver Hand
+9,177.6,297566845,2,The Necrotic Wake,2024-10-04T07:30:23.000Z,1235213,1860999,2,Xal'atath's Bargain: Voidbound,Wtmddnmb,Death Knight,Frost,dps,Burning Blade
+9,177.6,297566845,2,The Necrotic Wake,2024-10-04T07:30:23.000Z,1235213,1860999,2,Xal'atath's Bargain: Voidbound,尘埃与枫,Mage,Frost,dps,Burning Blade
+9,177.6,297566845,2,The Necrotic Wake,2024-10-04T07:30:23.000Z,1235213,1860999,2,Xal'atath's Bargain: Voidbound,丶离谱丶,Mage,Fire,dps,Silver Hand
+9,177.6,297566845,2,The Necrotic Wake,2024-10-04T07:30:23.000Z,1235213,1860999,2,Xal'atath's Bargain: Voidbound,孑然丶战,Warrior,Protection,tank,Hogger
+10,177.5,306365213,2,The Necrotic Wake,2024-11-10T17:16:03.000Z,1242117,1860999,2,Xal'atath's Bargain: Voidbound,雪舞芳华,Warlock,Demonology,dps,Shadowmourne
+10,177.5,306365213,2,The Necrotic Wake,2024-11-10T17:16:03.000Z,1242117,1860999,2,Xal'atath's Bargain: Voidbound,夜翼舞,Shaman,Enhancement,dps,Frostmourne
+10,177.5,306365213,2,The Necrotic Wake,2024-11-10T17:16:03.000Z,1242117,1860999,2,Xal'atath's Bargain: Voidbound,魔神表哥,Demon Hunter,Vengeance,tank,Deathwing
+10,177.5,306365213,2,The Necrotic Wake,2024-11-10T17:16:03.000Z,1242117,1860999,2,Xal'atath's Bargain: Voidbound,丶法力残渣,Mage,Frost,dps,Anzu
+10,177.5,306365213,2,The Necrotic Wake,2024-11-10T17:16:03.000Z,1242117,1860999,2,Xal'atath's Bargain: Voidbound,饭塔,Paladin,Holy,healer,Frostmourne
+11,175.3,306524803,2,The Necrotic Wake,2024-11-11T10:20:53.000Z,1348765,1860999,2,Xal'atath's Bargain: Voidbound,码睿小战,Warrior,Fury,dps,Silver Hand
+11,175.3,306524803,2,The Necrotic Wake,2024-11-11T10:20:53.000Z,1348765,1860999,2,Xal'atath's Bargain: Voidbound,真面骑士,Paladin,Retribution,dps,Isillien
+11,175.3,306524803,2,The Necrotic Wake,2024-11-11T10:20:53.000Z,1348765,1860999,2,Xal'atath's Bargain: Voidbound,伊什塔尔丶,Shaman,Restoration,healer,Isillien
+11,175.3,306524803,2,The Necrotic Wake,2024-11-11T10:20:53.000Z,1348765,1860999,2,Xal'atath's Bargain: Voidbound,肆月海棠,Death Knight,Blood,tank,The Master's Glaive
+11,175.3,306524803,2,The Necrotic Wake,2024-11-11T10:20:53.000Z,1348765,1860999,2,Xal'atath's Bargain: Voidbound,吾名丶奶昔,Druid,Balance,dps,The Master's Glaive
+12,172.8,306225319,2,The Necrotic Wake,2024-11-10T03:18:34.000Z,1473192,1860999,2,Xal'atath's Bargain: Voidbound,能量灌注,Priest,Discipline,healer,Thunder Bluff
+12,172.8,306225319,2,The Necrotic Wake,2024-11-10T03:18:34.000Z,1473192,1860999,2,Xal'atath's Bargain: Voidbound,真的缺德,Druid,Guardian,tank,Dark Iron
+12,172.8,306225319,2,The Necrotic Wake,2024-11-10T03:18:34.000Z,1473192,1860999,2,Xal'atath's Bargain: Voidbound,凝望骑士,Death Knight,Frost,dps,Tanaris
+12,172.8,306225319,2,The Necrotic Wake,2024-11-10T03:18:34.000Z,1473192,1860999,2,Xal'atath's Bargain: Voidbound,逐鹿在不周山,Warrior,Fury,dps,Thunder Bluff
+12,172.8,306225319,2,The Necrotic Wake,2024-11-10T03:18:34.000Z,1473192,1860999,2,Xal'atath's Bargain: Voidbound,吴浩东,Paladin,Retribution,dps,Isillien
+13,171,305849625,2,The Necrotic Wake,2024-11-08T17:53:33.000Z,1564933,1860999,1,Xal'atath's Bargain: Voidbound,摇摇兔耳朵,Shaman,Restoration,healer,Deathwing
+13,171,305849625,2,The Necrotic Wake,2024-11-08T17:53:33.000Z,1564933,1860999,1,Xal'atath's Bargain: Voidbound,麦妮饭丝超稳,Warrior,Protection,tank,Deathwing
+13,171,305849625,2,The Necrotic Wake,2024-11-08T17:53:33.000Z,1564933,1860999,1,Xal'atath's Bargain: Voidbound,最强大脑袋,Shaman,Elemental,dps,Deathwing
+13,171,305849625,2,The Necrotic Wake,2024-11-08T17:53:33.000Z,1564933,1860999,1,Xal'atath's Bargain: Voidbound,Jadesoturis,Warrior,Arms,dps,Stonemaul
+13,171,305849625,2,The Necrotic Wake,2024-11-08T17:53:33.000Z,1564933,1860999,1,Xal'atath's Bargain: Voidbound,过期丶旅行,Paladin,Retribution,dps,Deathwing
+14,165.5,297894764,2,The Necrotic Wake,2024-10-05T15:38:24.000Z,1834845,1860999,1,Xal'atath's Bargain: Voidbound,悍匪丶小刃,Rogue,Assassination,dps,Blackwing Lair
+14,165.5,297894764,2,The Necrotic Wake,2024-10-05T15:38:24.000Z,1834845,1860999,1,Xal'atath's Bargain: Voidbound,胖黑黒,Paladin,Retribution,dps,Al'ar
+14,165.5,297894764,2,The Necrotic Wake,2024-10-05T15:38:24.000Z,1834845,1860999,1,Xal'atath's Bargain: Voidbound,一只奶熊,Shaman,Elemental,dps,Al'ar
+14,165.5,297894764,2,The Necrotic Wake,2024-10-05T15:38:24.000Z,1834845,1860999,1,Xal'atath's Bargain: Voidbound,图图的圣光,Paladin,Protection,tank,Silver Hand
+14,165.5,297894764,2,The Necrotic Wake,2024-10-05T15:38:24.000Z,1834845,1860999,1,Xal'atath's Bargain: Voidbound,魔鬼丨筋肉人,Shaman,Restoration,healer,Burning Blade

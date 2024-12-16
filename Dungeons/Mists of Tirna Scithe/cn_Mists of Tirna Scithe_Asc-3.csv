@@ -1,0 +1,211 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,294182206,3,Mists of Tirna Scithe,2024-09-22T13:32:56.000Z,802987,1800999,3,Xal'atath's Bargain: Ascendant,心随逸飛,Shaman,Restoration,healer,Al'ar
+1,195,294182206,3,Mists of Tirna Scithe,2024-09-22T13:32:56.000Z,802987,1800999,3,Xal'atath's Bargain: Ascendant,Yoruichi,Druid,Balance,dps,Al'ar
+1,195,294182206,3,Mists of Tirna Scithe,2024-09-22T13:32:56.000Z,802987,1800999,3,Xal'atath's Bargain: Ascendant,低调的豌豆,Warrior,Protection,tank,Al'ar
+1,195,294182206,3,Mists of Tirna Scithe,2024-09-22T13:32:56.000Z,802987,1800999,3,Xal'atath's Bargain: Ascendant,夏目的情人帐,Demon Hunter,Havoc,dps,Al'ar
+1,195,294182206,3,Mists of Tirna Scithe,2024-09-22T13:32:56.000Z,802987,1800999,3,Xal'atath's Bargain: Ascendant,Ysageras,Mage,Arcane,dps,Al'ar
+2,195,294199378,3,Mists of Tirna Scithe,2024-09-22T14:08:54.000Z,863229,1800999,3,Xal'atath's Bargain: Ascendant,天天晒太阳,Death Knight,Unholy,dps,Chillwind Point
+2,195,294199378,3,Mists of Tirna Scithe,2024-09-22T14:08:54.000Z,863229,1800999,3,Xal'atath's Bargain: Ascendant,小白兔酸奶,Shaman,Restoration,healer,Kel'Thuzad
+2,195,294199378,3,Mists of Tirna Scithe,2024-09-22T14:08:54.000Z,863229,1800999,3,Xal'atath's Bargain: Ascendant,小白兔白给,Warlock,Affliction,dps,Kel'Thuzad
+2,195,294199378,3,Mists of Tirna Scithe,2024-09-22T14:08:54.000Z,863229,1800999,3,Xal'atath's Bargain: Ascendant,若叶睦,Mage,Arcane,dps,Kel'Thuzad
+2,195,294199378,3,Mists of Tirna Scithe,2024-09-22T14:08:54.000Z,863229,1800999,3,Xal'atath's Bargain: Ascendant,井芹仁菜,Death Knight,Blood,tank,Kel'Thuzad
+3,195,307335476,3,Mists of Tirna Scithe,2024-11-15T16:38:50.000Z,1077351,1800999,3,Xal'atath's Bargain: Ascendant,Wanderpst,Priest,Discipline,healer,Deathwing
+3,195,307335476,3,Mists of Tirna Scithe,2024-11-15T16:38:50.000Z,1077351,1800999,3,Xal'atath's Bargain: Ascendant,小心网恋,Paladin,Protection,tank,Deathwing
+3,195,307335476,3,Mists of Tirna Scithe,2024-11-15T16:38:50.000Z,1077351,1800999,3,Xal'atath's Bargain: Ascendant,渣我,Paladin,Retribution,dps,Theramore
+3,195,307335476,3,Mists of Tirna Scithe,2024-11-15T16:38:50.000Z,1077351,1800999,3,Xal'atath's Bargain: Ascendant,羽小淼,Mage,Frost,dps,Deathwing
+3,195,307335476,3,Mists of Tirna Scithe,2024-11-15T16:38:50.000Z,1077351,1800999,3,Xal'atath's Bargain: Ascendant,咩咩怪,Monk,Windwalker,dps,Marrowgar
+4,193.3,300295687,3,Mists of Tirna Scithe,2024-09-22T05:41:38.000Z,1163808,1800999,2,Xal'atath's Bargain: Ascendant,小二雷,Shaman,Restoration,healer,Chillwind Point
+4,193.3,300295687,3,Mists of Tirna Scithe,2024-09-22T05:41:38.000Z,1163808,1800999,2,Xal'atath's Bargain: Ascendant,犬塚戍孝,Monk,Brewmaster,tank,Eldre'Thalas
+4,193.3,300295687,3,Mists of Tirna Scithe,2024-09-22T05:41:38.000Z,1163808,1800999,2,Xal'atath's Bargain: Ascendant,你被强化了,Evoker,Augmentation,dps,Eldre'Thalas
+4,193.3,300295687,3,Mists of Tirna Scithe,2024-09-22T05:41:38.000Z,1163808,1800999,2,Xal'atath's Bargain: Ascendant,泽曼钦,Druid,Balance,dps,Frostmane
+4,193.3,300295687,3,Mists of Tirna Scithe,2024-09-22T05:41:38.000Z,1163808,1800999,2,Xal'atath's Bargain: Ascendant,Cleopatrysm,Evoker,Devastation,dps,Eldre'Thalas
+5,193,307648344,3,Mists of Tirna Scithe,2024-11-17T03:49:12.000Z,1174797,1800999,2,Xal'atath's Bargain: Ascendant,纳兰若雪,Paladin,Holy,healer,Stromgarde Keep
+5,193,307648344,3,Mists of Tirna Scithe,2024-11-17T03:49:12.000Z,1174797,1800999,2,Xal'atath's Bargain: Ascendant,柑橘乌云丶,Shaman,Enhancement,dps,Chillwind Point
+5,193,307648344,3,Mists of Tirna Scithe,2024-11-17T03:49:12.000Z,1174797,1800999,2,Xal'atath's Bargain: Ascendant,枸贰蛋,Demon Hunter,Vengeance,tank,Valley of Kings
+5,193,307648344,3,Mists of Tirna Scithe,2024-11-17T03:49:12.000Z,1174797,1800999,2,Xal'atath's Bargain: Ascendant,罗斯伊德茜,Mage,Frost,dps,Dor'Danil
+5,193,307648344,3,Mists of Tirna Scithe,2024-11-17T03:49:12.000Z,1174797,1800999,2,Xal'atath's Bargain: Ascendant,玩坦克的小德,Paladin,Retribution,dps,Skywall
+6,192.3,300297217,3,Mists of Tirna Scithe,2024-09-20T13:45:05.000Z,1207993,1800999,2,Xal'atath's Bargain: Ascendant,尘埃遇风,Druid,Balance,dps,Shadowmourne
+6,192.3,300297217,3,Mists of Tirna Scithe,2024-09-20T13:45:05.000Z,1207993,1800999,2,Xal'atath's Bargain: Ascendant,Wtmddnmb,Death Knight,Blood,tank,Burning Blade
+6,192.3,300297217,3,Mists of Tirna Scithe,2024-09-20T13:45:05.000Z,1207993,1800999,2,Xal'atath's Bargain: Ascendant,陈真减啥肥,Druid,Restoration,healer,Galakrond
+6,192.3,300297217,3,Mists of Tirna Scithe,2024-09-20T13:45:05.000Z,1207993,1800999,2,Xal'atath's Bargain: Ascendant,醉后余欢丶,Mage,Frost,dps,Grim Batol
+6,192.3,300297217,3,Mists of Tirna Scithe,2024-09-20T13:45:05.000Z,1207993,1800999,2,Xal'atath's Bargain: Ascendant,丶臭乌龟丶,Death Knight,Unholy,dps,Burning Blade
+7,191.5,295288266,3,Mists of Tirna Scithe,2024-09-25T18:00:53.000Z,1249241,1800999,2,Xal'atath's Bargain: Ascendant,超越天堂丶,Demon Hunter,Vengeance,tank,Silver Hand
+7,191.5,295288266,3,Mists of Tirna Scithe,2024-09-25T18:00:53.000Z,1249241,1800999,2,Xal'atath's Bargain: Ascendant,我不吃生巧,Shaman,Elemental,dps,Rhonin
+7,191.5,295288266,3,Mists of Tirna Scithe,2024-09-25T18:00:53.000Z,1249241,1800999,2,Xal'atath's Bargain: Ascendant,她不吃南瓜,Shaman,Restoration,healer,Silver Hand
+7,191.5,295288266,3,Mists of Tirna Scithe,2024-09-25T18:00:53.000Z,1249241,1800999,2,Xal'atath's Bargain: Ascendant,你无敌了奥,Death Knight,Unholy,dps,Silver Hand
+7,191.5,295288266,3,Mists of Tirna Scithe,2024-09-25T18:00:53.000Z,1249241,1800999,2,Xal'atath's Bargain: Ascendant,梦见明月,Hunter,Marksmanship,dps,Silver Hand
+8,191.5,300295697,3,Mists of Tirna Scithe,2024-09-25T06:04:04.000Z,1249824,1800999,2,Xal'atath's Bargain: Ascendant,罪過聖堂,Paladin,Retribution,dps,Eldre'Thalas
+8,191.5,300295697,3,Mists of Tirna Scithe,2024-09-25T06:04:04.000Z,1249824,1800999,2,Xal'atath's Bargain: Ascendant,叔叔我啊,Warlock,Destruction,dps,Frostmourne
+8,191.5,300295697,3,Mists of Tirna Scithe,2024-09-25T06:04:04.000Z,1249824,1800999,2,Xal'atath's Bargain: Ascendant,里兜有居居辣,Evoker,Preservation,healer,Burning Blade
+8,191.5,300295697,3,Mists of Tirna Scithe,2024-09-25T06:04:04.000Z,1249824,1800999,2,Xal'atath's Bargain: Ascendant,阿呆不会放电,Shaman,Elemental,dps,Silver Hand
+8,191.5,300295697,3,Mists of Tirna Scithe,2024-09-25T06:04:04.000Z,1249824,1800999,2,Xal'atath's Bargain: Ascendant,别砍我兄弟,Death Knight,Blood,tank,Deathwing
+9,191.1,302697166,3,Mists of Tirna Scithe,2024-10-25T18:00:03.000Z,1269513,1800999,2,Xal'atath's Bargain: Ascendant,小明炼药师,Paladin,Protection,tank,Burning Blade
+9,191.1,302697166,3,Mists of Tirna Scithe,2024-10-25T18:00:03.000Z,1269513,1800999,2,Xal'atath's Bargain: Ascendant,哇哦不会吧,Shaman,Elemental,dps,Burning Blade
+9,191.1,302697166,3,Mists of Tirna Scithe,2024-10-25T18:00:03.000Z,1269513,1800999,2,Xal'atath's Bargain: Ascendant,甜蜜丶梦想,Shaman,Restoration,healer,Scarlet Crusade
+9,191.1,302697166,3,Mists of Tirna Scithe,2024-10-25T18:00:03.000Z,1269513,1800999,2,Xal'atath's Bargain: Ascendant,火苗,Death Knight,Frost,dps,Taerar
+9,191.1,302697166,3,Mists of Tirna Scithe,2024-10-25T18:00:03.000Z,1269513,1800999,2,Xal'atath's Bargain: Ascendant,Yoyoyo,Warrior,Fury,dps,Taerar
+10,180,302668502,2,Mists of Tirna Scithe,2024-10-25T12:22:41.000Z,762876,1800999,3,Xal'atath's Bargain: Ascendant,炫雨夜,Warlock,Affliction,dps,Al'ar
+10,180,302668502,2,Mists of Tirna Scithe,2024-10-25T12:22:41.000Z,762876,1800999,3,Xal'atath's Bargain: Ascendant,厶救赎灬圣光,Paladin,Holy,healer,Al'ar
+10,180,302668502,2,Mists of Tirna Scithe,2024-10-25T12:22:41.000Z,762876,1800999,3,Xal'atath's Bargain: Ascendant,江淮乱冲,Paladin,Retribution,dps,Al'ar
+10,180,302668502,2,Mists of Tirna Scithe,2024-10-25T12:22:41.000Z,762876,1800999,3,Xal'atath's Bargain: Ascendant,小命要紧,Mage,Frost,dps,Burning Blade
+10,180,302668502,2,Mists of Tirna Scithe,2024-10-25T12:22:41.000Z,762876,1800999,3,Xal'atath's Bargain: Ascendant,阮秀丶,Paladin,Protection,tank,Scarlet Crusade
+11,180,293011967,2,Mists of Tirna Scithe,2024-09-18T23:40:50.000Z,802853,1800999,3,Xal'atath's Bargain: Ascendant,灵魂复苏,Warrior,Fury,dps,Chillwind Point
+11,180,293011967,2,Mists of Tirna Scithe,2024-09-18T23:40:50.000Z,802853,1800999,3,Xal'atath's Bargain: Ascendant,小海牛,Death Knight,Blood,tank,Blanchard
+11,180,293011967,2,Mists of Tirna Scithe,2024-09-18T23:40:50.000Z,802853,1800999,3,Xal'atath's Bargain: Ascendant,Kadu,Shaman,Restoration,healer,Grim Batol
+11,180,293011967,2,Mists of Tirna Scithe,2024-09-18T23:40:50.000Z,802853,1800999,3,Xal'atath's Bargain: Ascendant,鸾镜丨朱颜,Death Knight,Frost,dps,Silver Hand
+11,180,293011967,2,Mists of Tirna Scithe,2024-09-18T23:40:50.000Z,802853,1800999,3,Xal'atath's Bargain: Ascendant,登云路,Paladin,Retribution,dps,Isillien
+12,180,308289357,2,Mists of Tirna Scithe,2024-11-20T15:24:28.000Z,841204,1800999,3,Xal'atath's Bargain: Ascendant,右方之火乚,Mage,Frost,dps,Nozdormu
+12,180,308289357,2,Mists of Tirna Scithe,2024-11-20T15:24:28.000Z,841204,1800999,3,Xal'atath's Bargain: Ascendant,常无理,Monk,Mistweaver,healer,Isillien
+12,180,308289357,2,Mists of Tirna Scithe,2024-11-20T15:24:28.000Z,841204,1800999,3,Xal'atath's Bargain: Ascendant,瑞恩家的胖达,Monk,Brewmaster,tank,Scarlet Crusade
+12,180,308289357,2,Mists of Tirna Scithe,2024-11-20T15:24:28.000Z,841204,1800999,3,Xal'atath's Bargain: Ascendant,Orzamzang,Rogue,Assassination,dps,Dreadmist Peak
+12,180,308289357,2,Mists of Tirna Scithe,2024-11-20T15:24:28.000Z,841204,1800999,3,Xal'atath's Bargain: Ascendant,丷格斗贝贝丷,Paladin,Retribution,dps,Molten Core
+13,180,308190717,2,Mists of Tirna Scithe,2024-11-20T00:01:26.000Z,894947,1800999,3,Xal'atath's Bargain: Ascendant,消遣丶,Rogue,Assassination,dps,Valley of Kings
+13,180,308190717,2,Mists of Tirna Scithe,2024-11-20T00:01:26.000Z,894947,1800999,3,Xal'atath's Bargain: Ascendant,風殘灬築夢,Druid,Feral,dps,Silver Hand
+13,180,308190717,2,Mists of Tirna Scithe,2024-11-20T00:01:26.000Z,894947,1800999,3,Xal'atath's Bargain: Ascendant,Bilibili,Paladin,Protection,tank,Doomwalker
+13,180,308190717,2,Mists of Tirna Scithe,2024-11-20T00:01:26.000Z,894947,1800999,3,Xal'atath's Bargain: Ascendant,夜归人,Shaman,Restoration,healer,Rhonin
+13,180,308190717,2,Mists of Tirna Scithe,2024-11-20T00:01:26.000Z,894947,1800999,3,Xal'atath's Bargain: Ascendant,堇色烟凉,Paladin,Retribution,dps,Echo Ridge
+14,180,307331574,2,Mists of Tirna Scithe,2024-11-15T16:09:40.000Z,903645,1800999,3,Xal'atath's Bargain: Ascendant,我不是戒律,Priest,Discipline,healer,Dark Iron
+14,180,307331574,2,Mists of Tirna Scithe,2024-11-15T16:09:40.000Z,903645,1800999,3,Xal'atath's Bargain: Ascendant,哈基贼,Rogue,Assassination,dps,The Master's Glaive
+14,180,307331574,2,Mists of Tirna Scithe,2024-11-15T16:09:40.000Z,903645,1800999,3,Xal'atath's Bargain: Ascendant,静瑜猪儿丶,Warlock,Destruction,dps,Deathwing
+14,180,307331574,2,Mists of Tirna Scithe,2024-11-15T16:09:40.000Z,903645,1800999,3,Xal'atath's Bargain: Ascendant,风霜夜来迟,Demon Hunter,Havoc,dps,Silver Hand
+14,180,307331574,2,Mists of Tirna Scithe,2024-11-15T16:09:40.000Z,903645,1800999,3,Xal'atath's Bargain: Ascendant,无名王女,Paladin,Protection,tank,Deathforge
+15,180,304212531,2,Mists of Tirna Scithe,2024-09-22T10:12:38.000Z,919111,1800999,3,Xal'atath's Bargain: Ascendant,幻影之舞,Paladin,Retribution,dps,Well of Eternity
+15,180,304212531,2,Mists of Tirna Scithe,2024-09-22T10:12:38.000Z,919111,1800999,3,Xal'atath's Bargain: Ascendant,高槻泉,Shaman,Restoration,healer,Well of Eternity
+15,180,304212531,2,Mists of Tirna Scithe,2024-09-22T10:12:38.000Z,919111,1800999,3,Xal'atath's Bargain: Ascendant,小只萌迪凯,Death Knight,Blood,tank,Ravencrest
+15,180,304212531,2,Mists of Tirna Scithe,2024-09-22T10:12:38.000Z,919111,1800999,3,Xal'atath's Bargain: Ascendant,Rias,Warlock,Demonology,dps,Ravencrest
+15,180,304212531,2,Mists of Tirna Scithe,2024-09-22T10:12:38.000Z,919111,1800999,3,Xal'atath's Bargain: Ascendant,吾敌,Death Knight,Frost,dps,Well of Eternity
+16,180,302276391,2,Mists of Tirna Scithe,2024-09-20T12:33:18.000Z,924843,1800999,3,Xal'atath's Bargain: Ascendant,Seijtz,Druid,Restoration,healer,Blanchard
+16,180,302276391,2,Mists of Tirna Scithe,2024-09-20T12:33:18.000Z,924843,1800999,3,Xal'atath's Bargain: Ascendant,墨染流年,Shaman,Elemental,dps,Eldre'Thalas
+16,180,302276391,2,Mists of Tirna Scithe,2024-09-20T12:33:18.000Z,924843,1800999,3,Xal'atath's Bargain: Ascendant,好骑心,Paladin,Protection,tank,Barrens
+16,180,302276391,2,Mists of Tirna Scithe,2024-09-20T12:33:18.000Z,924843,1800999,3,Xal'atath's Bargain: Ascendant,楓亦寒,Warrior,Fury,dps,Anzu
+16,180,302276391,2,Mists of Tirna Scithe,2024-09-20T12:33:18.000Z,924843,1800999,3,Xal'atath's Bargain: Ascendant,龙宫礼奈,Rogue,Assassination,dps,Thousand Needles
+17,180,300295719,2,Mists of Tirna Scithe,2024-09-21T07:22:20.000Z,930136,1800999,3,Xal'atath's Bargain: Ascendant,Juticed,Priest,Discipline,healer,Shadowmourne
+17,180,300295719,2,Mists of Tirna Scithe,2024-09-21T07:22:20.000Z,930136,1800999,3,Xal'atath's Bargain: Ascendant,拳王月灼,Monk,Brewmaster,tank,Burning Blade
+17,180,300295719,2,Mists of Tirna Scithe,2024-09-21T07:22:20.000Z,930136,1800999,3,Xal'atath's Bargain: Ascendant,茜色,Death Knight,Frost,dps,Pandaren
+17,180,300295719,2,Mists of Tirna Scithe,2024-09-21T07:22:20.000Z,930136,1800999,3,Xal'atath's Bargain: Ascendant,羊濄小笼女,Mage,Frost,dps,Burning Blade
+17,180,300295719,2,Mists of Tirna Scithe,2024-09-21T07:22:20.000Z,930136,1800999,3,Xal'atath's Bargain: Ascendant,最后战役,Demon Hunter,Havoc,dps,Doomwalker
+18,180,307447425,2,Mists of Tirna Scithe,2024-11-16T04:59:38.000Z,952104,1800999,3,Xal'atath's Bargain: Ascendant,我不是戒律,Priest,Discipline,healer,Dark Iron
+18,180,307447425,2,Mists of Tirna Scithe,2024-11-16T04:59:38.000Z,952104,1800999,3,Xal'atath's Bargain: Ascendant,迪亚波罗,Paladin,Protection,tank,Whisperwind
+18,180,307447425,2,Mists of Tirna Scithe,2024-11-16T04:59:38.000Z,952104,1800999,3,Xal'atath's Bargain: Ascendant,成风影,Monk,Windwalker,dps,Silver Hand
+18,180,307447425,2,Mists of Tirna Scithe,2024-11-16T04:59:38.000Z,952104,1800999,3,Xal'atath's Bargain: Ascendant,老黄的圣斗士,Paladin,Retribution,dps,Doomwalker
+18,180,307447425,2,Mists of Tirna Scithe,2024-11-16T04:59:38.000Z,952104,1800999,3,Xal'atath's Bargain: Ascendant,画个姑娘来爱,Warlock,Destruction,dps,Shadowmourne
+19,180,307572930,2,Mists of Tirna Scithe,2024-11-16T20:29:30.000Z,956854,1800999,3,Xal'atath's Bargain: Ascendant,冲冲充丶别怂,Demon Hunter,Vengeance,tank,Galakrond
+19,180,307572930,2,Mists of Tirna Scithe,2024-11-16T20:29:30.000Z,956854,1800999,3,Xal'atath's Bargain: Ascendant,你打不过我的,Shaman,Enhancement,dps,Hakkar
+19,180,307572930,2,Mists of Tirna Scithe,2024-11-16T20:29:30.000Z,956854,1800999,3,Xal'atath's Bargain: Ascendant,Sevenxz,Rogue,Assassination,dps,Silver Hand
+19,180,307572930,2,Mists of Tirna Scithe,2024-11-16T20:29:30.000Z,956854,1800999,3,Xal'atath's Bargain: Ascendant,千语魅痕,Evoker,Preservation,healer,Lich King
+19,180,307572930,2,Mists of Tirna Scithe,2024-11-16T20:29:30.000Z,956854,1800999,3,Xal'atath's Bargain: Ascendant,不爱玩术干,Warlock,Demonology,dps,Al'ar
+20,180,303621127,2,Mists of Tirna Scithe,2024-09-20T15:22:04.000Z,962892,1800999,3,Xal'atath's Bargain: Ascendant,丶迷醉,Rogue,Assassination,dps,The Great Sea
+20,180,303621127,2,Mists of Tirna Scithe,2024-09-20T15:22:04.000Z,962892,1800999,3,Xal'atath's Bargain: Ascendant,放空傻笑,Priest,Holy,healer,The Great Sea
+20,180,303621127,2,Mists of Tirna Scithe,2024-09-20T15:22:04.000Z,962892,1800999,3,Xal'atath's Bargain: Ascendant,卜卜壹壹,Paladin,Retribution,dps,The Great Sea
+20,180,303621127,2,Mists of Tirna Scithe,2024-09-20T15:22:04.000Z,962892,1800999,3,Xal'atath's Bargain: Ascendant,灵魂信仰,Warlock,Demonology,dps,The Great Sea
+20,180,303621127,2,Mists of Tirna Scithe,2024-09-20T15:22:04.000Z,962892,1800999,3,Xal'atath's Bargain: Ascendant,丨丶随便玩玩,Demon Hunter,Vengeance,tank,The Great Sea
+21,180,293100059,2,Mists of Tirna Scithe,2024-09-19T07:02:43.000Z,988032,1800999,3,Xal'atath's Bargain: Ascendant,一事无城,Shaman,Restoration,healer,Al'ar
+21,180,293100059,2,Mists of Tirna Scithe,2024-09-19T07:02:43.000Z,988032,1800999,3,Xal'atath's Bargain: Ascendant,信的不是很长,Warlock,Demonology,dps,Al'ar
+21,180,293100059,2,Mists of Tirna Scithe,2024-09-19T07:02:43.000Z,988032,1800999,3,Xal'atath's Bargain: Ascendant,铭伏,Rogue,Outlaw,dps,Deathwing
+21,180,293100059,2,Mists of Tirna Scithe,2024-09-19T07:02:43.000Z,988032,1800999,3,Xal'atath's Bargain: Ascendant,忘千宝,Hunter,Survival,dps,Pandaren
+21,180,293100059,2,Mists of Tirna Scithe,2024-09-19T07:02:43.000Z,988032,1800999,3,Xal'atath's Bargain: Ascendant,墨比乌斯,Monk,Brewmaster,tank,Shadowmourne
+22,180,307706464,2,Mists of Tirna Scithe,2024-11-17T12:50:58.000Z,1025107,1800999,3,Xal'atath's Bargain: Ascendant,码睿小战,Warrior,Fury,dps,Silver Hand
+22,180,307706464,2,Mists of Tirna Scithe,2024-11-17T12:50:58.000Z,1025107,1800999,3,Xal'atath's Bargain: Ascendant,孟加拉狐,Shaman,Elemental,dps,Doomwalker
+22,180,307706464,2,Mists of Tirna Scithe,2024-11-17T12:50:58.000Z,1025107,1800999,3,Xal'atath's Bargain: Ascendant,木丷落,Priest,Discipline,healer,Barrens
+22,180,307706464,2,Mists of Tirna Scithe,2024-11-17T12:50:58.000Z,1025107,1800999,3,Xal'atath's Bargain: Ascendant,明月空对,Mage,Frost,dps,Barrens
+22,180,307706464,2,Mists of Tirna Scithe,2024-11-17T12:50:58.000Z,1025107,1800999,3,Xal'atath's Bargain: Ascendant,终审判决,Paladin,Protection,tank,Dark Iron
+23,180,302448643,2,Mists of Tirna Scithe,2024-10-24T08:10:25.000Z,1034258,1800999,3,Xal'atath's Bargain: Ascendant,小晖知错了,Mage,Arcane,dps,The Great Sea
+23,180,302448643,2,Mists of Tirna Scithe,2024-10-24T08:10:25.000Z,1034258,1800999,3,Xal'atath's Bargain: Ascendant,鱼面筋,Death Knight,Blood,tank,Blanchard
+23,180,302448643,2,Mists of Tirna Scithe,2024-10-24T08:10:25.000Z,1034258,1800999,3,Xal'atath's Bargain: Ascendant,苦苦露露,Shaman,Restoration,healer,Lord Kazzak
+23,180,302448643,2,Mists of Tirna Scithe,2024-10-24T08:10:25.000Z,1034258,1800999,3,Xal'atath's Bargain: Ascendant,丨宙斯丨,Shaman,Elemental,dps,Gorehowl
+23,180,302448643,2,Mists of Tirna Scithe,2024-10-24T08:10:25.000Z,1034258,1800999,3,Xal'atath's Bargain: Ascendant,渺念,Mage,Frost,dps,Blanchard
+24,180,302699657,2,Mists of Tirna Scithe,2024-10-25T18:30:51.000Z,1047086,1800999,3,Xal'atath's Bargain: Ascendant,小明炼药师,Paladin,Protection,tank,Burning Blade
+24,180,302699657,2,Mists of Tirna Scithe,2024-10-25T18:30:51.000Z,1047086,1800999,3,Xal'atath's Bargain: Ascendant,小希的弯钩爪,Shaman,Restoration,healer,Burning Blade
+24,180,302699657,2,Mists of Tirna Scithe,2024-10-25T18:30:51.000Z,1047086,1800999,3,Xal'atath's Bargain: Ascendant,火苗,Death Knight,Frost,dps,Taerar
+24,180,302699657,2,Mists of Tirna Scithe,2024-10-25T18:30:51.000Z,1047086,1800999,3,Xal'atath's Bargain: Ascendant,Yoyoyo,Warrior,Fury,dps,Taerar
+24,180,302699657,2,Mists of Tirna Scithe,2024-10-25T18:30:51.000Z,1047086,1800999,3,Xal'atath's Bargain: Ascendant,香蕉树下,Evoker,Devastation,dps,The Great Sea
+25,180,307882201,2,Mists of Tirna Scithe,2024-11-18T08:06:37.000Z,1050922,1800999,3,Xal'atath's Bargain: Ascendant,小七氏,Paladin,Protection,tank,Pandaren
+25,180,307882201,2,Mists of Tirna Scithe,2024-11-18T08:06:37.000Z,1050922,1800999,3,Xal'atath's Bargain: Ascendant,硫酸汞,Warlock,Demonology,dps,Ysondre
+25,180,307882201,2,Mists of Tirna Scithe,2024-11-18T08:06:37.000Z,1050922,1800999,3,Xal'atath's Bargain: Ascendant,人不如故,Rogue,Assassination,dps,Echo Ridge
+25,180,307882201,2,Mists of Tirna Scithe,2024-11-18T08:06:37.000Z,1050922,1800999,3,Xal'atath's Bargain: Ascendant,黄奶酪骑士,Paladin,Retribution,dps,Silver Hand
+25,180,307882201,2,Mists of Tirna Scithe,2024-11-18T08:06:37.000Z,1050922,1800999,3,Xal'atath's Bargain: Ascendant,想盖就盖姚明,Druid,Restoration,healer,Chillwind Point
+26,180,300295694,2,Mists of Tirna Scithe,2024-09-23T14:24:03.000Z,1058310,1800999,3,Xal'atath's Bargain: Ascendant,犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+26,180,300295694,2,Mists of Tirna Scithe,2024-09-23T14:24:03.000Z,1058310,1800999,3,Xal'atath's Bargain: Ascendant,靈獸鳴途,Shaman,Elemental,dps,Eldre'Thalas
+26,180,300295694,2,Mists of Tirna Scithe,2024-09-23T14:24:03.000Z,1058310,1800999,3,Xal'atath's Bargain: Ascendant,你被强化了,Evoker,Augmentation,dps,Eldre'Thalas
+26,180,300295694,2,Mists of Tirna Scithe,2024-09-23T14:24:03.000Z,1058310,1800999,3,Xal'atath's Bargain: Ascendant,泽曼钦,Druid,Balance,dps,Frostmane
+26,180,300295694,2,Mists of Tirna Scithe,2024-09-23T14:24:03.000Z,1058310,1800999,3,Xal'atath's Bargain: Ascendant,西瓜狐,Shaman,Restoration,healer,Silverpine Forest
+27,180,302851638,2,Mists of Tirna Scithe,2024-10-26T05:19:13.000Z,1059800,1800999,3,Xal'atath's Bargain: Ascendant,一神兜兜一,Hunter,Beast Mastery,dps,Valley of Kings
+27,180,302851638,2,Mists of Tirna Scithe,2024-10-26T05:19:13.000Z,1059800,1800999,3,Xal'atath's Bargain: Ascendant,不知梦,Druid,Balance,dps,Valley of Kings
+27,180,302851638,2,Mists of Tirna Scithe,2024-10-26T05:19:13.000Z,1059800,1800999,3,Xal'atath's Bargain: Ascendant,Konatalzumi,Mage,Frost,dps,Swiftwind
+27,180,302851638,2,Mists of Tirna Scithe,2024-10-26T05:19:13.000Z,1059800,1800999,3,Xal'atath's Bargain: Ascendant,董盼盼,Druid,Restoration,healer,Durotan
+27,180,302851638,2,Mists of Tirna Scithe,2024-10-26T05:19:13.000Z,1059800,1800999,3,Xal'atath's Bargain: Ascendant,番茄最帅,Demon Hunter,Vengeance,tank,Gadgetzan
+28,179.6,293433329,2,Mists of Tirna Scithe,2024-09-20T11:50:48.000Z,1098122,1800999,2,Xal'atath's Bargain: Ascendant,Luciferstar,Paladin,Retribution,dps,Hectae
+28,179.6,293433329,2,Mists of Tirna Scithe,2024-09-20T11:50:48.000Z,1098122,1800999,2,Xal'atath's Bargain: Ascendant,秦始皇二一四,Shaman,Restoration,healer,Hyjal
+28,179.6,293433329,2,Mists of Tirna Scithe,2024-09-20T11:50:48.000Z,1098122,1800999,2,Xal'atath's Bargain: Ascendant,段三爷,Warrior,Fury,dps,Naxxramas
+28,179.6,293433329,2,Mists of Tirna Scithe,2024-09-20T11:50:48.000Z,1098122,1800999,2,Xal'atath's Bargain: Ascendant,Likecookie,Death Knight,Frost,dps,Naxxramas
+28,179.6,293433329,2,Mists of Tirna Scithe,2024-09-20T11:50:48.000Z,1098122,1800999,2,Xal'atath's Bargain: Ascendant,莉雅丝乄,Demon Hunter,Vengeance,tank,Doomwalker
+29,179.3,303621132,2,Mists of Tirna Scithe,2024-09-25T13:35:29.000Z,1114264,1800999,2,Xal'atath's Bargain: Ascendant,丶迷醉,Rogue,Assassination,dps,The Great Sea
+29,179.3,303621132,2,Mists of Tirna Scithe,2024-09-25T13:35:29.000Z,1114264,1800999,2,Xal'atath's Bargain: Ascendant,云腴,Druid,Guardian,tank,Isillien
+29,179.3,303621132,2,Mists of Tirna Scithe,2024-09-25T13:35:29.000Z,1114264,1800999,2,Xal'atath's Bargain: Ascendant,艾伦逐风者,Paladin,Holy,healer,The Great Sea
+29,179.3,303621132,2,Mists of Tirna Scithe,2024-09-25T13:35:29.000Z,1114264,1800999,2,Xal'atath's Bargain: Ascendant,佬叔盘根,Warrior,Fury,dps,Isillien
+29,179.3,303621132,2,Mists of Tirna Scithe,2024-09-25T13:35:29.000Z,1114264,1800999,2,Xal'atath's Bargain: Ascendant,绝版青春,Paladin,Retribution,dps,Zul'Aman
+30,179.1,307904003,2,Mists of Tirna Scithe,2024-11-18T13:08:30.000Z,1124128,1800999,2,Xal'atath's Bargain: Ascendant,大姐姐的硬盘,Warlock,Destruction,dps,Doomwalker
+30,179.1,307904003,2,Mists of Tirna Scithe,2024-11-18T13:08:30.000Z,1124128,1800999,2,Xal'atath's Bargain: Ascendant,古语,Shaman,Elemental,dps,Isillien
+30,179.1,307904003,2,Mists of Tirna Scithe,2024-11-18T13:08:30.000Z,1124128,1800999,2,Xal'atath's Bargain: Ascendant,时间停止系列,Hunter,Survival,dps,Valley of Kings
+30,179.1,307904003,2,Mists of Tirna Scithe,2024-11-18T13:08:30.000Z,1124128,1800999,2,Xal'atath's Bargain: Ascendant,猛侽大皮皮丶,Demon Hunter,Vengeance,tank,Skywall
+30,179.1,307904003,2,Mists of Tirna Scithe,2024-11-18T13:08:30.000Z,1124128,1800999,2,Xal'atath's Bargain: Ascendant,仙女小皮皮丶,Monk,Mistweaver,healer,Skywall
+31,177.9,303389706,2,Mists of Tirna Scithe,2024-10-28T09:06:45.000Z,1182109,1800999,2,Xal'atath's Bargain: Ascendant,这里有大宝贝,Mage,Frost,dps,Burning Blade
+31,177.9,303389706,2,Mists of Tirna Scithe,2024-10-28T09:06:45.000Z,1182109,1800999,2,Xal'atath's Bargain: Ascendant,小明炼药师,Paladin,Protection,tank,Burning Blade
+31,177.9,303389706,2,Mists of Tirna Scithe,2024-10-28T09:06:45.000Z,1182109,1800999,2,Xal'atath's Bargain: Ascendant,艾绿,Hunter,Beast Mastery,dps,Emerald Dream
+31,177.9,303389706,2,Mists of Tirna Scithe,2024-10-28T09:06:45.000Z,1182109,1800999,2,Xal'atath's Bargain: Ascendant,唐黑虎掂蚊香,Paladin,Retribution,dps,Burning Blade
+31,177.9,303389706,2,Mists of Tirna Scithe,2024-10-28T09:06:45.000Z,1182109,1800999,2,Xal'atath's Bargain: Ascendant,Hanchbro,Priest,Discipline,healer,Red Dragonflight
+32,176.4,305650792,2,Mists of Tirna Scithe,2024-09-21T16:29:54.000Z,1254592,1800999,2,Xal'atath's Bargain: Ascendant,莎玛忒,Hunter,Marksmanship,dps,Kel'Thuzad
+32,176.4,305650792,2,Mists of Tirna Scithe,2024-09-21T16:29:54.000Z,1254592,1800999,2,Xal'atath's Bargain: Ascendant,Naowh,Death Knight,Unholy,dps,Lordaeron
+32,176.4,305650792,2,Mists of Tirna Scithe,2024-09-21T16:29:54.000Z,1254592,1800999,2,Xal'atath's Bargain: Ascendant,组我得橙装,Death Knight,Frost,dps,Kel'Thuzad
+32,176.4,305650792,2,Mists of Tirna Scithe,2024-09-21T16:29:54.000Z,1254592,1800999,2,Xal'atath's Bargain: Ascendant,天生欧洲人,Demon Hunter,Vengeance,tank,Lordaeron
+32,176.4,305650792,2,Mists of Tirna Scithe,2024-09-21T16:29:54.000Z,1254592,1800999,2,Xal'atath's Bargain: Ascendant,特高压,Shaman,Restoration,healer,Lordaeron
+33,176,307913527,2,Mists of Tirna Scithe,2024-11-18T14:33:15.000Z,1273416,1800999,2,Xal'atath's Bargain: Ascendant,Nóc,Warlock,Destruction,dps,Al'ar
+33,176,307913527,2,Mists of Tirna Scithe,2024-11-18T14:33:15.000Z,1273416,1800999,2,Xal'atath's Bargain: Ascendant,开心野猪,Priest,Discipline,healer,Bleeding Hollow
+33,176,307913527,2,Mists of Tirna Scithe,2024-11-18T14:33:15.000Z,1273416,1800999,2,Xal'atath's Bargain: Ascendant,杯莫停与君歌,Shaman,Enhancement,dps,Blanchard
+33,176,307913527,2,Mists of Tirna Scithe,2024-11-18T14:33:15.000Z,1273416,1800999,2,Xal'atath's Bargain: Ascendant,燃灯者丶,Paladin,Protection,tank,Valley of Kings
+33,176,307913527,2,Mists of Tirna Scithe,2024-11-18T14:33:15.000Z,1273416,1800999,2,Xal'atath's Bargain: Ascendant,音尘,Paladin,Retribution,dps,Moonglade
+34,175.8,307491079,2,Mists of Tirna Scithe,2024-11-16T12:15:56.000Z,1282326,1800999,2,Xal'atath's Bargain: Ascendant,独术一炙,Warlock,Destruction,dps,Al'ar
+34,175.8,307491079,2,Mists of Tirna Scithe,2024-11-16T12:15:56.000Z,1282326,1800999,2,Xal'atath's Bargain: Ascendant,别鸽我,Druid,Balance,dps,Anzu
+34,175.8,307491079,2,Mists of Tirna Scithe,2024-11-16T12:15:56.000Z,1282326,1800999,2,Xal'atath's Bargain: Ascendant,Stanisic,Rogue,Assassination,dps,Pandaren
+34,175.8,307491079,2,Mists of Tirna Scithe,2024-11-16T12:15:56.000Z,1282326,1800999,2,Xal'atath's Bargain: Ascendant,美味的薯条,Shaman,Restoration,healer,The Great Sea
+34,175.8,307491079,2,Mists of Tirna Scithe,2024-11-16T12:15:56.000Z,1282326,1800999,2,Xal'atath's Bargain: Ascendant,暗夜丨桐人,Warrior,Protection,tank,Frostmane
+35,175,302692878,2,Mists of Tirna Scithe,2024-10-25T17:04:42.000Z,1322539,1800999,2,Xal'atath's Bargain: Ascendant,幸运鲸鱼,Shaman,Restoration,healer,Pandaren
+35,175,302692878,2,Mists of Tirna Scithe,2024-10-25T17:04:42.000Z,1322539,1800999,2,Xal'atath's Bargain: Ascendant,窮鄉島民甲,Evoker,Augmentation,dps,Al'ar
+35,175,302692878,2,Mists of Tirna Scithe,2024-10-25T17:04:42.000Z,1322539,1800999,2,Xal'atath's Bargain: Ascendant,亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+35,175,302692878,2,Mists of Tirna Scithe,2024-10-25T17:04:42.000Z,1322539,1800999,2,Xal'atath's Bargain: Ascendant,亅七二七丿,Priest,Discipline,healer,Anzu
+35,175,302692878,2,Mists of Tirna Scithe,2024-10-25T17:04:42.000Z,1322539,1800999,2,Xal'atath's Bargain: Ascendant,香草知识,Druid,Balance,dps,Kel'Thuzad
+36,174.4,302674949,2,Mists of Tirna Scithe,2024-10-25T13:26:51.000Z,1348772,1800999,2,Xal'atath's Bargain: Ascendant,上单一霸,Hunter,Marksmanship,dps,Scarlet Crusade
+36,174.4,302674949,2,Mists of Tirna Scithe,2024-10-25T13:26:51.000Z,1348772,1800999,2,Xal'atath's Bargain: Ascendant,萨起码,Shaman,Elemental,dps,Anzu
+36,174.4,302674949,2,Mists of Tirna Scithe,2024-10-25T13:26:51.000Z,1348772,1800999,2,Xal'atath's Bargain: Ascendant,Thaner,Shaman,Enhancement,dps,Deathwing
+36,174.4,302674949,2,Mists of Tirna Scithe,2024-10-25T13:26:51.000Z,1348772,1800999,2,Xal'atath's Bargain: Ascendant,我是二次元鸭,Paladin,Holy,healer,Anzu
+36,174.4,302674949,2,Mists of Tirna Scithe,2024-10-25T13:26:51.000Z,1348772,1800999,2,Xal'atath's Bargain: Ascendant,西川结衣,Warrior,Protection,tank,Gadgetzan
+37,172.6,308093542,2,Mists of Tirna Scithe,2024-11-19T16:46:30.000Z,1434516,1800999,2,Xal'atath's Bargain: Ascendant,影之憤怒,Hunter,Beast Mastery,dps,Burning Blade
+37,172.6,308093542,2,Mists of Tirna Scithe,2024-11-19T16:46:30.000Z,1434516,1800999,2,Xal'atath's Bargain: Ascendant,Suntori,Druid,Restoration,healer,Deathwing
+37,172.6,308093542,2,Mists of Tirna Scithe,2024-11-19T16:46:30.000Z,1434516,1800999,2,Xal'atath's Bargain: Ascendant,丶肉蛋充饥,Demon Hunter,Vengeance,tank,Deathwing
+37,172.6,308093542,2,Mists of Tirna Scithe,2024-11-19T16:46:30.000Z,1434516,1800999,2,Xal'atath's Bargain: Ascendant,一尾狐,Hunter,Beast Mastery,dps,The Great Sea
+37,172.6,308093542,2,Mists of Tirna Scithe,2024-11-19T16:46:30.000Z,1434516,1800999,2,Xal'atath's Bargain: Ascendant,Masakiovo,Evoker,Devastation,dps,Burning Blade
+38,172.6,303629820,2,Mists of Tirna Scithe,2024-10-29T13:18:37.000Z,1437122,1800999,2,Xal'atath's Bargain: Ascendant,北山保安,Warrior,Protection,tank,Un'Goro
+38,172.6,303629820,2,Mists of Tirna Scithe,2024-10-29T13:18:37.000Z,1437122,1800999,2,Xal'atath's Bargain: Ascendant,私尼马赛,Shaman,Elemental,dps,Grim Batol
+38,172.6,303629820,2,Mists of Tirna Scithe,2024-10-29T13:18:37.000Z,1437122,1800999,2,Xal'atath's Bargain: Ascendant,北山司机,Mage,Frost,dps,Un'Goro
+38,172.6,303629820,2,Mists of Tirna Scithe,2024-10-29T13:18:37.000Z,1437122,1800999,2,Xal'atath's Bargain: Ascendant,从头开始,Warlock,Demonology,dps,Un'Goro
+38,172.6,303629820,2,Mists of Tirna Scithe,2024-10-29T13:18:37.000Z,1437122,1800999,2,Xal'atath's Bargain: Ascendant,隔壁寂寞老王,Monk,Mistweaver,healer,Executus
+39,171.5,303621132,2,Mists of Tirna Scithe,2024-09-25T13:12:09.000Z,1489356,1800999,1,Xal'atath's Bargain: Ascendant,丶迷醉,Rogue,Assassination,dps,The Great Sea
+39,171.5,303621132,2,Mists of Tirna Scithe,2024-09-25T13:12:09.000Z,1489356,1800999,1,Xal'atath's Bargain: Ascendant,云腴,Druid,Guardian,tank,Isillien
+39,171.5,303621132,2,Mists of Tirna Scithe,2024-09-25T13:12:09.000Z,1489356,1800999,1,Xal'atath's Bargain: Ascendant,艾伦逐风者,Paladin,Holy,healer,The Great Sea
+39,171.5,303621132,2,Mists of Tirna Scithe,2024-09-25T13:12:09.000Z,1489356,1800999,1,Xal'atath's Bargain: Ascendant,佬叔盘根,Warrior,Fury,dps,Isillien
+39,171.5,303621132,2,Mists of Tirna Scithe,2024-09-25T13:12:09.000Z,1489356,1800999,1,Xal'atath's Bargain: Ascendant,绝版青春,Paladin,Retribution,dps,Zul'Aman
+40,170.3,307889598,2,Mists of Tirna Scithe,2024-11-18T10:06:48.000Z,1544459,1800999,1,Xal'atath's Bargain: Ascendant,冥赤,Evoker,Preservation,healer,Anzu
+40,170.3,307889598,2,Mists of Tirna Scithe,2024-11-18T10:06:48.000Z,1544459,1800999,1,Xal'atath's Bargain: Ascendant,高装低能战,Warrior,Fury,dps,Burning Blade
+40,170.3,307889598,2,Mists of Tirna Scithe,2024-11-18T10:06:48.000Z,1544459,1800999,1,Xal'atath's Bargain: Ascendant,灬火鸡味锅巴,Shaman,Elemental,dps,Dreadmist Peak
+40,170.3,307889598,2,Mists of Tirna Scithe,2024-11-18T10:06:48.000Z,1544459,1800999,1,Xal'atath's Bargain: Ascendant,幕夜丶骑,Paladin,Protection,tank,Murmur
+40,170.3,307889598,2,Mists of Tirna Scithe,2024-11-18T10:06:48.000Z,1544459,1800999,1,Xal'atath's Bargain: Ascendant,一白菜一,Shaman,Enhancement,dps,Al'ar
+41,168,307934068,2,Mists of Tirna Scithe,2024-11-18T17:36:13.000Z,1654874,1800999,1,Xal'atath's Bargain: Ascendant,地质被研究员,Paladin,Protection,tank,The Great Sea
+41,168,307934068,2,Mists of Tirna Scithe,2024-11-18T17:36:13.000Z,1654874,1800999,1,Xal'atath's Bargain: Ascendant,我起飞了,Shaman,Enhancement,dps,Al'ar
+41,168,307934068,2,Mists of Tirna Scithe,2024-11-18T17:36:13.000Z,1654874,1800999,1,Xal'atath's Bargain: Ascendant,红绡香浅,Paladin,Retribution,dps,Deathwing
+41,168,307934068,2,Mists of Tirna Scithe,2024-11-18T17:36:13.000Z,1654874,1800999,1,Xal'atath's Bargain: Ascendant,杜紫藤不听,Demon Hunter,Havoc,dps,Chillwind Point
+41,168,307934068,2,Mists of Tirna Scithe,2024-11-18T17:36:13.000Z,1654874,1800999,1,Xal'atath's Bargain: Ascendant,可耐你,Priest,Discipline,healer,Emerald Dream
+42,167.3,307721908,2,Mists of Tirna Scithe,2024-11-17T14:17:42.000Z,1689200,1800999,1,Xal'atath's Bargain: Ascendant,兰花豆,Shaman,Elemental,dps,Vaelastrasz
+42,167.3,307721908,2,Mists of Tirna Scithe,2024-11-17T14:17:42.000Z,1689200,1800999,1,Xal'atath's Bargain: Ascendant,Stanisic,Rogue,Assassination,dps,Pandaren
+42,167.3,307721908,2,Mists of Tirna Scithe,2024-11-17T14:17:42.000Z,1689200,1800999,1,Xal'atath's Bargain: Ascendant,职业制霸零叁,Shaman,Restoration,healer,Barrens
+42,167.3,307721908,2,Mists of Tirna Scithe,2024-11-17T14:17:42.000Z,1689200,1800999,1,Xal'atath's Bargain: Ascendant,万众瞩目,Hunter,Survival,dps,Silver Hand
+42,167.3,307721908,2,Mists of Tirna Scithe,2024-11-17T14:17:42.000Z,1689200,1800999,1,Xal'atath's Bargain: Ascendant,地主家七少爷,Paladin,Protection,tank,Frostmourne

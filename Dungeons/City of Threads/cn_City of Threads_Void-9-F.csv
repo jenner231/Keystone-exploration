@@ -1,0 +1,476 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,310,305663242,9,City of Threads,2024-11-07T17:15:46.000Z,1105922,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",銀河小俊俊,Death Knight,Blood,tank,Uldaman
+1,310,305663242,9,City of Threads,2024-11-07T17:15:46.000Z,1105922,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",恶魔丶魂,Warlock,Demonology,dps,Eldre'Thalas
+1,310,305663242,9,City of Threads,2024-11-07T17:15:46.000Z,1105922,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丷艾利桑德,Paladin,Retribution,dps,Eldre'Thalas
+1,310,305663242,9,City of Threads,2024-11-07T17:15:46.000Z,1105922,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Factoyrat,Death Knight,Frost,dps,Eldre'Thalas
+1,310,305663242,9,City of Threads,2024-11-07T17:15:46.000Z,1105922,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",御宅人,Shaman,Restoration,healer,Eldre'Thalas
+2,310,305807217,9,City of Threads,2024-11-08T13:02:31.000Z,1313539,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丨虚渡彼岸丨,Warlock,Destruction,dps,Deathwing
+2,310,305807217,9,City of Threads,2024-11-08T13:02:31.000Z,1313539,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",阿正王,Paladin,Protection,tank,Deathwing
+2,310,305807217,9,City of Threads,2024-11-08T13:02:31.000Z,1313539,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",猪野大,Shaman,Restoration,healer,Deathwing
+2,310,305807217,9,City of Threads,2024-11-08T13:02:31.000Z,1313539,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",邮差,Shaman,Enhancement,dps,Deathwing
+2,310,305807217,9,City of Threads,2024-11-08T13:02:31.000Z,1313539,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",怀梦美少女,Shaman,Enhancement,dps,Deathwing
+3,309.8,305825232,9,City of Threads,2024-11-08T15:25:23.000Z,1324943,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",弦月灬梦影,Shaman,Restoration,healer,Theramore
+3,309.8,305825232,9,City of Threads,2024-11-08T15:25:23.000Z,1324943,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",牧雪逍遥,Priest,Shadow,dps,Theramore
+3,309.8,305825232,9,City of Threads,2024-11-08T15:25:23.000Z,1324943,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",忧郁紫调,Warlock,Destruction,dps,Silver Hand
+3,309.8,305825232,9,City of Threads,2024-11-08T15:25:23.000Z,1324943,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",里见光钻,Paladin,Protection,tank,The Master's Glaive
+3,309.8,305825232,9,City of Threads,2024-11-08T15:25:23.000Z,1324943,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",徐佳莹,Paladin,Retribution,dps,Shadowmourne
+4,308.3,306102170,9,City of Threads,2024-11-09T17:27:56.000Z,1415546,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",謎伢,Paladin,Retribution,dps,Barrens
+4,308.3,306102170,9,City of Threads,2024-11-09T17:27:56.000Z,1415546,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",根桑,Warrior,Protection,tank,Barrens
+4,308.3,306102170,9,City of Threads,2024-11-09T17:27:56.000Z,1415546,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",燚桑,Hunter,Survival,dps,Barrens
+4,308.3,306102170,9,City of Threads,2024-11-09T17:27:56.000Z,1415546,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",秋山丶澪,Rogue,Assassination,dps,Dreadmist Peak
+4,308.3,306102170,9,City of Threads,2024-11-09T17:27:56.000Z,1415546,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",罐头皮,Shaman,Restoration,healer,Zealot Blade
+5,308.2,306520203,9,City of Threads,2024-11-11T09:37:38.000Z,1422368,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",最爱吃肉德,Druid,Guardian,tank,Maim
+5,308.2,306520203,9,City of Threads,2024-11-11T09:37:38.000Z,1422368,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",最爱吃肉冰,Death Knight,Unholy,dps,Al'ar
+5,308.2,306520203,9,City of Threads,2024-11-11T09:37:38.000Z,1422368,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",最爱吃肉萨,Shaman,Restoration,healer,Al'ar
+5,308.2,306520203,9,City of Threads,2024-11-11T09:37:38.000Z,1422368,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",火舞情歌,Mage,Frost,dps,Anzu
+5,308.2,306520203,9,City of Threads,2024-11-11T09:37:38.000Z,1422368,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",醉是巫山秋,Paladin,Retribution,dps,The Golden Plains
+6,307,306401799,9,City of Threads,2024-11-10T20:13:55.000Z,1492131,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",玉桂狗,Priest,Discipline,healer,Chillwind Point
+6,307,306401799,9,City of Threads,2024-11-10T20:13:55.000Z,1492131,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Chely,Paladin,Retribution,dps,Kel'Thuzad
+6,307,306401799,9,City of Threads,2024-11-10T20:13:55.000Z,1492131,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",伤感鉈也,Evoker,Augmentation,dps,Al'ar
+6,307,306401799,9,City of Threads,2024-11-10T20:13:55.000Z,1492131,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",夜舞陵歌灬巅,Death Knight,Blood,tank,Anzu
+6,307,306401799,9,City of Threads,2024-11-10T20:13:55.000Z,1492131,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",人狠枪钢,Hunter,Marksmanship,dps,River Pride
+7,306.8,305989595,9,City of Threads,2024-11-09T04:01:00.000Z,1503373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我知道要进潜,Druid,Guardian,tank,Force of Elemental
+7,306.8,305989595,9,City of Threads,2024-11-09T04:01:00.000Z,1503373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Iott,Paladin,Retribution,dps,Anzu
+7,306.8,305989595,9,City of Threads,2024-11-09T04:01:00.000Z,1503373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Loottitans,Mage,Frost,dps,The Golden Plains
+7,306.8,305989595,9,City of Threads,2024-11-09T04:01:00.000Z,1503373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",流星兽丶,Priest,Discipline,healer,The Golden Plains
+7,306.8,305989595,9,City of Threads,2024-11-09T04:01:00.000Z,1503373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Ahuntor,Hunter,Survival,dps,The Golden Plains
+8,306.4,306014993,9,City of Threads,2024-11-09T07:19:27.000Z,1525942,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",緃橫丷泰贝特,Shaman,Restoration,healer,Burning Blade
+8,306.4,306014993,9,City of Threads,2024-11-09T07:19:27.000Z,1525942,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+8,306.4,306014993,9,City of Threads,2024-11-09T07:19:27.000Z,1525942,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",不过人间吖,Paladin,Retribution,dps,The Great Sea
+8,306.4,306014993,9,City of Threads,2024-11-09T07:19:27.000Z,1525942,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",挖吖挖吖挖,Druid,Guardian,tank,The Great Sea
+8,306.4,306014993,9,City of Threads,2024-11-09T07:19:27.000Z,1525942,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",臭蛋超人,Paladin,Retribution,dps,Shadowmourne
+9,305.9,306314724,9,City of Threads,2024-11-10T14:41:47.000Z,1553938,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",原子核可乐,Shaman,Restoration,healer,Pandaren
+9,305.9,306314724,9,City of Threads,2024-11-10T14:41:47.000Z,1553938,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",吃夜宵吗,Warlock,Destruction,dps,Deathwing
+9,305.9,306314724,9,City of Threads,2024-11-10T14:41:47.000Z,1553938,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",尾小尾,Paladin,Protection,tank,Pandaren
+9,305.9,306314724,9,City of Threads,2024-11-10T14:41:47.000Z,1553938,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",椒盐茶叶蛋,Shaman,Enhancement,dps,Deathwing
+9,305.9,306314724,9,City of Threads,2024-11-10T14:41:47.000Z,1553938,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",软汉,Paladin,Retribution,dps,Skettis
+10,305.7,306768961,9,City of Threads,2024-11-12T16:54:44.000Z,1568017,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",纤细的小蛮腰,Death Knight,Frost,dps,Turalyon
+10,305.7,306768961,9,City of Threads,2024-11-12T16:54:44.000Z,1568017,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",危危一笑,Paladin,Retribution,dps,Deathwing
+10,305.7,306768961,9,City of Threads,2024-11-12T16:54:44.000Z,1568017,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",諾伊,Priest,Discipline,healer,Dark Iron
+10,305.7,306768961,9,City of Threads,2024-11-12T16:54:44.000Z,1568017,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",橙子耍牛虻,Death Knight,Blood,tank,Emeriss
+10,305.7,306768961,9,City of Threads,2024-11-12T16:54:44.000Z,1568017,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",风火雷电丶,Shaman,Enhancement,dps,Dark Iron
+11,305.3,306509892,9,City of Threads,2024-11-11T07:52:25.000Z,1588305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",溫西尔奶骑,Paladin,Protection,tank,Deathwing
+11,305.3,306509892,9,City of Threads,2024-11-11T07:52:25.000Z,1588305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",瓜瓜多肉冻,Hunter,Beast Mastery,dps,Echo Ridge
+11,305.3,306509892,9,City of Threads,2024-11-11T07:52:25.000Z,1588305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",豹豹烧仙草,Shaman,Elemental,dps,Echo Ridge
+11,305.3,306509892,9,City of Threads,2024-11-11T07:52:25.000Z,1588305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",玖月廿二,Shaman,Restoration,healer,Echo Ridge
+11,305.3,306509892,9,City of Threads,2024-11-11T07:52:25.000Z,1588305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",织织公主,Rogue,Outlaw,dps,Echo Ridge
+12,304.4,306305160,9,City of Threads,2024-11-10T14:34:15.000Z,1640522,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",紫色有韵味,Evoker,Augmentation,dps,Zealot Blade
+12,304.4,306305160,9,City of Threads,2024-11-10T14:34:15.000Z,1640522,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶坍雪寒裘,Mage,Frost,dps,Arygos
+12,304.4,306305160,9,City of Threads,2024-11-10T14:34:15.000Z,1640522,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",擎熙,Paladin,Protection,tank,Al'ar
+12,304.4,306305160,9,City of Threads,2024-11-10T14:34:15.000Z,1640522,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",羅月亮,Warlock,Demonology,dps,Rhonin
+12,304.4,306305160,9,City of Threads,2024-11-10T14:34:15.000Z,1640522,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",能量灌注,Priest,Discipline,healer,Thunder Bluff
+13,304.1,306020754,9,City of Threads,2024-11-09T08:13:28.000Z,1656511,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",獸兽丶,Warrior,Protection,tank,Barrens
+13,304.1,306020754,9,City of Threads,2024-11-09T08:13:28.000Z,1656511,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",哈哟哟,Death Knight,Frost,dps,Barrens
+13,304.1,306020754,9,City of Threads,2024-11-09T08:13:28.000Z,1656511,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小番薯丶,Mage,Frost,dps,Eldre'Thalas
+13,304.1,306020754,9,City of Threads,2024-11-09T08:13:28.000Z,1656511,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",伊利思逐星,Paladin,Retribution,dps,Deathwing
+13,304.1,306020754,9,City of Threads,2024-11-09T08:13:28.000Z,1656511,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",神萨丶莫邪,Shaman,Restoration,healer,Barrens
+14,303.7,305825249,9,City of Threads,2024-11-08T15:25:50.000Z,1683427,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",岗哨图腾,Shaman,Restoration,healer,Isillien
+14,303.7,305825249,9,City of Threads,2024-11-08T15:25:50.000Z,1683427,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",阔乐乐,Rogue,Assassination,dps,Silver Hand
+14,303.7,305825249,9,City of Threads,2024-11-08T15:25:50.000Z,1683427,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",强效至圣斩,Paladin,Retribution,dps,Menethil
+14,303.7,305825249,9,City of Threads,2024-11-08T15:25:50.000Z,1683427,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",香精煎鱼,Paladin,Retribution,dps,Burning Blade
+14,303.7,305825249,9,City of Threads,2024-11-08T15:25:50.000Z,1683427,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",成田路,Paladin,Protection,tank,Isillien
+15,303.4,306287712,9,City of Threads,2024-11-10T11:51:55.000Z,1700989,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",亮的自然,Paladin,Retribution,dps,Valley of Kings
+15,303.4,306287712,9,City of Threads,2024-11-10T11:51:55.000Z,1700989,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",白凝冰,Death Knight,Frost,dps,Shadowmourne
+15,303.4,306287712,9,City of Threads,2024-11-10T11:51:55.000Z,1700989,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",生于凛冬,Death Knight,Blood,tank,Swiftwind
+15,303.4,306287712,9,City of Threads,2024-11-10T11:51:55.000Z,1700989,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",酒肉小和尚,Hunter,Beast Mastery,dps,Daggerspine
+15,303.4,306287712,9,City of Threads,2024-11-10T11:51:55.000Z,1700989,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",倾听轻唱,Shaman,Restoration,healer,Thoradin
+16,303.4,306088005,9,City of Threads,2024-11-09T16:12:28.000Z,1702430,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",回梦丿,Hunter,Survival,dps,Doomwalker
+16,303.4,306088005,9,City of Threads,2024-11-09T16:12:28.000Z,1702430,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",玉米卷儿,Shaman,Restoration,healer,Doomwalker
+16,303.4,306088005,9,City of Threads,2024-11-09T16:12:28.000Z,1702430,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",了了雄,Druid,Guardian,tank,Doomwalker
+16,303.4,306088005,9,City of Threads,2024-11-09T16:12:28.000Z,1702430,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我就是法神,Mage,Frost,dps,Doomwalker
+16,303.4,306088005,9,City of Threads,2024-11-09T16:12:28.000Z,1702430,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",佳莉丶,Paladin,Retribution,dps,Doomwalker
+17,303.1,306700997,9,City of Threads,2024-11-12T05:24:42.000Z,1715077,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",克星是行星,Priest,Discipline,healer,Burning Blade
+17,303.1,306700997,9,City of Threads,2024-11-12T05:24:42.000Z,1715077,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Ruu,Shaman,Enhancement,dps,Burning Blade
+17,303.1,306700997,9,City of Threads,2024-11-12T05:24:42.000Z,1715077,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",顶到了,Paladin,Retribution,dps,Burning Blade
+17,303.1,306700997,9,City of Threads,2024-11-12T05:24:42.000Z,1715077,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",魔王喵喵,Shaman,Enhancement,dps,Deathwing
+17,303.1,306700997,9,City of Threads,2024-11-12T05:24:42.000Z,1715077,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",尛缇缇,Druid,Guardian,tank,Rhonin
+18,302,306929703,9,City of Threads,2024-11-13T07:00:44.000Z,1784545,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",却邪,Warrior,Fury,dps,Rhonin
+18,302,306929703,9,City of Threads,2024-11-13T07:00:44.000Z,1784545,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",量鸽丶,Death Knight,Blood,tank,Al'ar
+18,302,306929703,9,City of Threads,2024-11-13T07:00:44.000Z,1784545,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",河原木桃香,Shaman,Enhancement,dps,Isillien
+18,302,306929703,9,City of Threads,2024-11-13T07:00:44.000Z,1784545,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",苟都不玩龙,Evoker,Preservation,healer,Shadowmourne
+18,302,306929703,9,City of Threads,2024-11-13T07:00:44.000Z,1784545,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",兔子是我的,Druid,Balance,dps,Zalazane
+19,301.9,306311278,9,City of Threads,2024-11-10T14:20:46.000Z,1787121,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",纾妤,Evoker,Augmentation,dps,Burning Blade
+19,301.9,306311278,9,City of Threads,2024-11-10T14:20:46.000Z,1787121,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",须晴日,Warrior,Protection,tank,Gadgetzan
+19,301.9,306311278,9,City of Threads,2024-11-10T14:20:46.000Z,1787121,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",晴妹萌三岁,Shaman,Elemental,dps,Al'ar
+19,301.9,306311278,9,City of Threads,2024-11-10T14:20:46.000Z,1787121,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",偏导,Shaman,Restoration,healer,Thunderlord
+19,301.9,306311278,9,City of Threads,2024-11-10T14:20:46.000Z,1787121,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",医學奇迹,Death Knight,Unholy,dps,Gadgetzan
+20,301.8,305601945,9,City of Threads,2024-11-07T08:18:50.000Z,1796574,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Shamanjoy,Shaman,Restoration,healer,Khadgar
+20,301.8,305601945,9,City of Threads,2024-11-07T08:18:50.000Z,1796574,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",吾为君亡,Warrior,Fury,dps,The Great Sea
+20,301.8,305601945,9,City of Threads,2024-11-07T08:18:50.000Z,1796574,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",雷小萨,Shaman,Enhancement,dps,Pandaren
+20,301.8,305601945,9,City of Threads,2024-11-07T08:18:50.000Z,1796574,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Fateorzi,Warrior,Protection,tank,Grim Batol
+20,301.8,305601945,9,City of Threads,2024-11-07T08:18:50.000Z,1796574,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Tulif,Paladin,Retribution,dps,Anzu
+21,300,306772289,9,City of Threads,2024-11-12T17:10:26.000Z,1901406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",逝水浮华,Paladin,Retribution,dps,Isillien
+21,300,306772289,9,City of Threads,2024-11-12T17:10:26.000Z,1901406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",大调萝莉,Warlock,Demonology,dps,Isillien
+21,300,306772289,9,City of Threads,2024-11-12T17:10:26.000Z,1901406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",聋聋龍,Evoker,Preservation,healer,Hectae
+21,300,306772289,9,City of Threads,2024-11-12T17:10:26.000Z,1901406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",雷霆红手牛,Shaman,Elemental,dps,Isillien
+21,300,306772289,9,City of Threads,2024-11-12T17:10:26.000Z,1901406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",半斤斑,Warrior,Protection,tank,Grim Batol
+22,299.4,305642384,9,City of Threads,2024-11-07T15:29:16.000Z,1933120,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",四点四十四,Shaman,Restoration,healer,Barrens
+22,299.4,305642384,9,City of Threads,2024-11-07T15:29:16.000Z,1933120,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",曳天东,Evoker,Augmentation,dps,Arygos
+22,299.4,305642384,9,City of Threads,2024-11-07T15:29:16.000Z,1933120,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",鸡叫进行曲,Paladin,Retribution,dps,Arygos
+22,299.4,305642384,9,City of Threads,2024-11-07T15:29:16.000Z,1933120,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",唯快不破丶,Warrior,Protection,tank,Arygos
+22,299.4,305642384,9,City of Threads,2024-11-07T15:29:16.000Z,1933120,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",阿古斯特納,Warrior,Fury,dps,Arygos
+23,297.1,306975021,9,City of Threads,2024-11-13T15:15:46.000Z,2067006,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",钓以清心,Rogue,Assassination,dps,Al'ar
+23,297.1,306975021,9,City of Threads,2024-11-13T15:15:46.000Z,2067006,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Noonp,Paladin,Protection,tank,Echo Ridge
+23,297.1,306975021,9,City of Threads,2024-11-13T15:15:46.000Z,2067006,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",河邊,Shaman,Enhancement,dps,Frostmourne
+23,297.1,306975021,9,City of Threads,2024-11-13T15:15:46.000Z,2067006,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",胖胆酒,Monk,Mistweaver,healer,Doomwalker
+23,297.1,306975021,9,City of Threads,2024-11-13T15:15:46.000Z,2067006,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Morriya,Shaman,Restoration,healer,Well of Eternity
+24,296.7,306234476,9,City of Threads,2024-11-10T04:13:23.000Z,2093573,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Guillemot,Druid,Guardian,tank,Grim Batol
+24,296.7,306234476,9,City of Threads,2024-11-10T04:13:23.000Z,2093573,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",圣丶塞勒斯汀,Death Knight,Frost,dps,Rhonin
+24,296.7,306234476,9,City of Threads,2024-11-10T04:13:23.000Z,2093573,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",银色战戈,Paladin,Retribution,dps,Grim Batol
+24,296.7,306234476,9,City of Threads,2024-11-10T04:13:23.000Z,2093573,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",旺仔大咪眯,Shaman,Restoration,healer,Rhonin
+24,296.7,306234476,9,City of Threads,2024-11-10T04:13:23.000Z,2093573,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",空白记忆,Mage,Frost,dps,Silver Hand
+25,296.6,306578236,9,City of Threads,2024-11-11T17:35:10.000Z,2098406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",饥灵鬼,Warrior,Fury,dps,Al'ar
+25,296.6,306578236,9,City of Threads,2024-11-11T17:35:10.000Z,2098406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",冰激凌匠人,Warrior,Protection,tank,Deathwing
+25,296.6,306578236,9,City of Threads,2024-11-11T17:35:10.000Z,2098406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",伊利达雷突然,Demon Hunter,Havoc,dps,The Great Sea
+25,296.6,306578236,9,City of Threads,2024-11-11T17:35:10.000Z,2098406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",可耐耐,Shaman,Restoration,healer,Aessina
+25,296.6,306578236,9,City of Threads,2024-11-11T17:35:10.000Z,2098406,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",贞柟卄,Death Knight,Unholy,dps,Al'ar
+26,295.6,306218987,9,City of Threads,2024-11-10T02:30:49.000Z,2156755,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+26,295.6,306218987,9,City of Threads,2024-11-10T02:30:49.000Z,2156755,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",做做任务,Monk,Windwalker,dps,Rhonin
+26,295.6,306218987,9,City of Threads,2024-11-10T02:30:49.000Z,2156755,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",能萨就萨,Shaman,Enhancement,dps,Shadowmourne
+26,295.6,306218987,9,City of Threads,2024-11-10T02:30:49.000Z,2156755,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",迷你月灼,Shaman,Elemental,dps,Burning Blade
+26,295.6,306218987,9,City of Threads,2024-11-10T02:30:49.000Z,2156755,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",利姆露呀,Priest,Discipline,healer,Burning Blade
+27,295.4,305553947,9,City of Threads,2024-11-07T01:25:52.000Z,2164933,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",牧瞳,Priest,Discipline,healer,Deathwing
+27,295.4,305553947,9,City of Threads,2024-11-07T01:25:52.000Z,2164933,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",潘多拉之语,Warlock,Demonology,dps,Anzu
+27,295.4,305553947,9,City of Threads,2024-11-07T01:25:52.000Z,2164933,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",霏云朵朵,Mage,Frost,dps,Grim Batol
+27,295.4,305553947,9,City of Threads,2024-11-07T01:25:52.000Z,2164933,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小皓子子,Rogue,Assassination,dps,Deathwing
+27,295.4,305553947,9,City of Threads,2024-11-07T01:25:52.000Z,2164933,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",美丽一梦幻,Paladin,Protection,tank,Al'ar
+28,295,306495854,8,City of Threads,2024-11-11T05:02:33.000Z,1204127,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+28,295,306495854,8,City of Threads,2024-11-11T05:02:33.000Z,1204127,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+28,295,306495854,8,City of Threads,2024-11-11T05:02:33.000Z,1204127,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",闪光绿毛虫丶,Hunter,Survival,dps,Al'ar
+28,295,306495854,8,City of Threads,2024-11-11T05:02:33.000Z,1204127,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",迷你月灼,Shaman,Elemental,dps,Burning Blade
+28,295,306495854,8,City of Threads,2024-11-11T05:02:33.000Z,1204127,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",利姆露呀,Priest,Discipline,healer,Burning Blade
+29,295,306042515,8,City of Threads,2024-11-09T11:39:28.000Z,1252477,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",未见天,Priest,Discipline,healer,Deathwing
+29,295,306042515,8,City of Threads,2024-11-09T11:39:28.000Z,1252477,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",老河馬,Death Knight,Unholy,dps,Shadowmourne
+29,295,306042515,8,City of Threads,2024-11-09T11:39:28.000Z,1252477,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",茉莉綠茶,Warrior,Protection,tank,Burning Blade
+29,295,306042515,8,City of Threads,2024-11-09T11:39:28.000Z,1252477,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",一缕清风,Mage,Frost,dps,Gnomeregan
+29,295,306042515,8,City of Threads,2024-11-09T11:39:28.000Z,1252477,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",红尘闲语,Death Knight,Frost,dps,Scarlet Crusade
+30,295,306036600,8,City of Threads,2024-11-09T10:49:37.000Z,1265101,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",榆落无情,Hunter,Survival,dps,Frostmane
+30,295,306036600,8,City of Threads,2024-11-09T10:49:37.000Z,1265101,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",粉色好友,Paladin,Retribution,dps,Frostmane
+30,295,306036600,8,City of Threads,2024-11-09T10:49:37.000Z,1265101,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",蟑嘴痴史,Priest,Discipline,healer,Frostmane
+30,295,306036600,8,City of Threads,2024-11-09T10:49:37.000Z,1265101,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",幸运小红手,Death Knight,Blood,tank,Frostmane
+30,295,306036600,8,City of Threads,2024-11-09T10:49:37.000Z,1265101,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我有一根大棒,Shaman,Enhancement,dps,Karazhan
+31,295,305589581,8,City of Threads,2024-11-07T05:45:45.000Z,1289592,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",铁丶汉,Mage,Frost,dps,Burning Blade
+31,295,305589581,8,City of Threads,2024-11-07T05:45:45.000Z,1289592,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",乄轨跡,Demon Hunter,Vengeance,tank,Silver Hand
+31,295,305589581,8,City of Threads,2024-11-07T05:45:45.000Z,1289592,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Alicé,Mage,Frost,dps,The Master's Glaive
+31,295,305589581,8,City of Threads,2024-11-07T05:45:45.000Z,1289592,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",六元丶,Priest,Discipline,healer,Al'ar
+31,295,305589581,8,City of Threads,2024-11-07T05:45:45.000Z,1289592,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",马牧,Priest,Discipline,healer,Grim Batol
+32,295,306469543,8,City of Threads,2024-11-11T01:43:56.000Z,1304677,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小雯同学丶,Paladin,Protection,tank,Anzu
+32,295,306469543,8,City of Threads,2024-11-11T01:43:56.000Z,1304677,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",足可踏星辉,Paladin,Retribution,dps,Deathwing
+32,295,306469543,8,City of Threads,2024-11-11T01:43:56.000Z,1304677,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",紫色松鼠霸主,Warlock,Destruction,dps,The Master's Glaive
+32,295,306469543,8,City of Threads,2024-11-11T01:43:56.000Z,1304677,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",瞎转儿,Hunter,Survival,dps,Shadowmourne
+32,295,306469543,8,City of Threads,2024-11-11T01:43:56.000Z,1304677,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",撕网之意,Priest,Discipline,healer,Deathwing
+33,294.4,305794263,8,City of Threads,2024-11-08T10:57:25.000Z,1348454,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",临青,Priest,Discipline,healer,Burning Blade
+33,294.4,305794263,8,City of Threads,2024-11-08T10:57:25.000Z,1348454,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",纾妤,Evoker,Augmentation,dps,Burning Blade
+33,294.4,305794263,8,City of Threads,2024-11-08T10:57:25.000Z,1348454,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",四诗风雅颂,Paladin,Retribution,dps,Deathwing
+33,294.4,305794263,8,City of Threads,2024-11-08T10:57:25.000Z,1348454,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",眼盲大侠,Demon Hunter,Vengeance,tank,Uldaman
+33,294.4,305794263,8,City of Threads,2024-11-08T10:57:25.000Z,1348454,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",钢铁圣骑,Paladin,Retribution,dps,Demon Soul
+34,294.2,305805154,8,City of Threads,2024-11-08T12:55:31.000Z,1364047,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+34,294.2,305805154,8,City of Threads,2024-11-08T12:55:31.000Z,1364047,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",糖炒布袋,Paladin,Retribution,dps,Shadowmourne
+34,294.2,305805154,8,City of Threads,2024-11-08T12:55:31.000Z,1364047,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小猪皇后,Demon Hunter,Vengeance,tank,Valley of Kings
+34,294.2,305805154,8,City of Threads,2024-11-08T12:55:31.000Z,1364047,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",秘制烤龙蜥,Evoker,Augmentation,dps,Shadowmourne
+34,294.2,305805154,8,City of Threads,2024-11-08T12:55:31.000Z,1364047,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",爪萨,Shaman,Enhancement,dps,Valley of Kings
+35,293.9,306030108,8,City of Threads,2024-11-09T09:46:34.000Z,1381404,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",粉色好友,Paladin,Retribution,dps,Frostmane
+35,293.9,306030108,8,City of Threads,2024-11-09T09:46:34.000Z,1381404,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",蟑嘴痴史,Priest,Discipline,healer,Frostmane
+35,293.9,306030108,8,City of Threads,2024-11-09T09:46:34.000Z,1381404,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",信仰圣光临,Paladin,Retribution,dps,Eldre'Thalas
+35,293.9,306030108,8,City of Threads,2024-11-09T09:46:34.000Z,1381404,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",幸运小红手,Death Knight,Blood,tank,Frostmane
+35,293.9,306030108,8,City of Threads,2024-11-09T09:46:34.000Z,1381404,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",雪莉诺姆,Mage,Frost,dps,Eldre'Thalas
+36,293.4,306079975,8,City of Threads,2024-11-07T06:42:56.000Z,1409734,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",吖菊,Druid,Restoration,healer,Silver Hand
+36,293.4,306079975,8,City of Threads,2024-11-07T06:42:56.000Z,1409734,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",不得真假丶,Demon Hunter,Havoc,dps,Silver Hand
+36,293.4,306079975,8,City of Threads,2024-11-07T06:42:56.000Z,1409734,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+36,293.4,306079975,8,City of Threads,2024-11-07T06:42:56.000Z,1409734,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",風靡萬歲,Druid,Guardian,tank,Al'ar
+36,293.4,306079975,8,City of Threads,2024-11-07T06:42:56.000Z,1409734,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",喵之猫,Rogue,Assassination,dps,Thaurissan
+37,293.1,306969100,8,City of Threads,2024-11-13T14:52:20.000Z,1423462,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",修绵丶,Hunter,Survival,dps,Isillien
+37,293.1,306969100,8,City of Threads,2024-11-13T14:52:20.000Z,1423462,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Abyssfan,Death Knight,Frost,dps,Holy Chanter
+37,293.1,306969100,8,City of Threads,2024-11-13T14:52:20.000Z,1423462,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",随小风,Druid,Guardian,tank,Isillien
+37,293.1,306969100,8,City of Threads,2024-11-13T14:52:20.000Z,1423462,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",筱丨雨,Warrior,Fury,dps,Isillien
+37,293.1,306969100,8,City of Threads,2024-11-13T14:52:20.000Z,1423462,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",无玄月,Shaman,Restoration,healer,Anzu
+38,293.1,306091765,8,City of Threads,2024-11-09T18:12:29.000Z,1425271,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+38,293.1,306091765,8,City of Threads,2024-11-09T18:12:29.000Z,1425271,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+38,293.1,306091765,8,City of Threads,2024-11-09T18:12:29.000Z,1425271,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",李火旺丶,Death Knight,Blood,tank,Chillwind Point
+38,293.1,306091765,8,City of Threads,2024-11-09T18:12:29.000Z,1425271,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",鸡丶蘑菇,Death Knight,Frost,dps,Shadowmourne
+38,293.1,306091765,8,City of Threads,2024-11-09T18:12:29.000Z,1425271,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",虚空飞狗,Death Knight,Unholy,dps,Rhonin
+39,292.7,306299662,8,City of Threads,2024-11-10T13:20:38.000Z,1447930,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",泷泽丶萝拉,Warrior,Protection,tank,Deathwing
+39,292.7,306299662,8,City of Threads,2024-11-10T13:20:38.000Z,1447930,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",苇名弦一勆,Shaman,Enhancement,dps,Deathwing
+39,292.7,306299662,8,City of Threads,2024-11-10T13:20:38.000Z,1447930,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",鸿运丨晨卷毛,Paladin,Retribution,dps,Deathwing
+39,292.7,306299662,8,City of Threads,2024-11-10T13:20:38.000Z,1447930,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",尼克斯丶,Priest,Discipline,healer,Isillien
+39,292.7,306299662,8,City of Threads,2024-11-10T13:20:38.000Z,1447930,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",耶梦小法,Mage,Frost,dps,Lightning's Blade
+40,292.6,305628016,8,City of Threads,2024-11-07T13:31:14.000Z,1453305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",朵桑,Priest,Holy,healer,Barrens
+40,292.6,305628016,8,City of Threads,2024-11-07T13:31:14.000Z,1453305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Isva,Paladin,Retribution,dps,Deathwing
+40,292.6,305628016,8,City of Threads,2024-11-07T13:31:14.000Z,1453305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",下一秒是冬天,Hunter,Beast Mastery,dps,Barrens
+40,292.6,305628016,8,City of Threads,2024-11-07T13:31:14.000Z,1453305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",你是我的,Paladin,Protection,tank,Barrens
+40,292.6,305628016,8,City of Threads,2024-11-07T13:31:14.000Z,1453305,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",秋山丶澪,Rogue,Assassination,dps,Dreadmist Peak
+41,292.6,306931746,8,City of Threads,2024-11-13T07:26:38.000Z,1455417,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",那就叫小德八,Druid,Guardian,tank,Anzu
+41,292.6,306931746,8,City of Threads,2024-11-13T07:26:38.000Z,1455417,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",亅某某人亅,Hunter,Survival,dps,Warsong
+41,292.6,306931746,8,City of Threads,2024-11-13T07:26:38.000Z,1455417,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",聪明的肉肉,Priest,Shadow,dps,Silverpine Forest
+41,292.6,306931746,8,City of Threads,2024-11-13T07:26:38.000Z,1455417,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",哥哥真坏,Warlock,Demonology,dps,Hectae
+41,292.6,306931746,8,City of Threads,2024-11-13T07:26:38.000Z,1455417,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",树影点墨,Priest,Discipline,healer,Pandaren
+42,292.6,306003360,8,City of Threads,2024-11-09T05:49:47.000Z,1457533,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",奥特之星,Death Knight,Blood,tank,Isillien
+42,292.6,306003360,8,City of Threads,2024-11-09T05:49:47.000Z,1457533,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",筱丶七七,Shaman,Restoration,healer,Al'ar
+42,292.6,306003360,8,City of Threads,2024-11-09T05:49:47.000Z,1457533,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",汉子,Paladin,Retribution,dps,Icecrown
+42,292.6,306003360,8,City of Threads,2024-11-09T05:49:47.000Z,1457533,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Falmagna,Mage,Frost,dps,Al'ar
+42,292.6,306003360,8,City of Threads,2024-11-09T05:49:47.000Z,1457533,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",情天亦老,Warlock,Destruction,dps,Holy Chanter
+43,291.8,306543862,8,City of Threads,2024-11-11T13:46:29.000Z,1499102,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",颜北战,Warrior,Protection,tank,Burning Blade
+43,291.8,306543862,8,City of Threads,2024-11-11T13:46:29.000Z,1499102,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",空城空梦,Priest,Discipline,healer,Abbendis
+43,291.8,306543862,8,City of Threads,2024-11-11T13:46:29.000Z,1499102,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",老衲灯泡,Warlock,Destruction,dps,Deathwing
+43,291.8,306543862,8,City of Threads,2024-11-11T13:46:29.000Z,1499102,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",陈杰奇,Paladin,Retribution,dps,Chillwind Point
+43,291.8,306543862,8,City of Threads,2024-11-11T13:46:29.000Z,1499102,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",家有萌宝培酱,Paladin,Retribution,dps,Shadowmoon
+44,291.5,306311203,8,City of Threads,2024-11-10T14:20:22.000Z,1516551,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Ashtoangle,Demon Hunter,Vengeance,tank,Barrens
+44,291.5,306311203,8,City of Threads,2024-11-10T14:20:22.000Z,1516551,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",秃噜皮,Shaman,Restoration,healer,Mal'Ganis
+44,291.5,306311203,8,City of Threads,2024-11-10T14:20:22.000Z,1516551,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",虹色雨,Paladin,Retribution,dps,Barrens
+44,291.5,306311203,8,City of Threads,2024-11-10T14:20:22.000Z,1516551,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",幻吹雪,Hunter,Beast Mastery,dps,Barrens
+44,291.5,306311203,8,City of Threads,2024-11-10T14:20:22.000Z,1516551,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",慕汝,Evoker,Augmentation,dps,Barrens
+45,291.1,306525774,8,City of Threads,2024-11-11T10:35:48.000Z,1544001,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Onas,Druid,Balance,dps,Al'ar
+45,291.1,306525774,8,City of Threads,2024-11-11T10:35:48.000Z,1544001,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Maybedrg,Evoker,Augmentation,dps,Al'ar
+45,291.1,306525774,8,City of Threads,2024-11-11T10:35:48.000Z,1544001,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",东北一腿毛,Paladin,Retribution,dps,Chillwind Point
+45,291.1,306525774,8,City of Threads,2024-11-11T10:35:48.000Z,1544001,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",余生只愿微笑,Paladin,Protection,tank,The Great Sea
+45,291.1,306525774,8,City of Threads,2024-11-11T10:35:48.000Z,1544001,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",社会邊角料,Shaman,Restoration,healer,Anzu
+46,290.8,306536443,8,City of Threads,2024-11-11T12:27:14.000Z,1560909,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",阿瓦隆剑神,Paladin,Retribution,dps,Burning Blade
+46,290.8,306536443,8,City of Threads,2024-11-11T12:27:14.000Z,1560909,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",虎鲸趴趴,Priest,Discipline,healer,Silver Hand
+46,290.8,306536443,8,City of Threads,2024-11-11T12:27:14.000Z,1560909,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",荒芜天地,Mage,Frost,dps,Skettis
+46,290.8,306536443,8,City of Threads,2024-11-11T12:27:14.000Z,1560909,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",美羊羊,Paladin,Retribution,dps,Danath Trollbane
+46,290.8,306536443,8,City of Threads,2024-11-11T12:27:14.000Z,1560909,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",诸凡顺遂,Paladin,Protection,tank,Isillien
+47,290.6,306029484,8,City of Threads,2024-11-09T09:39:41.000Z,1568875,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",粪插,Shaman,Restoration,healer,Azshara
+47,290.6,306029484,8,City of Threads,2024-11-09T09:39:41.000Z,1568875,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",碳烤大香肠,Rogue,Assassination,dps,Al'ar
+47,290.6,306029484,8,City of Threads,2024-11-09T09:39:41.000Z,1568875,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",极恶中队丿,Warlock,Demonology,dps,Al'ar
+47,290.6,306029484,8,City of Threads,2024-11-09T09:39:41.000Z,1568875,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",太胖卡冲钅,Warrior,Protection,tank,Silver Hand
+47,290.6,306029484,8,City of Threads,2024-11-09T09:39:41.000Z,1568875,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",夏虫,Priest,Shadow,dps,Pandaren
+48,290.6,305809470,8,City of Threads,2024-11-08T13:29:53.000Z,1568968,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",覌丶海,Rogue,Assassination,dps,Isillien
+48,290.6,305809470,8,City of Threads,2024-11-08T13:29:53.000Z,1568968,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小叶子啊,Druid,Restoration,healer,Rhonin
+48,290.6,305809470,8,City of Threads,2024-11-08T13:29:53.000Z,1568968,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",稀饭曷水,Demon Hunter,Vengeance,tank,The Master's Glaive
+48,290.6,305809470,8,City of Threads,2024-11-08T13:29:53.000Z,1568968,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",捷卡林娜,Demon Hunter,Havoc,dps,The Great Sea
+48,290.6,305809470,8,City of Threads,2024-11-08T13:29:53.000Z,1568968,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",纱田奈丶,Rogue,Assassination,dps,Rhonin
+49,290.6,306922465,8,City of Threads,2024-11-13T05:30:55.000Z,1572653,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",暗影冲撞,Priest,Shadow,dps,Illidan
+49,290.6,306922465,8,City of Threads,2024-11-13T05:30:55.000Z,1572653,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Blamaxx,Monk,Mistweaver,healer,Gazlowe
+49,290.6,306922465,8,City of Threads,2024-11-13T05:30:55.000Z,1572653,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",叮噹柒,Paladin,Retribution,dps,Silver Hand
+49,290.6,306922465,8,City of Threads,2024-11-13T05:30:55.000Z,1572653,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",天堂丶昱昱,Paladin,Protection,tank,Echo Ridge
+49,290.6,306922465,8,City of Threads,2024-11-13T05:30:55.000Z,1572653,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",君君小可爱丫,Paladin,Retribution,dps,Anzu
+50,290.5,306020546,8,City of Threads,2024-11-09T08:12:17.000Z,1576957,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",羽前京香,Death Knight,Unholy,dps,Galakrond
+50,290.5,306020546,8,City of Threads,2024-11-09T08:12:17.000Z,1576957,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",冰镇丶可乐,Warrior,Protection,tank,Swiftwind
+50,290.5,306020546,8,City of Threads,2024-11-09T08:12:17.000Z,1576957,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",乘君,Shaman,Restoration,healer,Well of Eternity
+50,290.5,306020546,8,City of Threads,2024-11-09T08:12:17.000Z,1576957,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Hades,Death Knight,Frost,dps,Well of Eternity
+50,290.5,306020546,8,City of Threads,2024-11-09T08:12:17.000Z,1576957,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",出师表参下,Mage,Frost,dps,Silver Hand
+51,290.5,306955693,8,City of Threads,2024-11-13T14:07:22.000Z,1579373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Jdogt,Paladin,Protection,tank,Holy Chanter
+51,290.5,306955693,8,City of Threads,2024-11-13T14:07:22.000Z,1579373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Lastdragun,Evoker,Preservation,healer,Holy Chanter
+51,290.5,306955693,8,City of Threads,2024-11-13T14:07:22.000Z,1579373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Multiflora,Druid,Balance,dps,Holy Chanter
+51,290.5,306955693,8,City of Threads,2024-11-13T14:07:22.000Z,1579373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",粉红时代,Paladin,Retribution,dps,Holy Chanter
+51,290.5,306955693,8,City of Threads,2024-11-13T14:07:22.000Z,1579373,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Jest,Paladin,Retribution,dps,Holy Chanter
+52,289.6,306043828,8,City of Threads,2024-11-09T14:00:55.000Z,1629641,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",雷霆队长,Shaman,Enhancement,dps,Deathwing
+52,289.6,306043828,8,City of Threads,2024-11-09T14:00:55.000Z,1629641,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",埃及小面包,Shaman,Elemental,dps,Deathwing
+52,289.6,306043828,8,City of Threads,2024-11-09T14:00:55.000Z,1629641,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",圣光丶大表哥,Paladin,Protection,tank,Isillien
+52,289.6,306043828,8,City of Threads,2024-11-09T14:00:55.000Z,1629641,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",与时舒卷丶,Shaman,Enhancement,dps,Al'ar
+52,289.6,306043828,8,City of Threads,2024-11-09T14:00:55.000Z,1629641,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",北急熊,Priest,Discipline,healer,Deathwing
+53,289.6,306767285,8,City of Threads,2024-11-12T16:37:45.000Z,1632093,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+53,289.6,306767285,8,City of Threads,2024-11-12T16:37:45.000Z,1632093,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",奇士,Monk,Mistweaver,healer,Blackhand
+53,289.6,306767285,8,City of Threads,2024-11-12T16:37:45.000Z,1632093,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",上古邪寒,Death Knight,Unholy,dps,Deathwing
+53,289.6,306767285,8,City of Threads,2024-11-12T16:37:45.000Z,1632093,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",格尔曼的门徒,Hunter,Marksmanship,dps,Frostwolf
+53,289.6,306767285,8,City of Threads,2024-11-12T16:37:45.000Z,1632093,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",峻熙,Warrior,Protection,tank,The Great Sea
+54,289.5,306725458,8,City of Threads,2024-11-12T10:01:03.000Z,1637162,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",野性风打,Shaman,Enhancement,dps,The Great Sea
+54,289.5,306725458,8,City of Threads,2024-11-12T10:01:03.000Z,1637162,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",前面欧巴猛猪,Priest,Discipline,healer,Hellscream
+54,289.5,306725458,8,City of Threads,2024-11-12T10:01:03.000Z,1637162,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小柠柠,Paladin,Retribution,dps,Peak of Serenity
+54,289.5,306725458,8,City of Threads,2024-11-12T10:01:03.000Z,1637162,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",兽式主战炮灰,Warrior,Protection,tank,Barrens
+54,289.5,306725458,8,City of Threads,2024-11-12T10:01:03.000Z,1637162,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",魌魌,Hunter,Survival,dps,The Mechanar
+55,289.5,305817856,8,City of Threads,2024-11-08T14:54:57.000Z,1638518,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",叶瀏,Rogue,Outlaw,dps,Echo Ridge
+55,289.5,305817856,8,City of Threads,2024-11-08T14:54:57.000Z,1638518,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",旺仔,Paladin,Retribution,dps,Al'ar
+55,289.5,305817856,8,City of Threads,2024-11-08T14:54:57.000Z,1638518,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",湮灭大领主,Death Knight,Blood,tank,Deathwing
+55,289.5,305817856,8,City of Threads,2024-11-08T14:54:57.000Z,1638518,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",一锤哥,Paladin,Retribution,dps,Al'ar
+55,289.5,305817856,8,City of Threads,2024-11-08T14:54:57.000Z,1638518,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",萬能開罐器,Shaman,Restoration,healer,Demon Soul
+56,289.2,305815057,8,City of Threads,2024-11-08T14:15:02.000Z,1651061,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",不萌小法,Mage,Frost,dps,The Master's Glaive
+56,289.2,305815057,8,City of Threads,2024-11-08T14:15:02.000Z,1651061,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",沫夕,Hunter,Survival,dps,Azjol-Nerub
+56,289.2,305815057,8,City of Threads,2024-11-08T14:15:02.000Z,1651061,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",牢狱瘾卿,Warrior,Arms,dps,Scarlet Crusade
+56,289.2,305815057,8,City of Threads,2024-11-08T14:15:02.000Z,1651061,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",海盐奶咖,Priest,Discipline,healer,The Master's Glaive
+56,289.2,305815057,8,City of Threads,2024-11-08T14:15:02.000Z,1651061,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",不萌蛋蛋,Demon Hunter,Vengeance,tank,The Master's Glaive
+57,289,306253433,8,City of Threads,2024-11-10T08:36:33.000Z,1664611,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",斗鱼柒拾丶,Paladin,Holy,healer,Anzu
+57,289,306253433,8,City of Threads,2024-11-10T08:36:33.000Z,1664611,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",静娈,Paladin,Protection,tank,Anzu
+57,289,306253433,8,City of Threads,2024-11-10T08:36:33.000Z,1664611,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",奔雷手雯泰莱,Death Knight,Frost,dps,Anzu
+57,289,306253433,8,City of Threads,2024-11-10T08:36:33.000Z,1664611,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",淡然冰风,Paladin,Retribution,dps,Anzu
+57,289,306253433,8,City of Threads,2024-11-10T08:36:33.000Z,1664611,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Mosasaur,Paladin,Protection,tank,Anzu
+58,288.8,306742565,8,City of Threads,2024-11-12T13:11:34.000Z,1676800,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",枯藤,Priest,Discipline,healer,Drak'Tharon
+58,288.8,306742565,8,City of Threads,2024-11-12T13:11:34.000Z,1676800,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",崩裂重伤,Warrior,Fury,dps,Shadowmourne
+58,288.8,306742565,8,City of Threads,2024-11-12T13:11:34.000Z,1676800,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",摸鱼僧人,Monk,Brewmaster,tank,Al'ar
+58,288.8,306742565,8,City of Threads,2024-11-12T13:11:34.000Z,1676800,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",华灯爱,Hunter,Survival,dps,Silver Hand
+58,288.8,306742565,8,City of Threads,2024-11-12T13:11:34.000Z,1676800,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Laby,Paladin,Retribution,dps,The Mechanar
+59,288.8,306092886,8,City of Threads,2024-11-09T16:55:00.000Z,1678884,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",夜氵未央,Paladin,Retribution,dps,Lightning's Blade
+59,288.8,306092886,8,City of Threads,2024-11-09T16:55:00.000Z,1678884,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶白昼为思,Paladin,Retribution,dps,Burning Blade
+59,288.8,306092886,8,City of Threads,2024-11-09T16:55:00.000Z,1678884,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",玛露兮尔,Death Knight,Unholy,dps,Frostmourne
+59,288.8,306092886,8,City of Threads,2024-11-09T16:55:00.000Z,1678884,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Ljungbergpa,Paladin,Protection,tank,Pandaren
+59,288.8,306092886,8,City of Threads,2024-11-09T16:55:00.000Z,1678884,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",瞌睡嘻嘻,Priest,Discipline,healer,Pandaren
+60,288.6,305788902,8,City of Threads,2024-11-08T09:45:02.000Z,1689169,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",把爷爷藏起来,Druid,Balance,dps,Kel'Thuzad
+60,288.6,305788902,8,City of Threads,2024-11-08T09:45:02.000Z,1689169,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",椎名乄真白,Demon Hunter,Vengeance,tank,Kel'Thuzad
+60,288.6,305788902,8,City of Threads,2024-11-08T09:45:02.000Z,1689169,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我先来,Hunter,Survival,dps,The Golden Plains
+60,288.6,305788902,8,City of Threads,2024-11-08T09:45:02.000Z,1689169,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶二队奶骑,Shaman,Restoration,healer,Anzu
+60,288.6,305788902,8,City of Threads,2024-11-08T09:45:02.000Z,1689169,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",花花繁华,Paladin,Retribution,dps,Grim Batol
+61,288.5,306221819,8,City of Threads,2024-11-10T03:00:10.000Z,1693839,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",不会治疗的萌,Shaman,Restoration,healer,Blanchard
+61,288.5,306221819,8,City of Threads,2024-11-10T03:00:10.000Z,1693839,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",渺念,Mage,Frost,dps,Blanchard
+61,288.5,306221819,8,City of Threads,2024-11-10T03:00:10.000Z,1693839,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",鱼面巾,Paladin,Protection,tank,Blanchard
+61,288.5,306221819,8,City of Threads,2024-11-10T03:00:10.000Z,1693839,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",太纯不做评价,Shaman,Enhancement,dps,Silver Hand
+61,288.5,306221819,8,City of Threads,2024-11-10T03:00:10.000Z,1693839,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",嗷嗷丶,Evoker,Augmentation,dps,Eldre'Thalas
+62,288.5,306543507,8,City of Threads,2024-11-11T13:39:45.000Z,1695265,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",牧云清歌丿丶,Hunter,Beast Mastery,dps,Chillwind Point
+62,288.5,306543507,8,City of Threads,2024-11-11T13:39:45.000Z,1695265,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",虎鲸趴趴,Priest,Discipline,healer,Silver Hand
+62,288.5,306543507,8,City of Threads,2024-11-11T13:39:45.000Z,1695265,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",One,Shaman,Elemental,dps,Lushwater Oasis
+62,288.5,306543507,8,City of Threads,2024-11-11T13:39:45.000Z,1695265,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",孤山戎,Warrior,Protection,tank,Barrens
+62,288.5,306543507,8,City of Threads,2024-11-11T13:39:45.000Z,1695265,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",奉天逍遥,Paladin,Retribution,dps,Lushwater Oasis
+63,288.5,305753554,8,City of Threads,2024-11-08T03:13:52.000Z,1695341,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",龙哥之魂,Priest,Discipline,healer,Deathwing
+63,288.5,305753554,8,City of Threads,2024-11-08T03:13:52.000Z,1695341,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",糖牧牧德,Druid,Guardian,tank,Burning Blade
+63,288.5,305753554,8,City of Threads,2024-11-08T03:13:52.000Z,1695341,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",魅仙,Shaman,Enhancement,dps,The Great Sea
+63,288.5,305753554,8,City of Threads,2024-11-08T03:13:52.000Z,1695341,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",但丁说灬,Death Knight,Unholy,dps,Blue Dragonflight
+63,288.5,305753554,8,City of Threads,2024-11-08T03:13:52.000Z,1695341,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",迎风脱裤衩,Warrior,Fury,dps,Dream Bough
+64,288.5,306350027,8,City of Threads,2024-11-10T16:03:42.000Z,1696789,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",没睡够的人,Hunter,Marksmanship,dps,Barrens
+64,288.5,306350027,8,City of Threads,2024-11-10T16:03:42.000Z,1696789,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Ashtoangle,Demon Hunter,Vengeance,tank,Barrens
+64,288.5,306350027,8,City of Threads,2024-11-10T16:03:42.000Z,1696789,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",云梦诗雨,Shaman,Enhancement,dps,Burning Blade
+64,288.5,306350027,8,City of Threads,2024-11-10T16:03:42.000Z,1696789,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",慕汝,Evoker,Augmentation,dps,Barrens
+64,288.5,306350027,8,City of Threads,2024-11-10T16:03:42.000Z,1696789,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",无限远点,Shaman,Restoration,healer,Silver Hand
+65,288.4,306252692,8,City of Threads,2024-11-10T06:55:57.000Z,1698619,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",叶瀏,Rogue,Outlaw,dps,Echo Ridge
+65,288.4,306252692,8,City of Threads,2024-11-10T06:55:57.000Z,1698619,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",陶瓷的脚,Druid,Restoration,healer,Illidan
+65,288.4,306252692,8,City of Threads,2024-11-10T06:55:57.000Z,1698619,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",杨茂春杨主任,Shaman,Elemental,dps,Valley of Kings
+65,288.4,306252692,8,City of Threads,2024-11-10T06:55:57.000Z,1698619,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",大卵泡,Paladin,Retribution,dps,Illidan
+65,288.4,306252692,8,City of Threads,2024-11-10T06:55:57.000Z,1698619,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",三味,Paladin,Protection,tank,Rhonin
+66,288.1,306547662,8,City of Threads,2024-11-11T14:11:11.000Z,1715413,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",夏侯摇头,Druid,Balance,dps,Al'ar
+66,288.1,306547662,8,City of Threads,2024-11-11T14:11:11.000Z,1715413,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶礼弥,Paladin,Retribution,dps,Bladefist
+66,288.1,306547662,8,City of Threads,2024-11-11T14:11:11.000Z,1715413,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",昏沉无声,Warrior,Protection,tank,Al'ar
+66,288.1,306547662,8,City of Threads,2024-11-11T14:11:11.000Z,1715413,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",無人知晓,Shaman,Restoration,healer,Al'ar
+66,288.1,306547662,8,City of Threads,2024-11-11T14:11:11.000Z,1715413,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶皓影,Hunter,Survival,dps,Bladefist
+67,288.1,306503082,8,City of Threads,2024-11-11T06:13:20.000Z,1715904,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",像个恶人,Warlock,Destruction,dps,Anzu
+67,288.1,306503082,8,City of Threads,2024-11-11T06:13:20.000Z,1715904,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",七喜瘸,Death Knight,Frost,dps,Al'ar
+67,288.1,306503082,8,City of Threads,2024-11-11T06:13:20.000Z,1715904,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",阿尔托莉雅乄,Paladin,Protection,tank,Booty Bay
+67,288.1,306503082,8,City of Threads,2024-11-11T06:13:20.000Z,1715904,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",满意,Shaman,Elemental,dps,Wing of the Whelping
+67,288.1,306503082,8,City of Threads,2024-11-11T06:13:20.000Z,1715904,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",艮基图腾,Shaman,Restoration,healer,The Golden Plains
+68,287.7,306822555,8,City of Threads,2024-11-12T20:07:25.000Z,1741043,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",巴朵蘭恩,Monk,Windwalker,dps,Burning Blade
+68,287.7,306822555,8,City of Threads,2024-11-12T20:07:25.000Z,1741043,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",那就叫小德八,Druid,Restoration,healer,Anzu
+68,287.7,306822555,8,City of Threads,2024-11-12T20:07:25.000Z,1741043,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",杀菩提丶,Monk,Brewmaster,tank,Al'ar
+68,287.7,306822555,8,City of Threads,2024-11-12T20:07:25.000Z,1741043,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",錦瑟悅兮,Rogue,Assassination,dps,The Master's Glaive
+68,287.7,306822555,8,City of Threads,2024-11-12T20:07:25.000Z,1741043,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",爱岛牪子,Druid,Guardian,tank,Deathwing
+69,287.5,306492704,8,City of Threads,2024-11-11T04:33:18.000Z,1751784,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",纾妤,Evoker,Augmentation,dps,Burning Blade
+69,287.5,306492704,8,City of Threads,2024-11-11T04:33:18.000Z,1751784,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",咖啡拿老铁,Paladin,Retribution,dps,Blanchard
+69,287.5,306492704,8,City of Threads,2024-11-11T04:33:18.000Z,1751784,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",英俊帅气,Warrior,Protection,tank,Silver Hand
+69,287.5,306492704,8,City of Threads,2024-11-11T04:33:18.000Z,1751784,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",铁头菇,Shaman,Restoration,healer,Doomwalker
+69,287.5,306492704,8,City of Threads,2024-11-11T04:33:18.000Z,1751784,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",瞄准误导,Hunter,Survival,dps,Thunder Axe Fortress
+70,287.2,305599194,8,City of Threads,2024-11-07T09:01:08.000Z,1770352,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",胖黑黑,Death Knight,Blood,tank,Al'ar
+70,287.2,305599194,8,City of Threads,2024-11-07T09:01:08.000Z,1770352,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",图图的土爹,Shaman,Enhancement,dps,Silver Hand
+70,287.2,305599194,8,City of Threads,2024-11-07T09:01:08.000Z,1770352,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",奶修修,Priest,Discipline,healer,Silver Hand
+70,287.2,305599194,8,City of Threads,2024-11-07T09:01:08.000Z,1770352,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小淞许,Paladin,Retribution,dps,Al'ar
+70,287.2,305599194,8,City of Threads,2024-11-07T09:01:08.000Z,1770352,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",超美小猪,Paladin,Retribution,dps,Al'ar
+71,287.2,306069689,8,City of Threads,2024-11-09T14:42:02.000Z,1770543,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+71,287.2,306069689,8,City of Threads,2024-11-09T14:42:02.000Z,1770543,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",梅花十七,Mage,Fire,dps,Al'ar
+71,287.2,306069689,8,City of Threads,2024-11-09T14:42:02.000Z,1770543,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Jcop,Shaman,Enhancement,dps,Burning Blade
+71,287.2,306069689,8,City of Threads,2024-11-09T14:42:02.000Z,1770543,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",雅雅酱,Priest,Discipline,healer,Grim Batol
+71,287.2,306069689,8,City of Threads,2024-11-09T14:42:02.000Z,1770543,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",圣光守卫者,Paladin,Retribution,dps,Scarlet Crusade
+72,287,306544271,8,City of Threads,2024-11-11T13:53:28.000Z,1783158,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Singlebr,Warrior,Protection,tank,Silver Hand
+72,287,306544271,8,City of Threads,2024-11-11T13:53:28.000Z,1783158,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Passionaire,Paladin,Retribution,dps,Rhonin
+72,287,306544271,8,City of Threads,2024-11-11T13:53:28.000Z,1783158,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",恶魔犭昔犭守,Paladin,Holy,healer,Grim Batol
+72,287,306544271,8,City of Threads,2024-11-11T13:53:28.000Z,1783158,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",外星人收割机,Rogue,Assassination,dps,Grim Batol
+72,287,306544271,8,City of Threads,2024-11-11T13:53:28.000Z,1783158,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",想吃肉五,Shaman,Elemental,dps,Anzu
+73,286.7,306258731,8,City of Threads,2024-11-10T07:45:04.000Z,1800351,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",爆炒小白菜,Druid,Guardian,tank,Barrens
+73,286.7,306258731,8,City of Threads,2024-11-10T07:45:04.000Z,1800351,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",以荒之名,Death Knight,Frost,dps,Anzu
+73,286.7,306258731,8,City of Threads,2024-11-10T07:45:04.000Z,1800351,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我上全煞了,Paladin,Retribution,dps,Deathwing
+73,286.7,306258731,8,City of Threads,2024-11-10T07:45:04.000Z,1800351,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",菜鸡炒飞龙,Warlock,Affliction,dps,Silver Hand
+73,286.7,306258731,8,City of Threads,2024-11-10T07:45:04.000Z,1800351,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Sasiki,Shaman,Restoration,healer,Silverpine Forest
+74,285.3,306314562,8,City of Threads,2024-11-10T14:39:41.000Z,1881066,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",天使中的魔鬼,Warlock,Destruction,dps,Alexstrasza
+74,285.3,306314562,8,City of Threads,2024-11-10T14:39:41.000Z,1881066,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",美丽母大蟑螂,Death Knight,Blood,tank,Bleeding Hollow
+74,285.3,306314562,8,City of Threads,2024-11-10T14:39:41.000Z,1881066,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",不寒之冬,Druid,Balance,dps,Shadowmourne
+74,285.3,306314562,8,City of Threads,2024-11-10T14:39:41.000Z,1881066,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",鬼灵骑士,Death Knight,Frost,dps,Rhonin
+74,285.3,306314562,8,City of Threads,2024-11-10T14:39:41.000Z,1881066,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",狸萨,Shaman,Restoration,healer,Shadowmourne
+75,285,306081251,8,City of Threads,2024-11-09T15:48:48.000Z,1896374,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",旺旺焱冰冰,Priest,Discipline,healer,Burning Steppes
+75,285,306081251,8,City of Threads,2024-11-09T15:48:48.000Z,1896374,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",逍遥暗月,Warrior,Fury,dps,Chillwind Point
+75,285,306081251,8,City of Threads,2024-11-09T15:48:48.000Z,1896374,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Kanexch,Warrior,Protection,tank,Rhonin
+75,285,306081251,8,City of Threads,2024-11-09T15:48:48.000Z,1896374,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",深蓝色术师,Shaman,Enhancement,dps,Chillwind Point
+75,285,306081251,8,City of Threads,2024-11-09T15:48:48.000Z,1896374,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Cecilia,Paladin,Retribution,dps,Sundown Marsh
+76,284.8,306756874,8,City of Threads,2024-11-12T15:14:07.000Z,1908452,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",胜芳镇,Death Knight,Frost,dps,Anachronos
+76,284.8,306756874,8,City of Threads,2024-11-12T15:14:07.000Z,1908452,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小红书拳王,Monk,Windwalker,dps,The Great Sea
+76,284.8,306756874,8,City of Threads,2024-11-12T15:14:07.000Z,1908452,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",半步长生,Shaman,Enhancement,dps,Burning Blade
+76,284.8,306756874,8,City of Threads,2024-11-12T15:14:07.000Z,1908452,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",青山如黛,Paladin,Protection,tank,Anachronos
+76,284.8,306756874,8,City of Threads,2024-11-12T15:14:07.000Z,1908452,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小狼七号,Monk,Mistweaver,healer,Hogger
+77,284.6,306116021,8,City of Threads,2024-11-09T19:33:00.000Z,1925019,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",春阳,Shaman,Enhancement,dps,Al'ar
+77,284.6,306116021,8,City of Threads,2024-11-09T19:33:00.000Z,1925019,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",伊利达雷突然,Demon Hunter,Havoc,dps,The Great Sea
+77,284.6,306116021,8,City of Threads,2024-11-09T19:33:00.000Z,1925019,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",可耐耐,Shaman,Restoration,healer,Aessina
+77,284.6,306116021,8,City of Threads,2024-11-09T19:33:00.000Z,1925019,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",贞柟卄,Death Knight,Blood,tank,Al'ar
+77,284.6,306116021,8,City of Threads,2024-11-09T19:33:00.000Z,1925019,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",尼德霍格之翼,Rogue,Assassination,dps,Al'ar
+78,284.5,306050271,8,City of Threads,2024-11-09T12:47:39.000Z,1926360,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",斗鱼柒拾,Priest,Discipline,healer,Al'ar
+78,284.5,306050271,8,City of Threads,2024-11-09T12:47:39.000Z,1926360,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",萨起码,Shaman,Enhancement,dps,Anzu
+78,284.5,306050271,8,City of Threads,2024-11-09T12:47:39.000Z,1926360,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",言誩,Evoker,Augmentation,dps,Anzu
+78,284.5,306050271,8,City of Threads,2024-11-09T12:47:39.000Z,1926360,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",嘉炎忆行,Death Knight,Blood,tank,Al'ar
+78,284.5,306050271,8,City of Threads,2024-11-09T12:47:39.000Z,1926360,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丨大王饶命,Paladin,Retribution,dps,Anzu
+79,284.2,306257387,8,City of Threads,2024-11-10T07:37:24.000Z,1947212,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",叶瀏,Rogue,Outlaw,dps,Echo Ridge
+79,284.2,306257387,8,City of Threads,2024-11-10T07:37:24.000Z,1947212,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",幻想悲伤,Paladin,Retribution,dps,Naxxramas
+79,284.2,306257387,8,City of Threads,2024-11-10T07:37:24.000Z,1947212,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",狐乱奶,Shaman,Restoration,healer,Chillwind Point
+79,284.2,306257387,8,City of Threads,2024-11-10T07:37:24.000Z,1947212,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",米津丶玄師,Rogue,Assassination,dps,Scarlet Crusade
+79,284.2,306257387,8,City of Threads,2024-11-10T07:37:24.000Z,1947212,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丨狂灬怒丨,Warrior,Protection,tank,Scarlet Crusade
+80,284,306749129,8,City of Threads,2024-11-12T14:03:52.000Z,1957039,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",别丿怂丿啊,Paladin,Protection,tank,The Great Sea
+80,284,306749129,8,City of Threads,2024-11-12T14:03:52.000Z,1957039,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",猴哥,Paladin,Retribution,dps,Scarlet Crusade
+80,284,306749129,8,City of Threads,2024-11-12T14:03:52.000Z,1957039,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",海纳斯,Shaman,Restoration,healer,Al'ar
+80,284,306749129,8,City of Threads,2024-11-12T14:03:52.000Z,1957039,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",灬头號乄秂物,Shaman,Enhancement,dps,Al'ar
+80,284,306749129,8,City of Threads,2024-11-12T14:03:52.000Z,1957039,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",陪死神喝咖啡,Warlock,Destruction,dps,Al'ar
+81,283.9,306375891,8,City of Threads,2024-11-10T18:07:27.000Z,1962110,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+81,283.9,306375891,8,City of Threads,2024-11-10T18:07:27.000Z,1962110,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",灯登等瞪,Druid,Guardian,tank,Al'ar
+81,283.9,306375891,8,City of Threads,2024-11-10T18:07:27.000Z,1962110,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",梦醒即天涯丶,Monk,Mistweaver,healer,Rhonin
+81,283.9,306375891,8,City of Threads,2024-11-10T18:07:27.000Z,1962110,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小荷子,Paladin,Retribution,dps,Deathwing
+81,283.9,306375891,8,City of Threads,2024-11-10T18:07:27.000Z,1962110,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",轻语,Paladin,Retribution,dps,Blanchard
+82,282.6,306083345,8,City of Threads,2024-11-09T15:58:08.000Z,2036941,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",秋山丶澪,Rogue,Assassination,dps,Dreadmist Peak
+82,282.6,306083345,8,City of Threads,2024-11-09T15:58:08.000Z,2036941,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",斯克鼠术,Warlock,Destruction,dps,Scarlet Crusade
+82,282.6,306083345,8,City of Threads,2024-11-09T15:58:08.000Z,2036941,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",奶我一下呀,Demon Hunter,Havoc,dps,Scarlet Crusade
+82,282.6,306083345,8,City of Threads,2024-11-09T15:58:08.000Z,2036941,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",狂暴战,Warrior,Protection,tank,Dreadmist Peak
+82,282.6,306083345,8,City of Threads,2024-11-09T15:58:08.000Z,2036941,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",一级天灾乄,Monk,Mistweaver,healer,Burning Blade
+83,282.3,306712648,8,City of Threads,2024-11-12T07:11:51.000Z,2059366,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+83,282.3,306712648,8,City of Threads,2024-11-12T07:11:51.000Z,2059366,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",源质壁垒,Warrior,Arms,dps,Scarlet Crusade
+83,282.3,306712648,8,City of Threads,2024-11-12T07:11:51.000Z,2059366,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Virus,Demon Hunter,Vengeance,tank,Sacrolash
+83,282.3,306712648,8,City of Threads,2024-11-12T07:11:51.000Z,2059366,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",吉祥主旋律,Priest,Shadow,dps,Deathwing
+83,282.3,306712648,8,City of Threads,2024-11-12T07:11:51.000Z,2059366,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",知更鸟的狗,Shaman,Restoration,healer,The Great Sea
+84,282.2,305804268,8,City of Threads,2024-11-08T12:42:02.000Z,2060359,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",凉拌小米椒,Mage,Frost,dps,Swiftwind
+84,282.2,305804268,8,City of Threads,2024-11-08T12:42:02.000Z,2060359,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",权射射,Hunter,Survival,dps,Al'ar
+84,282.2,305804268,8,City of Threads,2024-11-08T12:42:02.000Z,2060359,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",王晓雨,Death Knight,Frost,dps,Dark Iron
+84,282.2,305804268,8,City of Threads,2024-11-08T12:42:02.000Z,2060359,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",冰镇丶可乐,Warrior,Protection,tank,Swiftwind
+84,282.2,305804268,8,City of Threads,2024-11-08T12:42:02.000Z,2060359,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",蓝天中的阴影,Priest,Discipline,healer,Malfurion
+85,280,306936823,7,City of Threads,2024-11-13T08:45:49.000Z,1100571,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",故与放纵丿,Paladin,Retribution,dps,Al'ar
+85,280,306936823,7,City of Threads,2024-11-13T08:45:49.000Z,1100571,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Chatgpt,Mage,Frost,dps,Chillwind Point
+85,280,306936823,7,City of Threads,2024-11-13T08:45:49.000Z,1100571,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",镜兮,Mage,Frost,dps,Silver Hand
+85,280,306936823,7,City of Threads,2024-11-13T08:45:49.000Z,1100571,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",炖鸡浩,Paladin,Protection,tank,Shadowmourne
+85,280,306936823,7,City of Threads,2024-11-13T08:45:49.000Z,1100571,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",两颗红枣,Shaman,Restoration,healer,Isillien
+86,279.6,306079984,7,City of Threads,2024-11-08T09:07:14.000Z,1337808,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",吖菊,Druid,Restoration,healer,Silver Hand
+86,279.6,306079984,7,City of Threads,2024-11-08T09:07:14.000Z,1337808,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+86,279.6,306079984,7,City of Threads,2024-11-08T09:07:14.000Z,1337808,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶一笑生花,Rogue,Outlaw,dps,Rhonin
+86,279.6,306079984,7,City of Threads,2024-11-08T09:07:14.000Z,1337808,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",话多瘾大人菜,Druid,Guardian,tank,Silver Hand
+86,279.6,306079984,7,City of Threads,2024-11-08T09:07:14.000Z,1337808,2190999,3,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",醉卧竹林丶,Monk,Mistweaver,healer,Al'ar
+87,279.3,305593250,7,City of Threads,2024-11-07T06:25:35.000Z,1352605,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",前尘如梦,Death Knight,Blood,tank,Kel'Thuzad
+87,279.3,305593250,7,City of Threads,2024-11-07T06:25:35.000Z,1352605,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",一点寒芒,Hunter,Survival,dps,Kel'Thuzad
+87,279.3,305593250,7,City of Threads,2024-11-07T06:25:35.000Z,1352605,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丿赊月,Priest,Discipline,healer,Al'ar
+87,279.3,305593250,7,City of Threads,2024-11-07T06:25:35.000Z,1352605,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",秋痕似水,Paladin,Retribution,dps,Deathwing
+87,279.3,305593250,7,City of Threads,2024-11-07T06:25:35.000Z,1352605,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",今朝法神,Mage,Frost,dps,Rhonin
+88,278.6,305850046,7,City of Threads,2024-11-08T17:57:08.000Z,1396910,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Ursoc,Druid,Balance,dps,Eldre'Thalas
+88,278.6,305850046,7,City of Threads,2024-11-08T17:57:08.000Z,1396910,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",醉丶骑,Paladin,Retribution,dps,Magtheridon
+88,278.6,305850046,7,City of Threads,2024-11-08T17:57:08.000Z,1396910,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",冰糖燕窝,Death Knight,Blood,tank,The Great Sea
+88,278.6,305850046,7,City of Threads,2024-11-08T17:57:08.000Z,1396910,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小飞棍来叻,Evoker,Preservation,healer,The Great Sea
+88,278.6,305850046,7,City of Threads,2024-11-08T17:57:08.000Z,1396910,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",盘丝大仙丶,Hunter,Survival,dps,Zealot Blade
+89,278.2,306079996,7,City of Threads,2024-11-09T05:46:36.000Z,1421139,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",吖菊,Druid,Restoration,healer,Silver Hand
+89,278.2,306079996,7,City of Threads,2024-11-09T05:46:36.000Z,1421139,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+89,278.2,306079996,7,City of Threads,2024-11-09T05:46:36.000Z,1421139,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小掱趴趴熊,Druid,Guardian,tank,Marrowgar
+89,278.2,306079996,7,City of Threads,2024-11-09T05:46:36.000Z,1421139,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",瑶兰,Demon Hunter,Havoc,dps,Silver Hand
+89,278.2,306079996,7,City of Threads,2024-11-09T05:46:36.000Z,1421139,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",蜜蜂村朱一龙,Monk,Brewmaster,tank,Valley of Kings
+90,277,306560298,7,City of Threads,2024-11-11T15:48:28.000Z,1490565,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",上杉明日奈,Mage,Frost,dps,Burning Blade
+90,277,306560298,7,City of Threads,2024-11-11T15:48:28.000Z,1490565,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丨栀墨织屿丨,Warrior,Protection,tank,Burning Blade
+90,277,306560298,7,City of Threads,2024-11-11T15:48:28.000Z,1490565,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",神之花花,Paladin,Retribution,dps,Burning Steppes
+90,277,306560298,7,City of Threads,2024-11-11T15:48:28.000Z,1490565,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",百战百殆,Shaman,Restoration,healer,Rhonin
+90,277,306560298,7,City of Threads,2024-11-11T15:48:28.000Z,1490565,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",二院张大夫,Paladin,Retribution,dps,Blackhand
+91,274.1,306505298,7,City of Threads,2024-11-11T06:27:48.000Z,1658128,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",纱田奈丶,Rogue,Assassination,dps,Rhonin
+91,274.1,306505298,7,City of Threads,2024-11-11T06:27:48.000Z,1658128,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丶阿布吉措,Druid,Guardian,tank,The Master's Glaive
+91,274.1,306505298,7,City of Threads,2024-11-11T06:27:48.000Z,1658128,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Naisihai,Shaman,Restoration,healer,Burning Blade
+91,274.1,306505298,7,City of Threads,2024-11-11T06:27:48.000Z,1658128,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",蓝壳利群,Shaman,Elemental,dps,Valley of Kings
+91,274.1,306505298,7,City of Threads,2024-11-11T06:27:48.000Z,1658128,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我为无敌来,Death Knight,Frost,dps,Anzu
+92,273.6,306538512,7,City of Threads,2024-11-11T15:11:17.000Z,1687604,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",叶瀏,Rogue,Outlaw,dps,Echo Ridge
+92,273.6,306538512,7,City of Threads,2024-11-11T15:11:17.000Z,1687604,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Xianyu,Warlock,Destruction,dps,The Forgotten Coast
+92,273.6,306538512,7,City of Threads,2024-11-11T15:11:17.000Z,1687604,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Hakusawa,Evoker,Devastation,dps,Kaleidoscope Star
+92,273.6,306538512,7,City of Threads,2024-11-11T15:11:17.000Z,1687604,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",逍遥肖骁,Death Knight,Blood,tank,The Forgotten Coast
+92,273.6,306538512,7,City of Threads,2024-11-11T15:11:17.000Z,1687604,2190999,2,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",守财奴,Shaman,Restoration,healer,Frostmourne
+93,271.1,305994353,7,City of Threads,2024-11-09T04:41:06.000Z,1834561,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",抗抗橙多多,Shaman,Restoration,healer,Kel'Thuzad
+93,271.1,305994353,7,City of Threads,2024-11-09T04:41:06.000Z,1834561,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",友宝儿,Paladin,Retribution,dps,Shadowmourne
+93,271.1,305994353,7,City of Threads,2024-11-09T04:41:06.000Z,1834561,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",我肉么,Paladin,Retribution,dps,Silver Hand
+93,271.1,305994353,7,City of Threads,2024-11-09T04:41:06.000Z,1834561,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",苦茶品淡雅姿,Paladin,Protection,tank,Shadowmoon
+93,271.1,305994353,7,City of Threads,2024-11-09T04:41:06.000Z,1834561,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",炎舞灬,Mage,Arcane,dps,Shadowmourne
+94,270.5,306544240,7,City of Threads,2024-11-11T15:49:50.000Z,1867536,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Yorushikaa,Priest,Discipline,healer,Al'ar
+94,270.5,306544240,7,City of Threads,2024-11-11T15:49:50.000Z,1867536,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Megumii,Druid,Balance,dps,Eldre'Thalas
+94,270.5,306544240,7,City of Threads,2024-11-11T15:49:50.000Z,1867536,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",犹记,Paladin,Retribution,dps,Eldre'Thalas
+94,270.5,306544240,7,City of Threads,2024-11-11T15:49:50.000Z,1867536,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",丷萨拉塔斯,Priest,Shadow,dps,Eldre'Thalas
+94,270.5,306544240,7,City of Threads,2024-11-11T15:49:50.000Z,1867536,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",一大只,Druid,Guardian,tank,Eldre'Thalas
+95,270.3,306247959,7,City of Threads,2024-11-10T06:15:25.000Z,1882082,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",脆脆黄,Paladin,Protection,tank,Valley of Kings
+95,270.3,306247959,7,City of Threads,2024-11-10T06:15:25.000Z,1882082,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",别急,Evoker,Devastation,dps,Scarlet Crusade
+95,270.3,306247959,7,City of Threads,2024-11-10T06:15:25.000Z,1882082,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小鹿噶了,Death Knight,Unholy,dps,Valley of Kings
+95,270.3,306247959,7,City of Threads,2024-11-10T06:15:25.000Z,1882082,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",小米速七奥屮,Priest,Discipline,healer,Silver Hand
+95,270.3,306247959,7,City of Threads,2024-11-10T06:15:25.000Z,1882082,2190999,1,"Xal'atath's Bargain: Voidbound, Fortified, Challenger's Peril",Howardkk,Mage,Frost,dps,Grim Batol

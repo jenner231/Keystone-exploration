@@ -1,0 +1,76 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,305149582,3,The Stonevault,2024-11-05T12:30:06.000Z,937514,1980999,3,Xal'atath's Bargain: Devour,半卷西风,Priest,Discipline,healer,Durotan
+1,195,305149582,3,The Stonevault,2024-11-05T12:30:06.000Z,937514,1980999,3,Xal'atath's Bargain: Devour,纯真骑士,Paladin,Retribution,dps,Turalyon
+1,195,305149582,3,The Stonevault,2024-11-05T12:30:06.000Z,937514,1980999,3,Xal'atath's Bargain: Devour,邪恶的阿布森,Warlock,Destruction,dps,Silver Hand
+1,195,305149582,3,The Stonevault,2024-11-05T12:30:06.000Z,937514,1980999,3,Xal'atath's Bargain: Devour,闪就完事了,Paladin,Protection,tank,Alterac Mountains
+1,195,305149582,3,The Stonevault,2024-11-05T12:30:06.000Z,937514,1980999,3,Xal'atath's Bargain: Devour,络腮胡子,Hunter,Beast Mastery,dps,Valley of Kings
+2,194.8,304229062,3,The Stonevault,2024-11-01T09:19:18.000Z,1199995,1980999,2,Xal'atath's Bargain: Devour,Kratzig,Druid,Balance,dps,The Great Sea
+2,194.8,304229062,3,The Stonevault,2024-11-01T09:19:18.000Z,1199995,1980999,2,Xal'atath's Bargain: Devour,心想事陈女士,Death Knight,Unholy,dps,Shadowmourne
+2,194.8,304229062,3,The Stonevault,2024-11-01T09:19:18.000Z,1199995,1980999,2,Xal'atath's Bargain: Devour,在下丶方长,Shaman,Enhancement,dps,Barrens
+2,194.8,304229062,3,The Stonevault,2024-11-01T09:19:18.000Z,1199995,1980999,2,Xal'atath's Bargain: Devour,董秋秋丶,Paladin,Protection,tank,Shadowmourne
+2,194.8,304229062,3,The Stonevault,2024-11-01T09:19:18.000Z,1199995,1980999,2,Xal'atath's Bargain: Devour,元素狂想,Shaman,Restoration,healer,Doomwalker
+3,192.9,305442037,3,The Stonevault,2024-11-06T13:36:56.000Z,1299997,1980999,2,Xal'atath's Bargain: Devour,Kratzig,Druid,Balance,dps,The Great Sea
+3,192.9,305442037,3,The Stonevault,2024-11-06T13:36:56.000Z,1299997,1980999,2,Xal'atath's Bargain: Devour,带杯冰可乐丶,Paladin,Retribution,dps,Barrens
+3,192.9,305442037,3,The Stonevault,2024-11-06T13:36:56.000Z,1299997,1980999,2,Xal'atath's Bargain: Devour,咕噜咕噜冬冬,Shaman,Elemental,dps,The Mechanar
+3,192.9,305442037,3,The Stonevault,2024-11-06T13:36:56.000Z,1299997,1980999,2,Xal'atath's Bargain: Devour,丶灾厄丶,Death Knight,Blood,tank,Blanchard
+3,192.9,305442037,3,The Stonevault,2024-11-06T13:36:56.000Z,1299997,1980999,2,Xal'atath's Bargain: Devour,肉肉酱,Shaman,Restoration,healer,Galakrond
+4,188.9,299895194,3,The Stonevault,2024-10-13T14:22:19.000Z,1511437,1980999,2,Xal'atath's Bargain: Devour,引雷针,Shaman,Elemental,dps,Rhonin
+4,188.9,299895194,3,The Stonevault,2024-10-13T14:22:19.000Z,1511437,1980999,2,Xal'atath's Bargain: Devour,Xlgrape,Priest,Discipline,healer,Grim Batol
+4,188.9,299895194,3,The Stonevault,2024-10-13T14:22:19.000Z,1511437,1980999,2,Xal'atath's Bargain: Devour,狵丶,Warrior,Protection,tank,Silver Hand
+4,188.9,299895194,3,The Stonevault,2024-10-13T14:22:19.000Z,1511437,1980999,2,Xal'atath's Bargain: Devour,矜持长老,Paladin,Retribution,dps,Azshara
+4,188.9,299895194,3,The Stonevault,2024-10-13T14:22:19.000Z,1511437,1980999,2,Xal'atath's Bargain: Devour,若相离,Paladin,Retribution,dps,Draenor
+5,186.4,303621172,3,The Stonevault,2024-10-15T12:47:19.000Z,1643469,1980999,1,Xal'atath's Bargain: Devour,斷灬綫,Hunter,Beast Mastery,dps,The Great Sea
+5,186.4,303621172,3,The Stonevault,2024-10-15T12:47:19.000Z,1643469,1980999,1,Xal'atath's Bargain: Devour,夏牧,Shaman,Restoration,healer,Isillien
+5,186.4,303621172,3,The Stonevault,2024-10-15T12:47:19.000Z,1643469,1980999,1,Xal'atath's Bargain: Devour,致羽,Death Knight,Frost,dps,Moonglade
+5,186.4,303621172,3,The Stonevault,2024-10-15T12:47:19.000Z,1643469,1980999,1,Xal'atath's Bargain: Devour,艾伦追光者,Hunter,Survival,dps,The Great Sea
+5,186.4,303621172,3,The Stonevault,2024-10-15T12:47:19.000Z,1643469,1980999,1,Xal'atath's Bargain: Devour,柑橘百香果,Druid,Guardian,tank,The Master's Glaive
+6,182.8,304941545,3,The Stonevault,2024-11-04T11:09:36.000Z,1833196,1980999,1,Xal'atath's Bargain: Devour,叶榛苓,Paladin,Retribution,dps,Anzu
+6,182.8,304941545,3,The Stonevault,2024-11-04T11:09:36.000Z,1833196,1980999,1,Xal'atath's Bargain: Devour,咿呀咿呀唔,Shaman,Elemental,dps,Anzu
+6,182.8,304941545,3,The Stonevault,2024-11-04T11:09:36.000Z,1833196,1980999,1,Xal'atath's Bargain: Devour,小林历奇,Evoker,Augmentation,dps,Anzu
+6,182.8,304941545,3,The Stonevault,2024-11-04T11:09:36.000Z,1833196,1980999,1,Xal'atath's Bargain: Devour,小布林,Druid,Guardian,tank,Blanchard
+6,182.8,304941545,3,The Stonevault,2024-11-04T11:09:36.000Z,1833196,1980999,1,Xal'atath's Bargain: Devour,学医救队友,Shaman,Restoration,healer,Anzu
+7,180,299323287,2,The Stonevault,2024-10-11T15:47:33.000Z,830292,1980999,3,Xal'atath's Bargain: Devour,幸运鲸鱼,Shaman,Restoration,healer,Pandaren
+7,180,299323287,2,The Stonevault,2024-10-11T15:47:33.000Z,830292,1980999,3,Xal'atath's Bargain: Devour,蛇姬师琴爹,Mage,Frost,dps,Anzu
+7,180,299323287,2,The Stonevault,2024-10-11T15:47:33.000Z,830292,1980999,3,Xal'atath's Bargain: Devour,神牧棍哥,Priest,Shadow,dps,Isillien
+7,180,299323287,2,The Stonevault,2024-10-11T15:47:33.000Z,830292,1980999,3,Xal'atath's Bargain: Devour,Golwhale,Paladin,Retribution,dps,Isillien
+7,180,299323287,2,The Stonevault,2024-10-11T15:47:33.000Z,830292,1980999,3,Xal'atath's Bargain: Devour,亅七二七丨,Paladin,Protection,tank,Anzu
+8,180,299030356,2,The Stonevault,2024-10-10T06:10:00.000Z,885896,1980999,3,Xal'atath's Bargain: Devour,Playerncogek,Evoker,Preservation,healer,Deathwing
+8,180,299030356,2,The Stonevault,2024-10-10T06:10:00.000Z,885896,1980999,3,Xal'atath's Bargain: Devour,霜叶,Demon Hunter,Vengeance,tank,Kel'Thuzad
+8,180,299030356,2,The Stonevault,2024-10-10T06:10:00.000Z,885896,1980999,3,Xal'atath's Bargain: Devour,丨七二七丿,Mage,Frost,dps,Anzu
+8,180,299030356,2,The Stonevault,2024-10-10T06:10:00.000Z,885896,1980999,3,Xal'atath's Bargain: Devour,Playerinwig,Warlock,Demonology,dps,Deathwing
+8,180,299030356,2,The Stonevault,2024-10-10T06:10:00.000Z,885896,1980999,3,Xal'atath's Bargain: Devour,雲上小小仙,Paladin,Retribution,dps,Frostmourne
+9,180,304403360,2,The Stonevault,2024-11-02T03:21:45.000Z,1068400,1980999,3,Xal'atath's Bargain: Devour,帅帅哒的阿乐,Paladin,Retribution,dps,Gorehowl
+9,180,304403360,2,The Stonevault,2024-11-02T03:21:45.000Z,1068400,1980999,3,Xal'atath's Bargain: Devour,大拓太阳神,Paladin,Retribution,dps,The Master's Glaive
+9,180,304403360,2,The Stonevault,2024-11-02T03:21:45.000Z,1068400,1980999,3,Xal'atath's Bargain: Devour,聖光男孩,Paladin,Protection,tank,Galakrond
+9,180,304403360,2,The Stonevault,2024-11-02T03:21:45.000Z,1068400,1980999,3,Xal'atath's Bargain: Devour,二宝花,Rogue,Outlaw,dps,Vaelastrasz
+9,180,304403360,2,The Stonevault,2024-11-02T03:21:45.000Z,1068400,1980999,3,Xal'atath's Bargain: Devour,山雨初晴,Shaman,Restoration,healer,Thunder Axe Fortress
+10,180,299896508,2,The Stonevault,2024-10-13T14:32:16.000Z,1082928,1980999,3,Xal'atath's Bargain: Devour,麒麟鲈鱼,Warrior,Fury,dps,Blanchard
+10,180,299896508,2,The Stonevault,2024-10-13T14:32:16.000Z,1082928,1980999,3,Xal'atath's Bargain: Devour,吾与曹贼何异,Shaman,Restoration,healer,Amani
+10,180,299896508,2,The Stonevault,2024-10-13T14:32:16.000Z,1082928,1980999,3,Xal'atath's Bargain: Devour,黄鹤楼丶丶,Paladin,Retribution,dps,Runetotem
+10,180,299896508,2,The Stonevault,2024-10-13T14:32:16.000Z,1082928,1980999,3,Xal'atath's Bargain: Devour,我已经超生气,Paladin,Protection,tank,Dark Iron
+10,180,299896508,2,The Stonevault,2024-10-13T14:32:16.000Z,1082928,1980999,3,Xal'atath's Bargain: Devour,你好星期六,Rogue,Assassination,dps,Amani
+11,180,299284492,2,The Stonevault,2024-10-11T12:07:00.000Z,1136930,1980999,3,Xal'atath's Bargain: Devour,叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+11,180,299284492,2,The Stonevault,2024-10-11T12:07:00.000Z,1136930,1980999,3,Xal'atath's Bargain: Devour,可爱甜心喵,Shaman,Restoration,healer,Deathwing
+11,180,299284492,2,The Stonevault,2024-10-11T12:07:00.000Z,1136930,1980999,3,Xal'atath's Bargain: Devour,暴力美學法,Mage,Frost,dps,Deathwing
+11,180,299284492,2,The Stonevault,2024-10-11T12:07:00.000Z,1136930,1980999,3,Xal'atath's Bargain: Devour,上古邪寒,Death Knight,Blood,tank,Deathwing
+11,180,299284492,2,The Stonevault,2024-10-11T12:07:00.000Z,1136930,1980999,3,Xal'atath's Bargain: Devour,季伯伯,Death Knight,Frost,dps,Deathwing
+12,180,304782759,2,The Stonevault,2024-11-03T19:54:12.000Z,1177850,1980999,3,Xal'atath's Bargain: Devour,滴滴打德,Druid,Restoration,healer,Loken
+12,180,304782759,2,The Stonevault,2024-11-03T19:54:12.000Z,1177850,1980999,3,Xal'atath's Bargain: Devour,指尖残余温柔,Mage,Fire,dps,Illidan
+12,180,304782759,2,The Stonevault,2024-11-03T19:54:12.000Z,1177850,1980999,3,Xal'atath's Bargain: Devour,小猎龙人,Hunter,Beast Mastery,dps,Dark Iron
+12,180,304782759,2,The Stonevault,2024-11-03T19:54:12.000Z,1177850,1980999,3,Xal'atath's Bargain: Devour,阿鲁嘉德,Warrior,Fury,dps,Frostmourne
+12,180,304782759,2,The Stonevault,2024-11-03T19:54:12.000Z,1177850,1980999,3,Xal'atath's Bargain: Devour,涐不吃牛肉,Paladin,Protection,tank,Deathwing
+13,176.7,305156809,2,The Stonevault,2024-11-05T13:41:28.000Z,1365376,1980999,2,Xal'atath's Bargain: Devour,Lostinfire,Death Knight,Frost,dps,Galakrond
+13,176.7,305156809,2,The Stonevault,2024-11-05T13:41:28.000Z,1365376,1980999,2,Xal'atath's Bargain: Devour,我不吃素食,Priest,Discipline,healer,Galakrond
+13,176.7,305156809,2,The Stonevault,2024-11-05T13:41:28.000Z,1365376,1980999,2,Xal'atath's Bargain: Devour,干点正事,Warrior,Protection,tank,Galakrond
+13,176.7,305156809,2,The Stonevault,2024-11-05T13:41:28.000Z,1365376,1980999,2,Xal'atath's Bargain: Devour,Ksthunter,Hunter,Survival,dps,Galakrond
+13,176.7,305156809,2,The Stonevault,2024-11-05T13:41:28.000Z,1365376,1980999,2,Xal'atath's Bargain: Devour,莉沙,Paladin,Retribution,dps,Anvilmar
+14,172.9,304670049,2,The Stonevault,2024-11-03T08:31:20.000Z,1562502,1980999,2,Xal'atath's Bargain: Devour,蔻德卡了,Priest,Discipline,healer,The Great Sea
+14,172.9,304670049,2,The Stonevault,2024-11-03T08:31:20.000Z,1562502,1980999,2,Xal'atath's Bargain: Devour,月夜之痕,Mage,Fire,dps,The Great Sea
+14,172.9,304670049,2,The Stonevault,2024-11-03T08:31:20.000Z,1562502,1980999,2,Xal'atath's Bargain: Devour,麟小花,Shaman,Elemental,dps,The Great Sea
+14,172.9,304670049,2,The Stonevault,2024-11-03T08:31:20.000Z,1562502,1980999,2,Xal'atath's Bargain: Devour,麟先生,Druid,Guardian,tank,The Great Sea
+14,172.9,304670049,2,The Stonevault,2024-11-03T08:31:20.000Z,1562502,1980999,2,Xal'atath's Bargain: Devour,辣鸡小新,Demon Hunter,Havoc,dps,Agamaggan
+15,165.5,300627856,2,The Stonevault,2024-10-16T14:53:23.000Z,1954516,1980999,1,Xal'atath's Bargain: Devour,已久的淡忘,Warrior,Fury,dps,Grim Batol
+15,165.5,300627856,2,The Stonevault,2024-10-16T14:53:23.000Z,1954516,1980999,1,Xal'atath's Bargain: Devour,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+15,165.5,300627856,2,The Stonevault,2024-10-16T14:53:23.000Z,1954516,1980999,1,Xal'atath's Bargain: Devour,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+15,165.5,300627856,2,The Stonevault,2024-10-16T14:53:23.000Z,1954516,1980999,1,Xal'atath's Bargain: Devour,黑塑水,Mage,Frost,dps,Deathwing
+15,165.5,300627856,2,The Stonevault,2024-10-16T14:53:23.000Z,1954516,1980999,1,Xal'atath's Bargain: Devour,二吖,Shaman,Restoration,healer,Peak of Serenity

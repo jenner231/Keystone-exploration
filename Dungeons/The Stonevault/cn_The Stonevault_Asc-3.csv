@@ -1,0 +1,96 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,307909783,3,The Stonevault,2024-11-18T14:05:47.000Z,1143592,1980999,3,Xal'atath's Bargain: Ascendant,憨憨江,Shaman,Restoration,healer,Lothar
+1,195,307909783,3,The Stonevault,2024-11-18T14:05:47.000Z,1143592,1980999,3,Xal'atath's Bargain: Ascendant,嘀丶哇爱你哦,Paladin,Retribution,dps,Lothar
+1,195,307909783,3,The Stonevault,2024-11-18T14:05:47.000Z,1143592,1980999,3,Xal'atath's Bargain: Ascendant,丨小汶丨,Shaman,Enhancement,dps,Lothar
+1,195,307909783,3,The Stonevault,2024-11-18T14:05:47.000Z,1143592,1980999,3,Xal'atath's Bargain: Ascendant,曹曦予棠,Hunter,Survival,dps,Arathi
+1,195,307909783,3,The Stonevault,2024-11-18T14:05:47.000Z,1143592,1980999,3,Xal'atath's Bargain: Ascendant,浮云之光,Paladin,Protection,tank,Lothar
+2,180,300296621,2,The Stonevault,2024-09-18T23:26:41.000Z,634318,1980999,3,Xal'atath's Bargain: Ascendant,Rare,Demon Hunter,Vengeance,tank,Al'ar
+2,180,300296621,2,The Stonevault,2024-09-18T23:26:41.000Z,634318,1980999,3,Xal'atath's Bargain: Ascendant,Kiddo,Shaman,Restoration,healer,Al'ar
+2,180,300296621,2,The Stonevault,2024-09-18T23:26:41.000Z,634318,1980999,3,Xal'atath's Bargain: Ascendant,高调,Rogue,Assassination,dps,Al'ar
+2,180,300296621,2,The Stonevault,2024-09-18T23:26:41.000Z,634318,1980999,3,Xal'atath's Bargain: Ascendant,毒舌历险记,Death Knight,Frost,dps,Isillien
+2,180,300296621,2,The Stonevault,2024-09-18T23:26:41.000Z,634318,1980999,3,Xal'atath's Bargain: Ascendant,灰烬旋律,Mage,Frost,dps,The Great Sea
+3,180,300295935,2,The Stonevault,2024-09-19T02:26:35.000Z,722721,1980999,3,Xal'atath's Bargain: Ascendant,Eapleoe,Druid,Balance,dps,The Great Sea
+3,180,300295935,2,The Stonevault,2024-09-19T02:26:35.000Z,722721,1980999,3,Xal'atath's Bargain: Ascendant,职业撞南墙,Demon Hunter,Havoc,dps,Shadowmourne
+3,180,300295935,2,The Stonevault,2024-09-19T02:26:35.000Z,722721,1980999,3,Xal'atath's Bargain: Ascendant,Supremeyxz,Death Knight,Blood,tank,The Great Sea
+3,180,300295935,2,The Stonevault,2024-09-19T02:26:35.000Z,722721,1980999,3,Xal'atath's Bargain: Ascendant,贝尔罗特,Evoker,Preservation,healer,The Great Sea
+3,180,300295935,2,The Stonevault,2024-09-19T02:26:35.000Z,722721,1980999,3,Xal'atath's Bargain: Ascendant,凉愁浅梦,Mage,Frost,dps,The Master's Glaive
+4,180,307922674,2,The Stonevault,2024-11-18T16:00:08.000Z,791807,1980999,3,Xal'atath's Bargain: Ascendant,快乐的小猫德,Druid,Feral,dps,Silver Hand
+4,180,307922674,2,The Stonevault,2024-11-18T16:00:08.000Z,791807,1980999,3,Xal'atath's Bargain: Ascendant,顶级硬汉,Death Knight,Unholy,dps,Eldre'Thalas
+4,180,307922674,2,The Stonevault,2024-11-18T16:00:08.000Z,791807,1980999,3,Xal'atath's Bargain: Ascendant,洋辣子刺身,Paladin,Protection,tank,Illidan
+4,180,307922674,2,The Stonevault,2024-11-18T16:00:08.000Z,791807,1980999,3,Xal'atath's Bargain: Ascendant,珊璞,Shaman,Restoration,healer,Sutarn
+4,180,307922674,2,The Stonevault,2024-11-18T16:00:08.000Z,791807,1980999,3,Xal'atath's Bargain: Ascendant,茨木,Mage,Arcane,dps,Sutarn
+5,180,307674085,2,The Stonevault,2024-11-17T07:36:33.000Z,836325,1980999,3,Xal'atath's Bargain: Ascendant,龙虾汤泡饭,Paladin,Retribution,dps,Well of Eternity
+5,180,307674085,2,The Stonevault,2024-11-17T07:36:33.000Z,836325,1980999,3,Xal'atath's Bargain: Ascendant,蓝莓星冰乐,Shaman,Restoration,healer,Well of Eternity
+5,180,307674085,2,The Stonevault,2024-11-17T07:36:33.000Z,836325,1980999,3,Xal'atath's Bargain: Ascendant,栗子果仁拿铁,Paladin,Protection,tank,Well of Eternity
+5,180,307674085,2,The Stonevault,2024-11-17T07:36:33.000Z,836325,1980999,3,Xal'atath's Bargain: Ascendant,孤烟慕蝉,Warlock,Destruction,dps,Feathermoon
+5,180,307674085,2,The Stonevault,2024-11-17T07:36:33.000Z,836325,1980999,3,Xal'atath's Bargain: Ascendant,战国英雄,Death Knight,Unholy,dps,Baelgun
+6,180,303647788,2,The Stonevault,2024-10-29T15:38:12.000Z,875221,1980999,3,Xal'atath's Bargain: Ascendant,無所刁谓,Warrior,Fury,dps,Isillien
+6,180,303647788,2,The Stonevault,2024-10-29T15:38:12.000Z,875221,1980999,3,Xal'atath's Bargain: Ascendant,将你还于人海,Demon Hunter,Vengeance,tank,Anzu
+6,180,303647788,2,The Stonevault,2024-10-29T15:38:12.000Z,875221,1980999,3,Xal'atath's Bargain: Ascendant,扫六合,Paladin,Retribution,dps,Anzu
+6,180,303647788,2,The Stonevault,2024-10-29T15:38:12.000Z,875221,1980999,3,Xal'atath's Bargain: Ascendant,秦丁冬,Death Knight,Blood,tank,Anzu
+6,180,303647788,2,The Stonevault,2024-10-29T15:38:12.000Z,875221,1980999,3,Xal'atath's Bargain: Ascendant,语丶,Druid,Restoration,healer,Silver Hand
+7,180,303192722,2,The Stonevault,2024-10-27T14:38:01.000Z,901983,1980999,3,Xal'atath's Bargain: Ascendant,窮鄉島民甲,Evoker,Augmentation,dps,Al'ar
+7,180,303192722,2,The Stonevault,2024-10-27T14:38:01.000Z,901983,1980999,3,Xal'atath's Bargain: Ascendant,亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+7,180,303192722,2,The Stonevault,2024-10-27T14:38:01.000Z,901983,1980999,3,Xal'atath's Bargain: Ascendant,亅七二七丿,Priest,Discipline,healer,Anzu
+7,180,303192722,2,The Stonevault,2024-10-27T14:38:01.000Z,901983,1980999,3,Xal'atath's Bargain: Ascendant,香草知识,Druid,Balance,dps,Kel'Thuzad
+7,180,303192722,2,The Stonevault,2024-10-27T14:38:01.000Z,901983,1980999,3,Xal'atath's Bargain: Ascendant,乄霜枫,Mage,Frost,dps,Doomwalker
+8,180,300296234,2,The Stonevault,2024-09-18T23:39:51.000Z,935173,1980999,3,Xal'atath's Bargain: Ascendant,穆图丶科维,Rogue,Assassination,dps,Burning Blade
+8,180,300296234,2,The Stonevault,2024-09-18T23:39:51.000Z,935173,1980999,3,Xal'atath's Bargain: Ascendant,银色呀,Warlock,Demonology,dps,The Golden Plains
+8,180,300296234,2,The Stonevault,2024-09-18T23:39:51.000Z,935173,1980999,3,Xal'atath's Bargain: Ascendant,芝士贝纳勒斯,Evoker,Preservation,healer,Dark Iron
+8,180,300296234,2,The Stonevault,2024-09-18T23:39:51.000Z,935173,1980999,3,Xal'atath's Bargain: Ascendant,贫穷使我聪明,Mage,Frost,dps,Doomwalker
+8,180,300296234,2,The Stonevault,2024-09-18T23:39:51.000Z,935173,1980999,3,Xal'atath's Bargain: Ascendant,珊珊发光,Demon Hunter,Vengeance,tank,Isillien
+9,180,303441115,2,The Stonevault,2024-10-28T16:44:40.000Z,947113,1980999,3,Xal'atath's Bargain: Ascendant,今天又上班,Mage,Frost,dps,Rhonin
+9,180,303441115,2,The Stonevault,2024-10-28T16:44:40.000Z,947113,1980999,3,Xal'atath's Bargain: Ascendant,黎塞琉,Paladin,Retribution,dps,The Golden Plains
+9,180,303441115,2,The Stonevault,2024-10-28T16:44:40.000Z,947113,1980999,3,Xal'atath's Bargain: Ascendant,丶空丶心丶,Shaman,Enhancement,dps,Swiftwind
+9,180,303441115,2,The Stonevault,2024-10-28T16:44:40.000Z,947113,1980999,3,Xal'atath's Bargain: Ascendant,鲨鱼愛吃甜椒,Shaman,Restoration,healer,The Master's Glaive
+9,180,303441115,2,The Stonevault,2024-10-28T16:44:40.000Z,947113,1980999,3,Xal'atath's Bargain: Ascendant,貝嗯丶血蹄,Warrior,Protection,tank,Burning Blade
+10,180,293147798,2,The Stonevault,2024-09-19T12:19:01.000Z,1026790,1980999,3,Xal'atath's Bargain: Ascendant,尼古拉斯疯牛,Druid,Guardian,tank,Dragonmaw
+10,180,293147798,2,The Stonevault,2024-09-19T12:19:01.000Z,1026790,1980999,3,Xal'atath's Bargain: Ascendant,破千军,Death Knight,Frost,dps,Dragonmaw
+10,180,293147798,2,The Stonevault,2024-09-19T12:19:01.000Z,1026790,1980999,3,Xal'atath's Bargain: Ascendant,血腥骑士团,Paladin,Retribution,dps,Al'ar
+10,180,293147798,2,The Stonevault,2024-09-19T12:19:01.000Z,1026790,1980999,3,Xal'atath's Bargain: Ascendant,诡秘之主,Rogue,Assassination,dps,Dragonmaw
+10,180,293147798,2,The Stonevault,2024-09-19T12:19:01.000Z,1026790,1980999,3,Xal'atath's Bargain: Ascendant,秦始皇二一四,Shaman,Restoration,healer,Hyjal
+11,180,303852252,2,The Stonevault,2024-10-30T15:26:29.000Z,1048009,1980999,3,Xal'atath's Bargain: Ascendant,方圆几里丷,Hunter,Marksmanship,dps,Shadowmourne
+11,180,303852252,2,The Stonevault,2024-10-30T15:26:29.000Z,1048009,1980999,3,Xal'atath's Bargain: Ascendant,柳石,Rogue,Assassination,dps,Khardros
+11,180,303852252,2,The Stonevault,2024-10-30T15:26:29.000Z,1048009,1980999,3,Xal'atath's Bargain: Ascendant,喵了個咪,Shaman,Restoration,healer,Arathor
+11,180,303852252,2,The Stonevault,2024-10-30T15:26:29.000Z,1048009,1980999,3,Xal'atath's Bargain: Ascendant,姬迦娜,Paladin,Protection,tank,Khardros
+11,180,303852252,2,The Stonevault,2024-10-30T15:26:29.000Z,1048009,1980999,3,Xal'atath's Bargain: Ascendant,霜晨雨岚,Death Knight,Frost,dps,Khardros
+12,180,308088873,2,The Stonevault,2024-11-19T15:54:06.000Z,1157537,1980999,3,Xal'atath's Bargain: Ascendant,傍山屯小诸葛,Shaman,Restoration,healer,Blanchard
+12,180,308088873,2,The Stonevault,2024-11-19T15:54:06.000Z,1157537,1980999,3,Xal'atath's Bargain: Ascendant,梦醒九分,Warrior,Protection,tank,Dark Iron
+12,180,308088873,2,The Stonevault,2024-11-19T15:54:06.000Z,1157537,1980999,3,Xal'atath's Bargain: Ascendant,熊丶小狼,Rogue,Assassination,dps,Cleft of Shadow
+12,180,308088873,2,The Stonevault,2024-11-19T15:54:06.000Z,1157537,1980999,3,Xal'atath's Bargain: Ascendant,晴天小法爷,Mage,Frost,dps,Galakrond
+12,180,308088873,2,The Stonevault,2024-11-19T15:54:06.000Z,1157537,1980999,3,Xal'atath's Bargain: Ascendant,天桢丶,Paladin,Retribution,dps,Stromgarde Keep
+13,180,307618544,2,The Stonevault,2024-11-17T00:04:00.000Z,1179067,1980999,3,Xal'atath's Bargain: Ascendant,柑橘乌云丶,Shaman,Enhancement,dps,Chillwind Point
+13,180,307618544,2,The Stonevault,2024-11-17T00:04:00.000Z,1179067,1980999,3,Xal'atath's Bargain: Ascendant,信得很,Shaman,Enhancement,dps,Angrathar
+13,180,307618544,2,The Stonevault,2024-11-17T00:04:00.000Z,1179067,1980999,3,Xal'atath's Bargain: Ascendant,卡其奈奈子,Priest,Holy,healer,The Great Sea
+13,180,307618544,2,The Stonevault,2024-11-17T00:04:00.000Z,1179067,1980999,3,Xal'atath's Bargain: Ascendant,吴苍叶,Shaman,Enhancement,dps,Rhonin
+13,180,307618544,2,The Stonevault,2024-11-17T00:04:00.000Z,1179067,1980999,3,Xal'atath's Bargain: Ascendant,一怒冲冠,Warrior,Protection,tank,Holy Chanter
+14,179.3,293468035,2,The Stonevault,2024-09-20T15:27:35.000Z,1227730,1980999,2,Xal'atath's Bargain: Ascendant,一一卡卡一一,Mage,Frost,dps,Rhonin
+14,179.3,293468035,2,The Stonevault,2024-09-20T15:27:35.000Z,1227730,1980999,2,Xal'atath's Bargain: Ascendant,轻盈的小胖子,Druid,Restoration,healer,Rhonin
+14,179.3,293468035,2,The Stonevault,2024-09-20T15:27:35.000Z,1227730,1980999,2,Xal'atath's Bargain: Ascendant,Vangol,Druid,Guardian,tank,Rhonin
+14,179.3,293468035,2,The Stonevault,2024-09-20T15:27:35.000Z,1227730,1980999,2,Xal'atath's Bargain: Ascendant,牧野锦,Warrior,Fury,dps,The Golden Plains
+14,179.3,293468035,2,The Stonevault,2024-09-20T15:27:35.000Z,1227730,1980999,2,Xal'atath's Bargain: Ascendant,神鲸递质,Demon Hunter,Havoc,dps,Rhonin
+15,176,300295681,2,The Stonevault,2024-09-19T14:37:01.000Z,1402047,1980999,2,Xal'atath's Bargain: Ascendant,犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+15,176,300295681,2,The Stonevault,2024-09-19T14:37:01.000Z,1402047,1980999,2,Xal'atath's Bargain: Ascendant,康大牛,Warrior,Fury,dps,Galakrond
+15,176,300295681,2,The Stonevault,2024-09-19T14:37:01.000Z,1402047,1980999,2,Xal'atath's Bargain: Ascendant,靈獸鳴途,Shaman,Elemental,dps,Eldre'Thalas
+15,176,300295681,2,The Stonevault,2024-09-19T14:37:01.000Z,1402047,1980999,2,Xal'atath's Bargain: Ascendant,一位龙人隐士,Evoker,Preservation,healer,Eldre'Thalas
+15,176,300295681,2,The Stonevault,2024-09-19T14:37:01.000Z,1402047,1980999,2,Xal'atath's Bargain: Ascendant,你被强化了,Evoker,Augmentation,dps,Eldre'Thalas
+16,174.9,302858717,2,The Stonevault,2024-10-26T06:13:37.000Z,1459950,1980999,2,Xal'atath's Bargain: Ascendant,光与暗幻想曲,Priest,Discipline,healer,Burning Blade
+16,174.9,302858717,2,The Stonevault,2024-10-26T06:13:37.000Z,1459950,1980999,2,Xal'atath's Bargain: Ascendant,你过得好吗,Paladin,Retribution,dps,Burning Blade
+16,174.9,302858717,2,The Stonevault,2024-10-26T06:13:37.000Z,1459950,1980999,2,Xal'atath's Bargain: Ascendant,Elucidatewar,Warrior,Protection,tank,Burning Blade
+16,174.9,302858717,2,The Stonevault,2024-10-26T06:13:37.000Z,1459950,1980999,2,Xal'atath's Bargain: Ascendant,茫然回首,Shaman,Elemental,dps,Blackrock
+16,174.9,302858717,2,The Stonevault,2024-10-26T06:13:37.000Z,1459950,1980999,2,Xal'atath's Bargain: Ascendant,皮皮余,Death Knight,Frost,dps,Shadowmourne
+17,173.7,307711754,2,The Stonevault,2024-11-17T13:14:48.000Z,1518965,1980999,2,Xal'atath's Bargain: Ascendant,咕咕炸鸡,Druid,Restoration,healer,The Golden Plains
+17,173.7,307711754,2,The Stonevault,2024-11-17T13:14:48.000Z,1518965,1980999,2,Xal'atath's Bargain: Ascendant,柚子和抽子,Death Knight,Unholy,dps,Blanchard
+17,173.7,307711754,2,The Stonevault,2024-11-17T13:14:48.000Z,1518965,1980999,2,Xal'atath's Bargain: Ascendant,渡厄丨灿星,Mage,Frost,dps,The Master's Glaive
+17,173.7,307711754,2,The Stonevault,2024-11-17T13:14:48.000Z,1518965,1980999,2,Xal'atath's Bargain: Ascendant,时光灬萨满,Shaman,Enhancement,dps,The Master's Glaive
+17,173.7,307711754,2,The Stonevault,2024-11-17T13:14:48.000Z,1518965,1980999,2,Xal'atath's Bargain: Ascendant,牛栏山二锅头,Paladin,Protection,tank,Molten Core
+18,172.6,303859015,2,The Stonevault,2024-10-30T16:10:58.000Z,1581523,1980999,2,Xal'atath's Bargain: Ascendant,一六年的夏天,Demon Hunter,Vengeance,tank,Shadowmourne
+18,172.6,303859015,2,The Stonevault,2024-10-30T16:10:58.000Z,1581523,1980999,2,Xal'atath's Bargain: Ascendant,折岄,Hunter,Beast Mastery,dps,Anzu
+18,172.6,303859015,2,The Stonevault,2024-10-30T16:10:58.000Z,1581523,1980999,2,Xal'atath's Bargain: Ascendant,嘻哈电奶双修,Shaman,Restoration,healer,Valley of Kings
+18,172.6,303859015,2,The Stonevault,2024-10-30T16:10:58.000Z,1581523,1980999,2,Xal'atath's Bargain: Ascendant,鱼闻楽,Death Knight,Unholy,dps,Isillien
+18,172.6,303859015,2,The Stonevault,2024-10-30T16:10:58.000Z,1581523,1980999,2,Xal'atath's Bargain: Ascendant,此念,Paladin,Retribution,dps,Barrens
+19,171.9,302632642,2,The Stonevault,2024-10-25T07:55:31.000Z,1616032,1980999,1,Xal'atath's Bargain: Ascendant,Mambaxd,Druid,Guardian,tank,The Great Sea
+19,171.9,302632642,2,The Stonevault,2024-10-25T07:55:31.000Z,1616032,1980999,1,Xal'atath's Bargain: Ascendant,毁灭菇,Shaman,Elemental,dps,Hectae
+19,171.9,302632642,2,The Stonevault,2024-10-25T07:55:31.000Z,1616032,1980999,1,Xal'atath's Bargain: Ascendant,吉儿羊羊,Paladin,Holy,healer,Nozdormu
+19,171.9,302632642,2,The Stonevault,2024-10-25T07:55:31.000Z,1616032,1980999,1,Xal'atath's Bargain: Ascendant,大姜邢道荣,Warlock,Demonology,dps,Echo Ridge
+19,171.9,302632642,2,The Stonevault,2024-10-25T07:55:31.000Z,1616032,1980999,1,Xal'atath's Bargain: Ascendant,上下都卷,Warlock,Affliction,dps,Hearthglen

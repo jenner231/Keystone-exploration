@@ -1,0 +1,61 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,299514205,3,City of Threads,2024-10-12T06:41:42.000Z,1191912,2100999,3,Xal'atath's Bargain: Devour,悠悠贝拉,Shaman,Restoration,healer,The Underbog
+1,195,299514205,3,City of Threads,2024-10-12T06:41:42.000Z,1191912,2100999,3,Xal'atath's Bargain: Devour,蛇姬师琴爹,Mage,Frost,dps,Anzu
+1,195,299514205,3,City of Threads,2024-10-12T06:41:42.000Z,1191912,2100999,3,Xal'atath's Bargain: Devour,喧神教化,Priest,Shadow,dps,Al'ar
+1,195,299514205,3,City of Threads,2024-10-12T06:41:42.000Z,1191912,2100999,3,Xal'atath's Bargain: Devour,Golwhale,Paladin,Retribution,dps,Isillien
+1,195,299514205,3,City of Threads,2024-10-12T06:41:42.000Z,1191912,2100999,3,Xal'atath's Bargain: Devour,亅七二七丨,Paladin,Protection,tank,Anzu
+2,190,304701138,3,City of Threads,2024-11-03T12:56:33.000Z,1538150,2100999,2,Xal'atath's Bargain: Devour,唐可可丶,Death Knight,Blood,tank,The Master's Glaive
+2,190,304701138,3,City of Threads,2024-11-03T12:56:33.000Z,1538150,2100999,2,Xal'atath's Bargain: Devour,黑塑水,Mage,Frost,dps,Deathwing
+2,190,304701138,3,City of Threads,2024-11-03T12:56:33.000Z,1538150,2100999,2,Xal'atath's Bargain: Devour,禁疗自奶狐,Shaman,Restoration,healer,Grim Batol
+2,190,304701138,3,City of Threads,2024-11-03T12:56:33.000Z,1538150,2100999,2,Xal'atath's Bargain: Devour,你看我扫不扫,Evoker,Devastation,dps,Grim Batol
+2,190,304701138,3,City of Threads,2024-11-03T12:56:33.000Z,1538150,2100999,2,Xal'atath's Bargain: Devour,旧梦天空,Rogue,Outlaw,dps,Grim Batol
+3,189.6,305175527,3,City of Threads,2024-11-05T17:42:48.000Z,1564375,2100999,2,Xal'atath's Bargain: Devour,叶瀏,Rogue,Outlaw,dps,Echo Ridge
+3,189.6,305175527,3,City of Threads,2024-11-05T17:42:48.000Z,1564375,2100999,2,Xal'atath's Bargain: Devour,工地闪电侠,Shaman,Restoration,healer,Dream Bough
+3,189.6,305175527,3,City of Threads,2024-11-05T17:42:48.000Z,1564375,2100999,2,Xal'atath's Bargain: Devour,酱油厂厂长,Demon Hunter,Vengeance,tank,Frostmourne
+3,189.6,305175527,3,City of Threads,2024-11-05T17:42:48.000Z,1564375,2100999,2,Xal'atath's Bargain: Devour,Vensamanos,Shaman,Enhancement,dps,The Forgotten Coast
+3,189.6,305175527,3,City of Threads,2024-11-05T17:42:48.000Z,1564375,2100999,2,Xal'atath's Bargain: Devour,Shirasawa,Hunter,Survival,dps,Sunstrider
+4,186.3,304509553,3,City of Threads,2024-11-02T17:01:40.000Z,1748441,2100999,1,Xal'atath's Bargain: Devour,虾淼淼,Hunter,Marksmanship,dps,Rhonin
+4,186.3,304509553,3,City of Threads,2024-11-02T17:01:40.000Z,1748441,2100999,1,Xal'atath's Bargain: Devour,天垚垚,Demon Hunter,Vengeance,tank,Rhonin
+4,186.3,304509553,3,City of Threads,2024-11-02T17:01:40.000Z,1748441,2100999,1,Xal'atath's Bargain: Devour,星月折扇,Shaman,Elemental,dps,Shadowmourne
+4,186.3,304509553,3,City of Threads,2024-11-02T17:01:40.000Z,1748441,2100999,1,Xal'atath's Bargain: Devour,正在讀取,Shaman,Restoration,healer,Ashenvale
+4,186.3,304509553,3,City of Threads,2024-11-02T17:01:40.000Z,1748441,2100999,1,Xal'atath's Bargain: Devour,霜凝,Shaman,Elemental,dps,Rhonin
+5,182,305172013,3,City of Threads,2024-11-05T16:23:03.000Z,1990041,2100999,1,Xal'atath's Bargain: Devour,蔻德卡了,Priest,Discipline,healer,The Great Sea
+5,182,305172013,3,City of Threads,2024-11-05T16:23:03.000Z,1990041,2100999,1,Xal'atath's Bargain: Devour,月夜之痕,Mage,Fire,dps,The Great Sea
+5,182,305172013,3,City of Threads,2024-11-05T16:23:03.000Z,1990041,2100999,1,Xal'atath's Bargain: Devour,麟小花,Shaman,Elemental,dps,The Great Sea
+5,182,305172013,3,City of Threads,2024-11-05T16:23:03.000Z,1990041,2100999,1,Xal'atath's Bargain: Devour,麟先生,Druid,Guardian,tank,The Great Sea
+5,182,305172013,3,City of Threads,2024-11-05T16:23:03.000Z,1990041,2100999,1,Xal'atath's Bargain: Devour,你总有理由,Death Knight,Frost,dps,Valley of Kings
+6,180.4,304664783,3,City of Threads,2024-11-03T07:50:18.000Z,2078375,2100999,1,Xal'atath's Bargain: Devour,知防骑,Paladin,Protection,tank,Anzu
+6,180.4,304664783,3,City of Threads,2024-11-03T07:50:18.000Z,2078375,2100999,1,Xal'atath's Bargain: Devour,月夜之痕,Mage,Fire,dps,The Great Sea
+6,180.4,304664783,3,City of Threads,2024-11-03T07:50:18.000Z,2078375,2100999,1,Xal'atath's Bargain: Devour,麟小花,Shaman,Elemental,dps,The Great Sea
+6,180.4,304664783,3,City of Threads,2024-11-03T07:50:18.000Z,2078375,2100999,1,Xal'atath's Bargain: Devour,麟先生,Druid,Restoration,healer,The Great Sea
+6,180.4,304664783,3,City of Threads,2024-11-03T07:50:18.000Z,2078375,2100999,1,Xal'atath's Bargain: Devour,上將潘凤,Demon Hunter,Havoc,dps,Eldre'Thalas
+7,180,304455191,2,City of Threads,2024-11-02T11:23:50.000Z,916913,2100999,3,Xal'atath's Bargain: Devour,Sagittariuss,Mage,Frost,dps,Kel'Thuzad
+7,180,304455191,2,City of Threads,2024-11-02T11:23:50.000Z,916913,2100999,3,Xal'atath's Bargain: Devour,睦头人,Paladin,Retribution,dps,Kel'Thuzad
+7,180,304455191,2,City of Threads,2024-11-02T11:23:50.000Z,916913,2100999,3,Xal'atath's Bargain: Devour,洛君珩,Shaman,Enhancement,dps,Kel'Thuzad
+7,180,304455191,2,City of Threads,2024-11-02T11:23:50.000Z,916913,2100999,3,Xal'atath's Bargain: Devour,焚灼,Priest,Discipline,healer,Kel'Thuzad
+7,180,304455191,2,City of Threads,2024-11-02T11:23:50.000Z,916913,2100999,3,Xal'atath's Bargain: Devour,椎名乄真白,Demon Hunter,Vengeance,tank,Kel'Thuzad
+8,180,303167833,2,City of Threads,2024-10-13T14:36:52.000Z,1038943,2100999,3,Xal'atath's Bargain: Devour,Skullcindy,Paladin,Retribution,dps,Chillwind Point
+8,180,303167833,2,City of Threads,2024-10-13T14:36:52.000Z,1038943,2100999,3,Xal'atath's Bargain: Devour,Daze,Priest,Shadow,dps,Shadow Council
+8,180,303167833,2,City of Threads,2024-10-13T14:36:52.000Z,1038943,2100999,3,Xal'atath's Bargain: Devour,Jypaldin,Paladin,Protection,tank,Burning Blade
+8,180,303167833,2,City of Threads,2024-10-13T14:36:52.000Z,1038943,2100999,3,Xal'atath's Bargain: Devour,魔丶術,Warlock,Affliction,dps,Zealot Blade
+8,180,303167833,2,City of Threads,2024-10-13T14:36:52.000Z,1038943,2100999,3,Xal'atath's Bargain: Devour,虞丶小剑,Shaman,Restoration,healer,The Golden Plains
+9,180,305439590,2,City of Threads,2024-11-06T13:13:36.000Z,1197815,2100999,3,Xal'atath's Bargain: Devour,一閃電小贼一,Rogue,Assassination,dps,Al'ar
+9,180,305439590,2,City of Threads,2024-11-06T13:13:36.000Z,1197815,2100999,3,Xal'atath's Bargain: Devour,胖乂瑶,Evoker,Augmentation,dps,Anzu
+9,180,305439590,2,City of Threads,2024-11-06T13:13:36.000Z,1197815,2100999,3,Xal'atath's Bargain: Devour,老实人拿刀,Paladin,Protection,tank,Anzu
+9,180,305439590,2,City of Threads,2024-11-06T13:13:36.000Z,1197815,2100999,3,Xal'atath's Bargain: Devour,魔法图图,Priest,Discipline,healer,Scarlet Crusade
+9,180,305439590,2,City of Threads,2024-11-06T13:13:36.000Z,1197815,2100999,3,Xal'atath's Bargain: Devour,卓越领主,Paladin,Retribution,dps,Silver Hand
+10,178.8,304957072,2,City of Threads,2024-11-04T13:45:33.000Z,1328231,2100999,2,Xal'atath's Bargain: Devour,一六年的夏天,Demon Hunter,Vengeance,tank,Shadowmourne
+10,178.8,304957072,2,City of Threads,2024-11-04T13:45:33.000Z,1328231,2100999,2,Xal'atath's Bargain: Devour,Galadrieler,Priest,Discipline,healer,Silver Hand
+10,178.8,304957072,2,City of Threads,2024-11-04T13:45:33.000Z,1328231,2100999,2,Xal'atath's Bargain: Devour,Gigngn,Monk,Windwalker,dps,Silver Hand
+10,178.8,304957072,2,City of Threads,2024-11-04T13:45:33.000Z,1328231,2100999,2,Xal'atath's Bargain: Devour,莱因哈特,Paladin,Retribution,dps,Flame Crest
+10,178.8,304957072,2,City of Threads,2024-11-04T13:45:33.000Z,1328231,2100999,2,Xal'atath's Bargain: Devour,打服未来,Paladin,Retribution,dps,Pandaren
+11,173.3,299518668,2,City of Threads,2024-10-12T07:02:33.000Z,1634961,2100999,2,Xal'atath's Bargain: Devour,南宫一零八式,Hunter,Beast Mastery,dps,Burning Blade
+11,173.3,299518668,2,City of Threads,2024-10-12T07:02:33.000Z,1634961,2100999,2,Xal'atath's Bargain: Devour,鸡尔加蛋,Paladin,Protection,tank,Rhonin
+11,173.3,299518668,2,City of Threads,2024-10-12T07:02:33.000Z,1634961,2100999,2,Xal'atath's Bargain: Devour,本土族人,Mage,Fire,dps,Deephome
+11,173.3,299518668,2,City of Threads,2024-10-12T07:02:33.000Z,1634961,2100999,2,Xal'atath's Bargain: Devour,窑鸡王,Paladin,Retribution,dps,Rhonin
+11,173.3,299518668,2,City of Threads,2024-10-12T07:02:33.000Z,1634961,2100999,2,Xal'atath's Bargain: Devour,今宵別夢寒,Paladin,Retribution,dps,Silver Hand
+12,172.1,300343724,2,City of Threads,2024-10-15T07:57:32.000Z,1705737,2100999,1,Xal'atath's Bargain: Devour,花开丶春至,Death Knight,Frost,dps,Rhonin
+12,172.1,300343724,2,City of Threads,2024-10-15T07:57:32.000Z,1705737,2100999,1,Xal'atath's Bargain: Devour,铠武丶,Paladin,Retribution,dps,Rhonin
+12,172.1,300343724,2,City of Threads,2024-10-15T07:57:32.000Z,1705737,2100999,1,Xal'atath's Bargain: Devour,押韵歌,Demon Hunter,Vengeance,tank,Shadowmourne
+12,172.1,300343724,2,City of Threads,2024-10-15T07:57:32.000Z,1705737,2100999,1,Xal'atath's Bargain: Devour,超大个馒头,Paladin,Retribution,dps,Deathwing
+12,172.1,300343724,2,City of Threads,2024-10-15T07:57:32.000Z,1705737,2100999,1,Xal'atath's Bargain: Devour,婞福枳因洧,Priest,Holy,healer,Greymane

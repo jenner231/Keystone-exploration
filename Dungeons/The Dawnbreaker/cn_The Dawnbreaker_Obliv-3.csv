@@ -1,0 +1,136 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,308919154,3,The Dawnbreaker,2024-11-24T12:58:43.000Z,1028320,1860999,3,Xal'atath's Bargain: Oblivion,北极武曲星君,Paladin,Retribution,dps,Anzu
+1,195,308919154,3,The Dawnbreaker,2024-11-24T12:58:43.000Z,1028320,1860999,3,Xal'atath's Bargain: Oblivion,好事花生灬,Shaman,Elemental,dps,Burning Blade
+1,195,308919154,3,The Dawnbreaker,2024-11-24T12:58:43.000Z,1028320,1860999,3,Xal'atath's Bargain: Oblivion,似是祐重阳,Paladin,Protection,tank,Anzu
+1,195,308919154,3,The Dawnbreaker,2024-11-24T12:58:43.000Z,1028320,1860999,3,Xal'atath's Bargain: Oblivion,二郎救苦天尊,Priest,Discipline,healer,Anzu
+1,195,308919154,3,The Dawnbreaker,2024-11-24T12:58:43.000Z,1028320,1860999,3,Xal'atath's Bargain: Oblivion,Seagull,Rogue,Assassination,dps,Theramore
+2,195,308548633,3,The Dawnbreaker,2024-11-22T08:18:16.000Z,1075427,1860999,3,Xal'atath's Bargain: Oblivion,Dresde,Paladin,Protection,tank,Echo Ridge
+2,195,308548633,3,The Dawnbreaker,2024-11-22T08:18:16.000Z,1075427,1860999,3,Xal'atath's Bargain: Oblivion,章鱼烧丸,Hunter,Survival,dps,Silver Hand
+2,195,308548633,3,The Dawnbreaker,2024-11-22T08:18:16.000Z,1075427,1860999,3,Xal'atath's Bargain: Oblivion,叫你不戴帽子,Evoker,Preservation,healer,Scarlet Crusade
+2,195,308548633,3,The Dawnbreaker,2024-11-22T08:18:16.000Z,1075427,1860999,3,Xal'atath's Bargain: Oblivion,鎮魂,Rogue,Outlaw,dps,Silver Hand
+2,195,308548633,3,The Dawnbreaker,2024-11-22T08:18:16.000Z,1075427,1860999,3,Xal'atath's Bargain: Oblivion,梦里骑小母牛,Warrior,Fury,dps,Winterspring
+3,195,301115217,3,The Dawnbreaker,2024-10-18T16:55:29.000Z,1107700,1860999,3,Xal'atath's Bargain: Oblivion,我知道要聚怪,Shaman,Restoration,healer,Loken
+3,195,301115217,3,The Dawnbreaker,2024-10-18T16:55:29.000Z,1107700,1860999,3,Xal'atath's Bargain: Oblivion,不是贝塔,Evoker,Augmentation,dps,Anzu
+3,195,301115217,3,The Dawnbreaker,2024-10-18T16:55:29.000Z,1107700,1860999,3,Xal'atath's Bargain: Oblivion,馨沐雪,Death Knight,Blood,tank,Deathwing
+3,195,301115217,3,The Dawnbreaker,2024-10-18T16:55:29.000Z,1107700,1860999,3,Xal'atath's Bargain: Oblivion,圣光瘤子,Paladin,Retribution,dps,Hectae
+3,195,301115217,3,The Dawnbreaker,2024-10-18T16:55:29.000Z,1107700,1860999,3,Xal'atath's Bargain: Oblivion,磨刀石头,Warrior,Arms,dps,Hectae
+4,191.2,309228904,3,The Dawnbreaker,2024-11-26T15:31:03.000Z,1304627,1860999,2,Xal'atath's Bargain: Oblivion,寒冰企鹅,Death Knight,Frost,dps,Aessina
+4,191.2,309228904,3,The Dawnbreaker,2024-11-26T15:31:03.000Z,1304627,1860999,2,Xal'atath's Bargain: Oblivion,运营总监,Warrior,Protection,tank,The Golden Plains
+4,191.2,309228904,3,The Dawnbreaker,2024-11-26T15:31:03.000Z,1304627,1860999,2,Xal'atath's Bargain: Oblivion,風雨灬江湖,Hunter,Survival,dps,Dun Modr
+4,191.2,309228904,3,The Dawnbreaker,2024-11-26T15:31:03.000Z,1304627,1860999,2,Xal'atath's Bargain: Oblivion,無惧,Shaman,Restoration,healer,Aszune
+4,191.2,309228904,3,The Dawnbreaker,2024-11-26T15:31:03.000Z,1304627,1860999,2,Xal'atath's Bargain: Oblivion,Witness,Mage,Frost,dps,Alexstrasza
+5,190.1,309403356,3,The Dawnbreaker,2024-11-27T19:17:13.000Z,1361244,1860999,2,Xal'atath's Bargain: Oblivion,抄底不过分吧,Monk,Windwalker,dps,Blanchard
+5,190.1,309403356,3,The Dawnbreaker,2024-11-27T19:17:13.000Z,1361244,1860999,2,Xal'atath's Bargain: Oblivion,盗了个盗,Rogue,Assassination,dps,Blanchard
+5,190.1,309403356,3,The Dawnbreaker,2024-11-27T19:17:13.000Z,1361244,1860999,2,Xal'atath's Bargain: Oblivion,鲸鱼大魔王,Demon Hunter,Vengeance,tank,Rhonin
+5,190.1,309403356,3,The Dawnbreaker,2024-11-27T19:17:13.000Z,1361244,1860999,2,Xal'atath's Bargain: Oblivion,利威尔爱砍猴,Rogue,Assassination,dps,Kel'Thuzad
+5,190.1,309403356,3,The Dawnbreaker,2024-11-27T19:17:13.000Z,1361244,1860999,2,Xal'atath's Bargain: Oblivion,八万一筒,Priest,Discipline,healer,Al'ar
+6,189.6,308908762,3,The Dawnbreaker,2024-11-24T11:05:03.000Z,1386022,1860999,2,Xal'atath's Bargain: Oblivion,星河猎手萨姆,Paladin,Protection,tank,Deathwing
+6,189.6,308908762,3,The Dawnbreaker,2024-11-24T11:05:03.000Z,1386022,1860999,2,Xal'atath's Bargain: Oblivion,吉尼台妹,Druid,Restoration,healer,Deathwing
+6,189.6,308908762,3,The Dawnbreaker,2024-11-24T11:05:03.000Z,1386022,1860999,2,Xal'atath's Bargain: Oblivion,真秘偶大师,Monk,Windwalker,dps,Doomwalker
+6,189.6,308908762,3,The Dawnbreaker,2024-11-24T11:05:03.000Z,1386022,1860999,2,Xal'atath's Bargain: Oblivion,晟灬,Hunter,Beast Mastery,dps,Deathwing
+6,189.6,308908762,3,The Dawnbreaker,2024-11-24T11:05:03.000Z,1386022,1860999,2,Xal'atath's Bargain: Oblivion,部落第一帅哥,Hunter,Survival,dps,Nozdormu
+7,185.9,300295667,3,The Dawnbreaker,2024-09-26T16:14:27.000Z,1567212,1860999,1,Xal'atath's Bargain: Oblivion,懒龙露娜,Evoker,Augmentation,dps,Chillwind Point
+7,185.9,300295667,3,The Dawnbreaker,2024-09-26T16:14:27.000Z,1567212,1860999,1,Xal'atath's Bargain: Oblivion,随一便,Mage,Frost,dps,Anzu
+7,185.9,300295667,3,The Dawnbreaker,2024-09-26T16:14:27.000Z,1567212,1860999,1,Xal'atath's Bargain: Oblivion,黑色凶照,Shaman,Restoration,healer,Gothik
+7,185.9,300295667,3,The Dawnbreaker,2024-09-26T16:14:27.000Z,1567212,1860999,1,Xal'atath's Bargain: Oblivion,会飞的桃子,Warrior,Protection,tank,Pandaren
+7,185.9,300295667,3,The Dawnbreaker,2024-09-26T16:14:27.000Z,1567212,1860999,1,Xal'atath's Bargain: Oblivion,狂又野,Warrior,Fury,dps,Silver Hand
+8,185.3,297123173,3,The Dawnbreaker,2024-10-02T06:08:30.000Z,1598910,1860999,1,Xal'atath's Bargain: Oblivion,時光迁徙,Druid,Guardian,tank,Rhonin
+8,185.3,297123173,3,The Dawnbreaker,2024-10-02T06:08:30.000Z,1598910,1860999,1,Xal'atath's Bargain: Oblivion,雨果丶光刃,Paladin,Retribution,dps,The Golden Plains
+8,185.3,297123173,3,The Dawnbreaker,2024-10-02T06:08:30.000Z,1598910,1860999,1,Xal'atath's Bargain: Oblivion,卡洛思,Shaman,Restoration,healer,Ravenholdt
+8,185.3,297123173,3,The Dawnbreaker,2024-10-02T06:08:30.000Z,1598910,1860999,1,Xal'atath's Bargain: Oblivion,哔哩啵,Death Knight,Unholy,dps,Arygos
+8,185.3,297123173,3,The Dawnbreaker,2024-10-02T06:08:30.000Z,1598910,1860999,1,Xal'atath's Bargain: Oblivion,糖果店老板娘,Warlock,Destruction,dps,Rhonin
+9,180,296020228,2,The Dawnbreaker,2024-09-28T06:36:22.000Z,867500,1860999,3,Xal'atath's Bargain: Oblivion,傻幽,Mage,Fire,dps,Dreadmist Peak
+9,180,296020228,2,The Dawnbreaker,2024-09-28T06:36:22.000Z,867500,1860999,3,Xal'atath's Bargain: Oblivion,橙子超人,Druid,Guardian,tank,Barrens
+9,180,296020228,2,The Dawnbreaker,2024-09-28T06:36:22.000Z,867500,1860999,3,Xal'atath's Bargain: Oblivion,白天数星星,Shaman,Restoration,healer,Barrens
+9,180,296020228,2,The Dawnbreaker,2024-09-28T06:36:22.000Z,867500,1860999,3,Xal'atath's Bargain: Oblivion,曈曈最可爱,Warrior,Fury,dps,Anzu
+9,180,296020228,2,The Dawnbreaker,2024-09-28T06:36:22.000Z,867500,1860999,3,Xal'atath's Bargain: Oblivion,奶粉好毒,Paladin,Retribution,dps,Barrens
+10,180,308437710,2,The Dawnbreaker,2024-11-21T15:00:47.000Z,885302,1860999,3,Xal'atath's Bargain: Oblivion,老子剑断了丶,Demon Hunter,Vengeance,tank,Deathwing
+10,180,308437710,2,The Dawnbreaker,2024-11-21T15:00:47.000Z,885302,1860999,3,Xal'atath's Bargain: Oblivion,茶咖椰球,Monk,Mistweaver,healer,Anzu
+10,180,308437710,2,The Dawnbreaker,2024-11-21T15:00:47.000Z,885302,1860999,3,Xal'atath's Bargain: Oblivion,Chill,Shaman,Enhancement,dps,Wing of the Whelping
+10,180,308437710,2,The Dawnbreaker,2024-11-21T15:00:47.000Z,885302,1860999,3,Xal'atath's Bargain: Oblivion,饼饼爱吃鱼,Death Knight,Frost,dps,Zul'jin
+10,180,308437710,2,The Dawnbreaker,2024-11-21T15:00:47.000Z,885302,1860999,3,Xal'atath's Bargain: Oblivion,猪猪的门牙,Death Knight,Unholy,dps,Chillwind Point
+11,180,301618450,2,The Dawnbreaker,2024-10-20T11:05:27.000Z,956571,1860999,3,Xal'atath's Bargain: Oblivion,Galnn,Warrior,Fury,dps,Al'ar
+11,180,301618450,2,The Dawnbreaker,2024-10-20T11:05:27.000Z,956571,1860999,3,Xal'atath's Bargain: Oblivion,列里尔,Hunter,Survival,dps,Rhonin
+11,180,301618450,2,The Dawnbreaker,2024-10-20T11:05:27.000Z,956571,1860999,3,Xal'atath's Bargain: Oblivion,微醺骑士,Paladin,Protection,tank,Al'ar
+11,180,301618450,2,The Dawnbreaker,2024-10-20T11:05:27.000Z,956571,1860999,3,Xal'atath's Bargain: Oblivion,小晚心结,Evoker,Augmentation,dps,Scarlet Crusade
+11,180,301618450,2,The Dawnbreaker,2024-10-20T11:05:27.000Z,956571,1860999,3,Xal'atath's Bargain: Oblivion,猫小刹,Shaman,Restoration,healer,Barrens
+12,180,300814312,2,The Dawnbreaker,2024-10-17T08:17:32.000Z,1042864,1860999,3,Xal'atath's Bargain: Oblivion,临青,Priest,Discipline,healer,Burning Blade
+12,180,300814312,2,The Dawnbreaker,2024-10-17T08:17:32.000Z,1042864,1860999,3,Xal'atath's Bargain: Oblivion,米游社,Demon Hunter,Vengeance,tank,Frostmourne
+12,180,300814312,2,The Dawnbreaker,2024-10-17T08:17:32.000Z,1042864,1860999,3,Xal'atath's Bargain: Oblivion,会长,Rogue,Assassination,dps,Echo Ridge
+12,180,300814312,2,The Dawnbreaker,2024-10-17T08:17:32.000Z,1042864,1860999,3,Xal'atath's Bargain: Oblivion,Jokey,Warlock,Destruction,dps,Magtheridon
+12,180,300814312,2,The Dawnbreaker,2024-10-17T08:17:32.000Z,1042864,1860999,3,Xal'atath's Bargain: Oblivion,罪之枝灬冰翼,Paladin,Retribution,dps,Eldre'Thalas
+13,180,296554877,2,The Dawnbreaker,2024-09-29T19:38:20.000Z,1055132,1860999,3,Xal'atath's Bargain: Oblivion,冰封之女,Mage,Arcane,dps,The Master's Glaive
+13,180,296554877,2,The Dawnbreaker,2024-09-29T19:38:20.000Z,1055132,1860999,3,Xal'atath's Bargain: Oblivion,Djangocorgi,Hunter,Marksmanship,dps,Dark Phantom
+13,180,296554877,2,The Dawnbreaker,2024-09-29T19:38:20.000Z,1055132,1860999,3,Xal'atath's Bargain: Oblivion,死鬼吹灯,Warrior,Fury,dps,Rhonin
+13,180,296554877,2,The Dawnbreaker,2024-09-29T19:38:20.000Z,1055132,1860999,3,Xal'atath's Bargain: Oblivion,奶起来继续送,Shaman,Restoration,healer,Zealot Blade
+13,180,296554877,2,The Dawnbreaker,2024-09-29T19:38:20.000Z,1055132,1860999,3,Xal'atath's Bargain: Oblivion,Likeasong,Warrior,Protection,tank,Al'ar
+14,180,309066965,2,The Dawnbreaker,2024-11-25T10:59:05.000Z,1066570,1860999,3,Xal'atath's Bargain: Oblivion,麦克迪森塔,Priest,Discipline,healer,Deepfury
+14,180,309066965,2,The Dawnbreaker,2024-11-25T10:59:05.000Z,1066570,1860999,3,Xal'atath's Bargain: Oblivion,梦中的夏,Warlock,Destruction,dps,Doomwalker
+14,180,309066965,2,The Dawnbreaker,2024-11-25T10:59:05.000Z,1066570,1860999,3,Xal'atath's Bargain: Oblivion,Gais,Paladin,Retribution,dps,Al'ar
+14,180,309066965,2,The Dawnbreaker,2024-11-25T10:59:05.000Z,1066570,1860999,3,Xal'atath's Bargain: Oblivion,小丶肥牛,Demon Hunter,Vengeance,tank,Stranglethorn
+14,180,309066965,2,The Dawnbreaker,2024-11-25T10:59:05.000Z,1066570,1860999,3,Xal'atath's Bargain: Oblivion,迷失的旅人,Mage,Frost,dps,The Golden Plains
+15,180,301582969,2,The Dawnbreaker,2024-10-20T07:26:27.000Z,1084130,1860999,3,Xal'atath's Bargain: Oblivion,已久的淡忘,Warrior,Fury,dps,Grim Batol
+15,180,301582969,2,The Dawnbreaker,2024-10-20T07:26:27.000Z,1084130,1860999,3,Xal'atath's Bargain: Oblivion,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+15,180,301582969,2,The Dawnbreaker,2024-10-20T07:26:27.000Z,1084130,1860999,3,Xal'atath's Bargain: Oblivion,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+15,180,301582969,2,The Dawnbreaker,2024-10-20T07:26:27.000Z,1084130,1860999,3,Xal'atath's Bargain: Oblivion,黑塑水,Mage,Frost,dps,Deathwing
+15,180,301582969,2,The Dawnbreaker,2024-10-20T07:26:27.000Z,1084130,1860999,3,Xal'atath's Bargain: Oblivion,禁疗自奶狐,Shaman,Restoration,healer,Grim Batol
+16,180,301657931,2,The Dawnbreaker,2024-10-20T14:18:03.000Z,1108332,1860999,3,Xal'atath's Bargain: Oblivion,里见光钻,Paladin,Protection,tank,The Master's Glaive
+16,180,301657931,2,The Dawnbreaker,2024-10-20T14:18:03.000Z,1108332,1860999,3,Xal'atath's Bargain: Oblivion,火然丶忄吾,Hunter,Beast Mastery,dps,Scarlet Crusade
+16,180,301657931,2,The Dawnbreaker,2024-10-20T14:18:03.000Z,1108332,1860999,3,Xal'atath's Bargain: Oblivion,戒浮,Monk,Mistweaver,healer,Ysera
+16,180,301657931,2,The Dawnbreaker,2024-10-20T14:18:03.000Z,1108332,1860999,3,Xal'atath's Bargain: Oblivion,Felician,Paladin,Retribution,dps,World Tree
+16,180,301657931,2,The Dawnbreaker,2024-10-20T14:18:03.000Z,1108332,1860999,3,Xal'atath's Bargain: Oblivion,蔚蓝凉,Paladin,Retribution,dps,Skywall
+17,178.8,302289145,2,The Dawnbreaker,2024-10-23T10:57:50.000Z,1175834,1860999,2,Xal'atath's Bargain: Oblivion,筱红帽丶,Paladin,Protection,tank,The Great Sea
+17,178.8,302289145,2,The Dawnbreaker,2024-10-23T10:57:50.000Z,1175834,1860999,2,Xal'atath's Bargain: Oblivion,圣光大忽悠呀,Paladin,Retribution,dps,Molten Core
+17,178.8,302289145,2,The Dawnbreaker,2024-10-23T10:57:50.000Z,1175834,1860999,2,Xal'atath's Bargain: Oblivion,姒雨樱,Priest,Discipline,healer,Shadowmourne
+17,178.8,302289145,2,The Dawnbreaker,2024-10-23T10:57:50.000Z,1175834,1860999,2,Xal'atath's Bargain: Oblivion,炫彩乀六夜,Paladin,Retribution,dps,Peak of Serenity
+17,178.8,302289145,2,The Dawnbreaker,2024-10-23T10:57:50.000Z,1175834,1860999,2,Xal'atath's Bargain: Oblivion,茶窝雪梨,Shaman,Elemental,dps,Gorehowl
+18,178.6,309081344,2,The Dawnbreaker,2024-11-25T14:11:27.000Z,1186328,1860999,2,Xal'atath's Bargain: Oblivion,攻强卷轴一号,Warrior,Arms,dps,Chillwind Point
+18,178.6,309081344,2,The Dawnbreaker,2024-11-25T14:11:27.000Z,1186328,1860999,2,Xal'atath's Bargain: Oblivion,最爱中野三玖,Paladin,Protection,tank,Chillwind Point
+18,178.6,309081344,2,The Dawnbreaker,2024-11-25T14:11:27.000Z,1186328,1860999,2,Xal'atath's Bargain: Oblivion,阿塔吉娜,Paladin,Holy,healer,Chillwind Point
+18,178.6,309081344,2,The Dawnbreaker,2024-11-25T14:11:27.000Z,1186328,1860999,2,Xal'atath's Bargain: Oblivion,绝丶刃,Paladin,Retribution,dps,Frostmourne
+18,178.6,309081344,2,The Dawnbreaker,2024-11-25T14:11:27.000Z,1186328,1860999,2,Xal'atath's Bargain: Oblivion,Hinata,Warrior,Fury,dps,Chillwind Point
+19,177.9,301886510,2,The Dawnbreaker,2024-10-21T12:12:48.000Z,1221658,1860999,2,Xal'atath's Bargain: Oblivion,Kstdragon,Evoker,Devastation,dps,Galakrond
+19,177.9,301886510,2,The Dawnbreaker,2024-10-21T12:12:48.000Z,1221658,1860999,2,Xal'atath's Bargain: Oblivion,漂亮粉色,Paladin,Retribution,dps,Frostmourne
+19,177.9,301886510,2,The Dawnbreaker,2024-10-21T12:12:48.000Z,1221658,1860999,2,Xal'atath's Bargain: Oblivion,Itank,Death Knight,Blood,tank,Barrens
+19,177.9,301886510,2,The Dawnbreaker,2024-10-21T12:12:48.000Z,1221658,1860999,2,Xal'atath's Bargain: Oblivion,纯天然疯牛,Warrior,Fury,dps,Frostmourne
+19,177.9,301886510,2,The Dawnbreaker,2024-10-21T12:12:48.000Z,1221658,1860999,2,Xal'atath's Bargain: Oblivion,穆糖莼,Monk,Mistweaver,healer,The Golden Plains
+20,177.8,308427820,2,The Dawnbreaker,2024-11-21T13:45:20.000Z,1227153,1860999,2,Xal'atath's Bargain: Oblivion,宝友,Druid,Balance,dps,Shadowmourne
+20,177.8,308427820,2,The Dawnbreaker,2024-11-21T13:45:20.000Z,1227153,1860999,2,Xal'atath's Bargain: Oblivion,椎名立希樣,Paladin,Protection,tank,Duskwood
+20,177.8,308427820,2,The Dawnbreaker,2024-11-21T13:45:20.000Z,1227153,1860999,2,Xal'atath's Bargain: Oblivion,有雨的晴天,Shaman,Restoration,healer,Khadgar
+20,177.8,308427820,2,The Dawnbreaker,2024-11-21T13:45:20.000Z,1227153,1860999,2,Xal'atath's Bargain: Oblivion,马幽幽,Paladin,Retribution,dps,Silver Hand
+20,177.8,308427820,2,The Dawnbreaker,2024-11-21T13:45:20.000Z,1227153,1860999,2,Xal'atath's Bargain: Oblivion,向晚吖,Hunter,Beast Mastery,dps,Alterac Mountains
+21,177.1,309207103,2,The Dawnbreaker,2024-11-26T11:17:24.000Z,1262449,1860999,2,Xal'atath's Bargain: Oblivion,小猫吉他手,Hunter,Survival,dps,Scarlet Crusade
+21,177.1,309207103,2,The Dawnbreaker,2024-11-26T11:17:24.000Z,1262449,1860999,2,Xal'atath's Bargain: Oblivion,玩棍人,Shaman,Restoration,healer,Deathwing
+21,177.1,309207103,2,The Dawnbreaker,2024-11-26T11:17:24.000Z,1262449,1860999,2,Xal'atath's Bargain: Oblivion,夕阳漫射丶,Mage,Frost,dps,Deathwing
+21,177.1,309207103,2,The Dawnbreaker,2024-11-26T11:17:24.000Z,1262449,1860999,2,Xal'atath's Bargain: Oblivion,苏南校霸,Warrior,Protection,tank,Deathwing
+21,177.1,309207103,2,The Dawnbreaker,2024-11-26T11:17:24.000Z,1262449,1860999,2,Xal'atath's Bargain: Oblivion,一碗叉烧饭,Paladin,Retribution,dps,Deathwing
+22,176.8,308440689,2,The Dawnbreaker,2024-11-21T15:28:47.000Z,1276865,1860999,2,Xal'atath's Bargain: Oblivion,黑塑水,Mage,Frost,dps,Deathwing
+22,176.8,308440689,2,The Dawnbreaker,2024-11-21T15:28:47.000Z,1276865,1860999,2,Xal'atath's Bargain: Oblivion,谢小球,Priest,Discipline,healer,Thunder Axe Fortress
+22,176.8,308440689,2,The Dawnbreaker,2024-11-21T15:28:47.000Z,1276865,1860999,2,Xal'atath's Bargain: Oblivion,已久的淡忘,Demon Hunter,Vengeance,tank,Deathwing
+22,176.8,308440689,2,The Dawnbreaker,2024-11-21T15:28:47.000Z,1276865,1860999,2,Xal'atath's Bargain: Oblivion,虚区焅琅,Mage,Frost,dps,Grim Batol
+22,176.8,308440689,2,The Dawnbreaker,2024-11-21T15:28:47.000Z,1276865,1860999,2,Xal'atath's Bargain: Oblivion,南小鸟的水,Paladin,Retribution,dps,Grim Batol
+23,176.6,297007821,2,The Dawnbreaker,2024-10-01T18:40:54.000Z,1282958,1860999,2,Xal'atath's Bargain: Oblivion,我叫早晨,Priest,Discipline,healer,Deathwing
+23,176.6,297007821,2,The Dawnbreaker,2024-10-01T18:40:54.000Z,1282958,1860999,2,Xal'atath's Bargain: Oblivion,杂技大唐,Shaman,Enhancement,dps,Burning Blade
+23,176.6,297007821,2,The Dawnbreaker,2024-10-01T18:40:54.000Z,1282958,1860999,2,Xal'atath's Bargain: Oblivion,Everlong,Death Knight,Frost,dps,Deathwing
+23,176.6,297007821,2,The Dawnbreaker,2024-10-01T18:40:54.000Z,1282958,1860999,2,Xal'atath's Bargain: Oblivion,镇魂,Rogue,Assassination,dps,Thunder Axe Fortress
+23,176.6,297007821,2,The Dawnbreaker,2024-10-01T18:40:54.000Z,1282958,1860999,2,Xal'atath's Bargain: Oblivion,Drenched,Warrior,Protection,tank,Eldre'Thalas
+24,176.1,297107676,2,The Dawnbreaker,2024-10-02T03:35:00.000Z,1312338,1860999,2,Xal'atath's Bargain: Oblivion,瓦希希,Paladin,Holy,healer,Grim Batol
+24,176.1,297107676,2,The Dawnbreaker,2024-10-02T03:35:00.000Z,1312338,1860999,2,Xal'atath's Bargain: Oblivion,小鸟乖乖,Druid,Guardian,tank,Grim Batol
+24,176.1,297107676,2,The Dawnbreaker,2024-10-02T03:35:00.000Z,1312338,1860999,2,Xal'atath's Bargain: Oblivion,术人,Warlock,Affliction,dps,Gorgonnash
+24,176.1,297107676,2,The Dawnbreaker,2024-10-02T03:35:00.000Z,1312338,1860999,2,Xal'atath's Bargain: Oblivion,新希望,Shaman,Elemental,dps,Darkspear
+24,176.1,297107676,2,The Dawnbreaker,2024-10-02T03:35:00.000Z,1312338,1860999,2,Xal'atath's Bargain: Oblivion,壕油根,Shaman,Elemental,dps,Geddon
+25,174,308862438,2,The Dawnbreaker,2024-11-24T02:43:02.000Z,1414066,1860999,2,Xal'atath's Bargain: Oblivion,神奇的阿瓷,Paladin,Retribution,dps,Scarlet Crusade
+25,174,308862438,2,The Dawnbreaker,2024-11-24T02:43:02.000Z,1414066,1860999,2,Xal'atath's Bargain: Oblivion,笨笨的探险家,Druid,Balance,dps,Barrens
+25,174,308862438,2,The Dawnbreaker,2024-11-24T02:43:02.000Z,1414066,1860999,2,Xal'atath's Bargain: Oblivion,萌萌哒虎牙,Druid,Guardian,tank,Anzu
+25,174,308862438,2,The Dawnbreaker,2024-11-24T02:43:02.000Z,1414066,1860999,2,Xal'atath's Bargain: Oblivion,妮别蔻了,Priest,Holy,healer,Alexstrasza
+25,174,308862438,2,The Dawnbreaker,2024-11-24T02:43:02.000Z,1414066,1860999,2,Xal'atath's Bargain: Oblivion,闪电绿箭侠,Hunter,Beast Mastery,dps,Gul'dan
+26,173.8,301019886,2,The Dawnbreaker,2024-10-18T04:49:12.000Z,1422009,1860999,2,Xal'atath's Bargain: Oblivion,邪能咖啡机,Monk,Mistweaver,healer,Arygos
+26,173.8,301019886,2,The Dawnbreaker,2024-10-18T04:49:12.000Z,1422009,1860999,2,Xal'atath's Bargain: Oblivion,苏小媚,Demon Hunter,Havoc,dps,Deathwing
+26,173.8,301019886,2,The Dawnbreaker,2024-10-18T04:49:12.000Z,1422009,1860999,2,Xal'atath's Bargain: Oblivion,靚丨,Paladin,Retribution,dps,Bleeding Hollow
+26,173.8,301019886,2,The Dawnbreaker,2024-10-18T04:49:12.000Z,1422009,1860999,2,Xal'atath's Bargain: Oblivion,Kstpala,Paladin,Retribution,dps,Galakrond
+26,173.8,301019886,2,The Dawnbreaker,2024-10-18T04:49:12.000Z,1422009,1860999,2,Xal'atath's Bargain: Oblivion,你缺德不缺德,Druid,Guardian,tank,Algalon
+27,173.8,308985088,2,The Dawnbreaker,2024-11-24T20:19:24.000Z,1423387,1860999,2,Xal'atath's Bargain: Oblivion,圣弦,Paladin,Protection,tank,Shadowmourne
+27,173.8,308985088,2,The Dawnbreaker,2024-11-24T20:19:24.000Z,1423387,1860999,2,Xal'atath's Bargain: Oblivion,楠茜丶,Evoker,Augmentation,dps,Burning Blade
+27,173.8,308985088,2,The Dawnbreaker,2024-11-24T20:19:24.000Z,1423387,1860999,2,Xal'atath's Bargain: Oblivion,捅不死人的赋,Rogue,Assassination,dps,Anzu
+27,173.8,308985088,2,The Dawnbreaker,2024-11-24T20:19:24.000Z,1423387,1860999,2,Xal'atath's Bargain: Oblivion,斯蒂庞克,Hunter,Survival,dps,Menethil
+27,173.8,308985088,2,The Dawnbreaker,2024-11-24T20:19:24.000Z,1423387,1860999,2,Xal'atath's Bargain: Oblivion,Au,Shaman,Restoration,healer,Kil'jaeden

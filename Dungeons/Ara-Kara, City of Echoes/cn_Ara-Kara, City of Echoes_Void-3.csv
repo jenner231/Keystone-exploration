@@ -1,0 +1,51 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,297409650,3,"Ara-Kara, City of Echoes",2024-10-03T16:42:03.000Z,941075,1800999,3,Xal'atath's Bargain: Voidbound,超越天堂丶,Demon Hunter,Vengeance,tank,Silver Hand
+1,195,297409650,3,"Ara-Kara, City of Echoes",2024-10-03T16:42:03.000Z,941075,1800999,3,Xal'atath's Bargain: Voidbound,剩饭卡比兽,Shaman,Restoration,healer,Silver Hand
+1,195,297409650,3,"Ara-Kara, City of Echoes",2024-10-03T16:42:03.000Z,941075,1800999,3,Xal'atath's Bargain: Voidbound,梦见明月,Hunter,Marksmanship,dps,Silver Hand
+1,195,297409650,3,"Ara-Kara, City of Echoes",2024-10-03T16:42:03.000Z,941075,1800999,3,Xal'atath's Bargain: Voidbound,清蒸蟹老板,Mage,Fire,dps,Silver Hand
+1,195,297409650,3,"Ara-Kara, City of Echoes",2024-10-03T16:42:03.000Z,941075,1800999,3,Xal'atath's Bargain: Voidbound,拿枪老狼人,Hunter,Survival,dps,Silver Hand
+2,195,305769455,3,"Ara-Kara, City of Echoes",2024-11-08T05:49:43.000Z,1031505,1800999,3,Xal'atath's Bargain: Voidbound,不抓,Hunter,Beast Mastery,dps,The Great Sea
+2,195,305769455,3,"Ara-Kara, City of Echoes",2024-11-08T05:49:43.000Z,1031505,1800999,3,Xal'atath's Bargain: Voidbound,風月丶,Shaman,Restoration,healer,The Great Sea
+2,195,305769455,3,"Ara-Kara, City of Echoes",2024-11-08T05:49:43.000Z,1031505,1800999,3,Xal'atath's Bargain: Voidbound,我还不够生气,Monk,Brewmaster,tank,Dark Iron
+2,195,305769455,3,"Ara-Kara, City of Echoes",2024-11-08T05:49:43.000Z,1031505,1800999,3,Xal'atath's Bargain: Voidbound,花溅丶,Warrior,Arms,dps,The Great Sea
+2,195,305769455,3,"Ara-Kara, City of Echoes",2024-11-08T05:49:43.000Z,1031505,1800999,3,Xal'atath's Bargain: Voidbound,一只邹,Death Knight,Frost,dps,The Great Sea
+3,194.3,306549481,3,"Ara-Kara, City of Echoes",2024-11-11T14:25:53.000Z,1114244,1800999,2,Xal'atath's Bargain: Voidbound,萌四肥仔,Warrior,Protection,tank,Anzu
+3,194.3,306549481,3,"Ara-Kara, City of Echoes",2024-11-11T14:25:53.000Z,1114244,1800999,2,Xal'atath's Bargain: Voidbound,酸辣生虾,Priest,Holy,healer,Al'ar
+3,194.3,306549481,3,"Ara-Kara, City of Echoes",2024-11-11T14:25:53.000Z,1114244,1800999,2,Xal'atath's Bargain: Voidbound,雪山小飞狐,Warlock,Demonology,dps,Al'ar
+3,194.3,306549481,3,"Ara-Kara, City of Echoes",2024-11-11T14:25:53.000Z,1114244,1800999,2,Xal'atath's Bargain: Voidbound,靓仔熊丶,Hunter,Beast Mastery,dps,Anzu
+3,194.3,306549481,3,"Ara-Kara, City of Echoes",2024-11-11T14:25:53.000Z,1114244,1800999,2,Xal'atath's Bargain: Voidbound,暗中观察,Shaman,Elemental,dps,Sunwell
+4,194.2,305809909,3,"Ara-Kara, City of Echoes",2024-11-08T13:38:51.000Z,1117706,1800999,2,Xal'atath's Bargain: Voidbound,茉莉奶绿,Hunter,Survival,dps,Burning Blade
+4,194.2,305809909,3,"Ara-Kara, City of Echoes",2024-11-08T13:38:51.000Z,1117706,1800999,2,Xal'atath's Bargain: Voidbound,漫华星尘,Paladin,Protection,tank,Deathwing
+4,194.2,305809909,3,"Ara-Kara, City of Echoes",2024-11-08T13:38:51.000Z,1117706,1800999,2,Xal'atath's Bargain: Voidbound,云月八千里丶,Paladin,Retribution,dps,Isillien
+4,194.2,305809909,3,"Ara-Kara, City of Echoes",2024-11-08T13:38:51.000Z,1117706,1800999,2,Xal'atath's Bargain: Voidbound,天水姜伯約,Mage,Arcane,dps,Silver Hand
+4,194.2,305809909,3,"Ara-Kara, City of Echoes",2024-11-08T13:38:51.000Z,1117706,1800999,2,Xal'atath's Bargain: Voidbound,幕枭,Paladin,Holy,healer,Suramar
+5,179.5,298406613,2,"Ara-Kara, City of Echoes",2024-10-07T10:56:39.000Z,1104731,1800999,2,Xal'atath's Bargain: Voidbound,南宁,Druid,Guardian,tank,Valley of Kings
+5,179.5,298406613,2,"Ara-Kara, City of Echoes",2024-10-07T10:56:39.000Z,1104731,1800999,2,Xal'atath's Bargain: Voidbound,江弦歌,Rogue,Subtlety,dps,Shadowmourne
+5,179.5,298406613,2,"Ara-Kara, City of Echoes",2024-10-07T10:56:39.000Z,1104731,1800999,2,Xal'atath's Bargain: Voidbound,圣光祈愿,Priest,Discipline,healer,Caverns of Time
+5,179.5,298406613,2,"Ara-Kara, City of Echoes",2024-10-07T10:56:39.000Z,1104731,1800999,2,Xal'atath's Bargain: Voidbound,白色风铃,Paladin,Retribution,dps,Blackrock
+5,179.5,298406613,2,"Ara-Kara, City of Echoes",2024-10-07T10:56:39.000Z,1104731,1800999,2,Xal'atath's Bargain: Voidbound,掏蛋派创始人,Rogue,Assassination,dps,Burning Legion
+6,178.2,306925865,2,"Ara-Kara, City of Echoes",2024-11-13T06:06:06.000Z,1169085,1800999,2,Xal'atath's Bargain: Voidbound,美背,Rogue,Outlaw,dps,Isillien
+6,178.2,306925865,2,"Ara-Kara, City of Echoes",2024-11-13T06:06:06.000Z,1169085,1800999,2,Xal'atath's Bargain: Voidbound,可燃丶乌龙茶,Paladin,Retribution,dps,Deathwing
+6,178.2,306925865,2,"Ara-Kara, City of Echoes",2024-11-13T06:06:06.000Z,1169085,1800999,2,Xal'atath's Bargain: Voidbound,不浪漫最萌,Druid,Restoration,healer,Burning Blade
+6,178.2,306925865,2,"Ara-Kara, City of Echoes",2024-11-13T06:06:06.000Z,1169085,1800999,2,Xal'atath's Bargain: Voidbound,Ìê,Demon Hunter,Vengeance,tank,Silver Hand
+6,178.2,306925865,2,"Ara-Kara, City of Echoes",2024-11-13T06:06:06.000Z,1169085,1800999,2,Xal'atath's Bargain: Voidbound,腊月十九,Shaman,Elemental,dps,Scarlet Crusade
+7,177.2,306992908,2,"Ara-Kara, City of Echoes",2024-11-13T17:25:20.000Z,1213829,1800999,2,Xal'atath's Bargain: Voidbound,前尘如梦,Death Knight,Blood,tank,Kel'Thuzad
+7,177.2,306992908,2,"Ara-Kara, City of Echoes",2024-11-13T17:25:20.000Z,1213829,1800999,2,Xal'atath's Bargain: Voidbound,只为种族天赋,Paladin,Retribution,dps,Silver Hand
+7,177.2,306992908,2,"Ara-Kara, City of Echoes",2024-11-13T17:25:20.000Z,1213829,1800999,2,Xal'atath's Bargain: Voidbound,你快来救我啊,Druid,Balance,dps,Deathwing
+7,177.2,306992908,2,"Ara-Kara, City of Echoes",2024-11-13T17:25:20.000Z,1213829,1800999,2,Xal'atath's Bargain: Voidbound,虚空圣焰,Priest,Discipline,healer,Al'ar
+7,177.2,306992908,2,"Ara-Kara, City of Echoes",2024-11-13T17:25:20.000Z,1213829,1800999,2,Xal'atath's Bargain: Voidbound,灬下次我请灬,Death Knight,Frost,dps,Deathwing
+8,173.9,309508775,2,"Ara-Kara, City of Echoes",2024-11-28T15:44:27.000Z,1371206,1800999,2,Xal'atath's Bargain: Voidbound,咔咔的,Shaman,Restoration,healer,The Great Sea
+8,173.9,309508775,2,"Ara-Kara, City of Echoes",2024-11-28T15:44:27.000Z,1371206,1800999,2,Xal'atath's Bargain: Voidbound,老将,Warrior,Arms,dps,Ashenvale
+8,173.9,309508775,2,"Ara-Kara, City of Echoes",2024-11-28T15:44:27.000Z,1371206,1800999,2,Xal'atath's Bargain: Voidbound,小阿神,Death Knight,Frost,dps,Galakrond
+8,173.9,309508775,2,"Ara-Kara, City of Echoes",2024-11-28T15:44:27.000Z,1371206,1800999,2,Xal'atath's Bargain: Voidbound,搂起整,Druid,Guardian,tank,Bone Wastes
+8,173.9,309508775,2,"Ara-Kara, City of Echoes",2024-11-28T15:44:27.000Z,1371206,1800999,2,Xal'atath's Bargain: Voidbound,笑忘歌丶,Paladin,Retribution,dps,Sethekk
+9,173.4,306778267,2,"Ara-Kara, City of Echoes",2024-11-12T17:55:35.000Z,1397588,1800999,2,Xal'atath's Bargain: Voidbound,Daylami,Shaman,Enhancement,dps,Scarlet Crusade
+9,173.4,306778267,2,"Ara-Kara, City of Echoes",2024-11-12T17:55:35.000Z,1397588,1800999,2,Xal'atath's Bargain: Voidbound,鑾鈴,Hunter,Beast Mastery,dps,Thaurissan
+9,173.4,306778267,2,"Ara-Kara, City of Echoes",2024-11-12T17:55:35.000Z,1397588,1800999,2,Xal'atath's Bargain: Voidbound,长眉小德,Druid,Guardian,tank,Burning Blade
+9,173.4,306778267,2,"Ara-Kara, City of Echoes",2024-11-12T17:55:35.000Z,1397588,1800999,2,Xal'atath's Bargain: Voidbound,Playerazqdew,Death Knight,Frost,dps,Al'ar
+9,173.4,306778267,2,"Ara-Kara, City of Echoes",2024-11-12T17:55:35.000Z,1397588,1800999,2,Xal'atath's Bargain: Voidbound,嗷呜鱼,Shaman,Restoration,healer,Barrens
+10,172.6,297848457,2,"Ara-Kara, City of Echoes",2024-10-05T11:56:21.000Z,1436940,1800999,2,Xal'atath's Bargain: Voidbound,工具之握,Death Knight,Frost,dps,Bronzebeard
+10,172.6,297848457,2,"Ara-Kara, City of Echoes",2024-10-05T11:56:21.000Z,1436940,1800999,2,Xal'atath's Bargain: Voidbound,艾莎丨,Warlock,Demonology,dps,Burning Blade
+10,172.6,297848457,2,"Ara-Kara, City of Echoes",2024-10-05T11:56:21.000Z,1436940,1800999,2,Xal'atath's Bargain: Voidbound,工具武僧,Monk,Mistweaver,healer,Bronzebeard
+10,172.6,297848457,2,"Ara-Kara, City of Echoes",2024-10-05T11:56:21.000Z,1436940,1800999,2,Xal'atath's Bargain: Voidbound,泆意,Mage,Frost,dps,Isillien
+10,172.6,297848457,2,"Ara-Kara, City of Echoes",2024-10-05T11:56:21.000Z,1436940,1800999,2,Xal'atath's Bargain: Voidbound,工具熊熊,Druid,Guardian,tank,Bronzebeard

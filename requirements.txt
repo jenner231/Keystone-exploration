@@ -1,0 +1,12 @@
+#libraries needed to be installed
+pip==24.2
+pandas==1.4.0
+numpy<2.0
+matplotlib==3.5.1
+seaborn==0.11.2
+plotly==5.3.1
+scikit-learn==1.0.2
+ipykernel==6.7.0
+dash==2.1.0
+dash>=2.0.0
+werkzeug==2.0.3

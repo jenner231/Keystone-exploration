@@ -1,0 +1,676 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,310,304989395,9,Mists of Tirna Scithe,2024-11-04T18:49:12.000Z,972502,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",亊儿逼,Rogue,Subtlety,dps,Al'ar
+1,310,304989395,9,Mists of Tirna Scithe,2024-11-04T18:49:12.000Z,972502,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鐘欣桐,Druid,Balance,dps,Burning Blade
+1,310,304989395,9,Mists of Tirna Scithe,2024-11-04T18:49:12.000Z,972502,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",梦醒了,Death Knight,Frost,dps,Burning Blade
+1,310,304989395,9,Mists of Tirna Scithe,2024-11-04T18:49:12.000Z,972502,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",姑苏王心凌,Priest,Discipline,healer,Burning Blade
+1,310,304989395,9,Mists of Tirna Scithe,2024-11-04T18:49:12.000Z,972502,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",火恐龙龙,Paladin,Protection,tank,Rhonin
+2,310,303979624,9,Mists of Tirna Scithe,2024-10-31T01:45:46.000Z,1002818,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",四月夏,Death Knight,Frost,dps,Valley of Kings
+2,310,303979624,9,Mists of Tirna Scithe,2024-10-31T01:45:46.000Z,1002818,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",畵楼西畔,Priest,Holy,healer,Shadowmourne
+2,310,303979624,9,Mists of Tirna Scithe,2024-10-31T01:45:46.000Z,1002818,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Xuexiweiyuan,Paladin,Protection,tank,Burning Blade
+2,310,303979624,9,Mists of Tirna Scithe,2024-10-31T01:45:46.000Z,1002818,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣无双,Paladin,Retribution,dps,The Great Sea
+2,310,303979624,9,Mists of Tirna Scithe,2024-10-31T01:45:46.000Z,1002818,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",滋磁不滋磁,Paladin,Retribution,dps,Isillien
+3,310,304210217,9,Mists of Tirna Scithe,2024-11-01T05:24:30.000Z,1012428,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Ubuntu,Shaman,Elemental,dps,Tortheldrin
+3,310,304210217,9,Mists of Tirna Scithe,2024-11-01T05:24:30.000Z,1012428,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",太子悦神,Monk,Mistweaver,healer,Al'ar
+3,310,304210217,9,Mists of Tirna Scithe,2024-11-01T05:24:30.000Z,1012428,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Beyondme,Paladin,Retribution,dps,Burning Blade
+3,310,304210217,9,Mists of Tirna Scithe,2024-11-01T05:24:30.000Z,1012428,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",高端糖果工艺,Warlock,Affliction,dps,Valley of Kings
+3,310,304210217,9,Mists of Tirna Scithe,2024-11-01T05:24:30.000Z,1012428,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大器晚橙,Demon Hunter,Vengeance,tank,Well of Eternity
+4,310,304104727,9,Mists of Tirna Scithe,2024-10-31T18:01:45.000Z,1070059,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",恶魔丶魂,Warlock,Demonology,dps,Eldre'Thalas
+4,310,304104727,9,Mists of Tirna Scithe,2024-10-31T18:01:45.000Z,1070059,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",余情未了丶,Mage,Arcane,dps,Echo Ridge
+4,310,304104727,9,Mists of Tirna Scithe,2024-10-31T18:01:45.000Z,1070059,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",浪浪不浪,Death Knight,Blood,tank,Eldre'Thalas
+4,310,304104727,9,Mists of Tirna Scithe,2024-10-31T18:01:45.000Z,1070059,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",奶思兔米鱿,Shaman,Restoration,healer,Grim Batol
+4,310,304104727,9,Mists of Tirna Scithe,2024-10-31T18:01:45.000Z,1070059,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凌焕,Paladin,Retribution,dps,Eldre'Thalas
+5,310,304477381,9,Mists of Tirna Scithe,2024-11-02T13:54:50.000Z,1079533,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",冰柠檬,Priest,Discipline,healer,Anzu
+5,310,304477381,9,Mists of Tirna Scithe,2024-11-02T13:54:50.000Z,1079533,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",白河的小熊熊,Druid,Guardian,tank,Anzu
+5,310,304477381,9,Mists of Tirna Scithe,2024-11-02T13:54:50.000Z,1079533,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",神秘骑士元某,Death Knight,Frost,dps,Anzu
+5,310,304477381,9,Mists of Tirna Scithe,2024-11-02T13:54:50.000Z,1079533,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",萌萌哒小冬瓜,Mage,Frost,dps,Anzu
+5,310,304477381,9,Mists of Tirna Scithe,2024-11-02T13:54:50.000Z,1079533,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",陶埙,Paladin,Retribution,dps,Anzu
+6,310,304212210,9,Mists of Tirna Scithe,2024-11-01T05:47:14.000Z,1081600,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",让牛排飞一会,Hunter,Marksmanship,dps,Isillien
+6,310,304212210,9,Mists of Tirna Scithe,2024-11-01T05:47:14.000Z,1081600,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Ubuntu,Shaman,Elemental,dps,Tortheldrin
+6,310,304212210,9,Mists of Tirna Scithe,2024-11-01T05:47:14.000Z,1081600,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",太子悦神,Monk,Mistweaver,healer,Al'ar
+6,310,304212210,9,Mists of Tirna Scithe,2024-11-01T05:47:14.000Z,1081600,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",尽付笑谈中,Warrior,Protection,tank,Grim Batol
+6,310,304212210,9,Mists of Tirna Scithe,2024-11-01T05:47:14.000Z,1081600,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",核叫兽,Warrior,Fury,dps,Burning Blade
+7,310,304668947,9,Mists of Tirna Scithe,2024-11-03T08:41:20.000Z,1085854,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",聖光的裁决,Paladin,Protection,tank,Barrens
+7,310,304668947,9,Mists of Tirna Scithe,2024-11-03T08:41:20.000Z,1085854,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",仲村丶由理,Priest,Shadow,dps,Barrens
+7,310,304668947,9,Mists of Tirna Scithe,2024-11-03T08:41:20.000Z,1085854,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶啦啦,Druid,Feral,dps,Barrens
+7,310,304668947,9,Mists of Tirna Scithe,2024-11-03T08:41:20.000Z,1085854,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",星弥,Warrior,Fury,dps,Isillien
+7,310,304668947,9,Mists of Tirna Scithe,2024-11-03T08:41:20.000Z,1085854,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",神龙琉尔,Evoker,Preservation,healer,Barrens
+8,310,305444054,9,Mists of Tirna Scithe,2024-11-06T13:54:43.000Z,1128415,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",魔菇炖小鸡,Mage,Frost,dps,Al'ar
+8,310,305444054,9,Mists of Tirna Scithe,2024-11-06T13:54:43.000Z,1128415,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",情侣雨夜毛衣,Monk,Brewmaster,tank,Deathwing
+8,310,305444054,9,Mists of Tirna Scithe,2024-11-06T13:54:43.000Z,1128415,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",笑一下蒜了,Paladin,Retribution,dps,Silver Hand
+8,310,305444054,9,Mists of Tirna Scithe,2024-11-06T13:54:43.000Z,1128415,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",向心引力,Priest,Discipline,healer,Silver Hand
+8,310,305444054,9,Mists of Tirna Scithe,2024-11-06T13:54:43.000Z,1128415,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",站住打个劫,Warlock,Destruction,dps,Swiftwind
+9,310,304252371,9,Mists of Tirna Scithe,2024-11-01T13:22:34.000Z,1134458,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",好气啊,Paladin,Protection,tank,Scarlet Crusade
+9,310,304252371,9,Mists of Tirna Scithe,2024-11-01T13:22:34.000Z,1134458,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无关紧要先生,Shaman,Restoration,healer,The Botanica
+9,310,304252371,9,Mists of Tirna Scithe,2024-11-01T13:22:34.000Z,1134458,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大的要来了,Warlock,Destruction,dps,Rhonin
+9,310,304252371,9,Mists of Tirna Scithe,2024-11-01T13:22:34.000Z,1134458,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",全对,Mage,Frost,dps,Suramar
+9,310,304252371,9,Mists of Tirna Scithe,2024-11-01T13:22:34.000Z,1134458,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",奇门遁甲,Hunter,Survival,dps,Abbendis
+10,310,305126818,9,Mists of Tirna Scithe,2024-11-05T08:24:05.000Z,1135571,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",王琳,Paladin,Retribution,dps,Rhonin
+10,310,305126818,9,Mists of Tirna Scithe,2024-11-05T08:24:05.000Z,1135571,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",飞翔小涛涛,Monk,Windwalker,dps,Silvermoon
+10,310,305126818,9,Mists of Tirna Scithe,2024-11-05T08:24:05.000Z,1135571,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凡尘格调丶,Paladin,Protection,tank,Rhonin
+10,310,305126818,9,Mists of Tirna Scithe,2024-11-05T08:24:05.000Z,1135571,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",白熊咖啡厅,Priest,Discipline,healer,Silver Hand
+10,310,305126818,9,Mists of Tirna Scithe,2024-11-05T08:24:05.000Z,1135571,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",神棍教教主,Shaman,Enhancement,dps,Silver Hand
+11,309.6,304282785,9,Mists of Tirna Scithe,2024-11-01T16:34:12.000Z,1155746,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",兎你一脸,Demon Hunter,Vengeance,tank,Burning Blade
+11,309.6,304282785,9,Mists of Tirna Scithe,2024-11-01T16:34:12.000Z,1155746,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",屿崖,Rogue,Assassination,dps,Al'ar
+11,309.6,304282785,9,Mists of Tirna Scithe,2024-11-01T16:34:12.000Z,1155746,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+11,309.6,304282785,9,Mists of Tirna Scithe,2024-11-01T16:34:12.000Z,1155746,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",柠丶檬丶,Paladin,Retribution,dps,Runetotem
+11,309.6,304282785,9,Mists of Tirna Scithe,2024-11-01T16:34:12.000Z,1155746,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",山椒鱼丸,Death Knight,Unholy,dps,Burning Blade
+12,309.5,304053285,9,Mists of Tirna Scithe,2024-10-31T14:14:44.000Z,1157432,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",尘埃遇风,Druid,Balance,dps,Shadowmourne
+12,309.5,304053285,9,Mists of Tirna Scithe,2024-10-31T14:14:44.000Z,1157432,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",咸蛋超人迪迦,Rogue,Assassination,dps,Silver Hand
+12,309.5,304053285,9,Mists of Tirna Scithe,2024-10-31T14:14:44.000Z,1157432,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Aclake,Warrior,Protection,tank,Galakrond
+12,309.5,304053285,9,Mists of Tirna Scithe,2024-10-31T14:14:44.000Z,1157432,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",天音真比奈,Hunter,Beast Mastery,dps,Silver Hand
+12,309.5,304053285,9,Mists of Tirna Scithe,2024-10-31T14:14:44.000Z,1157432,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",离离源上谱,Monk,Mistweaver,healer,Al'ar
+13,309.5,304709817,9,Mists of Tirna Scithe,2024-11-03T13:51:06.000Z,1159773,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狐狸先生灬,Paladin,Protection,tank,Shadowmourne
+13,309.5,304709817,9,Mists of Tirna Scithe,2024-11-03T13:51:06.000Z,1159773,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小米奶大力,Shaman,Restoration,healer,Argus
+13,309.5,304709817,9,Mists of Tirna Scithe,2024-11-03T13:51:06.000Z,1159773,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Disorde,Paladin,Retribution,dps,Deephome
+13,309.5,304709817,9,Mists of Tirna Scithe,2024-11-03T13:51:06.000Z,1159773,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",肚皮圆圆猪,Warlock,Destruction,dps,Swiftwind
+13,309.5,304709817,9,Mists of Tirna Scithe,2024-11-03T13:51:06.000Z,1159773,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",低等杂工,Paladin,Retribution,dps,Shadowmourne
+14,309.5,304203671,9,Mists of Tirna Scithe,2024-11-01T04:07:14.000Z,1161102,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鬼斩楼兰,Rogue,Assassination,dps,Anzu
+14,309.5,304203671,9,Mists of Tirna Scithe,2024-11-01T04:07:14.000Z,1161102,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",奇玛丶蓝,Priest,Discipline,healer,The Master's Glaive
+14,309.5,304203671,9,Mists of Tirna Scithe,2024-11-01T04:07:14.000Z,1161102,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Aleaf,Druid,Guardian,tank,Frostmourne
+14,309.5,304203671,9,Mists of Tirna Scithe,2024-11-01T04:07:14.000Z,1161102,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",白给,Warrior,Fury,dps,Malygos
+14,309.5,304203671,9,Mists of Tirna Scithe,2024-11-01T04:07:14.000Z,1161102,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",君莫笑乄,Shaman,Enhancement,dps,The Golden Plains
+15,309.2,305113550,9,Mists of Tirna Scithe,2024-11-05T05:42:14.000Z,1173583,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Sammemory,Warrior,Protection,tank,Kel'Thuzad
+15,309.2,305113550,9,Mists of Tirna Scithe,2024-11-05T05:42:14.000Z,1173583,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阿蓝丶,Shaman,Enhancement,dps,Gul'dan
+15,309.2,305113550,9,Mists of Tirna Scithe,2024-11-05T05:42:14.000Z,1173583,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",艾师傅,Mage,Frost,dps,Isillien
+15,309.2,305113550,9,Mists of Tirna Scithe,2024-11-05T05:42:14.000Z,1173583,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我来组成治疗,Shaman,Restoration,healer,Silver Hand
+15,309.2,305113550,9,Mists of Tirna Scithe,2024-11-05T05:42:14.000Z,1173583,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大专保安丶,Warlock,Destruction,dps,Deathwing
+16,308.3,305159282,9,Mists of Tirna Scithe,2024-11-05T14:06:09.000Z,1219668,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Alce,Mage,Frost,dps,Lethon
+16,308.3,305159282,9,Mists of Tirna Scithe,2024-11-05T14:06:09.000Z,1219668,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",沧澜零六,Warlock,Demonology,dps,Valley of Kings
+16,308.3,305159282,9,Mists of Tirna Scithe,2024-11-05T14:06:09.000Z,1219668,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",心若琉璃,Priest,Discipline,healer,Swiftwind
+16,308.3,305159282,9,Mists of Tirna Scithe,2024-11-05T14:06:09.000Z,1219668,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",下次我挨揍,Paladin,Protection,tank,Isillien
+16,308.3,305159282,9,Mists of Tirna Scithe,2024-11-05T14:06:09.000Z,1219668,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",一枪一个准,Hunter,Marksmanship,dps,Red Dragonflight
+17,308.3,304239515,9,Mists of Tirna Scithe,2024-11-01T11:26:17.000Z,1222438,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Monstersam,Demon Hunter,Vengeance,tank,Anzu
+17,308.3,304239515,9,Mists of Tirna Scithe,2024-11-01T11:26:17.000Z,1222438,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鉴茶师,Mage,Frost,dps,Fenris
+17,308.3,304239515,9,Mists of Tirna Scithe,2024-11-01T11:26:17.000Z,1222438,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",快樂猪仔,Death Knight,Frost,dps,Rhonin
+17,308.3,304239515,9,Mists of Tirna Scithe,2024-11-01T11:26:17.000Z,1222438,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凶残牛,Rogue,Outlaw,dps,Anzu
+17,308.3,304239515,9,Mists of Tirna Scithe,2024-11-01T11:26:17.000Z,1222438,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",快乐星核,Priest,Discipline,healer,Rhonin
+18,308.1,304449621,9,Mists of Tirna Scithe,2024-11-02T10:21:24.000Z,1231957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",戏水小妞,Mage,Frost,dps,Arygos
+18,308.1,304449621,9,Mists of Tirna Scithe,2024-11-02T10:21:24.000Z,1231957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",东云游理,Paladin,Retribution,dps,Arygos
+18,308.1,304449621,9,Mists of Tirna Scithe,2024-11-02T10:21:24.000Z,1231957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",快樂,Demon Hunter,Vengeance,tank,Arygos
+18,308.1,304449621,9,Mists of Tirna Scithe,2024-11-02T10:21:24.000Z,1231957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Kiwi,Paladin,Retribution,dps,Eldre'Thalas
+18,308.1,304449621,9,Mists of Tirna Scithe,2024-11-02T10:21:24.000Z,1231957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",往事随风走,Shaman,Restoration,healer,Burning Blade
+19,307.6,304299388,9,Mists of Tirna Scithe,2024-11-01T18:23:30.000Z,1255575,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Neidl,Demon Hunter,Vengeance,tank,Shadowmourne
+19,307.6,304299388,9,Mists of Tirna Scithe,2024-11-01T18:23:30.000Z,1255575,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",朵拉,Paladin,Holy,healer,Illidan
+19,307.6,304299388,9,Mists of Tirna Scithe,2024-11-01T18:23:30.000Z,1255575,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶致命的小寳,Hunter,Beast Mastery,dps,Pandaren
+19,307.6,304299388,9,Mists of Tirna Scithe,2024-11-01T18:23:30.000Z,1255575,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",火宇智波,Mage,Frost,dps,Feralas
+19,307.6,304299388,9,Mists of Tirna Scithe,2024-11-01T18:23:30.000Z,1255575,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",牛留球,Death Knight,Frost,dps,Grim Batol
+20,307.6,304086565,9,Mists of Tirna Scithe,2024-10-31T15:59:35.000Z,1256175,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",戰侍,Warrior,Fury,dps,Kel'Thuzad
+20,307.6,304086565,9,Mists of Tirna Scithe,2024-10-31T15:59:35.000Z,1256175,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狂小昂,Demon Hunter,Havoc,dps,The Great Sea
+20,307.6,304086565,9,Mists of Tirna Scithe,2024-10-31T15:59:35.000Z,1256175,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",橘子熊,Monk,Mistweaver,healer,Barrens
+20,307.6,304086565,9,Mists of Tirna Scithe,2024-10-31T15:59:35.000Z,1256175,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阎罗双眸,Warrior,Protection,tank,Isillien
+20,307.6,304086565,9,Mists of Tirna Scithe,2024-10-31T15:59:35.000Z,1256175,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小熊立立,Mage,Arcane,dps,Al'ar
+21,307.2,305437606,9,Mists of Tirna Scithe,2024-11-06T12:54:31.000Z,1273722,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+21,307.2,305437606,9,Mists of Tirna Scithe,2024-11-06T12:54:31.000Z,1273722,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Retribution,dps,Silver Hand
+21,307.2,305437606,9,Mists of Tirna Scithe,2024-11-06T12:54:31.000Z,1273722,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Rimurumage,Mage,Arcane,dps,Burning Blade
+21,307.2,305437606,9,Mists of Tirna Scithe,2024-11-06T12:54:31.000Z,1273722,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃井五月,Priest,Discipline,healer,Burning Blade
+21,307.2,305437606,9,Mists of Tirna Scithe,2024-11-06T12:54:31.000Z,1273722,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",迷你月灼,Shaman,Elemental,dps,Burning Blade
+22,307.2,304867264,9,Mists of Tirna Scithe,2024-11-04T02:42:31.000Z,1273792,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Alyss,Druid,Balance,dps,Barrens
+22,307.2,304867264,9,Mists of Tirna Scithe,2024-11-04T02:42:31.000Z,1273792,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鱼板豆腐,Evoker,Augmentation,dps,Alterac Mountains
+22,307.2,304867264,9,Mists of Tirna Scithe,2024-11-04T02:42:31.000Z,1273792,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",亖阶堂干鸟丶,Paladin,Protection,tank,Anzu
+22,307.2,304867264,9,Mists of Tirna Scithe,2024-11-04T02:42:31.000Z,1273792,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",亅七二七丿,Priest,Shadow,dps,Anzu
+22,307.2,304867264,9,Mists of Tirna Scithe,2024-11-04T02:42:31.000Z,1273792,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小纸,Priest,Discipline,healer,World Tree
+23,307.2,305170745,9,Mists of Tirna Scithe,2024-11-05T15:28:13.000Z,1277650,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Nozomitojo,Warlock,Destruction,dps,Isillien
+23,307.2,305170745,9,Mists of Tirna Scithe,2024-11-05T15:28:13.000Z,1277650,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小谢不会谢,Paladin,Protection,tank,Isillien
+23,307.2,305170745,9,Mists of Tirna Scithe,2024-11-05T15:28:13.000Z,1277650,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Gohan,Shaman,Enhancement,dps,Blanchard
+23,307.2,305170745,9,Mists of Tirna Scithe,2024-11-05T15:28:13.000Z,1277650,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Winkcat,Paladin,Holy,healer,Holy Chanter
+23,307.2,305170745,9,Mists of Tirna Scithe,2024-11-05T15:28:13.000Z,1277650,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",全村你最棒,Paladin,Retribution,dps,Burning Blade
+24,307.1,304083728,9,Mists of Tirna Scithe,2024-10-31T16:06:44.000Z,1279715,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",千慄鬼噬,Warlock,Demonology,dps,Pandaren
+24,307.1,304083728,9,Mists of Tirna Scithe,2024-10-31T16:06:44.000Z,1279715,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Arcmagic,Mage,Arcane,dps,Pandaren
+24,307.1,304083728,9,Mists of Tirna Scithe,2024-10-31T16:06:44.000Z,1279715,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",发光的蹄妹,Paladin,Protection,tank,Varimathras
+24,307.1,304083728,9,Mists of Tirna Scithe,2024-10-31T16:06:44.000Z,1279715,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",驱雷掣电,Shaman,Restoration,healer,Pandaren
+24,307.1,304083728,9,Mists of Tirna Scithe,2024-10-31T16:06:44.000Z,1279715,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",众志橙橙,Warrior,Fury,dps,Pandaren
+25,306.9,304395418,9,Mists of Tirna Scithe,2024-11-02T02:42:57.000Z,1292704,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",赵灵儿,Shaman,Restoration,healer,Hyjal
+25,306.9,304395418,9,Mists of Tirna Scithe,2024-11-02T02:42:57.000Z,1292704,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",潔世一,Mage,Frost,dps,Isillien
+25,306.9,304395418,9,Mists of Tirna Scithe,2024-11-02T02:42:57.000Z,1292704,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",酸菊花,Warrior,Protection,tank,Anzu
+25,306.9,304395418,9,Mists of Tirna Scithe,2024-11-02T02:42:57.000Z,1292704,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Lmt,Death Knight,Unholy,dps,Swiftwind
+25,306.9,304395418,9,Mists of Tirna Scithe,2024-11-02T02:42:57.000Z,1292704,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大熊丨灬,Paladin,Retribution,dps,Deathwing
+26,306.9,304018174,9,Mists of Tirna Scithe,2024-10-31T08:28:13.000Z,1292906,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",钓以清心,Rogue,Assassination,dps,Al'ar
+26,306.9,304018174,9,Mists of Tirna Scithe,2024-10-31T08:28:13.000Z,1292906,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",举踵思牧,Shaman,Elemental,dps,Al'ar
+26,306.9,304018174,9,Mists of Tirna Scithe,2024-10-31T08:28:13.000Z,1292906,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",倾城丶欲,Warlock,Demonology,dps,Silver Hand
+26,306.9,304018174,9,Mists of Tirna Scithe,2024-10-31T08:28:13.000Z,1292906,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",幻刺够钟,Druid,Guardian,tank,Silver Hand
+26,306.9,304018174,9,Mists of Tirna Scithe,2024-10-31T08:28:13.000Z,1292906,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",七疯六邪,Shaman,Restoration,healer,Anzu
+27,306.9,304708243,9,Mists of Tirna Scithe,2024-11-03T13:30:51.000Z,1293052,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无定,Rogue,Assassination,dps,Valley of Kings
+27,306.9,304708243,9,Mists of Tirna Scithe,2024-11-03T13:30:51.000Z,1293052,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小百合丶,Hunter,Survival,dps,Isillien
+27,306.9,304708243,9,Mists of Tirna Scithe,2024-11-03T13:30:51.000Z,1293052,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小谢不会谢,Paladin,Protection,tank,Isillien
+27,306.9,304708243,9,Mists of Tirna Scithe,2024-11-03T13:30:51.000Z,1293052,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无人呀,Priest,Discipline,healer,Blanchard
+27,306.9,304708243,9,Mists of Tirna Scithe,2024-11-03T13:30:51.000Z,1293052,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Gohan,Shaman,Enhancement,dps,Blanchard
+28,306.7,304300645,9,Mists of Tirna Scithe,2024-11-01T18:38:22.000Z,1301454,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阿呜汪,Evoker,Augmentation,dps,Chillwind Point
+28,306.7,304300645,9,Mists of Tirna Scithe,2024-11-01T18:38:22.000Z,1301454,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",门小辫,Paladin,Protection,tank,Al'ar
+28,306.7,304300645,9,Mists of Tirna Scithe,2024-11-01T18:38:22.000Z,1301454,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",科潘咕,Priest,Discipline,healer,Chillwind Point
+28,306.7,304300645,9,Mists of Tirna Scithe,2024-11-01T18:38:22.000Z,1301454,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我开翅膀了,Paladin,Retribution,dps,Scarlet Crusade
+28,306.7,304300645,9,Mists of Tirna Scithe,2024-11-01T18:38:22.000Z,1301454,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",風之指引,Mage,Frost,dps,Shadowmourne
+29,306.6,304023403,9,Mists of Tirna Scithe,2024-10-31T09:56:12.000Z,1306089,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",光辉万象,Paladin,Retribution,dps,Nozdormu
+29,306.6,304023403,9,Mists of Tirna Scithe,2024-10-31T09:56:12.000Z,1306089,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",忧郁可乐鸡,Death Knight,Unholy,dps,Deathwing
+29,306.6,304023403,9,Mists of Tirna Scithe,2024-10-31T09:56:12.000Z,1306089,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小熊焰焰,Druid,Guardian,tank,Azshara
+29,306.6,304023403,9,Mists of Tirna Scithe,2024-10-31T09:56:12.000Z,1306089,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",嘻嘻小萨,Shaman,Restoration,healer,Nozdormu
+29,306.6,304023403,9,Mists of Tirna Scithe,2024-10-31T09:56:12.000Z,1306089,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",怠惰的光,Paladin,Retribution,dps,Isillien
+30,306.5,304086436,9,Mists of Tirna Scithe,2024-10-31T15:58:29.000Z,1308820,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",筱红帽丶,Paladin,Protection,tank,The Great Sea
+30,306.5,304086436,9,Mists of Tirna Scithe,2024-10-31T15:58:29.000Z,1308820,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",姒雨樱,Priest,Discipline,healer,Shadowmourne
+30,306.5,304086436,9,Mists of Tirna Scithe,2024-10-31T15:58:29.000Z,1308820,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Wa,Warrior,Fury,dps,Pandaren
+30,306.5,304086436,9,Mists of Tirna Scithe,2024-10-31T15:58:29.000Z,1308820,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",魔法使菲伦,Warlock,Demonology,dps,Silver Hand
+30,306.5,304086436,9,Mists of Tirna Scithe,2024-10-31T15:58:29.000Z,1308820,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",老衲不吃肥肉,Shaman,Elemental,dps,Frostmane
+31,306.2,304940797,9,Mists of Tirna Scithe,2024-11-04T11:01:02.000Z,1324274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",见笑大师,Shaman,Restoration,healer,Deathwing
+31,306.2,304940797,9,Mists of Tirna Scithe,2024-11-04T11:01:02.000Z,1324274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小谢不会谢,Paladin,Protection,tank,Isillien
+31,306.2,304940797,9,Mists of Tirna Scithe,2024-11-04T11:01:02.000Z,1324274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我是大哥丶,Death Knight,Frost,dps,Dark Iron
+31,306.2,304940797,9,Mists of Tirna Scithe,2024-11-04T11:01:02.000Z,1324274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",胖莹莹,Paladin,Retribution,dps,Kilrogg
+31,306.2,304940797,9,Mists of Tirna Scithe,2024-11-04T11:01:02.000Z,1324274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",清除萌芽,Warrior,Fury,dps,Burning Blade
+32,306.2,304996723,9,Mists of Tirna Scithe,2024-11-04T18:25:13.000Z,1324479,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",可罗,Druid,Balance,dps,Greymane
+32,306.2,304996723,9,Mists of Tirna Scithe,2024-11-04T18:25:13.000Z,1324479,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",更改用户名字,Druid,Guardian,tank,Anzu
+32,306.2,304996723,9,Mists of Tirna Scithe,2024-11-04T18:25:13.000Z,1324479,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Fribergbzkng,Evoker,Augmentation,dps,Burning Blade
+32,306.2,304996723,9,Mists of Tirna Scithe,2024-11-04T18:25:13.000Z,1324479,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",灬长缨在手,Paladin,Retribution,dps,Eldre'Thalas
+32,306.2,304996723,9,Mists of Tirna Scithe,2024-11-04T18:25:13.000Z,1324479,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",卡拉嘎拉丶,Shaman,Restoration,healer,Grim Batol
+33,306.1,304262587,9,Mists of Tirna Scithe,2024-11-01T14:35:34.000Z,1330814,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",沙沙宫纱夜丨,Mage,Frost,dps,Al'ar
+33,306.1,304262587,9,Mists of Tirna Scithe,2024-11-01T14:35:34.000Z,1330814,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",水様冰泪,Druid,Restoration,healer,Hectae
+33,306.1,304262587,9,Mists of Tirna Scithe,2024-11-01T14:35:34.000Z,1330814,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小命要紧,Mage,Frost,dps,Burning Blade
+33,306.1,304262587,9,Mists of Tirna Scithe,2024-11-01T14:35:34.000Z,1330814,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阮秀丶,Paladin,Protection,tank,Scarlet Crusade
+33,306.1,304262587,9,Mists of Tirna Scithe,2024-11-01T14:35:34.000Z,1330814,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",高钙朱古力,Shaman,Enhancement,dps,Rhonin
+34,306.1,304649809,9,Mists of Tirna Scithe,2024-11-03T05:41:31.000Z,1332706,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",牛妈妈爱你唷,Shaman,Restoration,healer,Deepfury
+34,306.1,304649809,9,Mists of Tirna Scithe,2024-11-03T05:41:31.000Z,1332706,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",白嫖之手丶,Paladin,Protection,tank,Burning Blade
+34,306.1,304649809,9,Mists of Tirna Scithe,2024-11-03T05:41:31.000Z,1332706,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",栖云端,Mage,Frost,dps,Rhonin
+34,306.1,304649809,9,Mists of Tirna Scithe,2024-11-03T05:41:31.000Z,1332706,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丿壹陆伍灬,Demon Hunter,Havoc,dps,The Master's Glaive
+34,306.1,304649809,9,Mists of Tirna Scithe,2024-11-03T05:41:31.000Z,1332706,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",吉利蛋丶,Warlock,Affliction,dps,Deathwing
+35,305.8,304707876,9,Mists of Tirna Scithe,2024-11-03T13:26:04.000Z,1344285,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Guillemot,Druid,Guardian,tank,Grim Batol
+35,305.8,304707876,9,Mists of Tirna Scithe,2024-11-03T13:26:04.000Z,1344285,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",银色战戈,Paladin,Retribution,dps,Grim Batol
+35,305.8,304707876,9,Mists of Tirna Scithe,2024-11-03T13:26:04.000Z,1344285,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",三三是只狗,Shaman,Restoration,healer,Grim Batol
+35,305.8,304707876,9,Mists of Tirna Scithe,2024-11-03T13:26:04.000Z,1344285,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Yawerkbz,Warrior,Fury,dps,Scarlet Crusade
+35,305.8,304707876,9,Mists of Tirna Scithe,2024-11-03T13:26:04.000Z,1344285,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",肚皮圆圆猪,Warlock,Destruction,dps,Swiftwind
+36,305.7,303981547,9,Mists of Tirna Scithe,2024-10-31T01:01:09.000Z,1351987,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我知道要聚怪,Shaman,Restoration,healer,Loken
+36,305.7,303981547,9,Mists of Tirna Scithe,2024-10-31T01:01:09.000Z,1351987,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",珊瑚色活尸,Druid,Guardian,tank,Echo Ridge
+36,305.7,303981547,9,Mists of Tirna Scithe,2024-10-31T01:01:09.000Z,1351987,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狂雷震落,Shaman,Elemental,dps,Grim Batol
+36,305.7,303981547,9,Mists of Tirna Scithe,2024-10-31T01:01:09.000Z,1351987,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",暮光小骑,Paladin,Retribution,dps,Sapphiron
+36,305.7,303981547,9,Mists of Tirna Scithe,2024-10-31T01:01:09.000Z,1351987,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",伊萨卡,Death Knight,Frost,dps,Suramar
+37,305.6,305140824,9,Mists of Tirna Scithe,2024-11-05T10:52:36.000Z,1357864,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",湘儿,Paladin,Protection,tank,Bleeding Hollow
+37,305.6,305140824,9,Mists of Tirna Scithe,2024-11-05T10:52:36.000Z,1357864,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+37,305.6,305140824,9,Mists of Tirna Scithe,2024-11-05T10:52:36.000Z,1357864,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",爱尔兰萨满,Shaman,Restoration,healer,Al'ar
+37,305.6,305140824,9,Mists of Tirna Scithe,2024-11-05T10:52:36.000Z,1357864,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",普拉丝,Paladin,Retribution,dps,Pandaren
+37,305.6,305140824,9,Mists of Tirna Scithe,2024-11-05T10:52:36.000Z,1357864,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",十円,Warlock,Destruction,dps,Temple of Elune
+38,305.1,305482785,9,Mists of Tirna Scithe,2024-11-06T18:47:50.000Z,1379369,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",来喝两杯烧酒,Hunter,Survival,dps,Rhonin
+38,305.1,305482785,9,Mists of Tirna Scithe,2024-11-06T18:47:50.000Z,1379369,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",你是在等人吗,Paladin,Protection,tank,Al'ar
+38,305.1,305482785,9,Mists of Tirna Scithe,2024-11-06T18:47:50.000Z,1379369,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Tolmo,Warrior,Fury,dps,Eldre'Thalas
+38,305.1,305482785,9,Mists of Tirna Scithe,2024-11-06T18:47:50.000Z,1379369,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",省电牧,Priest,Discipline,healer,Rhonin
+38,305.1,305482785,9,Mists of Tirna Scithe,2024-11-06T18:47:50.000Z,1379369,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",花椒,Shaman,Elemental,dps,The Forgotten Coast
+39,305.1,305161295,9,Mists of Tirna Scithe,2024-11-05T14:15:22.000Z,1380730,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Ursoc,Druid,Balance,dps,Eldre'Thalas
+39,305.1,305161295,9,Mists of Tirna Scithe,2024-11-05T14:15:22.000Z,1380730,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+39,305.1,305161295,9,Mists of Tirna Scithe,2024-11-05T14:15:22.000Z,1380730,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",熊沢嵐澔丶,Warrior,Fury,dps,Scarlet Crusade
+39,305.1,305161295,9,Mists of Tirna Scithe,2024-11-05T14:15:22.000Z,1380730,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",你被强化了,Evoker,Augmentation,dps,Eldre'Thalas
+39,305.1,305161295,9,Mists of Tirna Scithe,2024-11-05T14:15:22.000Z,1380730,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",汉葛斯,Monk,Mistweaver,healer,Galakrond
+40,304.8,304402258,9,Mists of Tirna Scithe,2024-11-02T03:13:31.000Z,1397390,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",灵界打击丶,Death Knight,Blood,tank,Burning Blade
+40,304.8,304402258,9,Mists of Tirna Scithe,2024-11-02T03:13:31.000Z,1397390,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",现在划起来,Evoker,Preservation,healer,Burning Blade
+40,304.8,304402258,9,Mists of Tirna Scithe,2024-11-02T03:13:31.000Z,1397390,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弄得你挺挺的,Shaman,Enhancement,dps,Burning Blade
+40,304.8,304402258,9,Mists of Tirna Scithe,2024-11-02T03:13:31.000Z,1397390,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小顏北凉,Shaman,Elemental,dps,Burning Blade
+40,304.8,304402258,9,Mists of Tirna Scithe,2024-11-02T03:13:31.000Z,1397390,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小调皮李亚娟,Death Knight,Frost,dps,Burning Blade
+41,304.8,304951206,9,Mists of Tirna Scithe,2024-11-04T14:56:31.000Z,1397772,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",洛箫晴,Death Knight,Blood,tank,Kel'Thuzad
+41,304.8,304951206,9,Mists of Tirna Scithe,2024-11-04T14:56:31.000Z,1397772,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Sagittariuss,Mage,Frost,dps,Kel'Thuzad
+41,304.8,304951206,9,Mists of Tirna Scithe,2024-11-04T14:56:31.000Z,1397772,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",椎名真白丶,Shaman,Elemental,dps,Kel'Thuzad
+41,304.8,304951206,9,Mists of Tirna Scithe,2024-11-04T14:56:31.000Z,1397772,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",睦头人,Paladin,Retribution,dps,Kel'Thuzad
+41,304.8,304951206,9,Mists of Tirna Scithe,2024-11-04T14:56:31.000Z,1397772,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",焚灼,Priest,Discipline,healer,Kel'Thuzad
+42,304.7,305161001,9,Mists of Tirna Scithe,2024-11-05T14:12:24.000Z,1402198,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",南风几经秋,Death Knight,Unholy,dps,Well of Eternity
+42,304.7,305161001,9,Mists of Tirna Scithe,2024-11-05T14:12:24.000Z,1402198,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",颚傀瀐瀎,Shaman,Restoration,healer,Deathwing
+42,304.7,305161001,9,Mists of Tirna Scithe,2024-11-05T14:12:24.000Z,1402198,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+42,304.7,305161001,9,Mists of Tirna Scithe,2024-11-05T14:12:24.000Z,1402198,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",团子丷土块酱,Paladin,Protection,tank,Deathwing
+42,304.7,305161001,9,Mists of Tirna Scithe,2024-11-05T14:12:24.000Z,1402198,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",克林丨斯曼,Paladin,Retribution,dps,Deathwing
+43,304.7,304411433,9,Mists of Tirna Scithe,2024-11-02T04:34:20.000Z,1402911,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",潔世一,Mage,Frost,dps,Isillien
+43,304.7,304411433,9,Mists of Tirna Scithe,2024-11-02T04:34:20.000Z,1402911,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",懒羊羊大侠,Monk,Mistweaver,healer,The Master's Glaive
+43,304.7,304411433,9,Mists of Tirna Scithe,2024-11-02T04:34:20.000Z,1402911,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",维京雪狼,Warrior,Protection,tank,Deathwing
+43,304.7,304411433,9,Mists of Tirna Scithe,2024-11-02T04:34:20.000Z,1402911,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",夏弥丶,Warlock,Demonology,dps,Nozdormu
+43,304.7,304411433,9,Mists of Tirna Scithe,2024-11-02T04:34:20.000Z,1402911,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我晕针,Rogue,Assassination,dps,Alterac Mountains
+44,304.6,305168524,9,Mists of Tirna Scithe,2024-11-05T15:17:34.000Z,1405957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Erornotfd,Hunter,Survival,dps,Al'ar
+44,304.6,305168524,9,Mists of Tirna Scithe,2024-11-05T15:17:34.000Z,1405957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",心响,Paladin,Protection,tank,Naxxramas
+44,304.6,305168524,9,Mists of Tirna Scithe,2024-11-05T15:17:34.000Z,1405957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",零月,Shaman,Restoration,healer,Al'ar
+44,304.6,305168524,9,Mists of Tirna Scithe,2024-11-05T15:17:34.000Z,1405957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",一个农村人,Warlock,Destruction,dps,Al'ar
+44,304.6,305168524,9,Mists of Tirna Scithe,2024-11-05T15:17:34.000Z,1405957,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",伤感鉈也,Evoker,Augmentation,dps,Al'ar
+45,304.6,304412217,9,Mists of Tirna Scithe,2024-11-02T04:52:17.000Z,1407771,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",万能小妖,Druid,Feral,dps,Anzu
+45,304.6,304412217,9,Mists of Tirna Scithe,2024-11-02T04:52:17.000Z,1407771,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",慕斯琦,Paladin,Retribution,dps,Anachronos
+45,304.6,304412217,9,Mists of Tirna Scithe,2024-11-02T04:52:17.000Z,1407771,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",惊雪,Shaman,Enhancement,dps,The Forgotten Coast
+45,304.6,304412217,9,Mists of Tirna Scithe,2024-11-02T04:52:17.000Z,1407771,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",魔百和,Warrior,Protection,tank,Echo Ridge
+45,304.6,304412217,9,Mists of Tirna Scithe,2024-11-02T04:52:17.000Z,1407771,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",土豆超人,Monk,Mistweaver,healer,Deathwing
+46,304.5,304722636,9,Mists of Tirna Scithe,2024-11-03T15:02:03.000Z,1413395,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",赛德里克,Shaman,Restoration,healer,Molten Core
+46,304.5,304722636,9,Mists of Tirna Scithe,2024-11-03T15:02:03.000Z,1413395,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",浪裏花花,Mage,Frost,dps,Shadowmourne
+46,304.5,304722636,9,Mists of Tirna Scithe,2024-11-03T15:02:03.000Z,1413395,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",熊貓吥是熊,Paladin,Protection,tank,Shadowmourne
+46,304.5,304722636,9,Mists of Tirna Scithe,2024-11-03T15:02:03.000Z,1413395,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",熊煞,Shaman,Elemental,dps,Pandaren
+46,304.5,304722636,9,Mists of Tirna Scithe,2024-11-03T15:02:03.000Z,1413395,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",雪红魅影,Death Knight,Unholy,dps,Chillwind Point
+47,304.4,304262598,9,Mists of Tirna Scithe,2024-11-01T14:35:51.000Z,1414554,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",维他柚子茶,Rogue,Assassination,dps,Burning Blade
+47,304.4,304262598,9,Mists of Tirna Scithe,2024-11-01T14:35:51.000Z,1414554,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我不会玩术土,Warlock,Destruction,dps,Al'ar
+47,304.4,304262598,9,Mists of Tirna Scithe,2024-11-01T14:35:51.000Z,1414554,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",欲升漪,Demon Hunter,Vengeance,tank,Al'ar
+47,304.4,304262598,9,Mists of Tirna Scithe,2024-11-01T14:35:51.000Z,1414554,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",九分二十,Hunter,Survival,dps,Al'ar
+47,304.4,304262598,9,Mists of Tirna Scithe,2024-11-01T14:35:51.000Z,1414554,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃小爷,Druid,Restoration,healer,Al'ar
+48,303.8,305438544,9,Mists of Tirna Scithe,2024-11-06T13:03:08.000Z,1448462,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光背对着你,Paladin,Retribution,dps,Galakrond
+48,303.8,305438544,9,Mists of Tirna Scithe,2024-11-06T13:03:08.000Z,1448462,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",米老鼠,Priest,Discipline,healer,The Great Sea
+48,303.8,305438544,9,Mists of Tirna Scithe,2024-11-06T13:03:08.000Z,1448462,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",下次我挨揍,Paladin,Protection,tank,Isillien
+48,303.8,305438544,9,Mists of Tirna Scithe,2024-11-06T13:03:08.000Z,1448462,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",爱才七元钱,Paladin,Retribution,dps,Anetheron
+48,303.8,305438544,9,Mists of Tirna Scithe,2024-11-06T13:03:08.000Z,1448462,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",锅炉大耶,Paladin,Retribution,dps,Anetheron
+49,303.3,305135023,9,Mists of Tirna Scithe,2024-11-05T09:37:58.000Z,1470635,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",璃霜,Mage,Fire,dps,Silver Hand
+49,303.3,305135023,9,Mists of Tirna Scithe,2024-11-05T09:37:58.000Z,1470635,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",秦丁冬,Death Knight,Blood,tank,Anzu
+49,303.3,305135023,9,Mists of Tirna Scithe,2024-11-05T09:37:58.000Z,1470635,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",最初一时光,Shaman,Restoration,healer,Eldre'Thalas
+49,303.3,305135023,9,Mists of Tirna Scithe,2024-11-05T09:37:58.000Z,1470635,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Dokidokii,Rogue,Assassination,dps,Grim Batol
+49,303.3,305135023,9,Mists of Tirna Scithe,2024-11-05T09:37:58.000Z,1470635,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",摆烂之星,Druid,Balance,dps,Isillien
+50,303.2,305180051,9,Mists of Tirna Scithe,2024-11-05T16:55:11.000Z,1478137,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",可爱魔法增伤,Demon Hunter,Vengeance,tank,Isillien
+50,303.2,305180051,9,Mists of Tirna Scithe,2024-11-05T16:55:11.000Z,1478137,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",罐装逗,Priest,Discipline,healer,Chillwind Point
+50,303.2,305180051,9,Mists of Tirna Scithe,2024-11-05T16:55:11.000Z,1478137,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",别跟版本較勁,Shaman,Elemental,dps,Al'ar
+50,303.2,305180051,9,Mists of Tirna Scithe,2024-11-05T16:55:11.000Z,1478137,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Cronus,Shaman,Enhancement,dps,Scarlet Crusade
+50,303.2,305180051,9,Mists of Tirna Scithe,2024-11-05T16:55:11.000Z,1478137,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",一身华丽的毛,Mage,Frost,dps,Scarlet Crusade
+51,303,304469279,9,Mists of Tirna Scithe,2024-11-02T14:10:56.000Z,1486308,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",月之优雅,Shaman,Enhancement,dps,Stonetalon Peak
+51,303,304469279,9,Mists of Tirna Scithe,2024-11-02T14:10:56.000Z,1486308,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",芋泥波波,Death Knight,Frost,dps,Thousand Needles
+51,303,304469279,9,Mists of Tirna Scithe,2024-11-02T14:10:56.000Z,1486308,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",馄饨,Death Knight,Frost,dps,Thousand Needles
+51,303,304469279,9,Mists of Tirna Scithe,2024-11-02T14:10:56.000Z,1486308,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小田心,Warrior,Protection,tank,Rhonin
+51,303,304469279,9,Mists of Tirna Scithe,2024-11-02T14:10:56.000Z,1486308,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无敌小小龙,Evoker,Preservation,healer,Thousand Needles
+52,302.9,304016052,9,Mists of Tirna Scithe,2024-10-31T08:00:56.000Z,1490604,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",吾为君亡,Warrior,Protection,tank,The Great Sea
+52,302.9,304016052,9,Mists of Tirna Scithe,2024-10-31T08:00:56.000Z,1490604,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",菲楽,Paladin,Holy,healer,Runetotem
+52,302.9,304016052,9,Mists of Tirna Scithe,2024-10-31T08:00:56.000Z,1490604,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",莫格菜尼,Death Knight,Frost,dps,The Great Sea
+52,302.9,304016052,9,Mists of Tirna Scithe,2024-10-31T08:00:56.000Z,1490604,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶丸子,Demon Hunter,Havoc,dps,Zealot Blade
+52,302.9,304016052,9,Mists of Tirna Scithe,2024-10-31T08:00:56.000Z,1490604,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",游学者周黑鸭,Shaman,Elemental,dps,Shadowmourne
+53,302.4,304741208,9,Mists of Tirna Scithe,2024-11-03T16:24:40.000Z,1517880,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",漓渿,Paladin,Retribution,dps,Al'ar
+53,302.4,304741208,9,Mists of Tirna Scithe,2024-11-03T16:24:40.000Z,1517880,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小红手啾啾丶,Priest,Discipline,healer,Scarlet Crusade
+53,302.4,304741208,9,Mists of Tirna Scithe,2024-11-03T16:24:40.000Z,1517880,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",甄绮斯,Paladin,Protection,tank,Varian
+53,302.4,304741208,9,Mists of Tirna Scithe,2024-11-03T16:24:40.000Z,1517880,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",夜半猪叫,Shaman,Elemental,dps,Scarlet Crusade
+53,302.4,304741208,9,Mists of Tirna Scithe,2024-11-03T16:24:40.000Z,1517880,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",啾啾呀丶,Death Knight,Frost,dps,Scarlet Crusade
+54,302.1,305140874,9,Mists of Tirna Scithe,2024-11-05T10:53:02.000Z,1532530,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大野木灬,Druid,Guardian,tank,Shadowmourne
+54,302.1,305140874,9,Mists of Tirna Scithe,2024-11-05T10:53:02.000Z,1532530,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鸭吼,Warlock,Destruction,dps,Scarlet Crusade
+54,302.1,305140874,9,Mists of Tirna Scithe,2024-11-05T10:53:02.000Z,1532530,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小小的饼,Hunter,Beast Mastery,dps,Thunder Axe Fortress
+54,302.1,305140874,9,Mists of Tirna Scithe,2024-11-05T10:53:02.000Z,1532530,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",你们礼貌吗,Evoker,Augmentation,dps,Scarlet Crusade
+54,302.1,305140874,9,Mists of Tirna Scithe,2024-11-05T10:53:02.000Z,1532530,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",涅槃沉吟,Priest,Holy,healer,Naxxramas
+55,301.8,304240163,9,Mists of Tirna Scithe,2024-11-01T11:41:21.000Z,1548756,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",恶魔小猴姬,Demon Hunter,Vengeance,tank,Al'ar
+55,301.8,304240163,9,Mists of Tirna Scithe,2024-11-01T11:41:21.000Z,1548756,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",遇见你像海洋,Warlock,Demonology,dps,Al'ar
+55,301.8,304240163,9,Mists of Tirna Scithe,2024-11-01T11:41:21.000Z,1548756,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",九分二十,Hunter,Survival,dps,Al'ar
+55,301.8,304240163,9,Mists of Tirna Scithe,2024-11-01T11:41:21.000Z,1548756,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我真在奶了,Priest,Discipline,healer,Al'ar
+55,301.8,304240163,9,Mists of Tirna Scithe,2024-11-01T11:41:21.000Z,1548756,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",地域乄男爵,Paladin,Retribution,dps,Al'ar
+56,301.5,305437315,9,Mists of Tirna Scithe,2024-11-06T12:51:58.000Z,1562112,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",治疗药水,Paladin,Retribution,dps,Lich King
+56,301.5,305437315,9,Mists of Tirna Scithe,2024-11-06T12:51:58.000Z,1562112,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",原子核可乐,Shaman,Restoration,healer,Pandaren
+56,301.5,305437315,9,Mists of Tirna Scithe,2024-11-06T12:51:58.000Z,1562112,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",吃夜宵吗,Warlock,Destruction,dps,Deathwing
+56,301.5,305437315,9,Mists of Tirna Scithe,2024-11-06T12:51:58.000Z,1562112,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",尾小翁,Monk,Brewmaster,tank,Lich King
+56,301.5,305437315,9,Mists of Tirna Scithe,2024-11-06T12:51:58.000Z,1562112,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丨奔雷手文泰,Monk,Windwalker,dps,Pandaren
+57,301.3,304701514,9,Mists of Tirna Scithe,2024-11-03T13:28:47.000Z,1575429,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",渡辺麻友,Paladin,Retribution,dps,Rivendare
+57,301.3,304701514,9,Mists of Tirna Scithe,2024-11-03T13:28:47.000Z,1575429,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",釧路沖棲雲姫,Shaman,Restoration,healer,Al'ar
+57,301.3,304701514,9,Mists of Tirna Scithe,2024-11-03T13:28:47.000Z,1575429,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",赛尔堤,Death Knight,Frost,dps,Rivendare
+57,301.3,304701514,9,Mists of Tirna Scithe,2024-11-03T13:28:47.000Z,1575429,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",追火者,Warrior,Protection,tank,Rivendare
+57,301.3,304701514,9,Mists of Tirna Scithe,2024-11-03T13:28:47.000Z,1575429,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",神奇烂土豆,Paladin,Retribution,dps,Rhonin
+58,301.2,304979956,9,Mists of Tirna Scithe,2024-11-04T16:32:56.000Z,1576027,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Seafhmc,Shaman,Enhancement,dps,The Great Sea
+58,301.2,304979956,9,Mists of Tirna Scithe,2024-11-04T16:32:56.000Z,1576027,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",灰灰,Paladin,Protection,tank,Argus
+58,301.2,304979956,9,Mists of Tirna Scithe,2024-11-04T16:32:56.000Z,1576027,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",掀桌子,Paladin,Retribution,dps,The Great Sea
+58,301.2,304979956,9,Mists of Tirna Scithe,2024-11-04T16:32:56.000Z,1576027,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Ethanyaa,Paladin,Retribution,dps,Galakrond
+58,301.2,304979956,9,Mists of Tirna Scithe,2024-11-04T16:32:56.000Z,1576027,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",莫犹豫,Paladin,Holy,healer,Ysera
+59,301,304469473,9,Mists of Tirna Scithe,2024-11-02T13:11:56.000Z,1588062,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",多子,Druid,Restoration,healer,Mal'Ganis
+59,301,304469473,9,Mists of Tirna Scithe,2024-11-02T13:11:56.000Z,1588062,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",魔都小德,Druid,Balance,dps,Kel'Thuzad
+59,301,304469473,9,Mists of Tirna Scithe,2024-11-02T13:11:56.000Z,1588062,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Rickert,Evoker,Augmentation,dps,Echo Ridge
+59,301,304469473,9,Mists of Tirna Scithe,2024-11-02T13:11:56.000Z,1588062,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",月不西沉,Warrior,Protection,tank,Rhonin
+59,301,304469473,9,Mists of Tirna Scithe,2024-11-02T13:11:56.000Z,1588062,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Leshrac,Warlock,Destruction,dps,Dark Iron
+60,300.9,304952614,9,Mists of Tirna Scithe,2024-11-04T13:12:22.000Z,1591990,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Thegodcomes,Demon Hunter,Havoc,dps,Frostmourne
+60,300.9,304952614,9,Mists of Tirna Scithe,2024-11-04T13:12:22.000Z,1591990,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",沐晨雪,Hunter,Beast Mastery,dps,Scarlet Crusade
+60,300.9,304952614,9,Mists of Tirna Scithe,2024-11-04T13:12:22.000Z,1591990,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",到此為止,Druid,Guardian,tank,Frostmourne
+60,300.9,304952614,9,Mists of Tirna Scithe,2024-11-04T13:12:22.000Z,1591990,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Omega,Shaman,Enhancement,dps,Scarlet Crusade
+60,300.9,304952614,9,Mists of Tirna Scithe,2024-11-04T13:12:22.000Z,1591990,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小棍儿扎你,Shaman,Restoration,healer,Scarlet Crusade
+61,300.1,304466899,9,Mists of Tirna Scithe,2024-11-02T12:53:45.000Z,1633370,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",不怕困难,Paladin,Retribution,dps,Peak of Serenity
+61,300.1,304466899,9,Mists of Tirna Scithe,2024-11-02T12:53:45.000Z,1633370,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",门小辫,Paladin,Protection,tank,Al'ar
+61,300.1,304466899,9,Mists of Tirna Scithe,2024-11-02T12:53:45.000Z,1633370,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",兔子王三,Monk,Mistweaver,healer,Daggerspine
+61,300.1,304466899,9,Mists of Tirna Scithe,2024-11-02T12:53:45.000Z,1633370,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小卡拉米丶,Mage,Frost,dps,Peak of Serenity
+61,300.1,304466899,9,Mists of Tirna Scithe,2024-11-02T12:53:45.000Z,1633370,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",又一遍又一遍,Mage,Frost,dps,Peak of Serenity
+62,299.5,304951914,9,Mists of Tirna Scithe,2024-11-04T13:05:11.000Z,1664352,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",可怜的宝宝狼,Hunter,Beast Mastery,dps,Anzu
+62,299.5,304951914,9,Mists of Tirna Scithe,2024-11-04T13:05:11.000Z,1664352,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",滴咖脓,Monk,Brewmaster,tank,Amani
+62,299.5,304951914,9,Mists of Tirna Scithe,2024-11-04T13:05:11.000Z,1664352,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",格雷熙审判,Paladin,Retribution,dps,Pandaren
+62,299.5,304951914,9,Mists of Tirna Scithe,2024-11-04T13:05:11.000Z,1664352,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",美录坦丶,Druid,Balance,dps,Silver Hand
+62,299.5,304951914,9,Mists of Tirna Scithe,2024-11-04T13:05:11.000Z,1664352,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",撒啦嗨,Druid,Restoration,healer,Shadowmourne
+63,299.1,304259908,9,Mists of Tirna Scithe,2024-11-01T15:23:53.000Z,1683666,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Hanxidruid,Druid,Balance,dps,Scarlet Crusade
+63,299.1,304259908,9,Mists of Tirna Scithe,2024-11-01T15:23:53.000Z,1683666,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Shamanfa,Shaman,Enhancement,dps,Scarlet Crusade
+63,299.1,304259908,9,Mists of Tirna Scithe,2024-11-01T15:23:53.000Z,1683666,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",粉红骑丶萌萌,Paladin,Protection,tank,Silver Hand
+63,299.1,304259908,9,Mists of Tirna Scithe,2024-11-01T15:23:53.000Z,1683666,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Nabulakk,Death Knight,Frost,dps,Scarlet Crusade
+63,299.1,304259908,9,Mists of Tirna Scithe,2024-11-01T15:23:53.000Z,1683666,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",人生一串,Priest,Discipline,healer,Scarlet Crusade
+64,299.1,304111806,9,Mists of Tirna Scithe,2024-10-31T18:37:33.000Z,1686194,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",萨顶叮,Shaman,Restoration,healer,Burning Blade
+64,299.1,304111806,9,Mists of Tirna Scithe,2024-10-31T18:37:33.000Z,1686194,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大剑师丶纙隆,Paladin,Protection,tank,Anzu
+64,299.1,304111806,9,Mists of Tirna Scithe,2024-10-31T18:37:33.000Z,1686194,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Lzgion,Rogue,Assassination,dps,Isillien
+64,299.1,304111806,9,Mists of Tirna Scithe,2024-10-31T18:37:33.000Z,1686194,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Altriadzz,Rogue,Assassination,dps,Silver Hand
+64,299.1,304111806,9,Mists of Tirna Scithe,2024-10-31T18:37:33.000Z,1686194,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鎻魂师丶一鏅,Shaman,Enhancement,dps,Anzu
+65,298.4,304506190,9,Mists of Tirna Scithe,2024-11-02T16:52:19.000Z,1717374,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",熊貓吥是熊,Paladin,Protection,tank,Shadowmourne
+65,298.4,304506190,9,Mists of Tirna Scithe,2024-11-02T16:52:19.000Z,1717374,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",炮来,Paladin,Retribution,dps,Shadowmourne
+65,298.4,304506190,9,Mists of Tirna Scithe,2024-11-02T16:52:19.000Z,1717374,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",归墟丶上邪,Warlock,Destruction,dps,Silver Hand
+65,298.4,304506190,9,Mists of Tirna Scithe,2024-11-02T16:52:19.000Z,1717374,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",人淡如風,Druid,Restoration,healer,Skywall
+65,298.4,304506190,9,Mists of Tirna Scithe,2024-11-02T16:52:19.000Z,1717374,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",海参发财贡丸,Death Knight,Frost,dps,Deathwing
+66,298.4,304485072,9,Mists of Tirna Scithe,2024-11-02T14:36:31.000Z,1720138,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",碧绣,Druid,Restoration,healer,Valley of Kings
+66,298.4,304485072,9,Mists of Tirna Scithe,2024-11-02T14:36:31.000Z,1720138,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Xuexiweiyuan,Paladin,Protection,tank,Burning Blade
+66,298.4,304485072,9,Mists of Tirna Scithe,2024-11-02T14:36:31.000Z,1720138,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",何时乄明月,Evoker,Augmentation,dps,Valley of Kings
+66,298.4,304485072,9,Mists of Tirna Scithe,2024-11-02T14:36:31.000Z,1720138,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",渊渟嶽峙,Paladin,Retribution,dps,Silver Hand
+66,298.4,304485072,9,Mists of Tirna Scithe,2024-11-02T14:36:31.000Z,1720138,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",墨棠,Demon Hunter,Havoc,dps,Valley of Kings
+67,297.6,304261788,9,Mists of Tirna Scithe,2024-11-01T14:24:50.000Z,1757682,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",無所刁谓,Warrior,Fury,dps,Isillien
+67,297.6,304261788,9,Mists of Tirna Scithe,2024-11-01T14:24:50.000Z,1757682,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",扫六合,Paladin,Retribution,dps,Anzu
+67,297.6,304261788,9,Mists of Tirna Scithe,2024-11-01T14:24:50.000Z,1757682,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",秦丁冬,Death Knight,Blood,tank,Anzu
+67,297.6,304261788,9,Mists of Tirna Scithe,2024-11-01T14:24:50.000Z,1757682,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无言小萨,Shaman,Enhancement,dps,Blanchard
+67,297.6,304261788,9,Mists of Tirna Scithe,2024-11-01T14:24:50.000Z,1757682,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",奶不住就放生,Druid,Restoration,healer,Burning Blade
+68,297,304699151,9,Mists of Tirna Scithe,2024-11-03T12:32:39.000Z,1791904,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小棺材跳一跳,Demon Hunter,Havoc,dps,Deathwing
+68,297,304699151,9,Mists of Tirna Scithe,2024-11-03T12:32:39.000Z,1791904,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大美人及川彻,Hunter,Survival,dps,Isillien
+68,297,304699151,9,Mists of Tirna Scithe,2024-11-03T12:32:39.000Z,1791904,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",笛卡尔乌瑞恩,Warrior,Protection,tank,Isillien
+68,297,304699151,9,Mists of Tirna Scithe,2024-11-03T12:32:39.000Z,1791904,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",破碎维度,Paladin,Retribution,dps,Valley of Kings
+68,297,304699151,9,Mists of Tirna Scithe,2024-11-03T12:32:39.000Z,1791904,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",花兒呆呆,Priest,Discipline,healer,Al'ar
+69,296.6,305097862,9,Mists of Tirna Scithe,2024-11-05T03:26:28.000Z,1809203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",消失的玛雅,Paladin,Holy,healer,Skywall
+69,296.6,305097862,9,Mists of Tirna Scithe,2024-11-05T03:26:28.000Z,1809203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",浮生听风,Evoker,Augmentation,dps,Rhonin
+69,296.6,305097862,9,Mists of Tirna Scithe,2024-11-05T03:26:28.000Z,1809203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",晚风吹优雅,Rogue,Assassination,dps,Well of Eternity
+69,296.6,305097862,9,Mists of Tirna Scithe,2024-11-05T03:26:28.000Z,1809203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",江南流影,Mage,Frost,dps,Silver Hand
+69,296.6,305097862,9,Mists of Tirna Scithe,2024-11-05T03:26:28.000Z,1809203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丷萱儿,Warrior,Protection,tank,Barrens
+70,296.2,304963714,9,Mists of Tirna Scithe,2024-11-04T14:53:17.000Z,1829203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",龙哥之魂,Priest,Discipline,healer,Deathwing
+70,296.2,304963714,9,Mists of Tirna Scithe,2024-11-04T14:53:17.000Z,1829203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",菜就多练,Death Knight,Blood,tank,Silver Hand
+70,296.2,304963714,9,Mists of Tirna Scithe,2024-11-04T14:53:17.000Z,1829203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",幻境龙迭嘉,Evoker,Augmentation,dps,Al'ar
+70,296.2,304963714,9,Mists of Tirna Scithe,2024-11-04T14:53:17.000Z,1829203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",划水猫猫,Druid,Feral,dps,Silver Hand
+70,296.2,304963714,9,Mists of Tirna Scithe,2024-11-04T14:53:17.000Z,1829203,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Traveler,Shaman,Enhancement,dps,Molten Core
+71,296,304043506,9,Mists of Tirna Scithe,2024-10-31T12:49:28.000Z,1838071,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",四枫院夜伊,Druid,Guardian,tank,Scarlet Crusade
+71,296,304043506,9,Mists of Tirna Scithe,2024-10-31T12:49:28.000Z,1838071,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",可乐罐,Death Knight,Unholy,dps,Frostmane
+71,296,304043506,9,Mists of Tirna Scithe,2024-10-31T12:49:28.000Z,1838071,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",岚月,Mage,Frost,dps,Varian
+71,296,304043506,9,Mists of Tirna Scithe,2024-10-31T12:49:28.000Z,1838071,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狮子丶,Shaman,Restoration,healer,Alexstrasza
+71,296,304043506,9,Mists of Tirna Scithe,2024-10-31T12:49:28.000Z,1838071,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无敌炉石回城,Paladin,Retribution,dps,Tirisfal Glades
+72,295.8,304053978,9,Mists of Tirna Scithe,2024-10-31T14:21:12.000Z,1852719,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Stlordi,Death Knight,Unholy,dps,Scholomance
+72,295.8,304053978,9,Mists of Tirna Scithe,2024-10-31T14:21:12.000Z,1852719,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",头发好黄好黄,Paladin,Retribution,dps,Scholomance
+72,295.8,304053978,9,Mists of Tirna Scithe,2024-10-31T14:21:12.000Z,1852719,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",風的祈祷,Druid,Restoration,healer,Anzu
+72,295.8,304053978,9,Mists of Tirna Scithe,2024-10-31T14:21:12.000Z,1852719,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",焰丶墩墩,Shaman,Elemental,dps,Scholomance
+72,295.8,304053978,9,Mists of Tirna Scithe,2024-10-31T14:21:12.000Z,1852719,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",粉色蠢比,Paladin,Protection,tank,Chillwind Point
+73,295,304936477,8,Mists of Tirna Scithe,2024-11-04T10:06:17.000Z,947665,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",逍遥一剑,Mage,Frost,dps,Warsong
+73,295,304936477,8,Mists of Tirna Scithe,2024-11-04T10:06:17.000Z,947665,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",訫悸,Mage,Fire,dps,The Master's Glaive
+73,295,304936477,8,Mists of Tirna Scithe,2024-11-04T10:06:17.000Z,947665,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",网红镇,Priest,Discipline,healer,Silver Hand
+73,295,304936477,8,Mists of Tirna Scithe,2024-11-04T10:06:17.000Z,947665,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",年轻的老男人,Demon Hunter,Vengeance,tank,Rhonin
+73,295,304936477,8,Mists of Tirna Scithe,2024-11-04T10:06:17.000Z,947665,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",银叶纷飞丶,Warlock,Destruction,dps,Rhonin
+74,295,304384190,8,Mists of Tirna Scithe,2024-11-02T01:08:13.000Z,1026934,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",潔世一,Mage,Frost,dps,Isillien
+74,295,304384190,8,Mists of Tirna Scithe,2024-11-02T01:08:13.000Z,1026934,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",哟嚯小神棍丶,Paladin,Protection,tank,Echo Ridge
+74,295,304384190,8,Mists of Tirna Scithe,2024-11-02T01:08:13.000Z,1026934,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",楓之哀傷,Paladin,Retribution,dps,Antonidas
+74,295,304384190,8,Mists of Tirna Scithe,2024-11-02T01:08:13.000Z,1026934,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",戴安娜丶艾薇,Paladin,Retribution,dps,Anzu
+74,295,304384190,8,Mists of Tirna Scithe,2024-11-02T01:08:13.000Z,1026934,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",移动荣誉部落,Shaman,Restoration,healer,Greymane
+75,295,304056861,8,Mists of Tirna Scithe,2024-10-31T14:43:42.000Z,1028591,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",迷人屿鹿,Warrior,Protection,tank,Al'ar
+75,295,304056861,8,Mists of Tirna Scithe,2024-10-31T14:43:42.000Z,1028591,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",明太子,Warrior,Fury,dps,Burning Blade
+75,295,304056861,8,Mists of Tirna Scithe,2024-10-31T14:43:42.000Z,1028591,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",九叶重楼,Paladin,Retribution,dps,The Great Sea
+75,295,304056861,8,Mists of Tirna Scithe,2024-10-31T14:43:42.000Z,1028591,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃夭夭丷,Priest,Holy,healer,Al'ar
+75,295,304056861,8,Mists of Tirna Scithe,2024-10-31T14:43:42.000Z,1028591,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",李火旺丶,Death Knight,Frost,dps,Chillwind Point
+76,295,305429116,8,Mists of Tirna Scithe,2024-11-06T11:23:57.000Z,1046910,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃皮儿萨,Shaman,Elemental,dps,Al'ar
+76,295,305429116,8,Mists of Tirna Scithe,2024-11-06T11:23:57.000Z,1046910,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",能能别睡了,Evoker,Augmentation,dps,Kel'Thuzad
+76,295,305429116,8,Mists of Tirna Scithe,2024-11-06T11:23:57.000Z,1046910,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鱼面巾,Paladin,Protection,tank,Blanchard
+76,295,305429116,8,Mists of Tirna Scithe,2024-11-06T11:23:57.000Z,1046910,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",泼一批的皮,Priest,Discipline,healer,Burning Blade
+76,295,305429116,8,Mists of Tirna Scithe,2024-11-06T11:23:57.000Z,1046910,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阿拉希远征军,Paladin,Retribution,dps,The Great Sea
+77,295,304091857,8,Mists of Tirna Scithe,2024-10-31T16:32:52.000Z,1088570,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",戏芒果,Paladin,Holy,healer,Al'ar
+77,295,304091857,8,Mists of Tirna Scithe,2024-10-31T16:32:52.000Z,1088570,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Gulaorouqs,Paladin,Protection,tank,Burning Blade
+77,295,304091857,8,Mists of Tirna Scithe,2024-10-31T16:32:52.000Z,1088570,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光祝福,Paladin,Retribution,dps,Arthas
+77,295,304091857,8,Mists of Tirna Scithe,2024-10-31T16:32:52.000Z,1088570,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",醉尘尘丶,Death Knight,Unholy,dps,Silver Hand
+77,295,304091857,8,Mists of Tirna Scithe,2024-10-31T16:32:52.000Z,1088570,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凤丿雏,Paladin,Retribution,dps,Al'ar
+78,295,304648791,8,Mists of Tirna Scithe,2024-11-03T05:17:12.000Z,1088678,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",剡睿峰,Mage,Arcane,dps,Shadowmourne
+78,295,304648791,8,Mists of Tirna Scithe,2024-11-03T05:17:12.000Z,1088678,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Justicerr,Hunter,Survival,dps,Shadowmourne
+78,295,304648791,8,Mists of Tirna Scithe,2024-11-03T05:17:12.000Z,1088678,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",又不打铁,Shaman,Restoration,healer,Silver Hand
+78,295,304648791,8,Mists of Tirna Scithe,2024-11-03T05:17:12.000Z,1088678,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",萝呗国王,Paladin,Protection,tank,Shadowmourne
+78,295,304648791,8,Mists of Tirna Scithe,2024-11-03T05:17:12.000Z,1088678,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",戳屁猴,Warlock,Destruction,dps,Deephome
+79,295,304988230,8,Mists of Tirna Scithe,2024-11-04T17:30:12.000Z,1089004,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",爱生活爱小薇,Mage,Frost,dps,The Great Sea
+79,295,304988230,8,Mists of Tirna Scithe,2024-11-04T17:30:12.000Z,1089004,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Tutuyay,Priest,Discipline,healer,Al'ar
+79,295,304988230,8,Mists of Tirna Scithe,2024-11-04T17:30:12.000Z,1089004,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Iaintime,Warrior,Arms,dps,Bloodhoof
+79,295,304988230,8,Mists of Tirna Scithe,2024-11-04T17:30:12.000Z,1089004,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Dayl,Paladin,Protection,tank,Chillwind Point
+79,295,304988230,8,Mists of Tirna Scithe,2024-11-04T17:30:12.000Z,1089004,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大锤丶,Shaman,Elemental,dps,Shadowmourne
+80,295,305424629,8,Mists of Tirna Scithe,2024-11-06T10:24:10.000Z,1089691,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃皮儿萨,Shaman,Elemental,dps,Al'ar
+80,295,305424629,8,Mists of Tirna Scithe,2024-11-06T10:24:10.000Z,1089691,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",能能别睡了,Evoker,Augmentation,dps,Kel'Thuzad
+80,295,305424629,8,Mists of Tirna Scithe,2024-11-06T10:24:10.000Z,1089691,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鱼面巾,Paladin,Protection,tank,Blanchard
+80,295,305424629,8,Mists of Tirna Scithe,2024-11-06T10:24:10.000Z,1089691,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",泼一批的皮,Priest,Discipline,healer,Burning Blade
+80,295,305424629,8,Mists of Tirna Scithe,2024-11-06T10:24:10.000Z,1089691,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Shengqi,Paladin,Retribution,dps,Azjol-Nerub
+81,295,304080091,8,Mists of Tirna Scithe,2024-10-31T15:34:03.000Z,1097352,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Hooinkyoma,Warlock,Demonology,dps,Anzu
+81,295,304080091,8,Mists of Tirna Scithe,2024-10-31T15:34:03.000Z,1097352,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",腐烂的芒果,Death Knight,Unholy,dps,Deathwing
+81,295,304080091,8,Mists of Tirna Scithe,2024-10-31T15:34:03.000Z,1097352,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",雨萱丶,Shaman,Restoration,healer,Barrens
+81,295,304080091,8,Mists of Tirna Scithe,2024-10-31T15:34:03.000Z,1097352,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Warriorsk,Death Knight,Frost,dps,Deathwing
+81,295,304080091,8,Mists of Tirna Scithe,2024-10-31T15:34:03.000Z,1097352,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",繁华终成空,Warrior,Protection,tank,Silver Hand
+82,295,305433601,8,Mists of Tirna Scithe,2024-11-06T12:09:55.000Z,1100184,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃皮儿萨,Shaman,Elemental,dps,Al'ar
+82,295,305433601,8,Mists of Tirna Scithe,2024-11-06T12:09:55.000Z,1100184,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",能能别睡了,Evoker,Augmentation,dps,Kel'Thuzad
+82,295,305433601,8,Mists of Tirna Scithe,2024-11-06T12:09:55.000Z,1100184,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鱼面巾,Paladin,Protection,tank,Blanchard
+82,295,305433601,8,Mists of Tirna Scithe,2024-11-06T12:09:55.000Z,1100184,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",泼一批的皮,Priest,Discipline,healer,Burning Blade
+82,295,305433601,8,Mists of Tirna Scithe,2024-11-06T12:09:55.000Z,1100184,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",空条徐仑,Mage,Frost,dps,Shadowmourne
+83,294.8,304080091,8,Mists of Tirna Scithe,2024-10-31T15:14:28.000Z,1144422,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Hooinkyoma,Warlock,Demonology,dps,Anzu
+83,294.8,304080091,8,Mists of Tirna Scithe,2024-10-31T15:14:28.000Z,1144422,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",腐烂的芒果,Death Knight,Unholy,dps,Deathwing
+83,294.8,304080091,8,Mists of Tirna Scithe,2024-10-31T15:14:28.000Z,1144422,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",雨萱丶,Shaman,Restoration,healer,Barrens
+83,294.8,304080091,8,Mists of Tirna Scithe,2024-10-31T15:14:28.000Z,1144422,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Warriorsk,Death Knight,Frost,dps,Deathwing
+83,294.8,304080091,8,Mists of Tirna Scithe,2024-10-31T15:14:28.000Z,1144422,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",繁华终成空,Warrior,Protection,tank,Silver Hand
+84,294.5,304300960,8,Mists of Tirna Scithe,2024-11-01T18:42:21.000Z,1160657,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",语瑶,Priest,Discipline,healer,Grim Batol
+84,294.5,304300960,8,Mists of Tirna Scithe,2024-11-01T18:42:21.000Z,1160657,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小红手蓝莓,Paladin,Protection,tank,Rhonin
+84,294.5,304300960,8,Mists of Tirna Scithe,2024-11-01T18:42:21.000Z,1160657,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",热血少女丶,Shaman,Enhancement,dps,Burning Blade
+84,294.5,304300960,8,Mists of Tirna Scithe,2024-11-01T18:42:21.000Z,1160657,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",叁千莲花,Death Knight,Frost,dps,Rhonin
+84,294.5,304300960,8,Mists of Tirna Scithe,2024-11-01T18:42:21.000Z,1160657,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Firer,Mage,Frost,dps,Shadow Council
+85,294.4,304038560,8,Mists of Tirna Scithe,2024-10-31T11:59:36.000Z,1164560,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+85,294.4,304038560,8,Mists of Tirna Scithe,2024-10-31T11:59:36.000Z,1164560,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+85,294.4,304038560,8,Mists of Tirna Scithe,2024-10-31T11:59:36.000Z,1164560,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",明太子,Warrior,Protection,tank,Burning Blade
+85,294.4,304038560,8,Mists of Tirna Scithe,2024-10-31T11:59:36.000Z,1164560,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",李火旺丶,Death Knight,Frost,dps,Chillwind Point
+85,294.4,304038560,8,Mists of Tirna Scithe,2024-10-31T11:59:36.000Z,1164560,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丷晴天,Warrior,Fury,dps,The Great Sea
+86,294.3,304438797,8,Mists of Tirna Scithe,2024-11-02T08:20:30.000Z,1170737,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狐人阿福,Shaman,Restoration,healer,Anzu
+86,294.3,304438797,8,Mists of Tirna Scithe,2024-11-02T08:20:30.000Z,1170737,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",锅果,Druid,Guardian,tank,Anzu
+86,294.3,304438797,8,Mists of Tirna Scithe,2024-11-02T08:20:30.000Z,1170737,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凶残牛,Rogue,Assassination,dps,Anzu
+86,294.3,304438797,8,Mists of Tirna Scithe,2024-11-02T08:20:30.000Z,1170737,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",倾天圣威,Paladin,Retribution,dps,Anzu
+86,294.3,304438797,8,Mists of Tirna Scithe,2024-11-02T08:20:30.000Z,1170737,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",斯卡蒂,Death Knight,Frost,dps,Jin'do
+87,294.1,304730394,8,Mists of Tirna Scithe,2024-11-03T15:46:52.000Z,1180837,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",脆脆黄,Paladin,Protection,tank,Valley of Kings
+87,294.1,304730394,8,Mists of Tirna Scithe,2024-11-03T15:46:52.000Z,1180837,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",穆列,Paladin,Retribution,dps,Eldre'Thalas
+87,294.1,304730394,8,Mists of Tirna Scithe,2024-11-03T15:46:52.000Z,1180837,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小鹿回来啦,Mage,Frost,dps,Valley of Kings
+87,294.1,304730394,8,Mists of Tirna Scithe,2024-11-03T15:46:52.000Z,1180837,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",低眉丶,Priest,Discipline,healer,Eldre'Thalas
+87,294.1,304730394,8,Mists of Tirna Scithe,2024-11-03T15:46:52.000Z,1180837,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",僷奈法,Warlock,Destruction,dps,The Master's Glaive
+88,294,304730761,8,Mists of Tirna Scithe,2024-11-03T15:50:54.000Z,1183159,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",哇哦丶,Mage,Frost,dps,Thunder Axe Fortress
+88,294,304730761,8,Mists of Tirna Scithe,2024-11-03T15:50:54.000Z,1183159,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",等雪落时丶,Paladin,Retribution,dps,Burning Blade
+88,294,304730761,8,Mists of Tirna Scithe,2024-11-03T15:50:54.000Z,1183159,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",秦主任,Warrior,Protection,tank,Burning Blade
+88,294,304730761,8,Mists of Tirna Scithe,2024-11-03T15:50:54.000Z,1183159,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Rulerz,Priest,Discipline,healer,Anzu
+88,294,304730761,8,Mists of Tirna Scithe,2024-11-03T15:50:54.000Z,1183159,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",拉瑟莱克,Hunter,Beast Mastery,dps,Burning Blade
+89,293.9,305133027,8,Mists of Tirna Scithe,2024-11-05T09:09:42.000Z,1188085,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶小小怪下士,Warlock,Demonology,dps,Deathwing
+89,293.9,305133027,8,Mists of Tirna Scithe,2024-11-05T09:09:42.000Z,1188085,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小时候萌呆了,Paladin,Retribution,dps,Shadowmourne
+89,293.9,305133027,8,Mists of Tirna Scithe,2024-11-05T09:09:42.000Z,1188085,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",渠道网恋,Paladin,Retribution,dps,The Great Sea
+89,293.9,305133027,8,Mists of Tirna Scithe,2024-11-05T09:09:42.000Z,1188085,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鱼面巾,Paladin,Protection,tank,Blanchard
+89,293.9,305133027,8,Mists of Tirna Scithe,2024-11-05T09:09:42.000Z,1188085,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",董小飒,Shaman,Restoration,healer,Rhonin
+90,293.7,305475278,8,Mists of Tirna Scithe,2024-11-06T17:49:58.000Z,1199569,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",嘘嘘跑的快,Warlock,Destruction,dps,Silver Hand
+90,293.7,305475278,8,Mists of Tirna Scithe,2024-11-06T17:49:58.000Z,1199569,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",牧乃衣丶,Priest,Discipline,healer,Scarlet Crusade
+90,293.7,305475278,8,Mists of Tirna Scithe,2024-11-06T17:49:58.000Z,1199569,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",幻有夢現丶,Mage,Frost,dps,Isillien
+90,293.7,305475278,8,Mists of Tirna Scithe,2024-11-06T17:49:58.000Z,1199569,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Gulaorouqs,Paladin,Protection,tank,Burning Blade
+90,293.7,305475278,8,Mists of Tirna Scithe,2024-11-06T17:49:58.000Z,1199569,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",沈丶,Mage,Frost,dps,Dragonmaw
+91,293.5,305295055,8,Mists of Tirna Scithe,2024-11-06T01:26:41.000Z,1211468,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+91,293.5,305295055,8,Mists of Tirna Scithe,2024-11-06T01:26:41.000Z,1211468,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",佩宝宝,Demon Hunter,Vengeance,tank,Deathwing
+91,293.5,305295055,8,Mists of Tirna Scithe,2024-11-06T01:26:41.000Z,1211468,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",空车团长必死,Druid,Balance,dps,Grim Batol
+91,293.5,305295055,8,Mists of Tirna Scithe,2024-11-06T01:26:41.000Z,1211468,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大耳朵猫猫,Shaman,Restoration,healer,Shadowmourne
+91,293.5,305295055,8,Mists of Tirna Scithe,2024-11-06T01:26:41.000Z,1211468,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",清风丶兰,Paladin,Retribution,dps,Anzu
+92,293.4,305178834,8,Mists of Tirna Scithe,2024-11-05T16:40:54.000Z,1215741,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Zipponn,Paladin,Protection,tank,Al'ar
+92,293.4,305178834,8,Mists of Tirna Scithe,2024-11-05T16:40:54.000Z,1215741,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Supremerr,Rogue,Assassination,dps,The Great Sea
+92,293.4,305178834,8,Mists of Tirna Scithe,2024-11-05T16:40:54.000Z,1215741,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",起名是真费劲,Hunter,Survival,dps,Shadow Labyrinth
+92,293.4,305178834,8,Mists of Tirna Scithe,2024-11-05T16:40:54.000Z,1215741,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Lilac,Paladin,Retribution,dps,Isillien
+92,293.4,305178834,8,Mists of Tirna Scithe,2024-11-05T16:40:54.000Z,1215741,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶罗西,Shaman,Restoration,healer,Silver Hand
+93,293.2,305458772,8,Mists of Tirna Scithe,2024-11-06T15:48:30.000Z,1223639,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Supremerr,Rogue,Assassination,dps,The Great Sea
+93,293.2,305458772,8,Mists of Tirna Scithe,2024-11-06T15:48:30.000Z,1223639,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",定位心语的锚,Shaman,Elemental,dps,Scarlet Crusade
+93,293.2,305458772,8,Mists of Tirna Scithe,2024-11-06T15:48:30.000Z,1223639,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Smjun,Shaman,Restoration,healer,Silver Hand
+93,293.2,305458772,8,Mists of Tirna Scithe,2024-11-06T15:48:30.000Z,1223639,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",黄家牛得李,Paladin,Retribution,dps,Grim Batol
+93,293.2,305458772,8,Mists of Tirna Scithe,2024-11-06T15:48:30.000Z,1223639,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",铁板黑椒肥牛,Druid,Guardian,tank,Scarlet Crusade
+94,293,304020967,8,Mists of Tirna Scithe,2024-10-31T09:10:12.000Z,1237819,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",兰溪体育生,Shaman,Enhancement,dps,Rhonin
+94,293,304020967,8,Mists of Tirna Scithe,2024-10-31T09:10:12.000Z,1237819,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",米咔哇卡,Shaman,Elemental,dps,Sylvanas
+94,293,304020967,8,Mists of Tirna Scithe,2024-10-31T09:10:12.000Z,1237819,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",无敌惩戒,Paladin,Retribution,dps,Grim Batol
+94,293,304020967,8,Mists of Tirna Scithe,2024-10-31T09:10:12.000Z,1237819,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Seelevollere,Warrior,Protection,tank,Barrens
+94,293,304020967,8,Mists of Tirna Scithe,2024-10-31T09:10:12.000Z,1237819,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",芯枕南柯,Priest,Holy,healer,Al'ar
+95,292.5,304270463,8,Mists of Tirna Scithe,2024-11-01T15:34:12.000Z,1262272,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",蟹柳棒,Rogue,Assassination,dps,Bladefist
+95,292.5,304270463,8,Mists of Tirna Scithe,2024-11-01T15:34:12.000Z,1262272,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光丶波比,Paladin,Protection,tank,Silver Hand
+95,292.5,304270463,8,Mists of Tirna Scithe,2024-11-01T15:34:12.000Z,1262272,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Luciferyt,Death Knight,Frost,dps,Bladefist
+95,292.5,304270463,8,Mists of Tirna Scithe,2024-11-01T15:34:12.000Z,1262272,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",巴哈穆特,Shaman,Restoration,healer,Bladefist
+95,292.5,304270463,8,Mists of Tirna Scithe,2024-11-01T15:34:12.000Z,1262272,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",骑你头上,Paladin,Retribution,dps,Freewind
+96,291.8,305470798,8,Mists of Tirna Scithe,2024-11-06T17:23:11.000Z,1294451,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",妹妹请留步丶,Demon Hunter,Havoc,dps,Al'ar
+96,291.8,305470798,8,Mists of Tirna Scithe,2024-11-06T17:23:11.000Z,1294451,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+96,291.8,305470798,8,Mists of Tirna Scithe,2024-11-06T17:23:11.000Z,1294451,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",织雾者小江,Monk,Mistweaver,healer,Al'ar
+96,291.8,305470798,8,Mists of Tirna Scithe,2024-11-06T17:23:11.000Z,1294451,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",一条咕,Druid,Balance,dps,Shadowmourne
+96,291.8,305470798,8,Mists of Tirna Scithe,2024-11-06T17:23:11.000Z,1294451,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",长颈鹿长啊长,Monk,Windwalker,dps,Dragonmaw
+97,291.3,304115359,8,Mists of Tirna Scithe,2024-10-31T19:06:20.000Z,1322748,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小红手蓝莓,Paladin,Protection,tank,Rhonin
+97,291.3,304115359,8,Mists of Tirna Scithe,2024-10-31T19:06:20.000Z,1322748,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",如我西沉,Death Knight,Unholy,dps,Rhonin
+97,291.3,304115359,8,Mists of Tirna Scithe,2024-10-31T19:06:20.000Z,1322748,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",王嘉尔,Shaman,Restoration,healer,World Tree
+97,291.3,304115359,8,Mists of Tirna Scithe,2024-10-31T19:06:20.000Z,1322748,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",危难启示,Warrior,Fury,dps,Al'ar
+97,291.3,304115359,8,Mists of Tirna Scithe,2024-10-31T19:06:20.000Z,1322748,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",脸带桃花,Paladin,Retribution,dps,World Tree
+98,291.1,304080040,8,Mists of Tirna Scithe,2024-10-31T15:13:43.000Z,1332202,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",方圆几里丷,Hunter,Marksmanship,dps,Shadowmourne
+98,291.1,304080040,8,Mists of Tirna Scithe,2024-10-31T15:13:43.000Z,1332202,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Fregericay,Paladin,Retribution,dps,Shadowmourne
+98,291.1,304080040,8,Mists of Tirna Scithe,2024-10-31T15:13:43.000Z,1332202,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Theskyknight,Paladin,Protection,tank,Silver Hand
+98,291.1,304080040,8,Mists of Tirna Scithe,2024-10-31T15:13:43.000Z,1332202,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",雷电刻晴,Shaman,Restoration,healer,The Master's Glaive
+98,291.1,304080040,8,Mists of Tirna Scithe,2024-10-31T15:13:43.000Z,1332202,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",伤心者丶翼,Death Knight,Frost,dps,The Master's Glaive
+99,290.9,304718431,8,Mists of Tirna Scithe,2024-11-03T14:33:25.000Z,1342756,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",肥手大脚怪,Paladin,Protection,tank,Shadowmourne
+99,290.9,304718431,8,Mists of Tirna Scithe,2024-11-03T14:33:25.000Z,1342756,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",恒丶,Evoker,Augmentation,dps,Nozdormu
+99,290.9,304718431,8,Mists of Tirna Scithe,2024-11-03T14:33:25.000Z,1342756,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光能当饭吃,Paladin,Retribution,dps,Nozdormu
+99,290.9,304718431,8,Mists of Tirna Scithe,2024-11-03T14:33:25.000Z,1342756,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",叛逆小爱,Monk,Mistweaver,healer,Silver Hand
+99,290.9,304718431,8,Mists of Tirna Scithe,2024-11-03T14:33:25.000Z,1342756,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",親愛的阿娜塔,Rogue,Assassination,dps,Nozdormu
+100,290.9,304395168,8,Mists of Tirna Scithe,2024-11-02T02:38:08.000Z,1342788,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",灬星空灬,Druid,Balance,dps,The Great Sea
+100,290.9,304395168,8,Mists of Tirna Scithe,2024-11-02T02:38:08.000Z,1342788,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",桃汨晗,Shaman,Restoration,healer,Shadowmourne
+100,290.9,304395168,8,Mists of Tirna Scithe,2024-11-02T02:38:08.000Z,1342788,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小秋雅,Warrior,Protection,tank,The Great Sea
+100,290.9,304395168,8,Mists of Tirna Scithe,2024-11-02T02:38:08.000Z,1342788,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小熊熊饿了嘛,Mage,Frost,dps,The Great Sea
+100,290.9,304395168,8,Mists of Tirna Scithe,2024-11-02T02:38:08.000Z,1342788,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",周米粒欸,Evoker,Augmentation,dps,Deathwing
+101,290.8,304238352,8,Mists of Tirna Scithe,2024-11-01T11:12:51.000Z,1346937,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小节儿,Paladin,Protection,tank,Zealot Blade
+101,290.8,304238352,8,Mists of Tirna Scithe,2024-11-01T11:12:51.000Z,1346937,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",来跳一曲舞皿,Paladin,Retribution,dps,Al'ar
+101,290.8,304238352,8,Mists of Tirna Scithe,2024-11-01T11:12:51.000Z,1346937,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",火兰,Warlock,Destruction,dps,Doomhammer
+101,290.8,304238352,8,Mists of Tirna Scithe,2024-11-01T11:12:51.000Z,1346937,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",妹妹和北北,Shaman,Enhancement,dps,Scarlet Crusade
+101,290.8,304238352,8,Mists of Tirna Scithe,2024-11-01T11:12:51.000Z,1346937,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",竹月半,Priest,Discipline,healer,Kel'Thuzad
+102,290.5,305414195,8,Mists of Tirna Scithe,2024-11-06T08:09:25.000Z,1363194,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",血肉果汁机,Paladin,Protection,tank,Eldre'Thalas
+102,290.5,305414195,8,Mists of Tirna Scithe,2024-11-06T08:09:25.000Z,1363194,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",瑞斯拜,Paladin,Retribution,dps,Moonglade
+102,290.5,305414195,8,Mists of Tirna Scithe,2024-11-06T08:09:25.000Z,1363194,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",记的丿那年秋,Hunter,Beast Mastery,dps,Windrunner
+102,290.5,305414195,8,Mists of Tirna Scithe,2024-11-06T08:09:25.000Z,1363194,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",速度速度速度,Death Knight,Frost,dps,Fel Rock
+102,290.5,305414195,8,Mists of Tirna Scithe,2024-11-06T08:09:25.000Z,1363194,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",书亚,Shaman,Restoration,healer,Al'ar
+103,290.3,305446901,8,Mists of Tirna Scithe,2024-11-06T14:20:49.000Z,1370341,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+103,290.3,305446901,8,Mists of Tirna Scithe,2024-11-06T14:20:49.000Z,1370341,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",禁疗自奶狐,Shaman,Restoration,healer,Grim Batol
+103,290.3,305446901,8,Mists of Tirna Scithe,2024-11-06T14:20:49.000Z,1370341,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",你看我扫不扫,Evoker,Devastation,dps,Grim Batol
+103,290.3,305446901,8,Mists of Tirna Scithe,2024-11-06T14:20:49.000Z,1370341,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",心灵丶点滴,Paladin,Retribution,dps,Anzu
+103,290.3,305446901,8,Mists of Tirna Scithe,2024-11-06T14:20:49.000Z,1370341,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我砍爆你的头,Warrior,Protection,tank,Anzu
+104,290.2,304041245,8,Mists of Tirna Scithe,2024-10-31T12:28:48.000Z,1377512,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阮秀丶,Paladin,Protection,tank,Scarlet Crusade
+104,290.2,304041245,8,Mists of Tirna Scithe,2024-10-31T12:28:48.000Z,1377512,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",云遂歌,Shaman,Restoration,healer,Deathwing
+104,290.2,304041245,8,Mists of Tirna Scithe,2024-10-31T12:28:48.000Z,1377512,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",洋葱无敌,Death Knight,Frost,dps,Deathwing
+104,290.2,304041245,8,Mists of Tirna Scithe,2024-10-31T12:28:48.000Z,1377512,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",蓝色风暴丶,Shaman,Elemental,dps,Barrens
+104,290.2,304041245,8,Mists of Tirna Scithe,2024-10-31T12:28:48.000Z,1377512,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",鳯丨逑丨凰,Mage,Frost,dps,Deathwing
+105,290.1,304260318,8,Mists of Tirna Scithe,2024-11-01T14:13:27.000Z,1381101,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",寒霜丶,Death Knight,Frost,dps,Chillwind Point
+105,290.1,304260318,8,Mists of Tirna Scithe,2024-11-01T14:13:27.000Z,1381101,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",莽昆仑,Mage,Frost,dps,Sen'jin
+105,290.1,304260318,8,Mists of Tirna Scithe,2024-11-01T14:13:27.000Z,1381101,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",荼荼,Druid,Guardian,tank,Argus
+105,290.1,304260318,8,Mists of Tirna Scithe,2024-11-01T14:13:27.000Z,1381101,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",务必淡定,Druid,Balance,dps,Argus
+105,290.1,304260318,8,Mists of Tirna Scithe,2024-11-01T14:13:27.000Z,1381101,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",於菟,Shaman,Restoration,healer,Dark Phantom
+106,290,305462739,8,Mists of Tirna Scithe,2024-11-06T16:19:21.000Z,1384576,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",铺场萨,Shaman,Elemental,dps,Grim Batol
+106,290,305462739,8,Mists of Tirna Scithe,2024-11-06T16:19:21.000Z,1384576,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",冥混子,Shaman,Restoration,healer,Deathwing
+106,290,305462739,8,Mists of Tirna Scithe,2024-11-06T16:19:21.000Z,1384576,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",月下弄潮儿,Paladin,Retribution,dps,Force of Elemental
+106,290,305462739,8,Mists of Tirna Scithe,2024-11-06T16:19:21.000Z,1384576,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",月华的瞌睡猫,Death Knight,Frost,dps,Anzu
+106,290,305462739,8,Mists of Tirna Scithe,2024-11-06T16:19:21.000Z,1384576,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",可爱晓德德,Druid,Guardian,tank,Emerald Dream
+107,289.2,305125202,8,Mists of Tirna Scithe,2024-11-05T07:27:27.000Z,1427274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",尐尐猎,Hunter,Beast Mastery,dps,Kel'Thuzad
+107,289.2,305125202,8,Mists of Tirna Scithe,2024-11-05T07:27:27.000Z,1427274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",三分甜小芙妮,Shaman,Restoration,healer,The Great Sea
+107,289.2,305125202,8,Mists of Tirna Scithe,2024-11-05T07:27:27.000Z,1427274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凌无決,Warrior,Arms,dps,The Great Sea
+107,289.2,305125202,8,Mists of Tirna Scithe,2024-11-05T07:27:27.000Z,1427274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",差一些,Shaman,Elemental,dps,Burning Blade
+107,289.2,305125202,8,Mists of Tirna Scithe,2024-11-05T07:27:27.000Z,1427274,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",呂寅,Druid,Guardian,tank,Al'ar
+108,288.8,305466902,8,Mists of Tirna Scithe,2024-11-06T16:51:00.000Z,1449318,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Gulaorouqs,Paladin,Protection,tank,Burning Blade
+108,288.8,305466902,8,Mists of Tirna Scithe,2024-11-06T16:51:00.000Z,1449318,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Changqinsm,Shaman,Restoration,healer,Al'ar
+108,288.8,305466902,8,Mists of Tirna Scithe,2024-11-06T16:51:00.000Z,1449318,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狼眸丶丶,Shaman,Enhancement,dps,Blanchard
+108,288.8,305466902,8,Mists of Tirna Scithe,2024-11-06T16:51:00.000Z,1449318,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丶周结巴,Hunter,Survival,dps,Deathwing
+108,288.8,305466902,8,Mists of Tirna Scithe,2024-11-06T16:51:00.000Z,1449318,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",你彡,Shaman,Restoration,healer,Dragonmaw
+109,288.6,305155609,8,Mists of Tirna Scithe,2024-11-05T13:29:28.000Z,1455522,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",欲升漪,Demon Hunter,Vengeance,tank,Al'ar
+109,288.6,305155609,8,Mists of Tirna Scithe,2024-11-05T13:29:28.000Z,1455522,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",九分二十,Hunter,Survival,dps,Al'ar
+109,288.6,305155609,8,Mists of Tirna Scithe,2024-11-05T13:29:28.000Z,1455522,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我真在奶了,Priest,Discipline,healer,Al'ar
+109,288.6,305155609,8,Mists of Tirna Scithe,2024-11-05T13:29:28.000Z,1455522,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Niamaster,Mage,Frost,dps,Valley of Kings
+109,288.6,305155609,8,Mists of Tirna Scithe,2024-11-05T13:29:28.000Z,1455522,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",门清杠开,Monk,Windwalker,dps,Lothar
+110,288.6,304458836,8,Mists of Tirna Scithe,2024-11-02T12:44:10.000Z,1458291,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",壶出乱目,Shaman,Restoration,healer,Chillwind Point
+110,288.6,304458836,8,Mists of Tirna Scithe,2024-11-02T12:44:10.000Z,1458291,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",超级臭皮蛋,Paladin,Protection,tank,Dragonblight
+110,288.6,304458836,8,Mists of Tirna Scithe,2024-11-02T12:44:10.000Z,1458291,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",尛墩墩,Hunter,Survival,dps,Chillwind Point
+110,288.6,304458836,8,Mists of Tirna Scithe,2024-11-02T12:44:10.000Z,1458291,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",量子微麻,Shaman,Enhancement,dps,Chillwind Point
+110,288.6,304458836,8,Mists of Tirna Scithe,2024-11-02T12:44:10.000Z,1458291,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",星星好吃,Paladin,Retribution,dps,Chillwind Point
+111,288.4,304697657,8,Mists of Tirna Scithe,2024-11-03T12:16:58.000Z,1465828,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光丶波比,Paladin,Protection,tank,Silver Hand
+111,288.4,304697657,8,Mists of Tirna Scithe,2024-11-03T12:16:58.000Z,1465828,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",大于丶,Paladin,Retribution,dps,Silver Hand
+111,288.4,304697657,8,Mists of Tirna Scithe,2024-11-03T12:16:58.000Z,1465828,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",琴墨拳,Monk,Mistweaver,healer,The Master's Glaive
+111,288.4,304697657,8,Mists of Tirna Scithe,2024-11-03T12:16:58.000Z,1465828,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",未来可期呀,Shaman,Enhancement,dps,Frostmourne
+111,288.4,304697657,8,Mists of Tirna Scithe,2024-11-03T12:16:58.000Z,1465828,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",黑暗摄魂师,Warlock,Destruction,dps,Nozdormu
+112,288.2,304056404,8,Mists of Tirna Scithe,2024-10-31T14:39:26.000Z,1475300,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",水様冰泪,Druid,Balance,dps,Hectae
+112,288.2,304056404,8,Mists of Tirna Scithe,2024-10-31T14:39:26.000Z,1475300,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阮秀丶,Paladin,Protection,tank,Scarlet Crusade
+112,288.2,304056404,8,Mists of Tirna Scithe,2024-10-31T14:39:26.000Z,1475300,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Bestcswa,Evoker,Augmentation,dps,Rhonin
+112,288.2,304056404,8,Mists of Tirna Scithe,2024-10-31T14:39:26.000Z,1475300,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光晓筱,Paladin,Retribution,dps,Rhonin
+112,288.2,304056404,8,Mists of Tirna Scithe,2024-10-31T14:39:26.000Z,1475300,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",风暴之力,Shaman,Restoration,healer,Eldre'Thalas
+113,288.2,304679006,8,Mists of Tirna Scithe,2024-11-03T09:53:07.000Z,1476815,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",狡猾的风铃,Demon Hunter,Havoc,dps,Tortheldrin
+113,288.2,304679006,8,Mists of Tirna Scithe,2024-11-03T09:53:07.000Z,1476815,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",爬啊爬得,Shaman,Elemental,dps,Nighthaven
+113,288.2,304679006,8,Mists of Tirna Scithe,2024-11-03T09:53:07.000Z,1476815,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",等雪落时丶,Paladin,Retribution,dps,Burning Blade
+113,288.2,304679006,8,Mists of Tirna Scithe,2024-11-03T09:53:07.000Z,1476815,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",秦主任,Warrior,Protection,tank,Burning Blade
+113,288.2,304679006,8,Mists of Tirna Scithe,2024-11-03T09:53:07.000Z,1476815,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Rulerz,Priest,Discipline,healer,Anzu
+114,287.8,305441906,8,Mists of Tirna Scithe,2024-11-06T13:35:31.000Z,1497559,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",划水厂厂长,Warrior,Fury,dps,Frostmourne
+114,287.8,305441906,8,Mists of Tirna Scithe,2024-11-06T13:35:31.000Z,1497559,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",叶瀏,Rogue,Outlaw,dps,Echo Ridge
+114,287.8,305441906,8,Mists of Tirna Scithe,2024-11-06T13:35:31.000Z,1497559,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Momoji,Warlock,Demonology,dps,Dream Bough
+114,287.8,305441906,8,Mists of Tirna Scithe,2024-11-06T13:35:31.000Z,1497559,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",妖月牛牛,Warrior,Protection,tank,Al'ar
+114,287.8,305441906,8,Mists of Tirna Scithe,2024-11-06T13:35:31.000Z,1497559,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Xami,Shaman,Restoration,healer,Scarlet Crusade
+115,287.8,304267298,8,Mists of Tirna Scithe,2024-11-01T15:07:05.000Z,1498289,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",羽无殇,Hunter,Marksmanship,dps,Deathwing
+115,287.8,304267298,8,Mists of Tirna Scithe,2024-11-01T15:07:05.000Z,1498289,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光丶波比,Paladin,Protection,tank,Silver Hand
+115,287.8,304267298,8,Mists of Tirna Scithe,2024-11-01T15:07:05.000Z,1498289,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",放开那个基老,Shaman,Restoration,healer,Scarlet Crusade
+115,287.8,304267298,8,Mists of Tirna Scithe,2024-11-01T15:07:05.000Z,1498289,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",嗷嘟哏,Druid,Balance,dps,Illidan
+115,287.8,304267298,8,Mists of Tirna Scithe,2024-11-01T15:07:05.000Z,1498289,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Panicstation,Paladin,Retribution,dps,Chillwind Point
+116,286.8,304439920,8,Mists of Tirna Scithe,2024-11-02T08:54:25.000Z,1546525,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",冰灬水,Paladin,Retribution,dps,Kul Tiras
+116,286.8,304439920,8,Mists of Tirna Scithe,2024-11-02T08:54:25.000Z,1546525,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",洛箫晴,Death Knight,Blood,tank,Kel'Thuzad
+116,286.8,304439920,8,Mists of Tirna Scithe,2024-11-02T08:54:25.000Z,1546525,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",虎宇都,Shaman,Restoration,healer,Anzu
+116,286.8,304439920,8,Mists of Tirna Scithe,2024-11-02T08:54:25.000Z,1546525,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Sagittariuss,Mage,Frost,dps,Kel'Thuzad
+116,286.8,304439920,8,Mists of Tirna Scithe,2024-11-02T08:54:25.000Z,1546525,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",欢乐岛,Shaman,Enhancement,dps,Scarlet Crusade
+117,286.6,304085703,8,Mists of Tirna Scithe,2024-10-31T15:52:11.000Z,1557131,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",水様冰泪,Druid,Balance,dps,Hectae
+117,286.6,304085703,8,Mists of Tirna Scithe,2024-10-31T15:52:11.000Z,1557131,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",阮秀丶,Paladin,Protection,tank,Scarlet Crusade
+117,286.6,304085703,8,Mists of Tirna Scithe,2024-10-31T15:52:11.000Z,1557131,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Bestcswa,Evoker,Augmentation,dps,Rhonin
+117,286.6,304085703,8,Mists of Tirna Scithe,2024-10-31T15:52:11.000Z,1557131,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣光晓筱,Paladin,Retribution,dps,Rhonin
+117,286.6,304085703,8,Mists of Tirna Scithe,2024-10-31T15:52:11.000Z,1557131,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",醍醐雷龙,Shaman,Restoration,healer,Medivh
+118,283.7,305165920,8,Mists of Tirna Scithe,2024-11-05T14:59:44.000Z,1705803,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+118,283.7,305165920,8,Mists of Tirna Scithe,2024-11-05T14:59:44.000Z,1705803,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",黑塑水,Mage,Frost,dps,Deathwing
+118,283.7,305165920,8,Mists of Tirna Scithe,2024-11-05T14:59:44.000Z,1705803,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",禁疗自奶狐,Shaman,Restoration,healer,Grim Batol
+118,283.7,305165920,8,Mists of Tirna Scithe,2024-11-05T14:59:44.000Z,1705803,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",你看我扫不扫,Evoker,Devastation,dps,Grim Batol
+118,283.7,305165920,8,Mists of Tirna Scithe,2024-11-05T14:59:44.000Z,1705803,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丨一身绝活丨,Warrior,Protection,tank,Silver Hand
+119,282.7,304964669,8,Mists of Tirna Scithe,2024-11-03T06:21:33.000Z,1756661,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",焚雪丶,Druid,Guardian,tank,Silver Hand
+119,282.7,304964669,8,Mists of Tirna Scithe,2024-11-03T06:21:33.000Z,1756661,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",咕尼鸡哇,Druid,Balance,dps,Doomwalker
+119,282.7,304964669,8,Mists of Tirna Scithe,2024-11-03T06:21:33.000Z,1756661,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",虛空捕风,Demon Hunter,Havoc,dps,Deathwing
+119,282.7,304964669,8,Mists of Tirna Scithe,2024-11-03T06:21:33.000Z,1756661,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",丨夜乄寒衣丨,Druid,Restoration,healer,Tyrande
+119,282.7,304964669,8,Mists of Tirna Scithe,2024-11-03T06:21:33.000Z,1756661,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Krismartini,Mage,Frost,dps,Doomwalker
+120,282.4,305155698,8,Mists of Tirna Scithe,2024-11-05T13:30:40.000Z,1769867,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",斷灬綫,Hunter,Beast Mastery,dps,The Great Sea
+120,282.4,305155698,8,Mists of Tirna Scithe,2024-11-05T13:30:40.000Z,1769867,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",卜卜壹壹,Paladin,Retribution,dps,The Great Sea
+120,282.4,305155698,8,Mists of Tirna Scithe,2024-11-05T13:30:40.000Z,1769867,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",栈别小巷,Monk,Mistweaver,healer,Isillien
+120,282.4,305155698,8,Mists of Tirna Scithe,2024-11-05T13:30:40.000Z,1769867,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",柑橘百香果,Druid,Guardian,tank,The Master's Glaive
+120,282.4,305155698,8,Mists of Tirna Scithe,2024-11-05T13:30:40.000Z,1769867,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",秋风萧瑟,Shaman,Enhancement,dps,Moonglade
+121,281.4,304261735,8,Mists of Tirna Scithe,2024-11-01T14:56:28.000Z,1822692,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",圣圣月,Paladin,Retribution,dps,Well of Eternity
+121,281.4,304261735,8,Mists of Tirna Scithe,2024-11-01T14:56:28.000Z,1822692,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",龙龙飞,Evoker,Devastation,dps,Ravencrest
+121,281.4,304261735,8,Mists of Tirna Scithe,2024-11-01T14:56:28.000Z,1822692,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Stella,Evoker,Preservation,healer,Ravencrest
+121,281.4,304261735,8,Mists of Tirna Scithe,2024-11-01T14:56:28.000Z,1822692,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Thxthx,Paladin,Protection,tank,Well of Eternity
+121,281.4,304261735,8,Mists of Tirna Scithe,2024-11-01T14:56:28.000Z,1822692,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小只大萌骑,Paladin,Retribution,dps,Ravencrest
+122,280.4,304970189,8,Mists of Tirna Scithe,2024-11-04T15:45:33.000Z,1872211,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",九霄神辉,Warrior,Protection,tank,Pandaren
+122,280.4,304970189,8,Mists of Tirna Scithe,2024-11-04T15:45:33.000Z,1872211,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",烈焰涅槃,Shaman,Restoration,healer,The Great Sea
+122,280.4,304970189,8,Mists of Tirna Scithe,2024-11-04T15:45:33.000Z,1872211,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Kratzig,Druid,Balance,dps,The Great Sea
+122,280.4,304970189,8,Mists of Tirna Scithe,2024-11-04T15:45:33.000Z,1872211,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",蜂蜜甜酒,Mage,Frost,dps,The Great Sea
+122,280.4,304970189,8,Mists of Tirna Scithe,2024-11-04T15:45:33.000Z,1872211,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",梦里梦,Evoker,Augmentation,dps,Pandaren
+123,280,304972130,7,Mists of Tirna Scithe,2024-11-04T16:00:54.000Z,1077467,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",为愛而生,Druid,Guardian,tank,Rhonin
+123,280,304972130,7,Mists of Tirna Scithe,2024-11-04T16:00:54.000Z,1077467,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Acerola,Paladin,Retribution,dps,Doomwalker
+123,280,304972130,7,Mists of Tirna Scithe,2024-11-04T16:00:54.000Z,1077467,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",耐力奶泡泡,Paladin,Holy,healer,Doomwalker
+123,280,304972130,7,Mists of Tirna Scithe,2024-11-04T16:00:54.000Z,1077467,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",死煞,Death Knight,Frost,dps,Well of Eternity
+123,280,304972130,7,Mists of Tirna Scithe,2024-11-04T16:00:54.000Z,1077467,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",墨染丶素衣,Hunter,Survival,dps,Anachronos
+124,280,306079942,7,Mists of Tirna Scithe,2024-11-04T07:38:11.000Z,1103207,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",吖菊,Druid,Restoration,healer,Silver Hand
+124,280,306079942,7,Mists of Tirna Scithe,2024-11-04T07:38:11.000Z,1103207,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+124,280,306079942,7,Mists of Tirna Scithe,2024-11-04T07:38:11.000Z,1103207,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",钮祜禄酱爆,Druid,Guardian,tank,Anzu
+124,280,306079942,7,Mists of Tirna Scithe,2024-11-04T07:38:11.000Z,1103207,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",龙吟草莓,Rogue,Assassination,dps,Valley of Kings
+124,280,306079942,7,Mists of Tirna Scithe,2024-11-04T07:38:11.000Z,1103207,1890999,3,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",可爱的八戒,Rogue,Assassination,dps,Shadowmourne
+125,277.6,304240292,7,Mists of Tirna Scithe,2024-11-01T12:16:17.000Z,1254891,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Chatgpt,Mage,Frost,dps,Chillwind Point
+125,277.6,304240292,7,Mists of Tirna Scithe,2024-11-01T12:16:17.000Z,1254891,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",超绝雪豹增强,Shaman,Enhancement,dps,Chillwind Point
+125,277.6,304240292,7,Mists of Tirna Scithe,2024-11-01T12:16:17.000Z,1254891,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",恩赐解脱,Warrior,Protection,tank,Dreadmist Peak
+125,277.6,304240292,7,Mists of Tirna Scithe,2024-11-01T12:16:17.000Z,1254891,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",电母,Shaman,Elemental,dps,Chillwind Point
+125,277.6,304240292,7,Mists of Tirna Scithe,2024-11-01T12:16:17.000Z,1254891,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",唤魔醒子,Evoker,Preservation,healer,Deathwing
+126,277.6,304485584,7,Mists of Tirna Scithe,2024-11-02T14:44:04.000Z,1256187,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",歼世咩咩子丶,Evoker,Preservation,healer,The Master's Glaive
+126,277.6,304485584,7,Mists of Tirna Scithe,2024-11-02T14:44:04.000Z,1256187,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",治疗杀手,Paladin,Protection,tank,Burning Blade
+126,277.6,304485584,7,Mists of Tirna Scithe,2024-11-02T14:44:04.000Z,1256187,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",嗄龍,Death Knight,Unholy,dps,Burning Blade
+126,277.6,304485584,7,Mists of Tirna Scithe,2024-11-02T14:44:04.000Z,1256187,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",一只蜥蜴精丶,Evoker,Devastation,dps,Burning Blade
+126,277.6,304485584,7,Mists of Tirna Scithe,2024-11-02T14:44:04.000Z,1256187,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",血手人屠萨,Shaman,Enhancement,dps,Burning Blade
+127,277.1,304887960,7,Mists of Tirna Scithe,2024-11-04T05:25:17.000Z,1282900,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",霓裳,Mage,Frost,dps,Dath'Remar
+127,277.1,304887960,7,Mists of Tirna Scithe,2024-11-04T05:25:17.000Z,1282900,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",哈哟哟,Death Knight,Frost,dps,Barrens
+127,277.1,304887960,7,Mists of Tirna Scithe,2024-11-04T05:25:17.000Z,1282900,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",搓澡神匠,Shaman,Restoration,healer,Ashenvale
+127,277.1,304887960,7,Mists of Tirna Scithe,2024-11-04T05:25:17.000Z,1282900,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",拉爷,Warlock,Destruction,dps,Naxxramas
+127,277.1,304887960,7,Mists of Tirna Scithe,2024-11-04T05:25:17.000Z,1282900,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",抠脚丫,Warrior,Protection,tank,Grim Batol
+128,276.7,304239562,7,Mists of Tirna Scithe,2024-11-01T11:27:41.000Z,1300243,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我冰箱呢,Mage,Frost,dps,Hectae
+128,276.7,304239562,7,Mists of Tirna Scithe,2024-11-01T11:27:41.000Z,1300243,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",我知道要聚怪,Shaman,Restoration,healer,Loken
+128,276.7,304239562,7,Mists of Tirna Scithe,2024-11-01T11:27:41.000Z,1300243,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",最爱杨儿,Mage,Frost,dps,Hectae
+128,276.7,304239562,7,Mists of Tirna Scithe,2024-11-01T11:27:41.000Z,1300243,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",牛卵豆,Shaman,Elemental,dps,Burning Blade
+128,276.7,304239562,7,Mists of Tirna Scithe,2024-11-01T11:27:41.000Z,1300243,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",七级神兽,Druid,Guardian,tank,Silver Hand
+129,275.7,305316974,7,Mists of Tirna Scithe,2024-11-06T03:17:19.000Z,1350182,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+129,275.7,305316974,7,Mists of Tirna Scithe,2024-11-06T03:17:19.000Z,1350182,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",醜奴兒,Paladin,Retribution,dps,Pandaren
+129,275.7,305316974,7,Mists of Tirna Scithe,2024-11-06T03:17:19.000Z,1350182,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",泥大爷很年轻,Monk,Mistweaver,healer,Anzu
+129,275.7,305316974,7,Mists of Tirna Scithe,2024-11-06T03:17:19.000Z,1350182,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",黑色方块,Warlock,Destruction,dps,Kaleidoscope Star
+129,275.7,305316974,7,Mists of Tirna Scithe,2024-11-06T03:17:19.000Z,1350182,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",真丶红,Druid,Guardian,tank,Burning Blade
+130,275.1,304978967,7,Mists of Tirna Scithe,2024-11-04T16:26:16.000Z,1382739,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",沐汐泠,Rogue,Assassination,dps,Deathwing
+130,275.1,304978967,7,Mists of Tirna Scithe,2024-11-04T16:26:16.000Z,1382739,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",牛至,Warrior,Fury,dps,Hectae
+130,275.1,304978967,7,Mists of Tirna Scithe,2024-11-04T16:26:16.000Z,1382739,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",滴滴打德,Druid,Restoration,healer,Loken
+130,275.1,304978967,7,Mists of Tirna Scithe,2024-11-04T16:26:16.000Z,1382739,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",凡泠骑,Paladin,Protection,tank,Force of Elemental
+130,275.1,304978967,7,Mists of Tirna Scithe,2024-11-04T16:26:16.000Z,1382739,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",莉涅,Hunter,Survival,dps,Chillwind Point
+131,275,305120004,7,Mists of Tirna Scithe,2024-11-05T06:51:10.000Z,1387564,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+131,275,305120004,7,Mists of Tirna Scithe,2024-11-05T06:51:10.000Z,1387564,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",纸夹灬布擦丨,Paladin,Retribution,dps,Shadowmourne
+131,275,305120004,7,Mists of Tirna Scithe,2024-11-05T06:51:10.000Z,1387564,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",一主二仆,Shaman,Elemental,dps,Silver Hand
+131,275,305120004,7,Mists of Tirna Scithe,2024-11-05T06:51:10.000Z,1387564,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",孤暝,Demon Hunter,Vengeance,tank,Frostmourne
+131,275,305120004,7,Mists of Tirna Scithe,2024-11-05T06:51:10.000Z,1387564,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",问题不大,Shaman,Restoration,healer,Varimathras
+132,273.6,305332190,7,Mists of Tirna Scithe,2024-11-06T06:02:21.000Z,1457769,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+132,273.6,305332190,7,Mists of Tirna Scithe,2024-11-06T06:02:21.000Z,1457769,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",恍然大聪明,Paladin,Retribution,dps,Silver Hand
+132,273.6,305332190,7,Mists of Tirna Scithe,2024-11-06T06:02:21.000Z,1457769,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",再度相视微笑,Druid,Restoration,healer,Anzu
+132,273.6,305332190,7,Mists of Tirna Scithe,2024-11-06T06:02:21.000Z,1457769,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",南柯意梦,Warrior,Protection,tank,Silver Hand
+132,273.6,305332190,7,Mists of Tirna Scithe,2024-11-06T06:02:21.000Z,1457769,1890999,2,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Archon,Mage,Frost,dps,Ashenvale
+133,270.6,305176181,7,Mists of Tirna Scithe,2024-11-05T16:18:55.000Z,1608786,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",爆炸头水牛,Druid,Restoration,healer,Shadowmoon
+133,270.6,305176181,7,Mists of Tirna Scithe,2024-11-05T16:18:55.000Z,1608786,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",弹弓弹啊弹,Hunter,Survival,dps,Ashenvale
+133,270.6,305176181,7,Mists of Tirna Scithe,2024-11-05T16:18:55.000Z,1608786,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Aierwins,Druid,Balance,dps,Grim Batol
+133,270.6,305176181,7,Mists of Tirna Scithe,2024-11-05T16:18:55.000Z,1608786,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",东东丷,Rogue,Outlaw,dps,Grim Batol
+133,270.6,305176181,7,Mists of Tirna Scithe,2024-11-05T16:18:55.000Z,1608786,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",彭于安,Monk,Brewmaster,tank,Searinox
+134,269.5,304455191,7,Mists of Tirna Scithe,2024-11-02T13:06:07.000Z,1665234,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",Sagittariuss,Mage,Frost,dps,Kel'Thuzad
+134,269.5,304455191,7,Mists of Tirna Scithe,2024-11-02T13:06:07.000Z,1665234,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",睦头人,Paladin,Retribution,dps,Kel'Thuzad
+134,269.5,304455191,7,Mists of Tirna Scithe,2024-11-02T13:06:07.000Z,1665234,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",洛君珩,Shaman,Enhancement,dps,Kel'Thuzad
+134,269.5,304455191,7,Mists of Tirna Scithe,2024-11-02T13:06:07.000Z,1665234,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",焚灼,Priest,Discipline,healer,Kel'Thuzad
+134,269.5,304455191,7,Mists of Tirna Scithe,2024-11-02T13:06:07.000Z,1665234,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",椎名乄真白,Demon Hunter,Vengeance,tank,Kel'Thuzad
+135,265,305328300,7,Mists of Tirna Scithe,2024-11-06T05:17:30.000Z,1890208,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",伊莉缇娅,Hunter,Beast Mastery,dps,Doomwalker
+135,265,305328300,7,Mists of Tirna Scithe,2024-11-06T05:17:30.000Z,1890208,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",小红手清歆,Hunter,Survival,dps,Frostmourne
+135,265,305328300,7,Mists of Tirna Scithe,2024-11-06T05:17:30.000Z,1890208,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",电风扇呼呼转,Monk,Brewmaster,tank,Kel'Thuzad
+135,265,305328300,7,Mists of Tirna Scithe,2024-11-06T05:17:30.000Z,1890208,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",笑着甜蜜蜜,Priest,Holy,healer,The Golden Plains
+135,265,305328300,7,Mists of Tirna Scithe,2024-11-06T05:17:30.000Z,1890208,1890999,1,"Xal'atath's Bargain: Devour, Tyrannical, Challenger's Peril",夜王,Death Knight,Frost,dps,Pandaren

@@ -1,0 +1,66 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,306993635,3,The Dawnbreaker,2024-11-13T17:35:05.000Z,995130,1860999,3,Xal'atath's Bargain: Voidbound,摇摇兔耳朵,Shaman,Restoration,healer,Deathwing
+1,195,306993635,3,The Dawnbreaker,2024-11-13T17:35:05.000Z,995130,1860999,3,Xal'atath's Bargain: Voidbound,最强大脑袋,Shaman,Elemental,dps,Deathwing
+1,195,306993635,3,The Dawnbreaker,2024-11-13T17:35:05.000Z,995130,1860999,3,Xal'atath's Bargain: Voidbound,西皮艾思大王,Paladin,Protection,tank,Valley of Kings
+1,195,306993635,3,The Dawnbreaker,2024-11-13T17:35:05.000Z,995130,1860999,3,Xal'atath's Bargain: Voidbound,秋丶海棠叶,Mage,Fire,dps,Pandaren
+1,195,306993635,3,The Dawnbreaker,2024-11-13T17:35:05.000Z,995130,1860999,3,Xal'atath's Bargain: Voidbound,圣光笼罩着你,Paladin,Retribution,dps,Rhonin
+2,188.8,306964739,3,The Dawnbreaker,2024-11-13T13:59:54.000Z,1422203,1860999,2,Xal'atath's Bargain: Voidbound,冲锋打绷带,Warrior,Fury,dps,Shadowmourne
+2,188.8,306964739,3,The Dawnbreaker,2024-11-13T13:59:54.000Z,1422203,1860999,2,Xal'atath's Bargain: Voidbound,清灬歆,Paladin,Protection,tank,Frostmourne
+2,188.8,306964739,3,The Dawnbreaker,2024-11-13T13:59:54.000Z,1422203,1860999,2,Xal'atath's Bargain: Voidbound,又圆又润又翘,Shaman,Elemental,dps,Shadowmourne
+2,188.8,306964739,3,The Dawnbreaker,2024-11-13T13:59:54.000Z,1422203,1860999,2,Xal'atath's Bargain: Voidbound,何事惹尘埃,Death Knight,Frost,dps,Shadowmourne
+2,188.8,306964739,3,The Dawnbreaker,2024-11-13T13:59:54.000Z,1422203,1860999,2,Xal'atath's Bargain: Voidbound,飞标,Evoker,Preservation,healer,Dark Portal
+3,185.4,297408780,3,The Dawnbreaker,2024-10-03T16:35:12.000Z,1591022,1860999,1,Xal'atath's Bargain: Voidbound,小绵毛绒绒,Rogue,Assassination,dps,Al'ar
+3,185.4,297408780,3,The Dawnbreaker,2024-10-03T16:35:12.000Z,1591022,1860999,1,Xal'atath's Bargain: Voidbound,尘埃与枫,Mage,Frost,dps,Burning Blade
+3,185.4,297408780,3,The Dawnbreaker,2024-10-03T16:35:12.000Z,1591022,1860999,1,Xal'atath's Bargain: Voidbound,世一酒仙,Monk,Brewmaster,tank,Burning Blade
+3,185.4,297408780,3,The Dawnbreaker,2024-10-03T16:35:12.000Z,1591022,1860999,1,Xal'atath's Bargain: Voidbound,爱心小腊肠,Shaman,Restoration,healer,Al'ar
+3,185.4,297408780,3,The Dawnbreaker,2024-10-03T16:35:12.000Z,1591022,1860999,1,Xal'atath's Bargain: Voidbound,丨往事成风灬,Warrior,Fury,dps,Burning Blade
+4,181.6,306050235,3,The Dawnbreaker,2024-11-09T12:47:15.000Z,1781455,1860999,1,Xal'atath's Bargain: Voidbound,萌四肥仔,Warrior,Protection,tank,Anzu
+4,181.6,306050235,3,The Dawnbreaker,2024-11-09T12:47:15.000Z,1781455,1860999,1,Xal'atath's Bargain: Voidbound,酸辣生虾,Priest,Holy,healer,Al'ar
+4,181.6,306050235,3,The Dawnbreaker,2024-11-09T12:47:15.000Z,1781455,1860999,1,Xal'atath's Bargain: Voidbound,海啸,Mage,Frost,dps,Arthas
+4,181.6,306050235,3,The Dawnbreaker,2024-11-09T12:47:15.000Z,1781455,1860999,1,Xal'atath's Bargain: Voidbound,夜雨听渢,Shaman,Enhancement,dps,Silver Hand
+4,181.6,306050235,3,The Dawnbreaker,2024-11-09T12:47:15.000Z,1781455,1860999,1,Xal'atath's Bargain: Voidbound,Tojoker,Mage,Arcane,dps,Lothar
+5,180,309489203,2,The Dawnbreaker,2024-11-28T11:29:11.000Z,812604,1860999,3,Xal'atath's Bargain: Voidbound,德不配位,Druid,Restoration,healer,Drak'Tharon
+5,180,309489203,2,The Dawnbreaker,2024-11-28T11:29:11.000Z,812604,1860999,3,Xal'atath's Bargain: Voidbound,小蓝手千乐,Shaman,Enhancement,dps,Rhonin
+5,180,309489203,2,The Dawnbreaker,2024-11-28T11:29:11.000Z,812604,1860999,3,Xal'atath's Bargain: Voidbound,Wuyuanbin,Paladin,Retribution,dps,Shadowmourne
+5,180,309489203,2,The Dawnbreaker,2024-11-28T11:29:11.000Z,812604,1860999,3,Xal'atath's Bargain: Voidbound,Tei,Death Knight,Frost,dps,Medivh
+5,180,309489203,2,The Dawnbreaker,2024-11-28T11:29:11.000Z,812604,1860999,3,Xal'atath's Bargain: Voidbound,丶绿老头,Paladin,Protection,tank,Illidan
+6,180,306949923,2,The Dawnbreaker,2024-11-13T11:34:13.000Z,925612,1860999,3,Xal'atath's Bargain: Voidbound,Zsrovo,Paladin,Protection,tank,Al'ar
+6,180,306949923,2,The Dawnbreaker,2024-11-13T11:34:13.000Z,925612,1860999,3,Xal'atath's Bargain: Voidbound,Yudeath,Death Knight,Frost,dps,Burning Blade
+6,180,306949923,2,The Dawnbreaker,2024-11-13T11:34:13.000Z,925612,1860999,3,Xal'atath's Bargain: Voidbound,小奶闯江湖,Priest,Holy,healer,Al'ar
+6,180,306949923,2,The Dawnbreaker,2024-11-13T11:34:13.000Z,925612,1860999,3,Xal'atath's Bargain: Voidbound,天才灬皓,Hunter,Beast Mastery,dps,The Great Sea
+6,180,306949923,2,The Dawnbreaker,2024-11-13T11:34:13.000Z,925612,1860999,3,Xal'atath's Bargain: Voidbound,Zipper,Death Knight,Frost,dps,Anzu
+7,180,306239889,2,The Dawnbreaker,2024-11-10T05:02:43.000Z,1001454,1860999,3,Xal'atath's Bargain: Voidbound,到爸爸这來,Death Knight,Blood,tank,Deathwing
+7,180,306239889,2,The Dawnbreaker,2024-11-10T05:02:43.000Z,1001454,1860999,3,Xal'atath's Bargain: Voidbound,苇名弦一勆,Shaman,Enhancement,dps,Deathwing
+7,180,306239889,2,The Dawnbreaker,2024-11-10T05:02:43.000Z,1001454,1860999,3,Xal'atath's Bargain: Voidbound,硫代硫酸铵,Monk,Mistweaver,healer,Echo Ridge
+7,180,306239889,2,The Dawnbreaker,2024-11-10T05:02:43.000Z,1001454,1860999,3,Xal'atath's Bargain: Voidbound,最凉卟过人芯,Shaman,Elemental,dps,Arthas
+7,180,306239889,2,The Dawnbreaker,2024-11-10T05:02:43.000Z,1001454,1860999,3,Xal'atath's Bargain: Voidbound,鲜血流光,Hunter,Beast Mastery,dps,Feathermoon
+8,180,309493018,2,The Dawnbreaker,2024-11-28T12:22:30.000Z,1057773,1860999,3,Xal'atath's Bargain: Voidbound,托马斯法爷,Mage,Fire,dps,Burning Blade
+8,180,309493018,2,The Dawnbreaker,2024-11-28T12:22:30.000Z,1057773,1860999,3,Xal'atath's Bargain: Voidbound,Wuyuanbin,Paladin,Retribution,dps,Shadowmourne
+8,180,309493018,2,The Dawnbreaker,2024-11-28T12:22:30.000Z,1057773,1860999,3,Xal'atath's Bargain: Voidbound,Bobozhang,Death Knight,Blood,tank,Burning Blade
+8,180,309493018,2,The Dawnbreaker,2024-11-28T12:22:30.000Z,1057773,1860999,3,Xal'atath's Bargain: Voidbound,胖丨哥,Hunter,Marksmanship,dps,Deathwing
+8,180,309493018,2,The Dawnbreaker,2024-11-28T12:22:30.000Z,1057773,1860999,3,Xal'atath's Bargain: Voidbound,光是神圣的,Paladin,Holy,healer,Elune
+9,179.9,306718393,2,The Dawnbreaker,2024-11-12T08:21:56.000Z,1121509,1860999,2,Xal'atath's Bargain: Voidbound,Cialloshaman,Shaman,Enhancement,dps,Burning Blade
+9,179.9,306718393,2,The Dawnbreaker,2024-11-12T08:21:56.000Z,1121509,1860999,2,Xal'atath's Bargain: Voidbound,灬術師灬,Warlock,Destruction,dps,Karazhan
+9,179.9,306718393,2,The Dawnbreaker,2024-11-12T08:21:56.000Z,1121509,1860999,2,Xal'atath's Bargain: Voidbound,灬胤灬,Priest,Holy,healer,Pandaren
+9,179.9,306718393,2,The Dawnbreaker,2024-11-12T08:21:56.000Z,1121509,1860999,2,Xal'atath's Bargain: Voidbound,詩和逺方,Paladin,Protection,tank,Crushridge
+9,179.9,306718393,2,The Dawnbreaker,2024-11-12T08:21:56.000Z,1121509,1860999,2,Xal'atath's Bargain: Voidbound,Daylami,Shaman,Enhancement,dps,Scarlet Crusade
+10,179.6,306291376,2,The Dawnbreaker,2024-11-10T12:15:42.000Z,1136023,1860999,2,Xal'atath's Bargain: Voidbound,天使中的魔鬼,Warlock,Destruction,dps,Alexstrasza
+10,179.6,306291376,2,The Dawnbreaker,2024-11-10T12:15:42.000Z,1136023,1860999,2,Xal'atath's Bargain: Voidbound,新达狗萨,Shaman,Restoration,healer,Dragonblight
+10,179.6,306291376,2,The Dawnbreaker,2024-11-10T12:15:42.000Z,1136023,1860999,2,Xal'atath's Bargain: Voidbound,Tombssq,Death Knight,Blood,tank,Anachronos
+10,179.6,306291376,2,The Dawnbreaker,2024-11-10T12:15:42.000Z,1136023,1860999,2,Xal'atath's Bargain: Voidbound,唵马呢叭咪吽,Demon Hunter,Havoc,dps,Barrens
+10,179.6,306291376,2,The Dawnbreaker,2024-11-10T12:15:42.000Z,1136023,1860999,2,Xal'atath's Bargain: Voidbound,八角桂皮,Paladin,Retribution,dps,Peak of Serenity
+11,178.7,306091974,2,The Dawnbreaker,2024-11-09T16:45:28.000Z,1178729,1860999,2,Xal'atath's Bargain: Voidbound,过去记忆,Paladin,Retribution,dps,Sutarn
+11,178.7,306091974,2,The Dawnbreaker,2024-11-09T16:45:28.000Z,1178729,1860999,2,Xal'atath's Bargain: Voidbound,虫子丶,Shaman,Enhancement,dps,Isillien
+11,178.7,306091974,2,The Dawnbreaker,2024-11-09T16:45:28.000Z,1178729,1860999,2,Xal'atath's Bargain: Voidbound,森林与诗,Priest,Discipline,healer,The Great Sea
+11,178.7,306091974,2,The Dawnbreaker,2024-11-09T16:45:28.000Z,1178729,1860999,2,Xal'atath's Bargain: Voidbound,天台灬大牛,Warrior,Fury,dps,Elune
+11,178.7,306091974,2,The Dawnbreaker,2024-11-09T16:45:28.000Z,1178729,1860999,2,Xal'atath's Bargain: Voidbound,饕餮射手座,Warrior,Protection,tank,Archimonde
+12,177.2,306314502,2,The Dawnbreaker,2024-11-10T14:39:00.000Z,1255835,1860999,2,Xal'atath's Bargain: Voidbound,冰凝城夏,Priest,Discipline,healer,Anzu
+12,177.2,306314502,2,The Dawnbreaker,2024-11-10T14:39:00.000Z,1255835,1860999,2,Xal'atath's Bargain: Voidbound,我有猫了,Demon Hunter,Havoc,dps,Al'ar
+12,177.2,306314502,2,The Dawnbreaker,2024-11-10T14:39:00.000Z,1255835,1860999,2,Xal'atath's Bargain: Voidbound,Dokidokii,Rogue,Assassination,dps,Grim Batol
+12,177.2,306314502,2,The Dawnbreaker,2024-11-10T14:39:00.000Z,1255835,1860999,2,Xal'atath's Bargain: Voidbound,哔哔姬,Paladin,Protection,tank,Anzu
+12,177.2,306314502,2,The Dawnbreaker,2024-11-10T14:39:00.000Z,1255835,1860999,2,Xal'atath's Bargain: Voidbound,无苦集灭道,Mage,Frost,dps,Doomhammer
+13,176.9,306211889,2,The Dawnbreaker,2024-11-10T02:05:54.000Z,1270510,1860999,2,Xal'atath's Bargain: Voidbound,小妈妈丶,Priest,Discipline,healer,Rhonin
+13,176.9,306211889,2,The Dawnbreaker,2024-11-10T02:05:54.000Z,1270510,1860999,2,Xal'atath's Bargain: Voidbound,丶冰火倆重天,Mage,Frost,dps,Anzu
+13,176.9,306211889,2,The Dawnbreaker,2024-11-10T02:05:54.000Z,1270510,1860999,2,Xal'atath's Bargain: Voidbound,丨鎏枫丨,Paladin,Retribution,dps,Burning Blade
+13,176.9,306211889,2,The Dawnbreaker,2024-11-10T02:05:54.000Z,1270510,1860999,2,Xal'atath's Bargain: Voidbound,皮菇痒痒德,Druid,Guardian,tank,Doomwalker
+13,176.9,306211889,2,The Dawnbreaker,2024-11-10T02:05:54.000Z,1270510,1860999,2,Xal'atath's Bargain: Voidbound,大灬熊,Hunter,Beast Mastery,dps,The Master's Glaive

@@ -1,0 +1,806 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,308.2,299810565,9,Siege of Boralus,2024-10-13T06:19:22.000Z,1343769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",岗哨图腾,Shaman,Restoration,healer,Isillien
+1,308.2,299810565,9,Siege of Boralus,2024-10-13T06:19:22.000Z,1343769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",潔世一,Mage,Arcane,dps,Isillien
+1,308.2,299810565,9,Siege of Boralus,2024-10-13T06:19:22.000Z,1343769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阔乐乐,Rogue,Assassination,dps,Silver Hand
+1,308.2,299810565,9,Siege of Boralus,2024-10-13T06:19:22.000Z,1343769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",茉莉蜜茶丶,Druid,Guardian,tank,Isillien
+1,308.2,299810565,9,Siege of Boralus,2024-10-13T06:19:22.000Z,1343769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨弑惡無殇丨,Demon Hunter,Havoc,dps,Silver Hand
+2,307.8,299827904,9,Siege of Boralus,2024-10-13T08:38:26.000Z,1361927,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",李老板小气鬼,Demon Hunter,Vengeance,tank,Silver Hand
+2,307.8,299827904,9,Siege of Boralus,2024-10-13T08:38:26.000Z,1361927,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",可乐君主,Shaman,Restoration,healer,Silver Hand
+2,307.8,299827904,9,Siege of Boralus,2024-10-13T08:38:26.000Z,1361927,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bigxxshow,Rogue,Assassination,dps,Al'ar
+2,307.8,299827904,9,Siege of Boralus,2024-10-13T08:38:26.000Z,1361927,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",荔枝小死骑,Death Knight,Frost,dps,Silver Hand
+2,307.8,299827904,9,Siege of Boralus,2024-10-13T08:38:26.000Z,1361927,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",北北是只喵,Rogue,Assassination,dps,Silver Hand
+3,307.6,299323721,9,Siege of Boralus,2024-10-11T15:26:34.000Z,1374220,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叶風,Druid,Guardian,tank,Blanchard
+3,307.6,299323721,9,Siege of Boralus,2024-10-11T15:26:34.000Z,1374220,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",自在萨,Shaman,Elemental,dps,Doomwalker
+3,307.6,299323721,9,Siege of Boralus,2024-10-11T15:26:34.000Z,1374220,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Restoration,healer,Burning Blade
+3,307.6,299323721,9,Siege of Boralus,2024-10-11T15:26:34.000Z,1374220,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",木槿离年,Hunter,Marksmanship,dps,Swiftwind
+3,307.6,299323721,9,Siege of Boralus,2024-10-11T15:26:34.000Z,1374220,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",女蒲萨,Shaman,Elemental,dps,The Master's Glaive
+4,307.2,299084146,9,Siege of Boralus,2024-10-10T14:58:22.000Z,1395483,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黄鹤章难顶了,Paladin,Retribution,dps,Grim Batol
+4,307.2,299084146,9,Siege of Boralus,2024-10-10T14:58:22.000Z,1395483,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狡猾之萨满,Shaman,Elemental,dps,Chillwind Point
+4,307.2,299084146,9,Siege of Boralus,2024-10-10T14:58:22.000Z,1395483,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",江阴狡猾男,Death Knight,Frost,dps,Chillwind Point
+4,307.2,299084146,9,Siege of Boralus,2024-10-10T14:58:22.000Z,1395483,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jesperr,Demon Hunter,Vengeance,tank,The Master's Glaive
+4,307.2,299084146,9,Siege of Boralus,2024-10-10T14:58:22.000Z,1395483,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",幽幽长歌行,Shaman,Restoration,healer,Freewind
+5,307.1,300132807,9,Siege of Boralus,2024-10-14T12:01:55.000Z,1404339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三尺软红,Warlock,Affliction,dps,The Master's Glaive
+5,307.1,300132807,9,Siege of Boralus,2024-10-14T12:01:55.000Z,1404339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哈哟哟,Paladin,Retribution,dps,Deathwing
+5,307.1,300132807,9,Siege of Boralus,2024-10-14T12:01:55.000Z,1404339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",虹色雨,Paladin,Retribution,dps,Barrens
+5,307.1,300132807,9,Siege of Boralus,2024-10-14T12:01:55.000Z,1404339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",克劳德牛牛,Monk,Brewmaster,tank,Barrens
+5,307.1,300132807,9,Siege of Boralus,2024-10-14T12:01:55.000Z,1404339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",楪丶祈,Druid,Restoration,healer,Barrens
+6,307,300321040,9,Siege of Boralus,2024-10-15T04:25:35.000Z,1408885,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜斗,Paladin,Protection,tank,Pandaren
+6,307,300321040,9,Siege of Boralus,2024-10-15T04:25:35.000Z,1408885,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",节超大魔王,Warlock,Affliction,dps,Pandaren
+6,307,300321040,9,Siege of Boralus,2024-10-15T04:25:35.000Z,1408885,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",白色奶萨,Priest,Discipline,healer,Blanchard
+6,307,300321040,9,Siege of Boralus,2024-10-15T04:25:35.000Z,1408885,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡布柒诺灬,Death Knight,Unholy,dps,Barrens
+6,307,300321040,9,Siege of Boralus,2024-10-15T04:25:35.000Z,1408885,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",美美姐的龙,Evoker,Augmentation,dps,Grim Batol
+7,306.9,299859326,9,Siege of Boralus,2024-10-13T09:49:08.000Z,1415926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小老虎丨丨,Death Knight,Frost,dps,Silver Hand
+7,306.9,299859326,9,Siege of Boralus,2024-10-13T09:49:08.000Z,1415926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月朔宝宝,Mage,Fire,dps,Al'ar
+7,306.9,299859326,9,Siege of Boralus,2024-10-13T09:49:08.000Z,1415926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蔻德真的卡了,Shaman,Restoration,healer,The Great Sea
+7,306.9,299859326,9,Siege of Boralus,2024-10-13T09:49:08.000Z,1415926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Krislight,Evoker,Augmentation,dps,The Great Sea
+7,306.9,299859326,9,Siege of Boralus,2024-10-13T09:49:08.000Z,1415926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",知防骑,Paladin,Protection,tank,Anzu
+8,306.5,299046976,9,Siege of Boralus,2024-10-10T09:35:41.000Z,1435124,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",看一看远方,Druid,Guardian,tank,The Master's Glaive
+8,306.5,299046976,9,Siege of Boralus,2024-10-10T09:35:41.000Z,1435124,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",林青霞丶,Mage,Frost,dps,Shadowmourne
+8,306.5,299046976,9,Siege of Boralus,2024-10-10T09:35:41.000Z,1435124,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",游荡的长颈鹿,Shaman,Restoration,healer,Al'ar
+8,306.5,299046976,9,Siege of Boralus,2024-10-10T09:35:41.000Z,1435124,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",炎王的孤岛,Death Knight,Frost,dps,The Master's Glaive
+8,306.5,299046976,9,Siege of Boralus,2024-10-10T09:35:41.000Z,1435124,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",多重龙破斩,Mage,Frost,dps,Silver Hand
+9,306.5,299291015,9,Siege of Boralus,2024-10-11T12:25:41.000Z,1438024,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",佬鲁鲁,Death Knight,Frost,dps,Silver Hand
+9,306.5,299291015,9,Siege of Boralus,2024-10-11T12:25:41.000Z,1438024,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",是水饺呀,Hunter,Survival,dps,Valley of Kings
+9,306.5,299291015,9,Siege of Boralus,2024-10-11T12:25:41.000Z,1438024,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",假装在喝水,Paladin,Retribution,dps,Silver Hand
+9,306.5,299291015,9,Siege of Boralus,2024-10-11T12:25:41.000Z,1438024,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",麻友酱,Shaman,Restoration,healer,Valley of Kings
+9,306.5,299291015,9,Siege of Boralus,2024-10-11T12:25:41.000Z,1438024,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小小绿毛怪,Demon Hunter,Vengeance,tank,Frostmourne
+10,306.3,299556016,9,Siege of Boralus,2024-10-12T11:35:22.000Z,1444248,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",寒宇晨,Paladin,Protection,tank,Molten Core
+10,306.3,299556016,9,Siege of Boralus,2024-10-12T11:35:22.000Z,1444248,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鲜榨小白兔,Shaman,Restoration,healer,Holy Chanter
+10,306.3,299556016,9,Siege of Boralus,2024-10-12T11:35:22.000Z,1444248,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶白心月,Warrior,Fury,dps,Echo Ridge
+10,306.3,299556016,9,Siege of Boralus,2024-10-12T11:35:22.000Z,1444248,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狐狐震爆,Priest,Shadow,dps,Echo Ridge
+10,306.3,299556016,9,Siege of Boralus,2024-10-12T11:35:22.000Z,1444248,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拉帝亚斯,Evoker,Augmentation,dps,Frostmourne
+11,306.3,300144543,9,Siege of Boralus,2024-10-14T13:37:20.000Z,1445884,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Nikox,Demon Hunter,Vengeance,tank,Al'ar
+11,306.3,300144543,9,Siege of Boralus,2024-10-14T13:37:20.000Z,1445884,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",太子悦神,Monk,Mistweaver,healer,Al'ar
+11,306.3,300144543,9,Siege of Boralus,2024-10-14T13:37:20.000Z,1445884,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶南栀倾寒,Shaman,Elemental,dps,Al'ar
+11,306.3,300144543,9,Siege of Boralus,2024-10-14T13:37:20.000Z,1445884,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桌椅板凳,Death Knight,Frost,dps,Al'ar
+11,306.3,300144543,9,Siege of Boralus,2024-10-14T13:37:20.000Z,1445884,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小橘猫猫,Paladin,Retribution,dps,Al'ar
+12,306.1,300296496,9,Siege of Boralus,2024-10-11T16:51:36.000Z,1460198,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",劍丨圣,Warrior,Fury,dps,Al'ar
+12,306.1,300296496,9,Siege of Boralus,2024-10-11T16:51:36.000Z,1460198,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jeniffer,Druid,Guardian,tank,Eldre'Thalas
+12,306.1,300296496,9,Siege of Boralus,2024-10-11T16:51:36.000Z,1460198,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",增强,Shaman,Restoration,healer,Eldre'Thalas
+12,306.1,300296496,9,Siege of Boralus,2024-10-11T16:51:36.000Z,1460198,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ronlymonk,Monk,Windwalker,dps,Eldre'Thalas
+12,306.1,300296496,9,Siege of Boralus,2024-10-11T16:51:36.000Z,1460198,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暴飞龍,Rogue,Assassination,dps,Silver Hand
+13,306,300018017,9,Siege of Boralus,2024-10-13T20:03:06.000Z,1461015,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",东澈,Monk,Mistweaver,healer,Echo Ridge
+13,306,300018017,9,Siege of Boralus,2024-10-13T20:03:06.000Z,1461015,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶乃琳,Paladin,Retribution,dps,Deathwing
+13,306,300018017,9,Siege of Boralus,2024-10-13T20:03:06.000Z,1461015,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玩一下没问题,Death Knight,Frost,dps,Anzu
+13,306,300018017,9,Siege of Boralus,2024-10-13T20:03:06.000Z,1461015,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Linyoo,Shaman,Elemental,dps,Rhonin
+13,306,300018017,9,Siege of Boralus,2024-10-13T20:03:06.000Z,1461015,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嗷呜嗷咕叽丶,Warrior,Protection,tank,Rhonin
+14,305.6,300369836,9,Siege of Boralus,2024-10-15T12:35:53.000Z,1483111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橘色噬元兽,Paladin,Retribution,dps,Shadowmourne
+14,305.6,300369836,9,Siege of Boralus,2024-10-15T12:35:53.000Z,1483111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Daddyshome,Druid,Guardian,tank,Isillien
+14,305.6,300369836,9,Siege of Boralus,2024-10-15T12:35:53.000Z,1483111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",糖醋皮蛋丶,Death Knight,Frost,dps,Al'ar
+14,305.6,300369836,9,Siege of Boralus,2024-10-15T12:35:53.000Z,1483111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",努力鸭,Shaman,Restoration,healer,Isillien
+14,305.6,300369836,9,Siege of Boralus,2024-10-15T12:35:53.000Z,1483111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶万古如长夜,Paladin,Retribution,dps,Isillien
+15,305.6,299233688,9,Siege of Boralus,2024-10-11T03:50:48.000Z,1488209,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小索尔捏,Druid,Guardian,tank,Anzu
+15,305.6,299233688,9,Siege of Boralus,2024-10-11T03:50:48.000Z,1488209,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶小蛮牛,Paladin,Retribution,dps,Skettis
+15,305.6,299233688,9,Siege of Boralus,2024-10-11T03:50:48.000Z,1488209,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",不会玩迪凯,Death Knight,Frost,dps,Eldre'Thalas
+15,305.6,299233688,9,Siege of Boralus,2024-10-11T03:50:48.000Z,1488209,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",且听风雷,Shaman,Elemental,dps,Anzu
+15,305.6,299233688,9,Siege of Boralus,2024-10-11T03:50:48.000Z,1488209,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鸡腿的冷笑,Shaman,Restoration,healer,Dreadmist Peak
+16,305.5,299073376,9,Siege of Boralus,2024-10-10T13:31:32.000Z,1489804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Puddiin,Evoker,Augmentation,dps,Doomwalker
+16,305.5,299073376,9,Siege of Boralus,2024-10-10T13:31:32.000Z,1489804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冥火流星,Death Knight,Frost,dps,Doomwalker
+16,305.5,299073376,9,Siege of Boralus,2024-10-10T13:31:32.000Z,1489804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Alvint,Shaman,Restoration,healer,Doomwalker
+16,305.5,299073376,9,Siege of Boralus,2024-10-10T13:31:32.000Z,1489804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",怪米日眼,Shaman,Elemental,dps,Burning Blade
+16,305.5,299073376,9,Siege of Boralus,2024-10-10T13:31:32.000Z,1489804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",届不到的爱恋,Druid,Guardian,tank,Deathwing
+17,305,299300749,9,Siege of Boralus,2024-10-11T13:49:50.000Z,1519419,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+17,305,299300749,9,Siege of Boralus,2024-10-11T13:49:50.000Z,1519419,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狸追酱丶,Shaman,Restoration,healer,Chillwind Point
+17,305,299300749,9,Siege of Boralus,2024-10-11T13:49:50.000Z,1519419,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小红手寒灀,Mage,Frost,dps,Chillwind Point
+17,305,299300749,9,Siege of Boralus,2024-10-11T13:49:50.000Z,1519419,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卡布達,Evoker,Augmentation,dps,Chillwind Point
+17,305,299300749,9,Siege of Boralus,2024-10-11T13:49:50.000Z,1519419,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",不玩奶德,Druid,Guardian,tank,Chillwind Point
+18,304.4,299326762,9,Siege of Boralus,2024-10-11T15:53:24.000Z,1554368,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乄坤乄,Death Knight,Unholy,dps,Deathwing
+18,304.4,299326762,9,Siege of Boralus,2024-10-11T15:53:24.000Z,1554368,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",飘雨若寒,Mage,Fire,dps,Silverpine Forest
+18,304.4,299326762,9,Siege of Boralus,2024-10-11T15:53:24.000Z,1554368,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",到霸霸这來,Warrior,Protection,tank,Deathwing
+18,304.4,299326762,9,Siege of Boralus,2024-10-11T15:53:24.000Z,1554368,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",开心的萨满,Shaman,Restoration,healer,Silver Hand
+18,304.4,299326762,9,Siege of Boralus,2024-10-11T15:53:24.000Z,1554368,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",氺生的凛,Death Knight,Frost,dps,Deathwing
+19,304.3,300296483,9,Siege of Boralus,2024-10-11T15:50:26.000Z,1554804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jeniffer,Druid,Guardian,tank,Eldre'Thalas
+19,304.3,300296483,9,Siege of Boralus,2024-10-11T15:50:26.000Z,1554804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",增强,Shaman,Restoration,healer,Eldre'Thalas
+19,304.3,300296483,9,Siege of Boralus,2024-10-11T15:50:26.000Z,1554804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拉库,Paladin,Retribution,dps,Al'ar
+19,304.3,300296483,9,Siege of Boralus,2024-10-11T15:50:26.000Z,1554804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ronlymonk,Monk,Windwalker,dps,Eldre'Thalas
+19,304.3,300296483,9,Siege of Boralus,2024-10-11T15:50:26.000Z,1554804,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暴飞龍,Rogue,Assassination,dps,Silver Hand
+20,304.3,300339910,9,Siege of Boralus,2024-10-15T07:10:07.000Z,1556180,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+20,304.3,300339910,9,Siege of Boralus,2024-10-15T07:10:07.000Z,1556180,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶咕咾肉,Druid,Restoration,healer,Burning Blade
+20,304.3,300339910,9,Siege of Boralus,2024-10-15T07:10:07.000Z,1556180,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",捷卡林娜,Demon Hunter,Vengeance,tank,The Great Sea
+20,304.3,300339910,9,Siege of Boralus,2024-10-15T07:10:07.000Z,1556180,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",工城良田丷,Rogue,Assassination,dps,Shadowmourne
+20,304.3,300339910,9,Siege of Boralus,2024-10-15T07:10:07.000Z,1556180,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伊利胆,Demon Hunter,Havoc,dps,Wing of the Whelping
+21,304.2,299099852,9,Siege of Boralus,2024-10-10T16:39:15.000Z,1564845,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Valanthe,Hunter,Marksmanship,dps,Grim Batol
+21,304.2,299099852,9,Siege of Boralus,2024-10-10T16:39:15.000Z,1564845,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",步听话,Priest,Holy,healer,Burning Blade
+21,304.2,299099852,9,Siege of Boralus,2024-10-10T16:39:15.000Z,1564845,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",那个男人哇,Death Knight,Blood,tank,Scarlet Crusade
+21,304.2,299099852,9,Siege of Boralus,2024-10-10T16:39:15.000Z,1564845,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鬼王丶,Warlock,Demonology,dps,The Great Sea
+21,304.2,299099852,9,Siege of Boralus,2024-10-10T16:39:15.000Z,1564845,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",犬玊寡言,Evoker,Augmentation,dps,Chillwind Point
+22,304,299332808,9,Siege of Boralus,2024-10-11T16:11:51.000Z,1573371,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Io,Warrior,Protection,tank,Frostmane
+22,304,299332808,9,Siege of Boralus,2024-10-11T16:11:51.000Z,1573371,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶奶助我,Shaman,Elemental,dps,Frostmane
+22,304,299332808,9,Siege of Boralus,2024-10-11T16:11:51.000Z,1573371,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",粉色好友,Paladin,Retribution,dps,Frostmane
+22,304,299332808,9,Siege of Boralus,2024-10-11T16:11:51.000Z,1573371,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",妈惹法克侠,Druid,Restoration,healer,Al'ar
+22,304,299332808,9,Siege of Boralus,2024-10-11T16:11:51.000Z,1573371,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嗨豆丶法,Mage,Frost,dps,Frostmane
+23,303.9,299030310,9,Siege of Boralus,2024-10-10T06:09:00.000Z,1578730,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖圈圏,Shaman,Restoration,healer,Al'ar
+23,303.9,299030310,9,Siege of Boralus,2024-10-10T06:09:00.000Z,1578730,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的裂蹄牛,Warrior,Protection,tank,Silver Hand
+23,303.9,299030310,9,Siege of Boralus,2024-10-10T06:09:00.000Z,1578730,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨風行者丨,Hunter,Marksmanship,dps,Shadowmoon
+23,303.9,299030310,9,Siege of Boralus,2024-10-10T06:09:00.000Z,1578730,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jinfeifann,Death Knight,Frost,dps,Holy Chanter
+23,303.9,299030310,9,Siege of Boralus,2024-10-10T06:09:00.000Z,1578730,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛奶养的鱼,Death Knight,Frost,dps,Al'ar
+24,303.7,299836741,9,Siege of Boralus,2024-10-13T09:48:55.000Z,1588468,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Fkinganimal,Druid,Feral,dps,Grim Batol
+24,303.7,299836741,9,Siege of Boralus,2024-10-13T09:48:55.000Z,1588468,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",諸法空相,Monk,Mistweaver,healer,Grim Batol
+24,303.7,299836741,9,Siege of Boralus,2024-10-13T09:48:55.000Z,1588468,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",怠惰的苹果,Monk,Brewmaster,tank,Grim Batol
+24,303.7,299836741,9,Siege of Boralus,2024-10-13T09:48:55.000Z,1588468,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉澜,Priest,Shadow,dps,Grim Batol
+24,303.7,299836741,9,Siege of Boralus,2024-10-13T09:48:55.000Z,1588468,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",付丧堂,Death Knight,Unholy,dps,Grim Batol
+25,303.6,300340190,9,Siege of Boralus,2024-10-15T07:14:27.000Z,1595926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",火柴法,Mage,Frost,dps,Eldre'Thalas
+25,303.6,300340190,9,Siege of Boralus,2024-10-15T07:14:27.000Z,1595926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",烟火年年,Paladin,Protection,tank,Eldre'Thalas
+25,303.6,300340190,9,Siege of Boralus,2024-10-15T07:14:27.000Z,1595926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶雪仗,Shaman,Restoration,healer,Eldre'Thalas
+25,303.6,300340190,9,Siege of Boralus,2024-10-15T07:14:27.000Z,1595926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我星期二没空,Death Knight,Frost,dps,Silver Hand
+25,303.6,300340190,9,Siege of Boralus,2024-10-15T07:14:27.000Z,1595926,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",白的一比灬,Paladin,Retribution,dps,Grim Batol
+26,303.3,299047997,9,Siege of Boralus,2024-10-10T09:54:17.000Z,1609874,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",恶魔丶魂,Warlock,Destruction,dps,Eldre'Thalas
+26,303.3,299047997,9,Siege of Boralus,2024-10-10T09:54:17.000Z,1609874,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丷艾利桑德,Paladin,Retribution,dps,Eldre'Thalas
+26,303.3,299047997,9,Siege of Boralus,2024-10-10T09:54:17.000Z,1609874,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kkb,Demon Hunter,Havoc,dps,Eldre'Thalas
+26,303.3,299047997,9,Siege of Boralus,2024-10-10T09:54:17.000Z,1609874,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨阿泰啊啊丨,Paladin,Protection,tank,Eldre'Thalas
+26,303.3,299047997,9,Siege of Boralus,2024-10-10T09:54:17.000Z,1609874,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰绿茶灬,Shaman,Restoration,healer,The Forgotten Coast
+27,303.3,300404425,9,Siege of Boralus,2024-10-15T16:00:44.000Z,1612255,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",希露菲叶特,Warrior,Protection,tank,Frostmourne
+27,303.3,300404425,9,Siege of Boralus,2024-10-15T16:00:44.000Z,1612255,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",久违秋雨,Warlock,Destruction,dps,The Master's Glaive
+27,303.3,300404425,9,Siege of Boralus,2024-10-15T16:00:44.000Z,1612255,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",总有一天回来,Mage,Frost,dps,Valley of Kings
+27,303.3,300404425,9,Siege of Boralus,2024-10-15T16:00:44.000Z,1612255,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨七二七丿,Mage,Frost,dps,Anzu
+27,303.3,300404425,9,Siege of Boralus,2024-10-15T16:00:44.000Z,1612255,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Cogoo,Shaman,Restoration,healer,Eldre'Thalas
+28,302.9,299074718,9,Siege of Boralus,2024-10-10T14:51:12.000Z,1635104,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",電竞梁朝伟,Demon Hunter,Vengeance,tank,Alterac Mountains
+28,302.9,299074718,9,Siege of Boralus,2024-10-10T14:51:12.000Z,1635104,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灬小地瓜灬,Mage,Frost,dps,Silver Hand
+28,302.9,299074718,9,Siege of Boralus,2024-10-10T14:51:12.000Z,1635104,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",网红镇,Priest,Discipline,healer,Silver Hand
+28,302.9,299074718,9,Siege of Boralus,2024-10-10T14:51:12.000Z,1635104,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银叶纷飞丶,Warlock,Destruction,dps,Rhonin
+28,302.9,299074718,9,Siege of Boralus,2024-10-10T14:51:12.000Z,1635104,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鱼语欲遇雨,Warlock,Destruction,dps,The Master's Glaive
+29,302.7,299511078,9,Siege of Boralus,2024-10-12T07:28:04.000Z,1648016,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",追灬龙,Warrior,Fury,dps,Frostmane
+29,302.7,299511078,9,Siege of Boralus,2024-10-12T07:28:04.000Z,1648016,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Io,Warrior,Protection,tank,Frostmane
+29,302.7,299511078,9,Siege of Boralus,2024-10-12T07:28:04.000Z,1648016,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶奶助我,Shaman,Restoration,healer,Frostmane
+29,302.7,299511078,9,Siege of Boralus,2024-10-12T07:28:04.000Z,1648016,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",嗨豆丶法,Mage,Frost,dps,Frostmane
+29,302.7,299511078,9,Siege of Boralus,2024-10-12T07:28:04.000Z,1648016,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",九段天亞,Paladin,Retribution,dps,Frostmane
+30,302.7,299088806,9,Siege of Boralus,2024-10-10T15:19:37.000Z,1648238,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萌丶萌咕,Druid,Guardian,tank,Anzu
+30,302.7,299088806,9,Siege of Boralus,2024-10-10T15:19:37.000Z,1648238,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",药不狐了,Monk,Mistweaver,healer,Rhonin
+30,302.7,299088806,9,Siege of Boralus,2024-10-10T15:19:37.000Z,1648238,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",花型圣骑,Paladin,Retribution,dps,Silver Hand
+30,302.7,299088806,9,Siege of Boralus,2024-10-10T15:19:37.000Z,1648238,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",海鸟,Evoker,Devastation,dps,Rhonin
+30,302.7,299088806,9,Siege of Boralus,2024-10-10T15:19:37.000Z,1648238,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Oopszxx,Rogue,Assassination,dps,Anzu
+31,302.6,302276494,9,Siege of Boralus,2024-10-15T14:19:22.000Z,1652662,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银月之傲,Warlock,Destruction,dps,Hakkar
+31,302.6,302276494,9,Siege of Boralus,2024-10-15T14:19:22.000Z,1652662,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨染流年,Shaman,Restoration,healer,Eldre'Thalas
+31,302.6,302276494,9,Siege of Boralus,2024-10-15T14:19:22.000Z,1652662,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三口蛋黄酥,Death Knight,Frost,dps,Al'ar
+31,302.6,302276494,9,Siege of Boralus,2024-10-15T14:19:22.000Z,1652662,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌拉的贼,Rogue,Assassination,dps,Anzu
+31,302.6,302276494,9,Siege of Boralus,2024-10-15T14:19:22.000Z,1652662,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+32,302,299100240,9,Siege of Boralus,2024-10-10T16:44:33.000Z,1682007,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",山之外谷之遥,Shaman,Restoration,healer,Dark Iron
+32,302,299100240,9,Siege of Boralus,2024-10-10T16:44:33.000Z,1682007,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lcsalty,Mage,Frost,dps,Echo Ridge
+32,302,299100240,9,Siege of Boralus,2024-10-10T16:44:33.000Z,1682007,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Nigihayami,Evoker,Devastation,dps,Deathwing
+32,302,299100240,9,Siege of Boralus,2024-10-10T16:44:33.000Z,1682007,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ninodk,Death Knight,Frost,dps,Rhonin
+32,302,299100240,9,Siege of Boralus,2024-10-10T16:44:33.000Z,1682007,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+33,302,299800189,9,Siege of Boralus,2024-10-13T05:10:26.000Z,1684488,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",余温,Warlock,Destruction,dps,Shadowmoon
+33,302,299800189,9,Siege of Boralus,2024-10-13T05:10:26.000Z,1684488,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",总有一天回来,Mage,Frost,dps,Valley of Kings
+33,302,299800189,9,Siege of Boralus,2024-10-13T05:10:26.000Z,1684488,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶七二七丶,Shaman,Restoration,healer,Anzu
+33,302,299800189,9,Siege of Boralus,2024-10-13T05:10:26.000Z,1684488,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Takiyagenji,Paladin,Retribution,dps,The Master's Glaive
+33,302,299800189,9,Siege of Boralus,2024-10-13T05:10:26.000Z,1684488,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",木瓜熊德,Druid,Guardian,tank,The Great Sea
+34,301.9,299536102,9,Siege of Boralus,2024-10-12T09:12:24.000Z,1689559,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小蝉,Paladin,Retribution,dps,The Golden Plains
+34,301.9,299536102,9,Siege of Boralus,2024-10-12T09:12:24.000Z,1689559,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绿毛虫,Warrior,Fury,dps,Rexxar
+34,301.9,299536102,9,Siege of Boralus,2024-10-12T09:12:24.000Z,1689559,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",做贼肾虚丶,Rogue,Assassination,dps,Echo Ridge
+34,301.9,299536102,9,Siege of Boralus,2024-10-12T09:12:24.000Z,1689559,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",顶级灬大宗师,Monk,Mistweaver,healer,Ring of Trials
+34,301.9,299536102,9,Siege of Boralus,2024-10-12T09:12:24.000Z,1689559,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",沉默符文,Demon Hunter,Vengeance,tank,Anzu
+35,301.7,299538888,9,Siege of Boralus,2024-10-12T09:53:47.000Z,1701676,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",岸边的咸鱼丶,Paladin,Retribution,dps,Kel'Thuzad
+35,301.7,299538888,9,Siege of Boralus,2024-10-12T09:53:47.000Z,1701676,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Agathaumas,Warlock,Destruction,dps,Rhonin
+35,301.7,299538888,9,Siege of Boralus,2024-10-12T09:53:47.000Z,1701676,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雨果丶光刃,Paladin,Retribution,dps,The Golden Plains
+35,301.7,299538888,9,Siege of Boralus,2024-10-12T09:53:47.000Z,1701676,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",思念丶昊,Shaman,Restoration,healer,Brutallus
+35,301.7,299538888,9,Siege of Boralus,2024-10-12T09:53:47.000Z,1701676,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",魔血染青天,Death Knight,Blood,tank,Sutarn
+36,301.6,299118272,9,Siege of Boralus,2024-10-10T19:02:22.000Z,1708148,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜永恒,Paladin,Retribution,dps,The Great Sea
+36,301.6,299118272,9,Siege of Boralus,2024-10-10T19:02:22.000Z,1708148,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你能玩治疗吗,Shaman,Restoration,healer,The Great Sea
+36,301.6,299118272,9,Siege of Boralus,2024-10-10T19:02:22.000Z,1708148,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Minasama,Warrior,Protection,tank,The Great Sea
+36,301.6,299118272,9,Siege of Boralus,2024-10-10T19:02:22.000Z,1708148,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你能救救我吗,Death Knight,Unholy,dps,The Great Sea
+36,301.6,299118272,9,Siege of Boralus,2024-10-10T19:02:22.000Z,1708148,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小疯峰,Paladin,Retribution,dps,Deathwing
+37,301.3,300596725,9,Siege of Boralus,2024-10-16T10:52:32.000Z,1722957,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Pg,Warrior,Protection,tank,Anvilmar
+37,301.3,300596725,9,Siege of Boralus,2024-10-16T10:52:32.000Z,1722957,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kenniss,Shaman,Restoration,healer,Al'ar
+37,301.3,300596725,9,Siege of Boralus,2024-10-16T10:52:32.000Z,1722957,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这我奶不上,Paladin,Retribution,dps,Burning Blade
+37,301.3,300596725,9,Siege of Boralus,2024-10-16T10:52:32.000Z,1722957,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",喷火的神灵,Rogue,Assassination,dps,Al'ar
+37,301.3,300596725,9,Siege of Boralus,2024-10-16T10:52:32.000Z,1722957,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胧月雪华,Mage,Frost,dps,Swiftwind
+38,301.3,299052541,9,Siege of Boralus,2024-10-10T10:23:03.000Z,1724508,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰逝风尘,Warrior,Fury,dps,Sandfury
+38,301.3,299052541,9,Siege of Boralus,2024-10-10T10:23:03.000Z,1724508,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",风刑,Shaman,Elemental,dps,Frostmourne
+38,301.3,299052541,9,Siege of Boralus,2024-10-10T10:23:03.000Z,1724508,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小饭团丶,Priest,Discipline,healer,Chillwind Point
+38,301.3,299052541,9,Siege of Boralus,2024-10-10T10:23:03.000Z,1724508,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",翡翠林地头牌,Druid,Balance,dps,Isillien
+38,301.3,299052541,9,Siege of Boralus,2024-10-10T10:23:03.000Z,1724508,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哈雷超人,Demon Hunter,Vengeance,tank,Chillwind Point
+39,301.2,300185760,9,Siege of Boralus,2024-10-14T17:24:45.000Z,1728741,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",振翅他不香吗,Druid,Balance,dps,The Master's Glaive
+39,301.2,300185760,9,Siege of Boralus,2024-10-14T17:24:45.000Z,1728741,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",不要命的喵,Evoker,Preservation,healer,Burning Blade
+39,301.2,300185760,9,Siege of Boralus,2024-10-14T17:24:45.000Z,1728741,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",浅草寺小狮子,Shaman,Elemental,dps,The Master's Glaive
+39,301.2,300185760,9,Siege of Boralus,2024-10-14T17:24:45.000Z,1728741,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",等下课钟声响,Death Knight,Blood,tank,The Master's Glaive
+39,301.2,300185760,9,Siege of Boralus,2024-10-14T17:24:45.000Z,1728741,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",超度灬邪恶,Paladin,Retribution,dps,Anachronos
+40,301.1,299247742,9,Siege of Boralus,2024-10-11T05:44:43.000Z,1731366,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",不想名字了丶,Druid,Guardian,tank,Isillien
+40,301.1,299247742,9,Siege of Boralus,2024-10-11T05:44:43.000Z,1731366,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",红牛的骑士,Paladin,Retribution,dps,Burning Blade
+40,301.1,299247742,9,Siege of Boralus,2024-10-11T05:44:43.000Z,1731366,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拔刀为了谁,Paladin,Holy,healer,Karazhan
+40,301.1,299247742,9,Siege of Boralus,2024-10-11T05:44:43.000Z,1731366,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三花蛋奶丶,Mage,Fire,dps,Silver Hand
+40,301.1,299247742,9,Siege of Boralus,2024-10-11T05:44:43.000Z,1731366,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",莉珊德拉,Paladin,Retribution,dps,Rhonin
+41,301,300311272,9,Siege of Boralus,2024-10-15T03:18:25.000Z,1740512,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Asbeel,Demon Hunter,Vengeance,tank,Silver Hand
+41,301,300311272,9,Siege of Boralus,2024-10-15T03:18:25.000Z,1740512,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",喔舍乐,Shaman,Restoration,healer,Moonglade
+41,301,300311272,9,Siege of Boralus,2024-10-15T03:18:25.000Z,1740512,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玩术爷玩的,Warlock,Destruction,dps,Silver Hand
+41,301,300311272,9,Siege of Boralus,2024-10-15T03:18:25.000Z,1740512,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨丶力挽狂澜,Paladin,Retribution,dps,Moonglade
+41,301,300311272,9,Siege of Boralus,2024-10-15T03:18:25.000Z,1740512,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冷风吹过,Mage,Frost,dps,Silver Hand
+42,300.2,304964577,9,Siege of Boralus,2024-10-12T03:05:40.000Z,1784959,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雨落在克卜勒,Priest,Discipline,healer,Al'ar
+42,300.2,304964577,9,Siege of Boralus,2024-10-12T03:05:40.000Z,1784959,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Burningwind,Evoker,Devastation,dps,Silver Hand
+42,300.2,304964577,9,Siege of Boralus,2024-10-12T03:05:40.000Z,1784959,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕尼鸡哇,Druid,Guardian,tank,Doomwalker
+42,300.2,304964577,9,Siege of Boralus,2024-10-12T03:05:40.000Z,1784959,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",燕语兮扬,Paladin,Retribution,dps,Deathwing
+42,300.2,304964577,9,Siege of Boralus,2024-10-12T03:05:40.000Z,1784959,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黑妞真腻害,Death Knight,Frost,dps,Al'ar
+43,300.1,299576730,9,Siege of Boralus,2024-10-12T15:17:41.000Z,1790299,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",壶出乱目,Shaman,Restoration,healer,Chillwind Point
+43,300.1,299576730,9,Siege of Boralus,2024-10-12T15:17:41.000Z,1790299,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",干瘪牛牛,Rogue,Outlaw,dps,Chillwind Point
+43,300.1,299576730,9,Siege of Boralus,2024-10-12T15:17:41.000Z,1790299,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",刻板行为,Paladin,Retribution,dps,Chillwind Point
+43,300.1,299576730,9,Siege of Boralus,2024-10-12T15:17:41.000Z,1790299,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大熊喵,Warrior,Protection,tank,Chillwind Point
+43,300.1,299576730,9,Siege of Boralus,2024-10-12T15:17:41.000Z,1790299,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",尛煜煜,Death Knight,Frost,dps,Chillwind Point
+44,299.9,299816888,9,Siege of Boralus,2024-10-13T07:09:48.000Z,1800118,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小叔叔,Monk,Mistweaver,healer,The Underbog
+44,299.9,299816888,9,Siege of Boralus,2024-10-13T07:09:48.000Z,1800118,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Vegetaiv,Paladin,Retribution,dps,Blanchard
+44,299.9,299816888,9,Siege of Boralus,2024-10-13T07:09:48.000Z,1800118,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三井亮晶晶,Shaman,Elemental,dps,Blanchard
+44,299.9,299816888,9,Siege of Boralus,2024-10-13T07:09:48.000Z,1800118,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小谢不会谢,Paladin,Protection,tank,Isillien
+44,299.9,299816888,9,Siege of Boralus,2024-10-13T07:09:48.000Z,1800118,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scheiren,Evoker,Augmentation,dps,Isillien
+45,299.5,300092164,9,Siege of Boralus,2024-10-14T05:09:52.000Z,1824493,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",王狮傅丶,Druid,Guardian,tank,The Master's Glaive
+45,299.5,300092164,9,Siege of Boralus,2024-10-14T05:09:52.000Z,1824493,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",術师傅丶,Warlock,Affliction,dps,Al'ar
+45,299.5,300092164,9,Siege of Boralus,2024-10-14T05:09:52.000Z,1824493,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",江牛儿,Hunter,Marksmanship,dps,The Master's Glaive
+45,299.5,300092164,9,Siege of Boralus,2024-10-14T05:09:52.000Z,1824493,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Cncm,Shaman,Restoration,healer,Pandaren
+45,299.5,300092164,9,Siege of Boralus,2024-10-14T05:09:52.000Z,1824493,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",忆秋,Death Knight,Frost,dps,Hectae
+46,299.4,299071317,9,Siege of Boralus,2024-10-10T13:12:04.000Z,1829740,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",紫鸢尾丶,Mage,Fire,dps,Deathwing
+46,299.4,299071317,9,Siege of Boralus,2024-10-10T13:12:04.000Z,1829740,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕叽咕咚,Shaman,Restoration,healer,Deathwing
+46,299.4,299071317,9,Siege of Boralus,2024-10-10T13:12:04.000Z,1829740,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",忧郁可乐鸡,Death Knight,Frost,dps,Deathwing
+46,299.4,299071317,9,Siege of Boralus,2024-10-10T13:12:04.000Z,1829740,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橙橙丶战,Warrior,Protection,tank,Hectae
+46,299.4,299071317,9,Siege of Boralus,2024-10-10T13:12:04.000Z,1829740,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",开心超雄,Rogue,Assassination,dps,Deathwing
+47,299.2,299845803,9,Siege of Boralus,2024-10-13T10:40:30.000Z,1838951,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天神七号,Priest,Discipline,healer,Nozdormu
+47,299.2,299845803,9,Siege of Boralus,2024-10-13T10:40:30.000Z,1838951,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛二牛丶佛丁,Paladin,Retribution,dps,Rhonin
+47,299.2,299845803,9,Siege of Boralus,2024-10-13T10:40:30.000Z,1838951,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+47,299.2,299845803,9,Siege of Boralus,2024-10-13T10:40:30.000Z,1838951,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",断腿的阿昆达,Death Knight,Frost,dps,Shadowmourne
+47,299.2,299845803,9,Siege of Boralus,2024-10-13T10:40:30.000Z,1838951,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Swagss,Warlock,Destruction,dps,Rhonin
+48,299.2,299065620,9,Siege of Boralus,2024-10-10T12:34:06.000Z,1840833,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Okawalil,Evoker,Augmentation,dps,Al'ar
+48,299.2,299065620,9,Siege of Boralus,2024-10-10T12:34:06.000Z,1840833,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夏詩,Shaman,Restoration,healer,Chillwind Point
+48,299.2,299065620,9,Siege of Boralus,2024-10-10T12:34:06.000Z,1840833,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绵羊菜菜,Shaman,Elemental,dps,Dark Iron
+48,299.2,299065620,9,Siege of Boralus,2024-10-10T12:34:06.000Z,1840833,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Killoposz,Mage,Fire,dps,Rhonin
+48,299.2,299065620,9,Siege of Boralus,2024-10-10T12:34:06.000Z,1840833,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蝎子菜菜,Warrior,Protection,tank,Burning Blade
+49,298.7,300379047,9,Siege of Boralus,2024-10-15T14:17:51.000Z,1867311,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",拳王月灼,Monk,Brewmaster,tank,Burning Blade
+49,298.7,300379047,9,Siege of Boralus,2024-10-15T14:17:51.000Z,1867311,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狂野的大只佬,Druid,Feral,dps,Isillien
+49,298.7,300379047,9,Siege of Boralus,2024-10-15T14:17:51.000Z,1867311,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",做做任务,Monk,Windwalker,dps,Rhonin
+49,298.7,300379047,9,Siege of Boralus,2024-10-15T14:17:51.000Z,1867311,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",口袋月灼,Druid,Restoration,healer,Burning Blade
+49,298.7,300379047,9,Siege of Boralus,2024-10-15T14:17:51.000Z,1867311,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",妙蛙種子,Rogue,Outlaw,dps,Rhonin
+50,298.4,299855833,9,Siege of Boralus,2024-10-13T11:38:08.000Z,1881643,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ninodk,Death Knight,Frost,dps,Rhonin
+50,298.4,299855833,9,Siege of Boralus,2024-10-13T11:38:08.000Z,1881643,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+50,298.4,299855833,9,Siege of Boralus,2024-10-13T11:38:08.000Z,1881643,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大领主鑫,Paladin,Retribution,dps,Silver Hand
+50,298.4,299855833,9,Siege of Boralus,2024-10-13T11:38:08.000Z,1881643,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",猫熊小飒,Shaman,Restoration,healer,Molten Core
+50,298.4,299855833,9,Siege of Boralus,2024-10-13T11:38:08.000Z,1881643,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",安妮瓦纳斯,Mage,Frost,dps,Anzu
+51,298,299607726,9,Siege of Boralus,2024-10-12T16:13:35.000Z,1906609,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂丶利刃,Demon Hunter,Havoc,dps,Chillwind Point
+51,298,299607726,9,Siege of Boralus,2024-10-12T16:13:35.000Z,1906609,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狸追酱丶,Shaman,Restoration,healer,Chillwind Point
+51,298,299607726,9,Siege of Boralus,2024-10-12T16:13:35.000Z,1906609,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小红手寒灀,Mage,Frost,dps,Chillwind Point
+51,298,299607726,9,Siege of Boralus,2024-10-12T16:13:35.000Z,1906609,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",原味舒芙蕾,Druid,Guardian,tank,Chillwind Point
+51,298,299607726,9,Siege of Boralus,2024-10-12T16:13:35.000Z,1906609,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玩具大礼包,Shaman,Elemental,dps,Well of Eternity
+52,298,300163266,9,Siege of Boralus,2024-10-14T15:40:38.000Z,1906640,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶白色雪孖,Evoker,Augmentation,dps,Burning Blade
+52,298,300163266,9,Siege of Boralus,2024-10-14T15:40:38.000Z,1906640,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",快乐风男丨,Death Knight,Frost,dps,Shadowmourne
+52,298,300163266,9,Siege of Boralus,2024-10-14T15:40:38.000Z,1906640,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",山城馆长,Demon Hunter,Vengeance,tank,Shadowmourne
+52,298,300163266,9,Siege of Boralus,2024-10-14T15:40:38.000Z,1906640,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兮爺丶,Mage,Frost,dps,Shadowmourne
+52,298,300163266,9,Siege of Boralus,2024-10-14T15:40:38.000Z,1906640,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",闪电蔓延,Shaman,Restoration,healer,Shadowmourne
+53,297.9,300400496,9,Siege of Boralus,2024-10-15T16:40:33.000Z,1912061,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冷酷小僵尸,Death Knight,Frost,dps,Shadowmourne
+53,297.9,300400496,9,Siege of Boralus,2024-10-15T16:40:33.000Z,1912061,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yizhifs,Mage,Frost,dps,Molten Core
+53,297.9,300400496,9,Siege of Boralus,2024-10-15T16:40:33.000Z,1912061,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我要看小汽车,Death Knight,Blood,tank,Deathwing
+53,297.9,300400496,9,Siege of Boralus,2024-10-15T16:40:33.000Z,1912061,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Riseup,Priest,Discipline,healer,Silver Hand
+53,297.9,300400496,9,Siege of Boralus,2024-10-15T16:40:33.000Z,1912061,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ahyeon,Warrior,Fury,dps,Rhonin
+54,297.8,302276468,9,Siege of Boralus,2024-10-13T13:28:31.000Z,1914314,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",银月之傲,Warlock,Destruction,dps,Hakkar
+54,297.8,302276468,9,Siege of Boralus,2024-10-13T13:28:31.000Z,1914314,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",晴转多云,Hunter,Marksmanship,dps,Scarlet Crusade
+54,297.8,302276468,9,Siege of Boralus,2024-10-13T13:28:31.000Z,1914314,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨染流年,Shaman,Restoration,healer,Eldre'Thalas
+54,297.8,302276468,9,Siege of Boralus,2024-10-13T13:28:31.000Z,1914314,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌拉的贼,Rogue,Assassination,dps,Anzu
+54,297.8,302276468,9,Siege of Boralus,2024-10-13T13:28:31.000Z,1914314,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",好骑心,Paladin,Protection,tank,Barrens
+55,297.6,299071901,9,Siege of Boralus,2024-10-10T13:53:17.000Z,1928644,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鱿小袅,Warrior,Protection,tank,Grim Batol
+55,297.6,299071901,9,Siege of Boralus,2024-10-10T13:53:17.000Z,1928644,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+55,297.6,299071901,9,Siege of Boralus,2024-10-10T13:53:17.000Z,1928644,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",隔壁老杜,Demon Hunter,Havoc,dps,Grim Batol
+55,297.6,299071901,9,Siege of Boralus,2024-10-10T13:53:17.000Z,1928644,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",噗嗤打次,Paladin,Retribution,dps,Grim Batol
+55,297.6,299071901,9,Siege of Boralus,2024-10-10T13:53:17.000Z,1928644,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+56,297.5,299078957,9,Siege of Boralus,2024-10-10T14:12:10.000Z,1930423,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",陌小南,Warlock,Destruction,dps,Shadowmourne
+56,297.5,299078957,9,Siege of Boralus,2024-10-10T14:12:10.000Z,1930423,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",埃布罗托,Death Knight,Unholy,dps,Shadowmourne
+56,297.5,299078957,9,Siege of Boralus,2024-10-10T14:12:10.000Z,1930423,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",怼怼吖,Priest,Holy,healer,Shadowmourne
+56,297.5,299078957,9,Siege of Boralus,2024-10-10T14:12:10.000Z,1930423,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卜德了,Druid,Guardian,tank,Shadowmourne
+56,297.5,299078957,9,Siege of Boralus,2024-10-10T14:12:10.000Z,1930423,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灵魂高歌,Mage,Arcane,dps,The Underbog
+57,297.5,299292414,9,Siege of Boralus,2024-10-11T12:49:37.000Z,1931186,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",紫舞雪冰辰,Paladin,Protection,tank,Silver Hand
+57,297.5,299292414,9,Siege of Boralus,2024-10-11T12:49:37.000Z,1931186,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",可乐君主,Shaman,Restoration,healer,Silver Hand
+57,297.5,299292414,9,Siege of Boralus,2024-10-11T12:49:37.000Z,1931186,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",荔枝小死骑,Death Knight,Frost,dps,Silver Hand
+57,297.5,299292414,9,Siege of Boralus,2024-10-11T12:49:37.000Z,1931186,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",容赦丶姬,Hunter,Marksmanship,dps,Prestor
+57,297.5,299292414,9,Siege of Boralus,2024-10-11T12:49:37.000Z,1931186,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",北北是只喵,Rogue,Assassination,dps,Silver Hand
+58,297.4,299624298,9,Siege of Boralus,2024-10-12T16:43:57.000Z,1939703,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",灰燼之哀傷,Paladin,Holy,healer,Deathwing
+58,297.4,299624298,9,Siege of Boralus,2024-10-12T16:43:57.000Z,1939703,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",代宗师,Monk,Windwalker,dps,The Great Sea
+58,297.4,299624298,9,Siege of Boralus,2024-10-12T16:43:57.000Z,1939703,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Shadow,dps,Rhonin
+58,297.4,299624298,9,Siege of Boralus,2024-10-12T16:43:57.000Z,1939703,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",獬丶,Demon Hunter,Vengeance,tank,Emerald Dream
+58,297.4,299624298,9,Siege of Boralus,2024-10-12T16:43:57.000Z,1939703,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Foin,Mage,Arcane,dps,Blanchard
+59,297.4,299528066,9,Siege of Boralus,2024-10-12T08:06:44.000Z,1940736,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶猛牛特抡酥,Druid,Guardian,tank,Grim Batol
+59,297.4,299528066,9,Siege of Boralus,2024-10-12T08:06:44.000Z,1940736,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小蝉,Paladin,Retribution,dps,The Golden Plains
+59,297.4,299528066,9,Siege of Boralus,2024-10-12T08:06:44.000Z,1940736,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",楊狗顺丶,Hunter,Marksmanship,dps,Grim Batol
+59,297.4,299528066,9,Siege of Boralus,2024-10-12T08:06:44.000Z,1940736,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",曾经我野清纯,Paladin,Holy,healer,Dar'Khan
+59,297.4,299528066,9,Siege of Boralus,2024-10-12T08:06:44.000Z,1940736,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绿毛虫,Warrior,Fury,dps,Rexxar
+60,296.6,300605006,9,Siege of Boralus,2024-10-16T12:03:35.000Z,1983463,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",苏打水不加水,Hunter,Survival,dps,Silver Hand
+60,296.6,300605006,9,Siege of Boralus,2024-10-16T12:03:35.000Z,1983463,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dinodk,Death Knight,Unholy,dps,Barrens
+60,296.6,300605006,9,Siege of Boralus,2024-10-16T12:03:35.000Z,1983463,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",红烧刁子鱼,Mage,Frost,dps,Al'ar
+60,296.6,300605006,9,Siege of Boralus,2024-10-16T12:03:35.000Z,1983463,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凶兽狂乱,Druid,Guardian,tank,Anzu
+60,296.6,300605006,9,Siege of Boralus,2024-10-16T12:03:35.000Z,1983463,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",老王啊吖,Shaman,Restoration,healer,The Master's Glaive
+61,296.4,299882153,9,Siege of Boralus,2024-10-13T13:31:23.000Z,1991442,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一脸不纯真,Druid,Guardian,tank,Chillwind Point
+61,296.4,299882153,9,Siege of Boralus,2024-10-13T13:31:23.000Z,1991442,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",透明三角涡虫,Rogue,Assassination,dps,Chillwind Point
+61,296.4,299882153,9,Siege of Boralus,2024-10-13T13:31:23.000Z,1991442,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",缘丶莱,Evoker,Preservation,healer,Chillwind Point
+61,296.4,299882153,9,Siege of Boralus,2024-10-13T13:31:23.000Z,1991442,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柠檬冰阔落,Mage,Frost,dps,Chillwind Point
+61,296.4,299882153,9,Siege of Boralus,2024-10-13T13:31:23.000Z,1991442,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",猛不猛丶丶,Paladin,Retribution,dps,Deathwing
+62,296.1,300608038,9,Siege of Boralus,2024-10-16T12:26:49.000Z,2011589,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兎你一脸,Demon Hunter,Vengeance,tank,Burning Blade
+62,296.1,300608038,9,Siege of Boralus,2024-10-16T12:26:49.000Z,2011589,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+62,296.1,300608038,9,Siege of Boralus,2024-10-16T12:26:49.000Z,2011589,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吾命休矣,Demon Hunter,Havoc,dps,Blanchard
+62,296.1,300608038,9,Siege of Boralus,2024-10-16T12:26:49.000Z,2011589,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Milotic,Demon Hunter,Havoc,dps,Burning Blade
+62,296.1,300608038,9,Siege of Boralus,2024-10-16T12:26:49.000Z,2011589,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吉吉娜,Mage,Frost,dps,Grim Batol
+63,296,299270643,9,Siege of Boralus,2024-10-11T09:25:42.000Z,2018121,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+63,296,299270643,9,Siege of Boralus,2024-10-11T09:25:42.000Z,2018121,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",隔壁老杜,Demon Hunter,Havoc,dps,Grim Batol
+63,296,299270643,9,Siege of Boralus,2024-10-11T09:25:42.000Z,2018121,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",扎鲁特二锅头,Druid,Guardian,tank,Grim Batol
+63,296,299270643,9,Siege of Boralus,2024-10-11T09:25:42.000Z,2018121,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",噗嗤打次,Paladin,Retribution,dps,Grim Batol
+63,296,299270643,9,Siege of Boralus,2024-10-11T09:25:42.000Z,2018121,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",悠悠板伊利蛋,Shaman,Restoration,healer,Grim Batol
+64,295.6,300297360,9,Siege of Boralus,2024-10-12T14:37:58.000Z,2037189,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一刀断奶,Hunter,Marksmanship,dps,Swiftwind
+64,295.6,300297360,9,Siege of Boralus,2024-10-12T14:37:58.000Z,2037189,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Hhyomin,Mage,Fire,dps,Swiftwind
+64,295.6,300297360,9,Siege of Boralus,2024-10-12T14:37:58.000Z,2037189,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咖啡与老友,Warrior,Protection,tank,Swiftwind
+64,295.6,300297360,9,Siege of Boralus,2024-10-12T14:37:58.000Z,2037189,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",惊雪,Shaman,Restoration,healer,The Forgotten Coast
+64,295.6,300297360,9,Siege of Boralus,2024-10-12T14:37:58.000Z,2037189,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我要开演了,Death Knight,Frost,dps,Swiftwind
+65,295.5,299010444,9,Siege of Boralus,2024-10-10T03:26:25.000Z,2040758,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小索尔捏,Druid,Guardian,tank,Anzu
+65,295.5,299010444,9,Siege of Boralus,2024-10-10T03:26:25.000Z,2040758,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Destiny,Rogue,Assassination,dps,Hogger
+65,295.5,299010444,9,Siege of Boralus,2024-10-10T03:26:25.000Z,2040758,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萧褪,Death Knight,Frost,dps,Anachronos
+65,295.5,299010444,9,Siege of Boralus,2024-10-10T03:26:25.000Z,2040758,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Sycamore,Priest,Discipline,healer,Fray Island
+65,295.5,299010444,9,Siege of Boralus,2024-10-10T03:26:25.000Z,2040758,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吓怕辣,Evoker,Augmentation,dps,Anzu
+66,295.5,299037030,9,Siege of Boralus,2024-10-10T07:44:10.000Z,2044897,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖圈圏,Shaman,Restoration,healer,Al'ar
+66,295.5,299037030,9,Siege of Boralus,2024-10-10T07:44:10.000Z,2044897,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖黑黒,Paladin,Retribution,dps,Al'ar
+66,295.5,299037030,9,Siege of Boralus,2024-10-10T07:44:10.000Z,2044897,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",图图的裂蹄牛,Warrior,Protection,tank,Silver Hand
+66,295.5,299037030,9,Siege of Boralus,2024-10-10T07:44:10.000Z,2044897,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天然啾啾呆,Hunter,Marksmanship,dps,Al'ar
+66,295.5,299037030,9,Siege of Boralus,2024-10-10T07:44:10.000Z,2044897,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",林间矮脚喵,Rogue,Assassination,dps,Deathwing
+67,295,299546893,8,Siege of Boralus,2024-10-12T10:30:10.000Z,1235619,2070999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",听凭风引,Shaman,Elemental,dps,Grim Batol
+67,295,299546893,8,Siege of Boralus,2024-10-12T10:30:10.000Z,1235619,2070999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黄丶泉,Death Knight,Blood,tank,The Master's Glaive
+67,295,299546893,8,Siege of Boralus,2024-10-12T10:30:10.000Z,1235619,2070999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",贼的意志,Rogue,Assassination,dps,Al'ar
+67,295,299546893,8,Siege of Boralus,2024-10-12T10:30:10.000Z,1235619,2070999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dracaryss,Evoker,Preservation,healer,Kel'Thuzad
+67,295,299546893,8,Siege of Boralus,2024-10-12T10:30:10.000Z,1235619,2070999,3,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天童爱丽丝,Paladin,Retribution,dps,Deathwing
+68,293.7,299248799,8,Siege of Boralus,2024-10-11T05:56:47.000Z,1312205,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我没有在生气,Warrior,Protection,tank,Dark Iron
+68,293.7,299248799,8,Siege of Boralus,2024-10-11T05:56:47.000Z,1312205,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",哔哩夹鸡馒头,Druid,Balance,dps,The Great Sea
+68,293.7,299248799,8,Siege of Boralus,2024-10-11T05:56:47.000Z,1312205,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",慢点跑,Death Knight,Unholy,dps,Chillwind Point
+68,293.7,299248799,8,Siege of Boralus,2024-10-11T05:56:47.000Z,1312205,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",某叉,Death Knight,Unholy,dps,The Great Sea
+68,293.7,299248799,8,Siege of Boralus,2024-10-11T05:56:47.000Z,1312205,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",清云澜雨,Shaman,Restoration,healer,Echo Ridge
+69,293.4,299761087,8,Siege of Boralus,2024-10-13T01:30:48.000Z,1333520,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜斗,Paladin,Retribution,dps,Pandaren
+69,293.4,299761087,8,Siege of Boralus,2024-10-13T01:30:48.000Z,1333520,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣丨骑,Paladin,Retribution,dps,The Great Sea
+69,293.4,299761087,8,Siege of Boralus,2024-10-13T01:30:48.000Z,1333520,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",流年沉香,Death Knight,Blood,tank,Valley of Kings
+69,293.4,299761087,8,Siege of Boralus,2024-10-13T01:30:48.000Z,1333520,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冰之痕迹丶,Shaman,Restoration,healer,Burning Blade
+69,293.4,299761087,8,Siege of Boralus,2024-10-13T01:30:48.000Z,1333520,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",粉红贝贝猪,Priest,Shadow,dps,Hectae
+70,293.2,299527854,8,Siege of Boralus,2024-10-12T08:06:23.000Z,1340838,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黄焖人米饭,Druid,Balance,dps,Al'ar
+70,293.2,299527854,8,Siege of Boralus,2024-10-12T08:06:23.000Z,1340838,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",胖黑黒,Paladin,Retribution,dps,Al'ar
+70,293.2,299527854,8,Siege of Boralus,2024-10-12T08:06:23.000Z,1340838,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Loverobin,Demon Hunter,Vengeance,tank,Silver Hand
+70,293.2,299527854,8,Siege of Boralus,2024-10-12T08:06:23.000Z,1340838,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吃完飯睡覺,Shaman,Restoration,healer,Al'ar
+70,293.2,299527854,8,Siege of Boralus,2024-10-12T08:06:23.000Z,1340838,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",青山入我怀,Death Knight,Frost,dps,Blanchard
+71,293,299644772,8,Siege of Boralus,2024-10-12T18:31:17.000Z,1353805,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Latehunter,Hunter,Marksmanship,dps,Al'ar
+71,293,299644772,8,Siege of Boralus,2024-10-12T18:31:17.000Z,1353805,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",傻幽,Mage,Frost,dps,Dreadmist Peak
+71,293,299644772,8,Siege of Boralus,2024-10-12T18:31:17.000Z,1353805,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凌晨不睡觉,Paladin,Retribution,dps,Barrens
+71,293,299644772,8,Siege of Boralus,2024-10-12T18:31:17.000Z,1353805,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",綠嗏灬,Warrior,Protection,tank,Mannoroth
+71,293,299644772,8,Siege of Boralus,2024-10-12T18:31:17.000Z,1353805,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",漢堡神偷,Shaman,Restoration,healer,Mannoroth
+72,292.6,300598277,8,Siege of Boralus,2024-10-16T11:06:57.000Z,1374111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",遠方的約定,Warrior,Fury,dps,Whispering Shore
+72,292.6,300598277,8,Siege of Boralus,2024-10-16T11:06:57.000Z,1374111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Masakii,Death Knight,Frost,dps,Burning Blade
+72,292.6,300598277,8,Siege of Boralus,2024-10-16T11:06:57.000Z,1374111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",女萨满,Paladin,Retribution,dps,Al'ar
+72,292.6,300598277,8,Siege of Boralus,2024-10-16T11:06:57.000Z,1374111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玉芬丶,Druid,Guardian,tank,Silver Hand
+72,292.6,300598277,8,Siege of Boralus,2024-10-16T11:06:57.000Z,1374111,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Moent,Shaman,Restoration,healer,Pandaren
+73,292.5,299299512,8,Siege of Boralus,2024-10-11T13:31:52.000Z,1378202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",心已沉淀,Demon Hunter,Vengeance,tank,Doomwalker
+73,292.5,299299512,8,Siege of Boralus,2024-10-11T13:31:52.000Z,1378202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",春生,Druid,Balance,dps,Doomwalker
+73,292.5,299299512,8,Siege of Boralus,2024-10-11T13:31:52.000Z,1378202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乂信仰乂,Priest,Holy,healer,The Great Sea
+73,292.5,299299512,8,Siege of Boralus,2024-10-11T13:31:52.000Z,1378202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",来杯美式加冰,Paladin,Retribution,dps,Moonglade
+73,292.5,299299512,8,Siege of Boralus,2024-10-11T13:31:52.000Z,1378202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Puddiin,Evoker,Augmentation,dps,Doomwalker
+74,292.4,300316279,8,Siege of Boralus,2024-10-15T04:03:01.000Z,1386980,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",打工魂干饭人,Hunter,Marksmanship,dps,Chillwind Point
+74,292.4,300316279,8,Siege of Boralus,2024-10-15T04:03:01.000Z,1386980,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛村一村长,Warrior,Protection,tank,Chillwind Point
+74,292.4,300316279,8,Siege of Boralus,2024-10-15T04:03:01.000Z,1386980,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",透明三角涡虫,Rogue,Assassination,dps,Chillwind Point
+74,292.4,300316279,8,Siege of Boralus,2024-10-15T04:03:01.000Z,1386980,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",素顏写流年,Death Knight,Unholy,dps,Burning Blade
+74,292.4,300316279,8,Siege of Boralus,2024-10-15T04:03:01.000Z,1386980,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萨米牛,Shaman,Restoration,healer,Alterac Mountains
+75,292.2,300154874,8,Siege of Boralus,2024-10-14T14:57:29.000Z,1399202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",老王啊,Shaman,Restoration,healer,Burning Blade
+75,292.2,300154874,8,Siege of Boralus,2024-10-14T14:57:29.000Z,1399202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牢骑,Paladin,Retribution,dps,Rhonin
+75,292.2,300154874,8,Siege of Boralus,2024-10-14T14:57:29.000Z,1399202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小压力怪,Death Knight,Frost,dps,Rhonin
+75,292.2,300154874,8,Siege of Boralus,2024-10-14T14:57:29.000Z,1399202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鲛人,Hunter,Marksmanship,dps,Isillien
+75,292.2,300154874,8,Siege of Boralus,2024-10-14T14:57:29.000Z,1399202,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",四百头熊,Druid,Guardian,tank,Alterac Mountains
+76,291.9,299073388,8,Siege of Boralus,2024-10-10T13:31:42.000Z,1414339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萌丶萌咕,Druid,Guardian,tank,Anzu
+76,291.9,299073388,8,Siege of Boralus,2024-10-10T13:31:42.000Z,1414339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",药不狐了,Monk,Mistweaver,healer,Rhonin
+76,291.9,299073388,8,Siege of Boralus,2024-10-10T13:31:42.000Z,1414339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玩術士玩的,Warlock,Affliction,dps,Silver Hand
+76,291.9,299073388,8,Siege of Boralus,2024-10-10T13:31:42.000Z,1414339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",花型圣骑,Paladin,Retribution,dps,Silver Hand
+76,291.9,299073388,8,Siege of Boralus,2024-10-10T13:31:42.000Z,1414339,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Oopszxx,Rogue,Assassination,dps,Anzu
+77,291.8,299294986,8,Siege of Boralus,2024-10-11T13:36:09.000Z,1418778,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",心随逸飛,Shaman,Restoration,healer,Al'ar
+77,291.8,299294986,8,Siege of Boralus,2024-10-11T13:36:09.000Z,1418778,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Yoruichi,Druid,Balance,dps,Al'ar
+77,291.8,299294986,8,Siege of Boralus,2024-10-11T13:36:09.000Z,1418778,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ysageras,Mage,Arcane,dps,Al'ar
+77,291.8,299294986,8,Siege of Boralus,2024-10-11T13:36:09.000Z,1418778,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我扎我自己,Evoker,Augmentation,dps,Deathwing
+77,291.8,299294986,8,Siege of Boralus,2024-10-11T13:36:09.000Z,1418778,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",思恩僧,Monk,Brewmaster,tank,Chillwind Point
+78,291.7,299536138,8,Siege of Boralus,2024-10-12T09:13:08.000Z,1427449,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Loverobin,Demon Hunter,Vengeance,tank,Silver Hand
+78,291.7,299536138,8,Siege of Boralus,2024-10-12T09:13:08.000Z,1427449,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吃完飯睡覺,Shaman,Restoration,healer,Al'ar
+78,291.7,299536138,8,Siege of Boralus,2024-10-12T09:13:08.000Z,1427449,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",燕妮你在哪,Warlock,Affliction,dps,Al'ar
+78,291.7,299536138,8,Siege of Boralus,2024-10-12T09:13:08.000Z,1427449,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣光妞,Paladin,Retribution,dps,Chillwind Point
+78,291.7,299536138,8,Siege of Boralus,2024-10-12T09:13:08.000Z,1427449,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",狐狸阿加贝,Druid,Balance,dps,Al'ar
+79,291,299265581,8,Siege of Boralus,2024-10-11T09:06:42.000Z,1461566,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",火丶鍋,Death Knight,Frost,dps,Frostmourne
+79,291,299265581,8,Siege of Boralus,2024-10-11T09:06:42.000Z,1461566,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",画船,Demon Hunter,Vengeance,tank,The Forgotten Coast
+79,291,299265581,8,Siege of Boralus,2024-10-11T09:06:42.000Z,1461566,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Meraxes,Evoker,Preservation,healer,The Forgotten Coast
+79,291,299265581,8,Siege of Boralus,2024-10-11T09:06:42.000Z,1461566,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",莫非安,Warlock,Demonology,dps,Burning Blade
+79,291,299265581,8,Siege of Boralus,2024-10-11T09:06:42.000Z,1461566,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Panacea,Shaman,Elemental,dps,Chillwind Point
+80,290.7,299859199,8,Siege of Boralus,2024-10-13T07:53:51.000Z,1482374,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",万马齐暗,Death Knight,Unholy,dps,Al'ar
+80,290.7,299859199,8,Siege of Boralus,2024-10-13T07:53:51.000Z,1482374,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月朔宝宝,Mage,Fire,dps,Al'ar
+80,290.7,299859199,8,Siege of Boralus,2024-10-13T07:53:51.000Z,1482374,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蔻德真的卡了,Shaman,Restoration,healer,The Great Sea
+80,290.7,299859199,8,Siege of Boralus,2024-10-13T07:53:51.000Z,1482374,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Krislight,Evoker,Augmentation,dps,The Great Sea
+80,290.7,299859199,8,Siege of Boralus,2024-10-13T07:53:51.000Z,1482374,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",知防骑,Paladin,Protection,tank,Anzu
+81,290.3,299230834,8,Siege of Boralus,2024-10-11T03:24:32.000Z,1503065,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",死的快,Druid,Restoration,healer,Dark Phantom
+81,290.3,299230834,8,Siege of Boralus,2024-10-11T03:24:32.000Z,1503065,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+81,290.3,299230834,8,Siege of Boralus,2024-10-11T03:24:32.000Z,1503065,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",文静儿,Demon Hunter,Vengeance,tank,Alterac Mountains
+81,290.3,299230834,8,Siege of Boralus,2024-10-11T03:24:32.000Z,1503065,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Moly,Paladin,Retribution,dps,Dark Iron
+81,290.3,299230834,8,Siege of Boralus,2024-10-11T03:24:32.000Z,1503065,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",頂級破防,Warlock,Affliction,dps,Deathwing
+82,290,299858852,8,Siege of Boralus,2024-10-13T11:59:06.000Z,1516964,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夜斗,Paladin,Protection,tank,Pandaren
+82,290,299858852,8,Siege of Boralus,2024-10-13T11:59:06.000Z,1516964,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",节超大魔王,Warlock,Demonology,dps,Pandaren
+82,290,299858852,8,Siege of Boralus,2024-10-13T11:59:06.000Z,1516964,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星星也晚睡,Priest,Discipline,healer,Pandaren
+82,290,299858852,8,Siege of Boralus,2024-10-13T11:59:06.000Z,1516964,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",流年沉香丶,Priest,Shadow,dps,Frostmourne
+82,290,299858852,8,Siege of Boralus,2024-10-13T11:59:06.000Z,1516964,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三仟世界,Warlock,Destruction,dps,Dream Bough
+83,290,300002151,8,Siege of Boralus,2024-10-13T19:35:43.000Z,1519322,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶乃琳,Paladin,Retribution,dps,Deathwing
+83,290,300002151,8,Siege of Boralus,2024-10-13T19:35:43.000Z,1519322,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",刘一刀,Death Knight,Frost,dps,Kel'Thuzad
+83,290,300002151,8,Siege of Boralus,2024-10-13T19:35:43.000Z,1519322,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",森林里麋了鹿,Paladin,Retribution,dps,Pandaren
+83,290,300002151,8,Siege of Boralus,2024-10-13T19:35:43.000Z,1519322,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",於罪,Warrior,Protection,tank,Pandaren
+83,290,300002151,8,Siege of Boralus,2024-10-13T19:35:43.000Z,1519322,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乖乖洁妹儿,Shaman,Restoration,healer,Burning Blade
+84,290,300600694,8,Siege of Boralus,2024-10-16T11:24:36.000Z,1519479,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",木兮木有枝,Priest,Discipline,healer,Deathwing
+84,290,300600694,8,Siege of Boralus,2024-10-16T11:24:36.000Z,1519479,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",第一天丶,Druid,Guardian,tank,Deathwing
+84,290,300600694,8,Siege of Boralus,2024-10-16T11:24:36.000Z,1519479,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",糖门滚嘿嘿,Warlock,Destruction,dps,Burning Blade
+84,290,300600694,8,Siege of Boralus,2024-10-16T11:24:36.000Z,1519479,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",弑魂,Paladin,Retribution,dps,Garr
+84,290,300600694,8,Siege of Boralus,2024-10-16T11:24:36.000Z,1519479,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",希珐,Death Knight,Frost,dps,Scholomance
+85,289.8,299482843,8,Siege of Boralus,2024-10-12T03:02:33.000Z,1531642,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",裶紸流丶尛尛,Druid,Restoration,healer,Garithos
+85,289.8,299482843,8,Siege of Boralus,2024-10-12T03:02:33.000Z,1531642,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瓦东东,Death Knight,Unholy,dps,Grim Batol
+85,289.8,299482843,8,Siege of Boralus,2024-10-12T03:02:33.000Z,1531642,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kristiano,Paladin,Retribution,dps,Deephome
+85,289.8,299482843,8,Siege of Boralus,2024-10-12T03:02:33.000Z,1531642,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卿沁,Warrior,Protection,tank,Barrens
+85,289.8,299482843,8,Siege of Boralus,2024-10-12T03:02:33.000Z,1531642,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",爽歪歪哦,Hunter,Marksmanship,dps,Rhonin
+86,289.8,299937851,8,Siege of Boralus,2024-10-13T17:44:15.000Z,1531676,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Nigihayami,Evoker,Preservation,healer,Deathwing
+86,289.8,299937851,8,Siege of Boralus,2024-10-13T17:44:15.000Z,1531676,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ninodk,Death Knight,Frost,dps,Rhonin
+86,289.8,299937851,8,Siege of Boralus,2024-10-13T17:44:15.000Z,1531676,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Retribution,dps,Al'ar
+86,289.8,299937851,8,Siege of Boralus,2024-10-13T17:44:15.000Z,1531676,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",焼姬,Paladin,Retribution,dps,The Master's Glaive
+86,289.8,299937851,8,Siege of Boralus,2024-10-13T17:44:15.000Z,1531676,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶召唤师,Death Knight,Blood,tank,Deathwing
+87,289.7,299070386,8,Siege of Boralus,2024-10-10T13:33:42.000Z,1538000,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",雷雷,Druid,Feral,dps,The Golden Plains
+87,289.7,299070386,8,Siege of Boralus,2024-10-10T13:33:42.000Z,1538000,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",喵绿喵绿呜,Druid,Balance,dps,Silver Hand
+87,289.7,299070386,8,Siege of Boralus,2024-10-10T13:33:42.000Z,1538000,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",麻辣滑鸡,Warrior,Protection,tank,Silver Hand
+87,289.7,299070386,8,Siege of Boralus,2024-10-10T13:33:42.000Z,1538000,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Momothewolf,Shaman,Restoration,healer,Rhonin
+87,289.7,299070386,8,Siege of Boralus,2024-10-10T13:33:42.000Z,1538000,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",切居登,Death Knight,Unholy,dps,Silver Hand
+88,289.1,299671969,8,Siege of Boralus,2024-10-12T20:27:57.000Z,1569644,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶林夏,Priest,Holy,healer,Eldre'Thalas
+88,289.1,299671969,8,Siege of Boralus,2024-10-12T20:27:57.000Z,1569644,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",化作你的星辰,Priest,Shadow,dps,Eldre'Thalas
+88,289.1,299671969,8,Siege of Boralus,2024-10-12T20:27:57.000Z,1569644,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",火柴法,Mage,Frost,dps,Eldre'Thalas
+88,289.1,299671969,8,Siege of Boralus,2024-10-12T20:27:57.000Z,1569644,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",报告老板丶,Evoker,Devastation,dps,Al'ar
+88,289.1,299671969,8,Siege of Boralus,2024-10-12T20:27:57.000Z,1569644,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小卷心菜,Paladin,Protection,tank,Eldre'Thalas
+89,288.8,299933084,8,Siege of Boralus,2024-10-13T18:36:42.000Z,1586763,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",微婳,Priest,Discipline,healer,Valley of Kings
+89,288.8,299933084,8,Siege of Boralus,2024-10-13T18:36:42.000Z,1586763,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Golwhale,Paladin,Retribution,dps,Isillien
+89,288.8,299933084,8,Siege of Boralus,2024-10-13T18:36:42.000Z,1586763,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿喱,Paladin,Retribution,dps,Pandaren
+89,288.8,299933084,8,Siege of Boralus,2024-10-13T18:36:42.000Z,1586763,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Rhythmic,Mage,Frost,dps,Darrowmere
+89,288.8,299933084,8,Siege of Boralus,2024-10-13T18:36:42.000Z,1586763,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小潇潇冲鸭,Warrior,Protection,tank,Pandaren
+90,288.8,299572193,8,Siege of Boralus,2024-10-12T13:06:01.000Z,1586915,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牧瞳,Priest,Discipline,healer,Deathwing
+90,288.8,299572193,8,Siege of Boralus,2024-10-12T13:06:01.000Z,1586915,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",巧哥丶小牧,Priest,Shadow,dps,Silver Hand
+90,288.8,299572193,8,Siege of Boralus,2024-10-12T13:06:01.000Z,1586915,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Kylean,Paladin,Retribution,dps,Deathwing
+90,288.8,299572193,8,Siege of Boralus,2024-10-12T13:06:01.000Z,1586915,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天天出装备,Shaman,Enhancement,dps,Deathwing
+90,288.8,299572193,8,Siege of Boralus,2024-10-12T13:06:01.000Z,1586915,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",华山派令狐冲,Monk,Brewmaster,tank,The Great Sea
+91,288.8,299732839,8,Siege of Boralus,2024-10-12T21:36:38.000Z,1587731,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+91,288.8,299732839,8,Siege of Boralus,2024-10-12T21:36:38.000Z,1587731,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",焼姬,Paladin,Retribution,dps,The Master's Glaive
+91,288.8,299732839,8,Siege of Boralus,2024-10-12T21:36:38.000Z,1587731,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",苦手上手,Shaman,Restoration,healer,Silver Hand
+91,288.8,299732839,8,Siege of Boralus,2024-10-12T21:36:38.000Z,1587731,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",沪爷冲击,Death Knight,Unholy,dps,Doomwalker
+91,288.8,299732839,8,Siege of Boralus,2024-10-12T21:36:38.000Z,1587731,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",什么名字叫,Warrior,Fury,dps,Dreadmist Peak
+92,288.5,300107238,8,Siege of Boralus,2024-10-14T08:27:12.000Z,1599565,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",听山风,Death Knight,Frost,dps,Shadowmourne
+92,288.5,300107238,8,Siege of Boralus,2024-10-14T08:27:12.000Z,1599565,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Krislight,Evoker,Augmentation,dps,The Great Sea
+92,288.5,300107238,8,Siege of Boralus,2024-10-14T08:27:12.000Z,1599565,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",知防骑,Paladin,Protection,tank,Anzu
+92,288.5,300107238,8,Siege of Boralus,2024-10-14T08:27:12.000Z,1599565,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蔻德卡了,Priest,Discipline,healer,The Great Sea
+92,288.5,300107238,8,Siege of Boralus,2024-10-14T08:27:12.000Z,1599565,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月朔宝宝,Druid,Balance,dps,Silver Hand
+93,288.4,299659603,8,Siege of Boralus,2024-10-12T19:12:14.000Z,1606793,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",愿小望,Priest,Holy,healer,Al'ar
+93,288.4,299659603,8,Siege of Boralus,2024-10-12T19:12:14.000Z,1606793,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",化作你的星辰,Priest,Shadow,dps,Eldre'Thalas
+93,288.4,299659603,8,Siege of Boralus,2024-10-12T19:12:14.000Z,1606793,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",火柴法,Mage,Fire,dps,Eldre'Thalas
+93,288.4,299659603,8,Siege of Boralus,2024-10-12T19:12:14.000Z,1606793,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",出本降层,Demon Hunter,Vengeance,tank,Al'ar
+93,288.4,299659603,8,Siege of Boralus,2024-10-12T19:12:14.000Z,1606793,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",憨墩儿,Warrior,Fury,dps,Blanchard
+94,288.3,299818399,8,Siege of Boralus,2024-10-13T07:24:41.000Z,1611119,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",方圆几里丷,Hunter,Marksmanship,dps,Shadowmourne
+94,288.3,299818399,8,Siege of Boralus,2024-10-13T07:24:41.000Z,1611119,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凶灬器,Druid,Guardian,tank,Grim Batol
+94,288.3,299818399,8,Siege of Boralus,2024-10-13T07:24:41.000Z,1611119,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Violete,Paladin,Retribution,dps,Frostmourne
+94,288.3,299818399,8,Siege of Boralus,2024-10-13T07:24:41.000Z,1611119,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌克兰嫩妹,Mage,Fire,dps,Frostmourne
+94,288.3,299818399,8,Siege of Boralus,2024-10-13T07:24:41.000Z,1611119,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",沙皇萨勒曼,Shaman,Restoration,healer,Arathi
+95,287.9,300347871,8,Siege of Boralus,2024-10-15T09:36:28.000Z,1634328,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃小爷,Druid,Balance,dps,Al'ar
+95,287.9,300347871,8,Siege of Boralus,2024-10-15T09:36:28.000Z,1634328,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+95,287.9,300347871,8,Siege of Boralus,2024-10-15T09:36:28.000Z,1634328,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鹽你一脸,Demon Hunter,Vengeance,tank,Al'ar
+95,287.9,300347871,8,Siege of Boralus,2024-10-15T09:36:28.000Z,1634328,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",和光同尘丨,Priest,Shadow,dps,Al'ar
+95,287.9,300347871,8,Siege of Boralus,2024-10-15T09:36:28.000Z,1634328,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黑小图图,Death Knight,Frost,dps,Al'ar
+96,287.8,299082583,8,Siege of Boralus,2024-10-10T14:51:44.000Z,1642695,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",完能,Hunter,Survival,dps,Eldre'Thalas
+96,287.8,299082583,8,Siege of Boralus,2024-10-10T14:51:44.000Z,1642695,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+96,287.8,299082583,8,Siege of Boralus,2024-10-10T14:51:44.000Z,1642695,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",罪過聖堂,Paladin,Retribution,dps,Eldre'Thalas
+96,287.8,299082583,8,Siege of Boralus,2024-10-10T14:51:44.000Z,1642695,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌陶陶,Priest,Shadow,dps,Frostmane
+96,287.8,299082583,8,Siege of Boralus,2024-10-10T14:51:44.000Z,1642695,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",西瓜狐,Shaman,Restoration,healer,Silverpine Forest
+97,287.6,300647382,8,Siege of Boralus,2024-10-16T16:25:58.000Z,1649195,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我母鸡呀,Rogue,Assassination,dps,Silver Hand
+97,287.6,300647382,8,Siege of Boralus,2024-10-16T16:25:58.000Z,1649195,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶咕咾肉,Druid,Restoration,healer,Burning Blade
+97,287.6,300647382,8,Siege of Boralus,2024-10-16T16:25:58.000Z,1649195,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",武穆,Demon Hunter,Vengeance,tank,Isillien
+97,287.6,300647382,8,Siege of Boralus,2024-10-16T16:25:58.000Z,1649195,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",约书亚基米希,Rogue,Assassination,dps,Burning Blade
+97,287.6,300647382,8,Siege of Boralus,2024-10-16T16:25:58.000Z,1649195,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",耳膜猎首,Demon Hunter,Havoc,dps,Shadowmoon
+98,287.5,299299286,8,Siege of Boralus,2024-10-11T13:28:13.000Z,1655757,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Restoration,healer,Burning Blade
+98,287.5,299299286,8,Siege of Boralus,2024-10-11T13:28:13.000Z,1655757,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",无冬希幕,Warrior,Protection,tank,Burning Blade
+98,287.5,299299286,8,Siege of Boralus,2024-10-11T13:28:13.000Z,1655757,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",四枫院羽,Hunter,Marksmanship,dps,Al'ar
+98,287.5,299299286,8,Siege of Boralus,2024-10-11T13:28:13.000Z,1655757,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",暗月小法,Mage,Frost,dps,Silver Hand
+98,287.5,299299286,8,Siege of Boralus,2024-10-11T13:28:13.000Z,1655757,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",可你总在梦里,Death Knight,Frost,dps,Hectae
+99,287.4,300370500,8,Siege of Boralus,2024-10-15T13:22:44.000Z,1663337,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣米露,Evoker,Preservation,healer,Al'ar
+99,287.4,300370500,8,Siege of Boralus,2024-10-15T13:22:44.000Z,1663337,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Eelhsif,Death Knight,Unholy,dps,Burning Blade
+99,287.4,300370500,8,Siege of Boralus,2024-10-15T13:22:44.000Z,1663337,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",影梦,Warrior,Protection,tank,Greymane
+99,287.4,300370500,8,Siege of Boralus,2024-10-15T13:22:44.000Z,1663337,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",八级圣疗术,Paladin,Retribution,dps,Greymane
+99,287.4,300370500,8,Siege of Boralus,2024-10-15T13:22:44.000Z,1663337,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Glorial,Mage,Frost,dps,Greymane
+100,287.2,299325643,8,Siege of Boralus,2024-10-11T15:40:01.000Z,1671688,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",睿多多吃西瓜,Mage,Frost,dps,The Master's Glaive
+100,287.2,299325643,8,Siege of Boralus,2024-10-11T15:40:01.000Z,1671688,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",本间芽衣子,Monk,Brewmaster,tank,Isillien
+100,287.2,299325643,8,Siege of Boralus,2024-10-11T15:40:01.000Z,1671688,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",卿婼雪,Priest,Discipline,healer,Al'ar
+100,287.2,299325643,8,Siege of Boralus,2024-10-11T15:40:01.000Z,1671688,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",步兵鲍勃比利,Warlock,Demonology,dps,Scarlet Crusade
+100,287.2,299325643,8,Siege of Boralus,2024-10-11T15:40:01.000Z,1671688,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿拉蕾宝宝,Priest,Shadow,dps,C'Thun
+101,287.1,299809314,8,Siege of Boralus,2024-10-13T06:11:45.000Z,1676573,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",老气蓬勃,Druid,Restoration,healer,Frostmane
+101,287.1,299809314,8,Siege of Boralus,2024-10-13T06:11:45.000Z,1676573,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伏羲流云,Paladin,Retribution,dps,Burning Blade
+101,287.1,299809314,8,Siege of Boralus,2024-10-13T06:11:45.000Z,1676573,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吾乳不如汝乳,Evoker,Augmentation,dps,Al'ar
+101,287.1,299809314,8,Siege of Boralus,2024-10-13T06:11:45.000Z,1676573,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",九段天亞,Paladin,Retribution,dps,Frostmane
+101,287.1,299809314,8,Siege of Boralus,2024-10-13T06:11:45.000Z,1676573,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",脊霸骨折,Paladin,Protection,tank,Frostmane
+102,287.1,299291303,8,Siege of Boralus,2024-10-11T12:30:46.000Z,1676742,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",心随逸飛,Shaman,Restoration,healer,Al'ar
+102,287.1,299291303,8,Siege of Boralus,2024-10-11T12:30:46.000Z,1676742,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ysageras,Mage,Arcane,dps,Al'ar
+102,287.1,299291303,8,Siege of Boralus,2024-10-11T12:30:46.000Z,1676742,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三花田园兔,Hunter,Survival,dps,Al'ar
+102,287.1,299291303,8,Siege of Boralus,2024-10-11T12:30:46.000Z,1676742,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我扎我自己,Evoker,Augmentation,dps,Deathwing
+102,287.1,299291303,8,Siege of Boralus,2024-10-11T12:30:46.000Z,1676742,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",思恩僧,Monk,Brewmaster,tank,Chillwind Point
+103,287.1,299898713,8,Siege of Boralus,2024-10-13T14:53:23.000Z,1676906,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",懆作已变形,Druid,Guardian,tank,Chillwind Point
+103,287.1,299898713,8,Siege of Boralus,2024-10-13T14:53:23.000Z,1676906,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Arminius,Evoker,Preservation,healer,Isillien
+103,287.1,299898713,8,Siege of Boralus,2024-10-13T14:53:23.000Z,1676906,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星星灬定乾坤,Hunter,Marksmanship,dps,Rhonin
+103,287.1,299898713,8,Siege of Boralus,2024-10-13T14:53:23.000Z,1676906,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",田心思,Paladin,Retribution,dps,The Master's Glaive
+103,287.1,299898713,8,Siege of Boralus,2024-10-13T14:53:23.000Z,1676906,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一九九二,Paladin,Retribution,dps,Emeriss
+104,287.1,299495287,8,Siege of Boralus,2024-10-12T04:34:36.000Z,1679746,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+104,287.1,299495287,8,Siege of Boralus,2024-10-12T04:34:36.000Z,1679746,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+104,287.1,299495287,8,Siege of Boralus,2024-10-12T04:34:36.000Z,1679746,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lasnimam,Death Knight,Blood,tank,Chillwind Point
+104,287.1,299495287,8,Siege of Boralus,2024-10-12T04:34:36.000Z,1679746,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Blackforest,Paladin,Retribution,dps,Fenris
+104,287.1,299495287,8,Siege of Boralus,2024-10-12T04:34:36.000Z,1679746,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",逍遥死骑,Death Knight,Frost,dps,The Master's Glaive
+105,286.9,299299595,8,Siege of Boralus,2024-10-11T14:38:40.000Z,1692099,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鸡柳丿,Warrior,Fury,dps,Deathwing
+105,286.9,299299595,8,Siege of Boralus,2024-10-11T14:38:40.000Z,1692099,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",布约,Death Knight,Blood,tank,Anzu
+105,286.9,299299595,8,Siege of Boralus,2024-10-11T14:38:40.000Z,1692099,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",马包裹,Death Knight,Frost,dps,Rommath
+105,286.9,299299595,8,Siege of Boralus,2024-10-11T14:38:40.000Z,1692099,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",泡泡茶狐,Monk,Mistweaver,healer,Warsong
+105,286.9,299299595,8,Siege of Boralus,2024-10-11T14:38:40.000Z,1692099,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",男大全蝈可飞,Paladin,Retribution,dps,Anzu
+106,286.8,299577437,8,Siege of Boralus,2024-10-12T13:36:19.000Z,1696932,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",追灬龙,Warrior,Fury,dps,Frostmane
+106,286.8,299577437,8,Siege of Boralus,2024-10-12T13:36:19.000Z,1696932,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",脆皮咕咕面,Evoker,Preservation,healer,Frostmane
+106,286.8,299577437,8,Siege of Boralus,2024-10-12T13:36:19.000Z,1696932,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",老气蓬勃,Druid,Feral,dps,Frostmane
+106,286.8,299577437,8,Siege of Boralus,2024-10-12T13:36:19.000Z,1696932,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伏羲流云,Paladin,Retribution,dps,Burning Blade
+106,286.8,299577437,8,Siege of Boralus,2024-10-12T13:36:19.000Z,1696932,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",脊霸骨折,Paladin,Protection,tank,Frostmane
+107,286.7,300104088,8,Siege of Boralus,2024-10-14T07:34:13.000Z,1698274,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",艺术系教授,Death Knight,Blood,tank,Anzu
+107,286.7,300104088,8,Siege of Boralus,2024-10-14T07:34:13.000Z,1698274,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",馬孔多在下雨,Mage,Frost,dps,Silver Hand
+107,286.7,300104088,8,Siege of Boralus,2024-10-14T07:34:13.000Z,1698274,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",药不狐了,Monk,Mistweaver,healer,Rhonin
+107,286.7,300104088,8,Siege of Boralus,2024-10-14T07:34:13.000Z,1698274,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",春夜风牵雨,Priest,Shadow,dps,Rhonin
+107,286.7,300104088,8,Siege of Boralus,2024-10-14T07:34:13.000Z,1698274,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柴郡猫酱,Warrior,Fury,dps,Doom's Vigil
+108,286.7,299235485,8,Siege of Boralus,2024-10-11T04:02:13.000Z,1703304,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",李啊哒哒,Hunter,Survival,dps,The Great Sea
+108,286.7,299235485,8,Siege of Boralus,2024-10-11T04:02:13.000Z,1703304,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+108,286.7,299235485,8,Siege of Boralus,2024-10-11T04:02:13.000Z,1703304,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",毛就完了,Death Knight,Frost,dps,Sylvanas
+108,286.7,299235485,8,Siege of Boralus,2024-10-11T04:02:13.000Z,1703304,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",枭熊灬绝顶,Druid,Guardian,tank,Anzu
+108,286.7,299235485,8,Siege of Boralus,2024-10-11T04:02:13.000Z,1703304,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大哥喝阔落,Shaman,Restoration,healer,Amani
+109,286.5,299628237,8,Siege of Boralus,2024-10-12T17:06:37.000Z,1713203,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",继国丶缘一,Warrior,Fury,dps,Chillwind Point
+109,286.5,299628237,8,Siege of Boralus,2024-10-12T17:06:37.000Z,1713203,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Sofather,Priest,Holy,healer,Eldre'Thalas
+109,286.5,299628237,8,Siege of Boralus,2024-10-12T17:06:37.000Z,1713203,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",一脸不纯真,Druid,Guardian,tank,Chillwind Point
+109,286.5,299628237,8,Siege of Boralus,2024-10-12T17:06:37.000Z,1713203,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",透明三角涡虫,Rogue,Assassination,dps,Chillwind Point
+109,286.5,299628237,8,Siege of Boralus,2024-10-12T17:06:37.000Z,1713203,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柠檬冰阔落,Mage,Frost,dps,Chillwind Point
+110,286.4,299530570,8,Siege of Boralus,2024-10-12T08:35:47.000Z,1719028,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",魂魄妖姬,Paladin,Retribution,dps,Deathweaver
+110,286.4,299530570,8,Siege of Boralus,2024-10-12T08:35:47.000Z,1719028,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",豹豹双皮奶,Paladin,Holy,healer,Echo Ridge
+110,286.4,299530570,8,Siege of Boralus,2024-10-12T08:35:47.000Z,1719028,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",薏仁寄寞,Death Knight,Blood,tank,Echo Ridge
+110,286.4,299530570,8,Siege of Boralus,2024-10-12T08:35:47.000Z,1719028,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",八六怕,Shaman,Elemental,dps,Arygos
+110,286.4,299530570,8,Siege of Boralus,2024-10-12T08:35:47.000Z,1719028,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Xxill,Evoker,Devastation,dps,Echo Ridge
+111,286.2,300433455,8,Siege of Boralus,2024-10-15T18:08:17.000Z,1729544,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",星耀雨茶,Paladin,Retribution,dps,Shadowmourne
+111,286.2,300433455,8,Siege of Boralus,2024-10-15T18:08:17.000Z,1729544,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",油貓餅,Death Knight,Frost,dps,Deathwing
+111,286.2,300433455,8,Siege of Boralus,2024-10-15T18:08:17.000Z,1729544,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",莓猫饼,Shaman,Restoration,healer,The Golden Plains
+111,286.2,300433455,8,Siege of Boralus,2024-10-15T18:08:17.000Z,1729544,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",野生大兽丸,Warlock,Affliction,dps,Shadowmourne
+111,286.2,300433455,8,Siege of Boralus,2024-10-15T18:08:17.000Z,1729544,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Playerhfhkww,Druid,Guardian,tank,Anzu
+112,286,303167877,8,Siege of Boralus,2024-10-13T21:00:34.000Z,1737249,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Skullcindy,Paladin,Retribution,dps,Chillwind Point
+112,286,303167877,8,Siege of Boralus,2024-10-13T21:00:34.000Z,1737249,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Paladinlyn,Paladin,Retribution,dps,Rhonin
+112,286,303167877,8,Siege of Boralus,2024-10-13T21:00:34.000Z,1737249,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jypaldin,Paladin,Protection,tank,Burning Blade
+112,286,303167877,8,Siege of Boralus,2024-10-13T21:00:34.000Z,1737249,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",短狱长丶,Paladin,Retribution,dps,Al'ar
+112,286,303167877,8,Siege of Boralus,2024-10-13T21:00:34.000Z,1737249,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",版本答案,Shaman,Restoration,healer,Dar'Khan
+113,285.8,299836496,8,Siege of Boralus,2024-10-13T09:45:20.000Z,1752478,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",猫之报恩,Druid,Balance,dps,Ashenvale
+113,285.8,299836496,8,Siege of Boralus,2024-10-13T09:45:20.000Z,1752478,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",邪老妖,Demon Hunter,Havoc,dps,Ashenvale
+113,285.8,299836496,8,Siege of Boralus,2024-10-13T09:45:20.000Z,1752478,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",失眠鲷鱼烧,Shaman,Restoration,healer,Theramore
+113,285.8,299836496,8,Siege of Boralus,2024-10-13T09:45:20.000Z,1752478,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黎明的回眸,Mage,Frost,dps,Blackmoore
+113,285.8,299836496,8,Siege of Boralus,2024-10-13T09:45:20.000Z,1752478,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Razorclaw,Druid,Guardian,tank,Ashenvale
+114,285.6,299882343,8,Siege of Boralus,2024-10-13T13:33:01.000Z,1760631,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",旧时月,Paladin,Protection,tank,Al'ar
+114,285.6,299882343,8,Siege of Boralus,2024-10-13T13:33:01.000Z,1760631,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Elemental,dps,Burning Blade
+114,285.6,299882343,8,Siege of Boralus,2024-10-13T13:33:01.000Z,1760631,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",维伦未来預言,Shaman,Elemental,dps,Echo Ridge
+114,285.6,299882343,8,Siege of Boralus,2024-10-13T13:33:01.000Z,1760631,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Episodec,Shaman,Restoration,healer,Aggramar
+114,285.6,299882343,8,Siege of Boralus,2024-10-13T13:33:01.000Z,1760631,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",屁儿咔裆,Shaman,Restoration,healer,Shadowmourne
+115,285.3,300117744,8,Siege of Boralus,2024-10-14T09:37:15.000Z,1776226,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃小喵,Paladin,Retribution,dps,Al'ar
+115,285.3,300117744,8,Siege of Boralus,2024-10-14T09:37:15.000Z,1776226,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",二苟,Death Knight,Blood,tank,Al'ar
+115,285.3,300117744,8,Siege of Boralus,2024-10-14T09:37:15.000Z,1776226,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",声名显赫,Paladin,Holy,healer,Valley of Kings
+115,285.3,300117744,8,Siege of Boralus,2024-10-14T09:37:15.000Z,1776226,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lasnimam,Death Knight,Frost,dps,Chillwind Point
+115,285.3,300117744,8,Siege of Boralus,2024-10-14T09:37:15.000Z,1776226,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三岁就狠萌,Paladin,Retribution,dps,Al'ar
+116,285,299109795,8,Siege of Boralus,2024-10-11T16:17:37.000Z,1793236,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lovelss,Death Knight,Frost,dps,Thrall
+116,285,299109795,8,Siege of Boralus,2024-10-11T16:17:37.000Z,1793236,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",减伤交过了,Monk,Mistweaver,healer,Thrall
+116,285,299109795,8,Siege of Boralus,2024-10-11T16:17:37.000Z,1793236,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冫钅,Warrior,Fury,dps,Thrall
+116,285,299109795,8,Siege of Boralus,2024-10-11T16:17:37.000Z,1793236,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这我奶不上,Paladin,Retribution,dps,Burning Blade
+116,285,299109795,8,Siege of Boralus,2024-10-11T16:17:37.000Z,1793236,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",青眼白牛,Druid,Guardian,tank,Burning Blade
+117,284.9,299044906,8,Siege of Boralus,2024-10-10T09:00:45.000Z,1798111,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",艾莎云鸽,Shaman,Restoration,healer,Anzu
+117,284.9,299044906,8,Siege of Boralus,2024-10-10T09:00:45.000Z,1798111,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",道格拉斯先生,Death Knight,Blood,tank,The Great Sea
+117,284.9,299044906,8,Siege of Boralus,2024-10-10T09:00:45.000Z,1798111,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",奶茶碎冰冰,Mage,Fire,dps,Anzu
+117,284.9,299044906,8,Siege of Boralus,2024-10-10T09:00:45.000Z,1798111,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",你踩我脚了,Death Knight,Frost,dps,Wintergrasp
+117,284.9,299044906,8,Siege of Boralus,2024-10-10T09:00:45.000Z,1798111,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",魔王小蒙,Warlock,Demonology,dps,Al'ar
+118,284.9,299585193,8,Siege of Boralus,2024-10-12T14:02:11.000Z,1800025,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萨琪琪玛,Shaman,Restoration,healer,Al'ar
+118,284.9,299585193,8,Siege of Boralus,2024-10-12T14:02:11.000Z,1800025,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨明玥丨,Paladin,Retribution,dps,Frostmourne
+118,284.9,299585193,8,Siege of Boralus,2024-10-12T14:02:11.000Z,1800025,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨韵审判,Paladin,Retribution,dps,Al'ar
+118,284.9,299585193,8,Siege of Boralus,2024-10-12T14:02:11.000Z,1800025,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",青虹漱雪,Druid,Guardian,tank,Silver Hand
+118,284.9,299585193,8,Siege of Boralus,2024-10-12T14:02:11.000Z,1800025,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",秉性纯良,Hunter,Marksmanship,dps,Holy Chanter
+119,284.6,300600833,8,Siege of Boralus,2024-10-16T11:26:47.000Z,1818480,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",蒙里莎的鄙视,Warlock,Destruction,dps,Barrens
+119,284.6,300600833,8,Siege of Boralus,2024-10-16T11:26:47.000Z,1818480,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这我奶不上,Paladin,Retribution,dps,Burning Blade
+119,284.6,300600833,8,Siege of Boralus,2024-10-16T11:26:47.000Z,1818480,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉酿投,Monk,Windwalker,dps,Silver Hand
+119,284.6,300600833,8,Siege of Boralus,2024-10-16T11:26:47.000Z,1818480,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黑神话古空,Shaman,Restoration,healer,Valley of Kings
+119,284.6,300600833,8,Siege of Boralus,2024-10-16T11:26:47.000Z,1818480,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",加百利安杰洛,Demon Hunter,Vengeance,tank,Silver Hand
+120,284.6,300386789,8,Siege of Boralus,2024-10-15T14:51:34.000Z,1818540,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",加半唐,Shaman,Elemental,dps,Shadowmourne
+120,284.6,300386789,8,Siege of Boralus,2024-10-15T14:51:34.000Z,1818540,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",带法師郭德纲,Mage,Frost,dps,Black Dragonflight
+120,284.6,300386789,8,Siege of Boralus,2024-10-15T14:51:34.000Z,1818540,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",犇犇丶,Druid,Guardian,tank,Black Dragonflight
+120,284.6,300386789,8,Siege of Boralus,2024-10-15T14:51:34.000Z,1818540,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",晓晓丶,Paladin,Retribution,dps,Black Dragonflight
+120,284.6,300386789,8,Siege of Boralus,2024-10-15T14:51:34.000Z,1818540,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",周防有希丶,Priest,Holy,healer,Black Dragonflight
+121,284.4,300171585,8,Siege of Boralus,2024-10-14T16:14:53.000Z,1827721,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨马坑菠萝丨,Demon Hunter,Vengeance,tank,Thunderlord
+121,284.4,300171585,8,Siege of Boralus,2024-10-14T16:14:53.000Z,1827721,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨萨菲罗斯丨,Mage,Fire,dps,Burning Blade
+121,284.4,300171585,8,Siege of Boralus,2024-10-14T16:14:53.000Z,1827721,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",老王啊,Shaman,Restoration,healer,Burning Blade
+121,284.4,300171585,8,Siege of Boralus,2024-10-14T16:14:53.000Z,1827721,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小压力怪,Death Knight,Frost,dps,Rhonin
+121,284.4,300171585,8,Siege of Boralus,2024-10-14T16:14:53.000Z,1827721,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",凡凡大傻狗,Evoker,Augmentation,dps,Burning Blade
+122,283.9,300347633,8,Siege of Boralus,2024-10-15T08:34:04.000Z,1854308,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",發財,Mage,Fire,dps,Rhonin
+122,283.9,300347633,8,Siege of Boralus,2024-10-15T08:34:04.000Z,1854308,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",铠武丶,Paladin,Retribution,dps,Rhonin
+122,283.9,300347633,8,Siege of Boralus,2024-10-15T08:34:04.000Z,1854308,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",彡羽之矢彡,Hunter,Marksmanship,dps,Silver Hand
+122,283.9,300347633,8,Siege of Boralus,2024-10-15T08:34:04.000Z,1854308,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",絕對灬瘋癫,Druid,Guardian,tank,Bleeding Hollow
+122,283.9,300347633,8,Siege of Boralus,2024-10-15T08:34:04.000Z,1854308,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",红萨,Shaman,Restoration,healer,Karazhan
+123,283.6,299819514,8,Siege of Boralus,2024-10-13T07:46:24.000Z,1870804,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",苏打水不加水,Hunter,Survival,dps,Silver Hand
+123,283.6,299819514,8,Siege of Boralus,2024-10-13T07:46:24.000Z,1870804,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丹青不及眉眼,Warrior,Protection,tank,Barrens
+123,283.6,299819514,8,Siege of Boralus,2024-10-13T07:46:24.000Z,1870804,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dinodk,Death Knight,Unholy,dps,Barrens
+123,283.6,299819514,8,Siege of Boralus,2024-10-13T07:46:24.000Z,1870804,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",真是帅呢阿周,Shaman,Restoration,healer,Barrens
+123,283.6,299819514,8,Siege of Boralus,2024-10-13T07:46:24.000Z,1870804,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黑潮,Warlock,Affliction,dps,Deathwing
+124,283.2,299829722,8,Siege of Boralus,2024-10-13T08:56:39.000Z,1892505,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小颗粒,Death Knight,Unholy,dps,Pandaren
+124,283.2,299829722,8,Siege of Boralus,2024-10-13T08:56:39.000Z,1892505,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Chint,Monk,Mistweaver,healer,Pandaren
+124,283.2,299829722,8,Siege of Boralus,2024-10-13T08:56:39.000Z,1892505,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Sarumann,Warlock,Demonology,dps,Pandaren
+124,283.2,299829722,8,Siege of Boralus,2024-10-13T08:56:39.000Z,1892505,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瑞个了瑞,Warrior,Protection,tank,Pandaren
+124,283.2,299829722,8,Siege of Boralus,2024-10-13T08:56:39.000Z,1892505,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Halflambert,Shaman,Elemental,dps,Shadowmourne
+125,282.9,299824903,8,Siege of Boralus,2024-10-13T08:05:13.000Z,1908208,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",六道,Death Knight,Blood,tank,Thousand Needles
+125,282.9,299824903,8,Siege of Boralus,2024-10-13T08:05:13.000Z,1908208,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",寂寞的鹤顶红,Shaman,Restoration,healer,Scarlet Crusade
+125,282.9,299824903,8,Siege of Boralus,2024-10-13T08:05:13.000Z,1908208,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",上杉明日奈,Mage,Arcane,dps,Burning Blade
+125,282.9,299824903,8,Siege of Boralus,2024-10-13T08:05:13.000Z,1908208,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月落星隐,Paladin,Retribution,dps,Burning Blade
+125,282.9,299824903,8,Siege of Boralus,2024-10-13T08:05:13.000Z,1908208,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小丑竟是我,Monk,Windwalker,dps,Doomwalker
+126,282.7,299576649,8,Siege of Boralus,2024-10-12T13:27:27.000Z,1921818,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",三千莲花,Paladin,Retribution,dps,Rhonin
+126,282.7,299576649,8,Siege of Boralus,2024-10-12T13:27:27.000Z,1921818,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小压力怪,Death Knight,Frost,dps,Rhonin
+126,282.7,299576649,8,Siege of Boralus,2024-10-12T13:27:27.000Z,1921818,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",滴滴叭叭乌,Evoker,Devastation,dps,Isillien
+126,282.7,299576649,8,Siege of Boralus,2024-10-12T13:27:27.000Z,1921818,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",淞晩,Demon Hunter,Vengeance,tank,Chillwind Point
+126,282.7,299576649,8,Siege of Boralus,2024-10-12T13:27:27.000Z,1921818,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",进击的皮卡丘,Shaman,Restoration,healer,Whisperwind
+127,282.6,299506515,8,Siege of Boralus,2024-10-12T05:47:53.000Z,1924964,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Fury,dps,Al'ar
+127,282.6,299506515,8,Siege of Boralus,2024-10-12T05:47:53.000Z,1924964,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",二苟,Death Knight,Blood,tank,Al'ar
+127,282.6,299506515,8,Siege of Boralus,2024-10-12T05:47:53.000Z,1924964,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+127,282.6,299506515,8,Siege of Boralus,2024-10-12T05:47:53.000Z,1924964,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lasnimam,Death Knight,Frost,dps,Chillwind Point
+127,282.6,299506515,8,Siege of Boralus,2024-10-12T05:47:53.000Z,1924964,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Blackforest,Paladin,Retribution,dps,Fenris
+128,282.5,300412457,8,Siege of Boralus,2024-10-15T16:53:22.000Z,1935451,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",植物学家小雨,Druid,Restoration,healer,Silver Hand
+128,282.5,300412457,8,Siege of Boralus,2024-10-15T16:53:22.000Z,1935451,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Wisher,Mage,Frost,dps,Lightning's Blade
+128,282.5,300412457,8,Siege of Boralus,2024-10-15T16:53:22.000Z,1935451,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",竹白,Monk,Brewmaster,tank,Pandaren
+128,282.5,300412457,8,Siege of Boralus,2024-10-15T16:53:22.000Z,1935451,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玄骨,Death Knight,Frost,dps,Eldre'Thalas
+128,282.5,300412457,8,Siege of Boralus,2024-10-15T16:53:22.000Z,1935451,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小小阿祖,Death Knight,Frost,dps,Isillien
+129,282.2,299375937,8,Siege of Boralus,2024-10-11T19:54:17.000Z,1949649,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",不想名字了丶,Druid,Restoration,healer,Isillien
+129,282.2,299375937,8,Siege of Boralus,2024-10-11T19:54:17.000Z,1949649,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",宫商角徽羽,Shaman,Elemental,dps,Crushridge
+129,282.2,299375937,8,Siege of Boralus,2024-10-11T19:54:17.000Z,1949649,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",壹点点滴,Death Knight,Frost,dps,Frostmourne
+129,282.2,299375937,8,Siege of Boralus,2024-10-11T19:54:17.000Z,1949649,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",壹壹丶,Paladin,Protection,tank,Alterac Mountains
+129,282.2,299375937,8,Siege of Boralus,2024-10-11T19:54:17.000Z,1949649,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",继国缘一,Paladin,Retribution,dps,Sunwell
+130,282.1,300168450,8,Siege of Boralus,2024-10-14T16:05:32.000Z,1957519,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",减伤交过了,Monk,Mistweaver,healer,Thrall
+130,282.1,300168450,8,Siege of Boralus,2024-10-14T16:05:32.000Z,1957519,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",常山赵子龙,Evoker,Augmentation,dps,Thrall
+130,282.1,300168450,8,Siege of Boralus,2024-10-14T16:05:32.000Z,1957519,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",德德耶,Druid,Guardian,tank,The Master's Glaive
+130,282.1,300168450,8,Siege of Boralus,2024-10-14T16:05:32.000Z,1957519,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这我奶不上,Paladin,Retribution,dps,Burning Blade
+130,282.1,300168450,8,Siege of Boralus,2024-10-14T16:05:32.000Z,1957519,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",花样丶年华,Demon Hunter,Havoc,dps,Malygos
+131,281.9,299669603,8,Siege of Boralus,2024-10-12T19:48:35.000Z,1964661,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",心脏打鸡,Death Knight,Frost,dps,Alterac Mountains
+131,281.9,299669603,8,Siege of Boralus,2024-10-12T19:48:35.000Z,1964661,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Soled,Paladin,Protection,tank,Al'ar
+131,281.9,299669603,8,Siege of Boralus,2024-10-12T19:48:35.000Z,1964661,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿多更,Monk,Mistweaver,healer,Deathwing
+131,281.9,299669603,8,Siege of Boralus,2024-10-12T19:48:35.000Z,1964661,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",互撸寿,Warlock,Destruction,dps,Shadow Council
+131,281.9,299669603,8,Siege of Boralus,2024-10-12T19:48:35.000Z,1964661,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",妖王又怒了,Death Knight,Unholy,dps,Deathwing
+132,281,299875434,8,Siege of Boralus,2024-10-13T13:03:10.000Z,2018050,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Astrid,Shaman,Restoration,healer,Zul'jin
+132,281,299875434,8,Siege of Boralus,2024-10-13T13:03:10.000Z,2018050,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南乔几晶秋,Druid,Balance,dps,Pandaren
+132,281,299875434,8,Siege of Boralus,2024-10-13T13:03:10.000Z,2018050,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",咕咕估,Druid,Balance,dps,Pandaren
+132,281,299875434,8,Siege of Boralus,2024-10-13T13:03:10.000Z,2018050,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨果子果子丨,Demon Hunter,Vengeance,tank,Valley of Kings
+132,281,299875434,8,Siege of Boralus,2024-10-13T13:03:10.000Z,2018050,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乌梅小番茄,Druid,Balance,dps,The Master's Glaive
+133,280.7,299225029,8,Siege of Boralus,2024-10-11T02:48:11.000Z,2031415,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",叮铃叮铃叮铃,Shaman,Elemental,dps,Deathwing
+133,280.7,299225029,8,Siege of Boralus,2024-10-11T02:48:11.000Z,2031415,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",湫灬,Death Knight,Frost,dps,Molten Core
+133,280.7,299225029,8,Siege of Boralus,2024-10-11T02:48:11.000Z,2031415,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",热心市民小兰,Druid,Guardian,tank,Silver Hand
+133,280.7,299225029,8,Siege of Boralus,2024-10-11T02:48:11.000Z,2031415,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",清炖番茄,Warlock,Destruction,dps,Deathwing
+133,280.7,299225029,8,Siege of Boralus,2024-10-11T02:48:11.000Z,2031415,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天罪丶,Priest,Discipline,healer,Silver Hand
+134,280.3,299514630,8,Siege of Boralus,2024-10-12T06:50:59.000Z,2051811,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",迷人屿鹿,Warrior,Protection,tank,Al'ar
+134,280.3,299514630,8,Siege of Boralus,2024-10-12T06:50:59.000Z,2051811,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",桃夭夭丷,Paladin,Holy,healer,Shadowmourne
+134,280.3,299514630,8,Siege of Boralus,2024-10-12T06:50:59.000Z,2051811,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Darkchano,Death Knight,Frost,dps,Valley of Kings
+134,280.3,299514630,8,Siege of Boralus,2024-10-12T06:50:59.000Z,2051811,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Blackforest,Paladin,Retribution,dps,Fenris
+134,280.3,299514630,8,Siege of Boralus,2024-10-12T06:50:59.000Z,2051811,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绑硬三撬,Warrior,Fury,dps,Deathwing
+135,280.3,299264967,8,Siege of Boralus,2024-10-11T08:23:00.000Z,2052616,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月下柠檬,Hunter,Marksmanship,dps,Silver Hand
+135,280.3,299264967,8,Siege of Boralus,2024-10-11T08:23:00.000Z,2052616,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",切西瓜的刀,Warrior,Protection,tank,The Master's Glaive
+135,280.3,299264967,8,Siege of Boralus,2024-10-11T08:23:00.000Z,2052616,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",墨韵审判,Paladin,Retribution,dps,Al'ar
+135,280.3,299264967,8,Siege of Boralus,2024-10-11T08:23:00.000Z,2052616,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冬月教授,Shaman,Restoration,healer,Silver Hand
+135,280.3,299264967,8,Siege of Boralus,2024-10-11T08:23:00.000Z,2052616,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",醉时难自己,Death Knight,Unholy,dps,Frostmourne
+136,278.6,299880600,7,Siege of Boralus,2024-10-13T13:16:25.000Z,1319541,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鲜澄多多啊,Paladin,Holy,healer,Eldre'Thalas
+136,278.6,299880600,7,Siege of Boralus,2024-10-13T13:16:25.000Z,1319541,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Elemental,dps,Burning Blade
+136,278.6,299880600,7,Siege of Boralus,2024-10-13T13:16:25.000Z,1319541,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶雪碧邪邪,Death Knight,Frost,dps,Burning Blade
+136,278.6,299880600,7,Siege of Boralus,2024-10-13T13:16:25.000Z,1319541,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Tribeillidan,Demon Hunter,Vengeance,tank,Grim Batol
+136,278.6,299880600,7,Siege of Boralus,2024-10-13T13:16:25.000Z,1319541,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",隆龙,Evoker,Augmentation,dps,Grim Batol
+137,278.1,300001094,7,Siege of Boralus,2024-10-13T20:58:52.000Z,1347819,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",零荭蝶,Shaman,Restoration,healer,Valley of Kings
+137,278.1,300001094,7,Siege of Boralus,2024-10-13T20:58:52.000Z,1347819,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",治疗你别死,Death Knight,Frost,dps,Silver Hand
+137,278.1,300001094,7,Siege of Boralus,2024-10-13T20:58:52.000Z,1347819,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",欲速则不达,Paladin,Retribution,dps,Al'ar
+137,278.1,300001094,7,Siege of Boralus,2024-10-13T20:58:52.000Z,1347819,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨迈凯伦丨,Death Knight,Blood,tank,Rhonin
+137,278.1,300001094,7,Siege of Boralus,2024-10-13T20:58:52.000Z,1347819,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小鬼丶认识你,Mage,Frost,dps,Argus
+138,278,299881381,7,Siege of Boralus,2024-10-13T13:22:07.000Z,1351027,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Scy,Priest,Shadow,dps,Rhonin
+138,278,299881381,7,Siege of Boralus,2024-10-13T13:22:07.000Z,1351027,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",互噜娃,Evoker,Preservation,healer,Hectae
+138,278,299881381,7,Siege of Boralus,2024-10-13T13:22:07.000Z,1351027,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",我頭上冇犄角,Paladin,Retribution,dps,Chillwind Point
+138,278,299881381,7,Siege of Boralus,2024-10-13T13:22:07.000Z,1351027,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",阿爾特留斯,Death Knight,Blood,tank,Chillwind Point
+138,278,299881381,7,Siege of Boralus,2024-10-13T13:22:07.000Z,1351027,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Bshadow,Mage,Arcane,dps,Bloodfeather
+139,277.9,299870805,7,Siege of Boralus,2024-10-13T12:44:44.000Z,1357781,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Restoration,healer,Burning Blade
+139,277.9,299870805,7,Siege of Boralus,2024-10-13T12:44:44.000Z,1357781,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶雪碧邪邪,Death Knight,Frost,dps,Burning Blade
+139,277.9,299870805,7,Siege of Boralus,2024-10-13T12:44:44.000Z,1357781,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Tribeillidan,Demon Hunter,Vengeance,tank,Grim Batol
+139,277.9,299870805,7,Siege of Boralus,2024-10-13T12:44:44.000Z,1357781,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",隆龙,Evoker,Augmentation,dps,Grim Batol
+139,277.9,299870805,7,Siege of Boralus,2024-10-13T12:44:44.000Z,1357781,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",黒铁,Warrior,Fury,dps,Valley of Kings
+140,275.6,299863557,7,Siege of Boralus,2024-10-13T12:14:29.000Z,1486769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Okok,Paladin,Holy,healer,Grim Batol
+140,275.6,299863557,7,Siege of Boralus,2024-10-13T12:14:29.000Z,1486769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",橄榄麦旋风,Shaman,Elemental,dps,Burning Blade
+140,275.6,299863557,7,Siege of Boralus,2024-10-13T12:14:29.000Z,1486769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Tribeillidan,Demon Hunter,Vengeance,tank,Grim Batol
+140,275.6,299863557,7,Siege of Boralus,2024-10-13T12:14:29.000Z,1486769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",隆龙,Evoker,Augmentation,dps,Grim Batol
+140,275.6,299863557,7,Siege of Boralus,2024-10-13T12:14:29.000Z,1486769,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Càstiel,Paladin,Retribution,dps,Eldre'Thalas
+141,275.5,299064911,7,Siege of Boralus,2024-10-10T13:17:20.000Z,1491912,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",想做偷心贼丶,Rogue,Assassination,dps,Burning Blade
+141,275.5,299064911,7,Siege of Boralus,2024-10-10T13:17:20.000Z,1491912,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶雪碧邪邪,Death Knight,Frost,dps,Burning Blade
+141,275.5,299064911,7,Siege of Boralus,2024-10-10T13:17:20.000Z,1491912,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Stellaricyc,Paladin,Retribution,dps,Shadowmourne
+141,275.5,299064911,7,Siege of Boralus,2024-10-10T13:17:20.000Z,1491912,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",隆龙,Evoker,Preservation,healer,Grim Batol
+141,275.5,299064911,7,Siege of Boralus,2024-10-10T13:17:20.000Z,1491912,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Ragb,Warrior,Protection,tank,Grim Batol
+142,275.4,300196753,7,Siege of Boralus,2024-10-14T18:26:25.000Z,1498257,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Skykuroyuki,Death Knight,Frost,dps,Deathwing
+142,275.4,300196753,7,Siege of Boralus,2024-10-14T18:26:25.000Z,1498257,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+142,275.4,300196753,7,Siege of Boralus,2024-10-14T18:26:25.000Z,1498257,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",鹽你一脸,Demon Hunter,Vengeance,tank,Al'ar
+142,275.4,300196753,7,Siege of Boralus,2024-10-14T18:26:25.000Z,1498257,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",焼姬,Paladin,Retribution,dps,The Master's Glaive
+142,275.4,300196753,7,Siege of Boralus,2024-10-14T18:26:25.000Z,1498257,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",和光同尘丨,Priest,Shadow,dps,Al'ar
+143,275.3,299883762,7,Siege of Boralus,2024-10-13T13:47:08.000Z,1503614,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",八极虎抱,Monk,Mistweaver,healer,Ashenvale
+143,275.3,299883762,7,Siege of Boralus,2024-10-13T13:47:08.000Z,1503614,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Dfpld,Paladin,Retribution,dps,The Great Sea
+143,275.3,299883762,7,Siege of Boralus,2024-10-13T13:47:08.000Z,1503614,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",柠萌小红茶,Mage,Frost,dps,Anzu
+143,275.3,299883762,7,Siege of Boralus,2024-10-13T13:47:08.000Z,1503614,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",陌颜丨如冰,Hunter,Beast Mastery,dps,The Great Sea
+143,275.3,299883762,7,Siege of Boralus,2024-10-13T13:47:08.000Z,1503614,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",会变型的柚梓,Druid,Guardian,tank,The Great Sea
+144,275,303167863,7,Siege of Boralus,2024-10-13T17:43:41.000Z,1521161,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Jypaldin,Paladin,Protection,tank,Burning Blade
+144,275,303167863,7,Siege of Boralus,2024-10-13T17:43:41.000Z,1521161,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瘾女少年丶,Rogue,Assassination,dps,Anzu
+144,275,303167863,7,Siege of Boralus,2024-10-13T17:43:41.000Z,1521161,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",皮皮酱丶,Shaman,Restoration,healer,Geddon
+144,275,303167863,7,Siege of Boralus,2024-10-13T17:43:41.000Z,1521161,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月落醉红尘,Paladin,Retribution,dps,Doomwalker
+144,275,303167863,7,Siege of Boralus,2024-10-13T17:43:41.000Z,1521161,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",却有晴,Paladin,Retribution,dps,Doomwalker
+145,274.8,299801934,7,Siege of Boralus,2024-10-13T05:25:10.000Z,1531650,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",盐焗榴莲芝士,Demon Hunter,Vengeance,tank,Garr
+145,274.8,299801934,7,Siege of Boralus,2024-10-13T05:25:10.000Z,1531650,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",方圆几里丷,Hunter,Marksmanship,dps,Shadowmourne
+145,274.8,299801934,7,Siege of Boralus,2024-10-13T05:25:10.000Z,1531650,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",疾风电炮,Paladin,Retribution,dps,Isillien
+145,274.8,299801934,7,Siege of Boralus,2024-10-13T05:25:10.000Z,1531650,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",乐园的女祭司,Shaman,Restoration,healer,Anachronos
+145,274.8,299801934,7,Siege of Boralus,2024-10-13T05:25:10.000Z,1531650,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圈圈以圈圈,Paladin,Retribution,dps,Al'ar
+146,274.6,299854826,7,Siege of Boralus,2024-10-13T11:24:53.000Z,1538254,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",兎你一脸,Demon Hunter,Havoc,dps,Burning Blade
+146,274.6,299854826,7,Siege of Boralus,2024-10-13T11:24:53.000Z,1538254,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Lapintotoo,Warlock,Destruction,dps,Burning Blade
+146,274.6,299854826,7,Siege of Boralus,2024-10-13T11:24:53.000Z,1538254,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",屿崖,Rogue,Assassination,dps,Al'ar
+146,274.6,299854826,7,Siege of Boralus,2024-10-13T11:24:53.000Z,1538254,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+146,274.6,299854826,7,Siege of Boralus,2024-10-13T11:24:53.000Z,1538254,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",吾命休矣,Demon Hunter,Vengeance,tank,Blanchard
+147,274.5,299269421,7,Siege of Boralus,2024-10-11T09:12:42.000Z,1544892,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",没头盔不能活,Shaman,Restoration,healer,Deathwing
+147,274.5,299269421,7,Siege of Boralus,2024-10-11T09:12:42.000Z,1544892,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",深渊丶漫步,Paladin,Protection,tank,Storm Peaks
+147,274.5,299269421,7,Siege of Boralus,2024-10-11T09:12:42.000Z,1544892,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",回城术,Warlock,Destruction,dps,Deathwing
+147,274.5,299269421,7,Siege of Boralus,2024-10-11T09:12:42.000Z,1544892,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",肉松脆,Death Knight,Frost,dps,Hyjal
+147,274.5,299269421,7,Siege of Boralus,2024-10-11T09:12:42.000Z,1544892,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",塔斯汀,Rogue,Assassination,dps,Greymane
+148,274.5,299634861,7,Siege of Boralus,2024-10-12T17:38:13.000Z,1547603,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丨明玥丨,Paladin,Retribution,dps,Frostmourne
+148,274.5,299634861,7,Siege of Boralus,2024-10-12T17:38:13.000Z,1547603,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",钓以倾心,Death Knight,Blood,tank,Al'ar
+148,274.5,299634861,7,Siege of Boralus,2024-10-12T17:38:13.000Z,1547603,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冬月教授,Shaman,Restoration,healer,Silver Hand
+148,274.5,299634861,7,Siege of Boralus,2024-10-12T17:38:13.000Z,1547603,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",風轻雲淡,Warrior,Fury,dps,The Botanica
+148,274.5,299634861,7,Siege of Boralus,2024-10-12T17:38:13.000Z,1547603,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",天神龙吼奥丁,Warrior,Fury,dps,Thrall
+149,274.1,300395049,7,Siege of Boralus,2024-10-15T15:04:47.000Z,1570770,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",玮之戦龍,Warrior,Fury,dps,Al'ar
+149,274.1,300395049,7,Siege of Boralus,2024-10-15T15:04:47.000Z,1570770,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",棉花糖苹果,Mage,Fire,dps,Shadowmourne
+149,274.1,300395049,7,Siege of Boralus,2024-10-15T15:04:47.000Z,1570770,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",伤感躢也,Warrior,Protection,tank,Al'ar
+149,274.1,300395049,7,Siege of Boralus,2024-10-15T15:04:47.000Z,1570770,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",零月,Shaman,Restoration,healer,Al'ar
+149,274.1,300395049,7,Siege of Boralus,2024-10-15T15:04:47.000Z,1570770,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",舍悟,Warlock,Destruction,dps,Blanchard
+150,273,299856273,7,Siege of Boralus,2024-10-13T11:43:40.000Z,1627671,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",热心,Hunter,Marksmanship,dps,Al'ar
+150,273,299856273,7,Siege of Boralus,2024-10-13T11:43:40.000Z,1627671,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",亓小鱼丶,Demon Hunter,Vengeance,tank,Al'ar
+150,273,299856273,7,Siege of Boralus,2024-10-13T11:43:40.000Z,1627671,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Gulaorousm,Shaman,Elemental,dps,Burning Blade
+150,273,299856273,7,Siege of Boralus,2024-10-13T11:43:40.000Z,1627671,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",疯驴,Shaman,Enhancement,dps,Burning Blade
+150,273,299856273,7,Siege of Boralus,2024-10-13T11:43:40.000Z,1627671,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",希羽羽,Shaman,Restoration,healer,Al'ar
+151,272.7,300335205,7,Siege of Boralus,2024-10-15T06:25:26.000Z,1644918,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",牛蹄蹄丶,Shaman,Restoration,healer,Deathwing
+151,272.7,300335205,7,Siege of Boralus,2024-10-15T06:25:26.000Z,1644918,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",南酱大叔,Paladin,Retribution,dps,Deathwing
+151,272.7,300335205,7,Siege of Boralus,2024-10-15T06:25:26.000Z,1644918,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",垚垚丶,Paladin,Retribution,dps,Amani
+151,272.7,300335205,7,Siege of Boralus,2024-10-15T06:25:26.000Z,1644918,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",君哥冲钅,Warrior,Fury,dps,Burning Blade
+151,272.7,300335205,7,Siege of Boralus,2024-10-15T06:25:26.000Z,1644918,2070999,2,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",冲就完事了丶,Warrior,Protection,tank,Al'ar
+152,271.1,299883610,7,Siege of Boralus,2024-10-13T13:45:38.000Z,1732382,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",上杉明日奈,Mage,Arcane,dps,Burning Blade
+152,271.1,299883610,7,Siege of Boralus,2024-10-13T13:45:38.000Z,1732382,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",谷清音,Death Knight,Frost,dps,Burning Blade
+152,271.1,299883610,7,Siege of Boralus,2024-10-13T13:45:38.000Z,1732382,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",月落星隐,Paladin,Retribution,dps,Burning Blade
+152,271.1,299883610,7,Siege of Boralus,2024-10-13T13:45:38.000Z,1732382,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",元气嫚嫚,Shaman,Restoration,healer,Burning Blade
+152,271.1,299883610,7,Siege of Boralus,2024-10-13T13:45:38.000Z,1732382,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",枫珍,Monk,Brewmaster,tank,Burning Blade
+153,270.6,304212641,7,Siege of Boralus,2024-10-13T08:04:18.000Z,1686273,1980999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",小只萌迪凯,Death Knight,Blood,tank,Ravencrest
+153,270.6,304212641,7,Siege of Boralus,2024-10-13T08:04:18.000Z,1686273,1980999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",夺萃之镰,Shaman,Restoration,healer,Well of Eternity
+153,270.6,304212641,7,Siege of Boralus,2024-10-13T08:04:18.000Z,1686273,1980999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",圣光狂暴战,Paladin,Retribution,dps,Silver Hand
+153,270.6,304212641,7,Siege of Boralus,2024-10-13T08:04:18.000Z,1686273,1980999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Stella,Evoker,Augmentation,dps,Ravencrest
+153,270.6,304212641,7,Siege of Boralus,2024-10-13T08:04:18.000Z,1686273,1980999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",培培丶小征子,Paladin,Retribution,dps,Storm Peaks
+154,270.3,300621335,7,Siege of Boralus,2024-10-16T14:07:20.000Z,1775729,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丶清歆,Druid,Guardian,tank,Frostmourne
+154,270.3,300621335,7,Siege of Boralus,2024-10-16T14:07:20.000Z,1775729,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",水圣级小叮当,Shaman,Restoration,healer,Echo Ridge
+154,270.3,300621335,7,Siege of Boralus,2024-10-16T14:07:20.000Z,1775729,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",老猫亅,Warrior,Fury,dps,Valley of Kings
+154,270.3,300621335,7,Siege of Boralus,2024-10-16T14:07:20.000Z,1775729,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",苦行者浅唱,Demon Hunter,Havoc,dps,Echo Ridge
+154,270.3,300621335,7,Siege of Boralus,2024-10-16T14:07:20.000Z,1775729,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",九亿男人的梦,Warlock,Demonology,dps,Alterac Mountains
+155,270.2,299546928,7,Siege of Boralus,2024-10-12T10:30:53.000Z,1785260,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",璀璨天星,Shaman,Restoration,healer,The Great Sea
+155,270.2,299546928,7,Siege of Boralus,2024-10-12T10:30:53.000Z,1785260,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Upanism,Mage,Fire,dps,Al'ar
+155,270.2,299546928,7,Siege of Boralus,2024-10-12T10:30:53.000Z,1785260,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",人品不足,Paladin,Retribution,dps,Bloodfeather
+155,270.2,299546928,7,Siege of Boralus,2024-10-12T10:30:53.000Z,1785260,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",帝王,Warrior,Fury,dps,Al'ar
+155,270.2,299546928,7,Siege of Boralus,2024-10-12T10:30:53.000Z,1785260,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",萝卜上的棍子,Warrior,Protection,tank,Burning Blade
+156,269.7,299053463,7,Siege of Boralus,2024-10-10T10:46:53.000Z,1812093,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",悦落凡心,Druid,Balance,dps,Grimtotem
+156,269.7,299053463,7,Siege of Boralus,2024-10-10T10:46:53.000Z,1812093,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丹妮莉絲,Evoker,Augmentation,dps,Barrens
+156,269.7,299053463,7,Siege of Boralus,2024-10-10T10:46:53.000Z,1812093,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",幸運小德,Druid,Guardian,tank,Al'ar
+156,269.7,299053463,7,Siege of Boralus,2024-10-10T10:46:53.000Z,1812093,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",微光暖暖,Priest,Holy,healer,The Great Sea
+156,269.7,299053463,7,Siege of Boralus,2024-10-10T10:46:53.000Z,1812093,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",霜寒十四州,Death Knight,Frost,dps,Silver Hand
+157,269.6,305650906,7,Siege of Boralus,2024-10-16T15:20:14.000Z,1816615,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Cubesmith,Rogue,Outlaw,dps,Lordaeron
+157,269.6,305650906,7,Siege of Boralus,2024-10-16T15:20:14.000Z,1816615,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",Naowh,Death Knight,Frost,dps,Lordaeron
+157,269.6,305650906,7,Siege of Boralus,2024-10-16T15:20:14.000Z,1816615,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",特高压,Shaman,Restoration,healer,Lordaeron
+157,269.6,305650906,7,Siege of Boralus,2024-10-16T15:20:14.000Z,1816615,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",清风照明月,Paladin,Retribution,dps,Kel'Thuzad
+157,269.6,305650906,7,Siege of Boralus,2024-10-16T15:20:14.000Z,1816615,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",龙麟儿,Warrior,Protection,tank,Emerald Dream
+158,269,299334617,7,Siege of Boralus,2024-10-11T16:22:20.000Z,1849370,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",魂魄知秋,Mage,Arcane,dps,Blanchard
+158,269,299334617,7,Siege of Boralus,2024-10-11T16:22:20.000Z,1849370,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",加半唐,Shaman,Restoration,healer,Shadowmourne
+158,269,299334617,7,Siege of Boralus,2024-10-11T16:22:20.000Z,1849370,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",和琪正丶,Death Knight,Frost,dps,Black Dragonflight
+158,269,299334617,7,Siege of Boralus,2024-10-11T16:22:20.000Z,1849370,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",少加唐,Warrior,Protection,tank,Shadowmourne
+158,269,299334617,7,Siege of Boralus,2024-10-11T16:22:20.000Z,1849370,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",带法師郭德纲,Mage,Frost,dps,Black Dragonflight
+159,268.7,300363752,7,Siege of Boralus,2024-10-15T11:31:15.000Z,1864468,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",这我奶不上,Paladin,Retribution,dps,Burning Blade
+159,268.7,300363752,7,Siege of Boralus,2024-10-15T11:31:15.000Z,1864468,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",跟我比细节,Paladin,Retribution,dps,The Master's Glaive
+159,268.7,300363752,7,Siege of Boralus,2024-10-15T11:31:15.000Z,1864468,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",爱猝死的老韩,Death Knight,Blood,tank,Galakrond
+159,268.7,300363752,7,Siege of Boralus,2024-10-15T11:31:15.000Z,1864468,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",绝地骑士,Paladin,Retribution,dps,Kel'Thuzad
+159,268.7,300363752,7,Siege of Boralus,2024-10-15T11:31:15.000Z,1864468,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",诺克萨斯之枭,Druid,Restoration,healer,Valley of Kings
+160,268.5,300094003,7,Siege of Boralus,2024-10-14T05:52:58.000Z,1877265,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",瓦东东,Death Knight,Unholy,dps,Grim Batol
+160,268.5,300094003,7,Siege of Boralus,2024-10-14T05:52:58.000Z,1877265,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",稻田咕咕鸡,Druid,Guardian,tank,Grim Batol
+160,268.5,300094003,7,Siege of Boralus,2024-10-14T05:52:58.000Z,1877265,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",电工萨,Shaman,Restoration,healer,Chillwind Point
+160,268.5,300094003,7,Siege of Boralus,2024-10-14T05:52:58.000Z,1877265,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",丝莉佳贾斯妮,Paladin,Retribution,dps,Isillien
+160,268.5,300094003,7,Siege of Boralus,2024-10-14T05:52:58.000Z,1877265,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",姜牛肉,Hunter,Marksmanship,dps,Isillien
+161,267.8,300611685,7,Siege of Boralus,2024-10-16T12:56:06.000Z,1918719,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",泪泪,Death Knight,Frost,dps,Anzu
+161,267.8,300611685,7,Siege of Boralus,2024-10-16T12:56:06.000Z,1918719,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",剎角,Paladin,Retribution,dps,Isillien
+161,267.8,300611685,7,Siege of Boralus,2024-10-16T12:56:06.000Z,1918719,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",池笔德籹刃,Paladin,Retribution,dps,Echo Ridge
+161,267.8,300611685,7,Siege of Boralus,2024-10-16T12:56:06.000Z,1918719,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",噼里啪啦刺啦,Shaman,Restoration,healer,Galakrond
+161,267.8,300611685,7,Siege of Boralus,2024-10-16T12:56:06.000Z,1918719,2070999,1,"Xal'atath's Bargain: Devour, Fortified, Challenger's Peril",大佬求带呀,Demon Hunter,Vengeance,tank,Galakrond

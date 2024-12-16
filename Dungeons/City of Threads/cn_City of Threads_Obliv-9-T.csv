@@ -1,0 +1,571 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,309.4,302290687,9,City of Threads,2024-10-23T11:09:09.000Z,1351866,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小术宝,Warlock,Demonology,dps,Chillwind Point
+1,309.4,302290687,9,City of Threads,2024-10-23T11:09:09.000Z,1351866,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",风后奇门丶,Paladin,Holy,healer,Chillwind Point
+1,309.4,302290687,9,City of Threads,2024-10-23T11:09:09.000Z,1351866,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",集火天下无敌,Warrior,Protection,tank,Chillwind Point
+1,309.4,302290687,9,City of Threads,2024-10-23T11:09:09.000Z,1351866,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",责任爷,Death Knight,Frost,dps,Doom's Vigil
+1,309.4,302290687,9,City of Threads,2024-10-23T11:09:09.000Z,1351866,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",兜底爷,Shaman,Elemental,dps,Silver Hand
+2,308.3,300808100,9,City of Threads,2024-10-17T07:17:00.000Z,1411098,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",愚人畏影,Shaman,Elemental,dps,Rhonin
+2,308.3,300808100,9,City of Threads,2024-10-17T07:17:00.000Z,1411098,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿揪揪,Druid,Balance,dps,Rhonin
+2,308.3,300808100,9,City of Threads,2024-10-17T07:17:00.000Z,1411098,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",盾牌格挡断啦,Warrior,Protection,tank,Silver Hand
+2,308.3,300808100,9,City of Threads,2024-10-17T07:17:00.000Z,1411098,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",奥维莉娅丶,Paladin,Retribution,dps,Nefarian
+2,308.3,300808100,9,City of Threads,2024-10-17T07:17:00.000Z,1411098,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",伊苏的起源,Shaman,Restoration,healer,Amani
+3,307.9,302319615,9,City of Threads,2024-10-23T15:39:24.000Z,1436512,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",傻幽,Mage,Fire,dps,Dreadmist Peak
+3,307.9,302319615,9,City of Threads,2024-10-23T15:39:24.000Z,1436512,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",茜色,Death Knight,Frost,dps,Pandaren
+3,307.9,302319615,9,City of Threads,2024-10-23T15:39:24.000Z,1436512,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",他善丶,Monk,Mistweaver,healer,Grim Batol
+3,307.9,302319615,9,City of Threads,2024-10-23T15:39:24.000Z,1436512,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Okoow,Paladin,Retribution,dps,Pandaren
+3,307.9,302319615,9,City of Threads,2024-10-23T15:39:24.000Z,1436512,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",外设,Warrior,Protection,tank,Grim Batol
+4,307.8,300856886,9,City of Threads,2024-10-17T14:27:41.000Z,1441675,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",愚人畏影,Shaman,Elemental,dps,Rhonin
+4,307.8,300856886,9,City of Threads,2024-10-17T14:27:41.000Z,1441675,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿揪揪,Druid,Balance,dps,Rhonin
+4,307.8,300856886,9,City of Threads,2024-10-17T14:27:41.000Z,1441675,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶南風,Paladin,Holy,healer,The Great Sea
+4,307.8,300856886,9,City of Threads,2024-10-17T14:27:41.000Z,1441675,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",祈德,Druid,Guardian,tank,The Great Sea
+4,307.8,300856886,9,City of Threads,2024-10-17T14:27:41.000Z,1441675,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吟唱中的挽歌,Paladin,Retribution,dps,Al'ar
+5,306.7,302263322,9,City of Threads,2024-10-23T05:16:53.000Z,1509753,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",布丁啃大鱼,Death Knight,Frost,dps,Burning Blade
+5,306.7,302263322,9,City of Threads,2024-10-23T05:16:53.000Z,1509753,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",艾师傅,Mage,Frost,dps,Isillien
+5,306.7,302263322,9,City of Threads,2024-10-23T05:16:53.000Z,1509753,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丁三炮,Shaman,Restoration,healer,Blanchard
+5,306.7,302263322,9,City of Threads,2024-10-23T05:16:53.000Z,1509753,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",核能打桩机,Demon Hunter,Vengeance,tank,Shadowmourne
+5,306.7,302263322,9,City of Threads,2024-10-23T05:16:53.000Z,1509753,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",灬紫辰霜灬,Hunter,Marksmanship,dps,Grim Batol
+6,306.6,301257219,9,City of Threads,2024-10-19T03:08:24.000Z,1514255,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Easonchen,Death Knight,Frost,dps,Valley of Kings
+6,306.6,301257219,9,City of Threads,2024-10-19T03:08:24.000Z,1514255,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",粒托儿弟,Rogue,Assassination,dps,Burning Blade
+6,306.6,301257219,9,City of Threads,2024-10-19T03:08:24.000Z,1514255,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Martinblood,Death Knight,Blood,tank,Burning Blade
+6,306.6,301257219,9,City of Threads,2024-10-19T03:08:24.000Z,1514255,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",土猫,Mage,Frost,dps,Frostmourne
+6,306.6,301257219,9,City of Threads,2024-10-19T03:08:24.000Z,1514255,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",棍棍儿丶,Shaman,Restoration,healer,The Master's Glaive
+7,306,301572160,9,City of Threads,2024-10-20T07:48:56.000Z,1549888,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",洛箫晴,Death Knight,Blood,tank,Kel'Thuzad
+7,306,301572160,9,City of Threads,2024-10-20T07:48:56.000Z,1549888,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Elitaeca,Paladin,Retribution,dps,Deathweaver
+7,306,301572160,9,City of Threads,2024-10-20T07:48:56.000Z,1549888,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",嘟大兜,Warrior,Fury,dps,Deathwing
+7,306,301572160,9,City of Threads,2024-10-20T07:48:56.000Z,1549888,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",烟雨平生丶,Paladin,Retribution,dps,Kel'Thuzad
+7,306,301572160,9,City of Threads,2024-10-20T07:48:56.000Z,1549888,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Cherubiem,Monk,Mistweaver,healer,Kel'Thuzad
+8,305.8,300839979,9,City of Threads,2024-10-17T12:50:03.000Z,1557263,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小结界,Evoker,Preservation,healer,The Great Sea
+8,305.8,300839979,9,City of Threads,2024-10-17T12:50:03.000Z,1557263,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Tym,Warrior,Protection,tank,The Great Sea
+8,305.8,300839979,9,City of Threads,2024-10-17T12:50:03.000Z,1557263,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",星见雅,Demon Hunter,Havoc,dps,Rhonin
+8,305.8,300839979,9,City of Threads,2024-10-17T12:50:03.000Z,1557263,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",赞达拉,Shaman,Elemental,dps,The Golden Plains
+8,305.8,300839979,9,City of Threads,2024-10-17T12:50:03.000Z,1557263,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",深红,Warrior,Fury,dps,Thunderaan
+9,305.8,301114976,9,City of Threads,2024-10-18T16:53:52.000Z,1560071,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",冥河往生者,Rogue,Assassination,dps,Chillwind Point
+9,305.8,301114976,9,City of Threads,2024-10-18T16:53:52.000Z,1560071,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",寒霜丶,Death Knight,Frost,dps,Chillwind Point
+9,305.8,301114976,9,City of Threads,2024-10-18T16:53:52.000Z,1560071,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",时崎叁,Shaman,Restoration,healer,Chillwind Point
+9,305.8,301114976,9,City of Threads,2024-10-18T16:53:52.000Z,1560071,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Caristy,Demon Hunter,Vengeance,tank,Chillwind Point
+9,305.8,301114976,9,City of Threads,2024-10-18T16:53:52.000Z,1560071,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Yeeyeey,Shaman,Enhancement,dps,The Master's Glaive
+10,305.6,301607902,9,City of Threads,2024-10-20T10:24:44.000Z,1572035,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亅七二七丨,Paladin,Retribution,dps,Anzu
+10,305.6,301607902,9,City of Threads,2024-10-20T10:24:44.000Z,1572035,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿喵阿喵乖,Shaman,Restoration,healer,Marrowgar
+10,305.6,301607902,9,City of Threads,2024-10-20T10:24:44.000Z,1572035,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亖阶堂千鸟丶,Warrior,Protection,tank,Anzu
+10,305.6,301607902,9,City of Threads,2024-10-20T10:24:44.000Z,1572035,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",颉凪,Paladin,Retribution,dps,Marrowgar
+10,305.6,301607902,9,City of Threads,2024-10-20T10:24:44.000Z,1572035,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",咦丨我斧子呢,Death Knight,Unholy,dps,Isillien
+11,304.7,301091128,9,City of Threads,2024-10-18T15:26:07.000Z,1627173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",庭前花开花落,Warrior,Fury,dps,Al'ar
+11,304.7,301091128,9,City of Threads,2024-10-18T15:26:07.000Z,1627173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",三花田园兔,Hunter,Survival,dps,Al'ar
+11,304.7,301091128,9,City of Threads,2024-10-18T15:26:07.000Z,1627173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桑稚,Shaman,Restoration,healer,Al'ar
+11,304.7,301091128,9,City of Threads,2024-10-18T15:26:07.000Z,1627173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",狐孤,Death Knight,Blood,tank,Blanchard
+11,304.7,301091128,9,City of Threads,2024-10-18T15:26:07.000Z,1627173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",麥灬麥,Hunter,Marksmanship,dps,Blanchard
+12,304.5,300860962,9,City of Threads,2024-10-17T14:58:13.000Z,1636060,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",老柠檬,Druid,Guardian,tank,Al'ar
+12,304.5,300860962,9,City of Threads,2024-10-17T14:58:13.000Z,1636060,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Easonchen,Death Knight,Frost,dps,Valley of Kings
+12,304.5,300860962,9,City of Threads,2024-10-17T14:58:13.000Z,1636060,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",专治低血压,Paladin,Retribution,dps,Burning Blade
+12,304.5,300860962,9,City of Threads,2024-10-17T14:58:13.000Z,1636060,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",粒托儿弟,Rogue,Assassination,dps,Burning Blade
+12,304.5,300860962,9,City of Threads,2024-10-17T14:58:13.000Z,1636060,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",弦月弓半月琴,Druid,Restoration,healer,Sapphiron
+13,304.4,302214035,9,City of Threads,2024-10-22T22:53:43.000Z,1640262,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Fiordilatte,Shaman,Elemental,dps,Deathwing
+13,304.4,302214035,9,City of Threads,2024-10-22T22:53:43.000Z,1640262,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",椎名立希酱,Shaman,Enhancement,dps,Grim Batol
+13,304.4,302214035,9,City of Threads,2024-10-22T22:53:43.000Z,1640262,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",那无敌了啊,Paladin,Retribution,dps,Deathwing
+13,304.4,302214035,9,City of Threads,2024-10-22T22:53:43.000Z,1640262,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Rosmontis,Priest,Discipline,healer,Pandaren
+13,304.4,302214035,9,City of Threads,2024-10-22T22:53:43.000Z,1640262,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小西明二,Paladin,Protection,tank,Al'ar
+14,304.2,302120667,9,City of Threads,2024-10-22T14:01:12.000Z,1652584,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",董小默,Rogue,Assassination,dps,Deathwing
+14,304.2,302120667,9,City of Threads,2024-10-22T14:01:12.000Z,1652584,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",是牛奶吖丶,Priest,Holy,healer,Deathwing
+14,304.2,302120667,9,City of Threads,2024-10-22T14:01:12.000Z,1652584,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Molushaman,Shaman,Enhancement,dps,Scarlet Crusade
+14,304.2,302120667,9,City of Threads,2024-10-22T14:01:12.000Z,1652584,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",秋丶苏城,Death Knight,Blood,tank,Deathwing
+14,304.2,302120667,9,City of Threads,2024-10-22T14:01:12.000Z,1652584,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",躺尸高手,Mage,Frost,dps,The Forgotten Coast
+15,303.7,301375557,9,City of Threads,2024-10-19T15:40:20.000Z,1683509,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雨下整夜丷,Mage,Frost,dps,Burning Blade
+15,303.7,301375557,9,City of Threads,2024-10-19T15:40:20.000Z,1683509,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",白白乌龙,Priest,Discipline,healer,Deathwing
+15,303.7,301375557,9,City of Threads,2024-10-19T15:40:20.000Z,1683509,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吃龍蝦不剥壳,Druid,Guardian,tank,Burning Blade
+15,303.7,301375557,9,City of Threads,2024-10-19T15:40:20.000Z,1683509,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Leoyudk,Death Knight,Frost,dps,Burning Blade
+15,303.7,301375557,9,City of Threads,2024-10-19T15:40:20.000Z,1683509,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",诗忆丶,Hunter,Beast Mastery,dps,Deathwing
+16,303.7,301572160,9,City of Threads,2024-10-20T06:34:54.000Z,1684514,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",洛箫晴,Death Knight,Blood,tank,Kel'Thuzad
+16,303.7,301572160,9,City of Threads,2024-10-20T06:34:54.000Z,1684514,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Elitaeca,Paladin,Retribution,dps,Deathweaver
+16,303.7,301572160,9,City of Threads,2024-10-20T06:34:54.000Z,1684514,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",嘟大兜,Warrior,Fury,dps,Deathwing
+16,303.7,301572160,9,City of Threads,2024-10-20T06:34:54.000Z,1684514,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",烟雨平生丶,Paladin,Retribution,dps,Kel'Thuzad
+16,303.7,301572160,9,City of Threads,2024-10-20T06:34:54.000Z,1684514,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Cherubiem,Monk,Mistweaver,healer,Kel'Thuzad
+17,303.5,300821467,9,City of Threads,2024-10-17T09:49:22.000Z,1694603,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",胖黑黒,Paladin,Retribution,dps,Al'ar
+17,303.5,300821467,9,City of Threads,2024-10-17T09:49:22.000Z,1694603,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",立立唐,Mage,Fire,dps,Burning Blade
+17,303.5,300821467,9,City of Threads,2024-10-17T09:49:22.000Z,1694603,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",是茶叶啊,Priest,Discipline,healer,Silver Hand
+17,303.5,300821467,9,City of Threads,2024-10-17T09:49:22.000Z,1694603,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",图图的圣光,Paladin,Protection,tank,Silver Hand
+17,303.5,300821467,9,City of Threads,2024-10-17T09:49:22.000Z,1694603,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",遭不遭得住,Death Knight,Frost,dps,Silver Hand
+18,302.9,301319786,9,City of Threads,2024-10-19T10:31:48.000Z,1731974,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",胡抡,Death Knight,Frost,dps,Gadgetzan
+18,302.9,301319786,9,City of Threads,2024-10-19T10:31:48.000Z,1731974,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",石锅志龙,Evoker,Augmentation,dps,Burning Blade
+18,302.9,301319786,9,City of Threads,2024-10-19T10:31:48.000Z,1731974,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",三皮牛牛妞,Paladin,Retribution,dps,Red Dragonflight
+18,302.9,301319786,9,City of Threads,2024-10-19T10:31:48.000Z,1731974,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",大风德,Druid,Restoration,healer,Rhonin
+18,302.9,301319786,9,City of Threads,2024-10-19T10:31:48.000Z,1731974,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",昌乐西瓜丶,Warrior,Protection,tank,Dragonblight
+19,302.8,300780582,9,City of Threads,2024-10-17T03:26:18.000Z,1737647,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",起手慢一点噢,Death Knight,Blood,tank,The Great Sea
+19,302.8,300780582,9,City of Threads,2024-10-17T03:26:18.000Z,1737647,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Krislight,Evoker,Augmentation,dps,The Great Sea
+19,302.8,300780582,9,City of Threads,2024-10-17T03:26:18.000Z,1737647,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",知防骑,Paladin,Retribution,dps,Anzu
+19,302.8,300780582,9,City of Threads,2024-10-17T03:26:18.000Z,1737647,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蔻德卡了,Priest,Discipline,healer,The Great Sea
+19,302.8,300780582,9,City of Threads,2024-10-17T03:26:18.000Z,1737647,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",月朔宝宝,Druid,Balance,dps,Silver Hand
+20,301.1,301591380,9,City of Threads,2024-10-20T08:40:26.000Z,1832307,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",赵铁柱,Death Knight,Blood,tank,Gyth
+20,301.1,301591380,9,City of Threads,2024-10-20T08:40:26.000Z,1832307,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Ysageras,Mage,Frost,dps,Al'ar
+20,301.1,301591380,9,City of Threads,2024-10-20T08:40:26.000Z,1832307,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",三花田园兔,Hunter,Survival,dps,Al'ar
+20,301.1,301591380,9,City of Threads,2024-10-20T08:40:26.000Z,1832307,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我扎我自己,Evoker,Preservation,healer,Deathwing
+20,301.1,301591380,9,City of Threads,2024-10-20T08:40:26.000Z,1832307,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",扒肉条,Warlock,Demonology,dps,Al'ar
+21,300.8,300870957,9,City of Threads,2024-10-17T15:55:51.000Z,1851783,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",愚人畏影,Shaman,Elemental,dps,Rhonin
+21,300.8,300870957,9,City of Threads,2024-10-17T15:55:51.000Z,1851783,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿揪揪,Druid,Balance,dps,Rhonin
+21,300.8,300870957,9,City of Threads,2024-10-17T15:55:51.000Z,1851783,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",青柠泡茶,Monk,Windwalker,dps,Shadowmourne
+21,300.8,300870957,9,City of Threads,2024-10-17T15:55:51.000Z,1851783,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",企鹅泡茶,Priest,Discipline,healer,Shadowmourne
+21,300.8,300870957,9,City of Threads,2024-10-17T15:55:51.000Z,1851783,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",嘚额德丶,Druid,Guardian,tank,Deathwing
+22,300.8,300848403,9,City of Threads,2024-10-17T13:52:09.000Z,1854945,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蓝莓酸奶丶,Demon Hunter,Vengeance,tank,Rhonin
+22,300.8,300848403,9,City of Threads,2024-10-17T13:52:09.000Z,1854945,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",兔剑秋丶,Death Knight,Frost,dps,Burning Blade
+22,300.8,300848403,9,City of Threads,2024-10-17T13:52:09.000Z,1854945,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",老王啊,Shaman,Restoration,healer,Burning Blade
+22,300.8,300848403,9,City of Threads,2024-10-17T13:52:09.000Z,1854945,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",凡凡大傻狗,Evoker,Augmentation,dps,Burning Blade
+22,300.8,300848403,9,City of Threads,2024-10-17T13:52:09.000Z,1854945,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",咱灬丶爹,Paladin,Retribution,dps,Silver Hand
+23,299.9,301829192,9,City of Threads,2024-10-21T03:26:50.000Z,1905900,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",锵锵起锵起,Druid,Restoration,healer,The Master's Glaive
+23,299.9,301829192,9,City of Threads,2024-10-21T03:26:50.000Z,1905900,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",奈宝的雪雪,Demon Hunter,Havoc,dps,Silver Hand
+23,299.9,301829192,9,City of Threads,2024-10-21T03:26:50.000Z,1905900,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿罕卡拉,Evoker,Augmentation,dps,Grim Batol
+23,299.9,301829192,9,City of Threads,2024-10-21T03:26:50.000Z,1905900,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",曼玻,Death Knight,Unholy,dps,Dark Iron
+23,299.9,301829192,9,City of Threads,2024-10-21T03:26:50.000Z,1905900,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",晚风几场,Paladin,Protection,tank,Grim Batol
+24,299.7,302078926,9,City of Threads,2024-10-22T07:44:40.000Z,1918436,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",梦碎玉断心,Hunter,Marksmanship,dps,Eldre'Thalas
+24,299.7,302078926,9,City of Threads,2024-10-22T07:44:40.000Z,1918436,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丷艾利桑德,Paladin,Retribution,dps,Eldre'Thalas
+24,299.7,302078926,9,City of Threads,2024-10-22T07:44:40.000Z,1918436,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",天生打灰圣体,Paladin,Holy,healer,Eldre'Thalas
+24,299.7,302078926,9,City of Threads,2024-10-22T07:44:40.000Z,1918436,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",由纪妹妹,Evoker,Augmentation,dps,Silver Hand
+24,299.7,302078926,9,City of Threads,2024-10-22T07:44:40.000Z,1918436,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Kpig,Warrior,Protection,tank,Eldre'Thalas
+25,299.6,306079772,9,City of Threads,2024-10-23T07:58:39.000Z,1920462,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吖菊,Druid,Restoration,healer,Silver Hand
+25,299.6,306079772,9,City of Threads,2024-10-23T07:58:39.000Z,1920462,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Helvetica,Druid,Guardian,tank,Scarlet Crusade
+25,299.6,306079772,9,City of Threads,2024-10-23T07:58:39.000Z,1920462,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",半夏的星空,Rogue,Assassination,dps,The Great Sea
+25,299.6,306079772,9,City of Threads,2024-10-23T07:58:39.000Z,1920462,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",風领主,Rogue,Assassination,dps,Silver Hand
+25,299.6,306079772,9,City of Threads,2024-10-23T07:58:39.000Z,1920462,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶一笑生花,Rogue,Outlaw,dps,Rhonin
+26,299.2,301080640,9,City of Threads,2024-10-18T13:49:56.000Z,1943235,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小佛,Evoker,Augmentation,dps,The Botanica
+26,299.2,301080640,9,City of Threads,2024-10-18T13:49:56.000Z,1943235,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我逆转了,Warrior,Protection,tank,Scarlet Crusade
+26,299.2,301080640,9,City of Threads,2024-10-18T13:49:56.000Z,1943235,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",爆啦,Shaman,Restoration,healer,Scarlet Crusade
+26,299.2,301080640,9,City of Threads,2024-10-18T13:49:56.000Z,1943235,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",圣光连接中,Paladin,Retribution,dps,Frostmourne
+26,299.2,301080640,9,City of Threads,2024-10-18T13:49:56.000Z,1943235,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",白衣红袖,Death Knight,Frost,dps,Deathwing
+27,299.2,301074262,9,City of Threads,2024-10-18T13:04:53.000Z,1944610,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",爆啦,Shaman,Restoration,healer,Scarlet Crusade
+27,299.2,301074262,9,City of Threads,2024-10-18T13:04:53.000Z,1944610,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",氨纶,Paladin,Retribution,dps,Rhonin
+27,299.2,301074262,9,City of Threads,2024-10-18T13:04:53.000Z,1944610,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",十叁亿少女梦,Rogue,Outlaw,dps,Rhonin
+27,299.2,301074262,9,City of Threads,2024-10-18T13:04:53.000Z,1944610,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",猫尾酒馆老板,Monk,Brewmaster,tank,Rhonin
+27,299.2,301074262,9,City of Threads,2024-10-18T13:04:53.000Z,1944610,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",石頭剪子布,Mage,Frost,dps,Silver Hand
+28,299.1,302327599,9,City of Threads,2024-10-23T16:40:15.000Z,1950719,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",符文电玩,Death Knight,Unholy,dps,Maim
+28,299.1,302327599,9,City of Threads,2024-10-23T16:40:15.000Z,1950719,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",最爱吃肉啊,Warrior,Protection,tank,Al'ar
+28,299.1,302327599,9,City of Threads,2024-10-23T16:40:15.000Z,1950719,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",最爱吃肉冰,Death Knight,Unholy,dps,Al'ar
+28,299.1,302327599,9,City of Threads,2024-10-23T16:40:15.000Z,1950719,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",最爱吃肉萨,Shaman,Restoration,healer,Al'ar
+28,299.1,302327599,9,City of Threads,2024-10-23T16:40:15.000Z,1950719,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",最爱吃肉骑,Paladin,Retribution,dps,Al'ar
+29,297.8,301644034,9,City of Threads,2024-10-20T13:49:51.000Z,2027656,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",戏水小妞,Mage,Frost,dps,Arygos
+29,297.8,301644034,9,City of Threads,2024-10-20T13:49:51.000Z,2027656,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",东云游理,Paladin,Retribution,dps,Arygos
+29,297.8,301644034,9,City of Threads,2024-10-20T13:49:51.000Z,2027656,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",油饼食吧,Shaman,Restoration,healer,Arygos
+29,297.8,301644034,9,City of Threads,2024-10-20T13:49:51.000Z,2027656,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我来组成头部,Paladin,Retribution,dps,Arygos
+29,297.8,301644034,9,City of Threads,2024-10-20T13:49:51.000Z,2027656,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",斯內克大炮,Demon Hunter,Vengeance,tank,Arygos
+30,296.2,301533770,9,City of Threads,2024-10-20T00:36:20.000Z,2123685,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",护短,Demon Hunter,Vengeance,tank,Anzu
+30,296.2,301533770,9,City of Threads,2024-10-20T00:36:20.000Z,2123685,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Krislight,Evoker,Augmentation,dps,The Great Sea
+30,296.2,301533770,9,City of Threads,2024-10-20T00:36:20.000Z,2123685,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",知防骑,Paladin,Retribution,dps,Anzu
+30,296.2,301533770,9,City of Threads,2024-10-20T00:36:20.000Z,2123685,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蔻德卡了,Priest,Discipline,healer,The Great Sea
+30,296.2,301533770,9,City of Threads,2024-10-20T00:36:20.000Z,2123685,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",宝宝朔月,Shaman,Enhancement,dps,Silver Hand
+31,295,300746850,8,City of Threads,2024-10-17T01:30:46.000Z,1225666,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",橘子汁不加糖,Warrior,Fury,dps,Silver Hand
+31,295,300746850,8,City of Threads,2024-10-17T01:30:46.000Z,1225666,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",黎梦沉月,Death Knight,Blood,tank,Rhonin
+31,295,300746850,8,City of Threads,2024-10-17T01:30:46.000Z,1225666,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",烈焰之菜,Shaman,Restoration,healer,Chillwind Point
+31,295,300746850,8,City of Threads,2024-10-17T01:30:46.000Z,1225666,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",李刚她哥,Paladin,Retribution,dps,Swiftwind
+31,295,300746850,8,City of Threads,2024-10-17T01:30:46.000Z,1225666,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",熊咕没奶,Druid,Balance,dps,Silver Hand
+32,294.8,300846446,8,City of Threads,2024-10-17T13:24:10.000Z,1325844,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",冰决,Mage,Frost,dps,Pandaren
+32,294.8,300846446,8,City of Threads,2024-10-17T13:24:10.000Z,1325844,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Kazy,Rogue,Assassination,dps,Silver Hand
+32,294.8,300846446,8,City of Threads,2024-10-17T13:24:10.000Z,1325844,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",果之郎喜冻,Paladin,Protection,tank,Deathwing
+32,294.8,300846446,8,City of Threads,2024-10-17T13:24:10.000Z,1325844,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",白月光呐,Priest,Discipline,healer,Rhonin
+32,294.8,300846446,8,City of Threads,2024-10-17T13:24:10.000Z,1325844,2190999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我舒服了,Death Knight,Frost,dps,Pandaren
+33,294.3,302069040,8,City of Threads,2024-10-22T05:58:05.000Z,1354017,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",帅气的大脚牛,Death Knight,Blood,tank,Al'ar
+33,294.3,302069040,8,City of Threads,2024-10-22T05:58:05.000Z,1354017,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Respective,Death Knight,Frost,dps,Grim Batol
+33,294.3,302069040,8,City of Threads,2024-10-22T05:58:05.000Z,1354017,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",海绵大宝宝,Warrior,Fury,dps,Bronzebeard
+33,294.3,302069040,8,City of Threads,2024-10-22T05:58:05.000Z,1354017,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",劏牛刀,Death Knight,Unholy,dps,Rhonin
+33,294.3,302069040,8,City of Threads,2024-10-22T05:58:05.000Z,1354017,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",情丶話話,Paladin,Holy,healer,Anzu
+34,292.9,302109648,8,City of Threads,2024-10-22T12:20:37.000Z,1434551,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Chint,Monk,Brewmaster,tank,Pandaren
+34,292.9,302109648,8,City of Threads,2024-10-22T12:20:37.000Z,1434551,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Doggiems,Priest,Shadow,dps,Isillien
+34,292.9,302109648,8,City of Threads,2024-10-22T12:20:37.000Z,1434551,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小咸鱼呀,Shaman,Restoration,healer,Anzu
+34,292.9,302109648,8,City of Threads,2024-10-22T12:20:37.000Z,1434551,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",瑶锦瑞,Mage,Arcane,dps,Pandaren
+34,292.9,302109648,8,City of Threads,2024-10-22T12:20:37.000Z,1434551,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",想睡女妖之王,Paladin,Retribution,dps,Dream Bough
+35,292.2,301341588,8,City of Threads,2024-10-19T12:57:44.000Z,1476465,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",喵小兴,Paladin,Retribution,dps,Deathwing
+35,292.2,301341588,8,City of Threads,2024-10-19T12:57:44.000Z,1476465,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",喵小柔,Death Knight,Frost,dps,Al'ar
+35,292.2,301341588,8,City of Threads,2024-10-19T12:57:44.000Z,1476465,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",榴蓮送飯,Death Knight,Unholy,dps,The Great Sea
+35,292.2,301341588,8,City of Threads,2024-10-19T12:57:44.000Z,1476465,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",省电骑士,Paladin,Protection,tank,Rhonin
+35,292.2,301341588,8,City of Threads,2024-10-19T12:57:44.000Z,1476465,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阳光开袋即食,Shaman,Restoration,healer,Echo Ridge
+36,292.2,301131252,8,City of Threads,2024-10-18T18:06:21.000Z,1481047,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",鲜克,Druid,Balance,dps,Rhonin
+36,292.2,301131252,8,City of Threads,2024-10-18T18:06:21.000Z,1481047,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Zzxlol,Rogue,Assassination,dps,Al'ar
+36,292.2,301131252,8,City of Threads,2024-10-18T18:06:21.000Z,1481047,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",悠悠兮,Paladin,Retribution,dps,Algalon
+36,292.2,301131252,8,City of Threads,2024-10-18T18:06:21.000Z,1481047,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",知更鸟的狗,Evoker,Preservation,healer,Rhonin
+36,292.2,301131252,8,City of Threads,2024-10-18T18:06:21.000Z,1481047,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",捶揪揪,Paladin,Protection,tank,Rhonin
+37,291.7,302283197,8,City of Threads,2024-10-23T09:44:48.000Z,1506798,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",老有意思了,Mage,Frost,dps,Rhonin
+37,291.7,302283197,8,City of Threads,2024-10-23T09:44:48.000Z,1506798,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+37,291.7,302283197,8,City of Threads,2024-10-23T09:44:48.000Z,1506798,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",狂暴罗拉丶,Death Knight,Frost,dps,Chillwind Point
+37,291.7,302283197,8,City of Threads,2024-10-23T09:44:48.000Z,1506798,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Markc,Shaman,Restoration,healer,Scarlet Crusade
+37,291.7,302283197,8,City of Threads,2024-10-23T09:44:48.000Z,1506798,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我真没有狐闹,Death Knight,Unholy,dps,Nozdormu
+38,291.7,301090068,8,City of Threads,2024-10-18T14:39:19.000Z,1507029,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",睡个昏,Druid,Guardian,tank,Swiftwind
+38,291.7,301090068,8,City of Threads,2024-10-18T14:39:19.000Z,1507029,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小饭团丶,Priest,Discipline,healer,Chillwind Point
+38,291.7,301090068,8,City of Threads,2024-10-18T14:39:19.000Z,1507029,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",集火默不作声,Paladin,Retribution,dps,Chillwind Point
+38,291.7,301090068,8,City of Threads,2024-10-18T14:39:19.000Z,1507029,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",玩了一个夏天,Paladin,Retribution,dps,Chillwind Point
+38,291.7,301090068,8,City of Threads,2024-10-18T14:39:19.000Z,1507029,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",起手就欧替,Paladin,Retribution,dps,Chillwind Point
+39,291.7,301895670,8,City of Threads,2024-10-21T13:43:11.000Z,1507420,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",叶榛苓,Paladin,Protection,tank,Anzu
+39,291.7,301895670,8,City of Threads,2024-10-21T13:43:11.000Z,1507420,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",艾莎云鸽,Shaman,Restoration,healer,Anzu
+39,291.7,301895670,8,City of Threads,2024-10-21T13:43:11.000Z,1507420,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",道格拉斯先生,Death Knight,Frost,dps,The Great Sea
+39,291.7,301895670,8,City of Threads,2024-10-21T13:43:11.000Z,1507420,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",花朵朵儿儿,Mage,Frost,dps,Anzu
+39,291.7,301895670,8,City of Threads,2024-10-21T13:43:11.000Z,1507420,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Zeffy,Monk,Windwalker,dps,Anzu
+40,291,301845195,8,City of Threads,2024-10-21T05:00:09.000Z,1546393,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",康娜灬卡姆依,Evoker,Preservation,healer,Isillien
+40,291,301845195,8,City of Threads,2024-10-21T05:00:09.000Z,1546393,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亅七二七丨,Paladin,Retribution,dps,Anzu
+40,291,301845195,8,City of Threads,2024-10-21T05:00:09.000Z,1546393,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亖阶堂千鸟丶,Warrior,Protection,tank,Anzu
+40,291,301845195,8,City of Threads,2024-10-21T05:00:09.000Z,1546393,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",铃屋,Rogue,Outlaw,dps,Al'ar
+40,291,301845195,8,City of Threads,2024-10-21T05:00:09.000Z,1546393,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",始皇摸电门,Shaman,Elemental,dps,Isillien
+41,290.9,300869806,8,City of Threads,2024-10-17T15:50:07.000Z,1553809,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",訫悸,Mage,Fire,dps,The Master's Glaive
+41,290.9,300869806,8,City of Threads,2024-10-17T15:50:07.000Z,1553809,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",毁灭苍炎,Mage,Frost,dps,Burning Blade
+41,290.9,300869806,8,City of Threads,2024-10-17T15:50:07.000Z,1553809,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",网红镇,Priest,Discipline,healer,Silver Hand
+41,290.9,300869806,8,City of Threads,2024-10-17T15:50:07.000Z,1553809,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",水大,Death Knight,Blood,tank,Doomwalker
+41,290.9,300869806,8,City of Threads,2024-10-17T15:50:07.000Z,1553809,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",其實是牧師,Priest,Discipline,healer,Dreadmist Peak
+42,290.8,301158941,8,City of Threads,2024-10-18T20:01:46.000Z,1557503,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",苟斯特菲斯,Death Knight,Frost,dps,Shadowmourne
+42,290.8,301158941,8,City of Threads,2024-10-18T20:01:46.000Z,1557503,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",达维安丶,Evoker,Augmentation,dps,Shadowmourne
+42,290.8,301158941,8,City of Threads,2024-10-18T20:01:46.000Z,1557503,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",风火雷电法王,Shaman,Restoration,healer,Anzu
+42,290.8,301158941,8,City of Threads,2024-10-18T20:01:46.000Z,1557503,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",十月征战坦,Demon Hunter,Vengeance,tank,Dark Iron
+42,290.8,301158941,8,City of Threads,2024-10-18T20:01:46.000Z,1557503,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",余乄接,Warlock,Destruction,dps,Anzu
+43,290.7,301072314,8,City of Threads,2024-10-18T12:47:28.000Z,1564484,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",壶出乱目,Shaman,Restoration,healer,Chillwind Point
+43,290.7,301072314,8,City of Threads,2024-10-18T12:47:28.000Z,1564484,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",量子微辣,Mage,Frost,dps,Chillwind Point
+43,290.7,301072314,8,City of Threads,2024-10-18T12:47:28.000Z,1564484,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",寒露霜降,Death Knight,Unholy,dps,Chillwind Point
+43,290.7,301072314,8,City of Threads,2024-10-18T12:47:28.000Z,1564484,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",叮咚东,Warrior,Protection,tank,Rhonin
+43,290.7,301072314,8,City of Threads,2024-10-18T12:47:28.000Z,1564484,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",尛点点,Paladin,Retribution,dps,Chillwind Point
+44,290.6,301104564,8,City of Threads,2024-10-18T16:06:23.000Z,1572891,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Kagaly,Death Knight,Frost,dps,Dragonmaw
+44,290.6,301104564,8,City of Threads,2024-10-18T16:06:23.000Z,1572891,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",梨花幽梦,Rogue,Assassination,dps,Burning Blade
+44,290.6,301104564,8,City of Threads,2024-10-18T16:06:23.000Z,1572891,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小红手千乐,Mage,Frost,dps,Rhonin
+44,290.6,301104564,8,City of Threads,2024-10-18T16:06:23.000Z,1572891,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",坚挺的阿昆达,Warrior,Protection,tank,Swiftwind
+44,290.6,301104564,8,City of Threads,2024-10-18T16:06:23.000Z,1572891,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",酷乐丶,Shaman,Restoration,healer,Grim Batol
+45,290.4,301855145,8,City of Threads,2024-10-21T06:24:06.000Z,1581036,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亅七二七丨,Paladin,Retribution,dps,Anzu
+45,290.4,301855145,8,City of Threads,2024-10-21T06:24:06.000Z,1581036,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",鱼板豆腐,Evoker,Augmentation,dps,Alterac Mountains
+45,290.4,301855145,8,City of Threads,2024-10-21T06:24:06.000Z,1581036,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雪音克利丝,Death Knight,Frost,dps,Kel'Thuzad
+45,290.4,301855145,8,City of Threads,2024-10-21T06:24:06.000Z,1581036,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亖阶堂千鸟丶,Warrior,Protection,tank,Anzu
+45,290.4,301855145,8,City of Threads,2024-10-21T06:24:06.000Z,1581036,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",觉悟未来,Shaman,Restoration,healer,Alterac Mountains
+46,290.4,301139937,8,City of Threads,2024-10-18T18:54:50.000Z,1584144,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小白条丶,Shaman,Elemental,dps,Kel'Thuzad
+46,290.4,301139937,8,City of Threads,2024-10-18T18:54:50.000Z,1584144,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蟹粉红茶丶,Shaman,Restoration,healer,Deathwing
+46,290.4,301139937,8,City of Threads,2024-10-18T18:54:50.000Z,1584144,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",理塘牛牛,Paladin,Retribution,dps,Al'ar
+46,290.4,301139937,8,City of Threads,2024-10-18T18:54:50.000Z,1584144,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",斯溫丶,Warrior,Protection,tank,Kel'Thuzad
+46,290.4,301139937,8,City of Threads,2024-10-18T18:54:50.000Z,1584144,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",尧光,Paladin,Retribution,dps,Kel'Thuzad
+47,290.1,300865890,8,City of Threads,2024-10-17T15:12:17.000Z,1601142,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雯喵丶,Shaman,Restoration,healer,The Master's Glaive
+47,290.1,300865890,8,City of Threads,2024-10-17T15:12:17.000Z,1601142,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",愚人畏影,Shaman,Elemental,dps,Rhonin
+47,290.1,300865890,8,City of Threads,2024-10-17T15:12:17.000Z,1601142,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",魔兽狗都不玩,Paladin,Retribution,dps,The Master's Glaive
+47,290.1,300865890,8,City of Threads,2024-10-17T15:12:17.000Z,1601142,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿揪揪,Druid,Balance,dps,Rhonin
+47,290.1,300865890,8,City of Threads,2024-10-17T15:12:17.000Z,1601142,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",王翠翠花,Warrior,Protection,tank,Anzu
+48,290,300883457,8,City of Threads,2024-10-17T16:59:54.000Z,1605850,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",光之护封剑,Paladin,Retribution,dps,Galakrond
+48,290,300883457,8,City of Threads,2024-10-17T16:59:54.000Z,1605850,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小小懒熊,Druid,Guardian,tank,Cenarius
+48,290,300883457,8,City of Threads,2024-10-17T16:59:54.000Z,1605850,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",月蝶華想,Paladin,Retribution,dps,Silver Hand
+48,290,300883457,8,City of Threads,2024-10-17T16:59:54.000Z,1605850,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",黑神话之王,Shaman,Restoration,healer,Al'ar
+48,290,300883457,8,City of Threads,2024-10-17T16:59:54.000Z,1605850,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",施巴拉古大师,Rogue,Assassination,dps,Pandaren
+49,289.8,300881733,8,City of Threads,2024-10-17T16:51:02.000Z,1618168,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",冷酷小僵尸,Death Knight,Frost,dps,Shadowmourne
+49,289.8,300881733,8,City of Threads,2024-10-17T16:51:02.000Z,1618168,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Yizhifs,Mage,Frost,dps,Molten Core
+49,289.8,300881733,8,City of Threads,2024-10-17T16:51:02.000Z,1618168,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雷霆清风,Shaman,Elemental,dps,Al'ar
+49,289.8,300881733,8,City of Threads,2024-10-17T16:51:02.000Z,1618168,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我要看小汽车,Death Knight,Blood,tank,Deathwing
+49,289.8,300881733,8,City of Threads,2024-10-17T16:51:02.000Z,1618168,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",琪胖,Priest,Holy,healer,Scarlet Crusade
+50,289.8,301922961,8,City of Threads,2024-10-21T16:30:26.000Z,1619437,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",没睡够的人,Hunter,Marksmanship,dps,Barrens
+50,289.8,301922961,8,City of Threads,2024-10-21T16:30:26.000Z,1619437,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Ashtoangle,Demon Hunter,Vengeance,tank,Barrens
+50,289.8,301922961,8,City of Threads,2024-10-21T16:30:26.000Z,1619437,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶啦啦,Druid,Feral,dps,Barrens
+50,289.8,301922961,8,City of Threads,2024-10-21T16:30:26.000Z,1619437,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",虹色雨,Paladin,Retribution,dps,Barrens
+50,289.8,301922961,8,City of Threads,2024-10-21T16:30:26.000Z,1619437,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蒂法牛牛,Shaman,Restoration,healer,Barrens
+51,289.7,302278334,8,City of Threads,2024-10-23T08:42:20.000Z,1622362,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",响零,Mage,Frost,dps,Al'ar
+51,289.7,302278334,8,City of Threads,2024-10-23T08:42:20.000Z,1622362,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Daidaibai,Warrior,Protection,tank,Swiftwind
+51,289.7,302278334,8,City of Threads,2024-10-23T08:42:20.000Z,1622362,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",再次拯救世界,Shaman,Restoration,healer,Thaurissan
+51,289.7,302278334,8,City of Threads,2024-10-23T08:42:20.000Z,1622362,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雷文德斯,Warrior,Fury,dps,Shadowmourne
+51,289.7,302278334,8,City of Threads,2024-10-23T08:42:20.000Z,1622362,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",君莫笑,Paladin,Retribution,dps,Argus
+52,289.6,301581893,8,City of Threads,2024-10-20T07:17:24.000Z,1629019,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",老气蓬勃,Druid,Guardian,tank,Frostmane
+52,289.6,301581893,8,City of Threads,2024-10-20T07:17:24.000Z,1629019,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",伏羲流云,Paladin,Retribution,dps,Burning Blade
+52,289.6,301581893,8,City of Threads,2024-10-20T07:17:24.000Z,1629019,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",厚礼蟹特侠,Mage,Fire,dps,Al'ar
+52,289.6,301581893,8,City of Threads,2024-10-20T07:17:24.000Z,1629019,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蟑嘴痴史,Priest,Discipline,healer,Frostmane
+52,289.6,301581893,8,City of Threads,2024-10-20T07:17:24.000Z,1629019,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",锻造铭文小东,Paladin,Retribution,dps,Al'ar
+53,289.6,300802788,8,City of Threads,2024-10-17T06:12:59.000Z,1630827,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Fallonzz,Death Knight,Frost,dps,Burning Blade
+53,289.6,300802788,8,City of Threads,2024-10-17T06:12:59.000Z,1630827,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",拳王月灼,Monk,Mistweaver,healer,Burning Blade
+53,289.6,300802788,8,City of Threads,2024-10-17T06:12:59.000Z,1630827,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",月弦倚歌,Paladin,Protection,tank,Silver Hand
+53,289.6,300802788,8,City of Threads,2024-10-17T06:12:59.000Z,1630827,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",俱利伽罗像,Death Knight,Frost,dps,Burning Blade
+53,289.6,300802788,8,City of Threads,2024-10-17T06:12:59.000Z,1630827,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",国服沸羊羊,Druid,Balance,dps,Burning Blade
+54,289.5,301648165,8,City of Threads,2024-10-20T15:03:31.000Z,1637319,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",牧瞳,Priest,Discipline,healer,Deathwing
+54,289.5,301648165,8,City of Threads,2024-10-20T15:03:31.000Z,1637319,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小莲,Paladin,Retribution,dps,Deathwing
+54,289.5,301648165,8,City of Threads,2024-10-20T15:03:31.000Z,1637319,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Kylean,Paladin,Retribution,dps,Deathwing
+54,289.5,301648165,8,City of Threads,2024-10-20T15:03:31.000Z,1637319,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",你听我说完,Evoker,Augmentation,dps,Deathwing
+54,289.5,301648165,8,City of Threads,2024-10-20T15:03:31.000Z,1637319,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",神奇的老衲,Paladin,Protection,tank,Deathwing
+55,289.1,301889827,8,City of Threads,2024-10-21T12:56:49.000Z,1660173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",得失有幸,Warrior,Fury,dps,Burning Blade
+55,289.1,301889827,8,City of Threads,2024-10-21T12:56:49.000Z,1660173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",作死丶,Death Knight,Frost,dps,The Great Sea
+55,289.1,301889827,8,City of Threads,2024-10-21T12:56:49.000Z,1660173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",世界线收束,Paladin,Retribution,dps,Deathwing
+55,289.1,301889827,8,City of Threads,2024-10-21T12:56:49.000Z,1660173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",帝王,Warrior,Protection,tank,Bloodfeather
+55,289.1,301889827,8,City of Threads,2024-10-21T12:56:49.000Z,1660173,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",牛叫兽,Shaman,Restoration,healer,Gadgetzan
+56,288.8,301659822,8,City of Threads,2024-10-20T14:31:47.000Z,1678334,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",敌一,Warrior,Protection,tank,Thunder Axe Fortress
+56,288.8,301659822,8,City of Threads,2024-10-20T14:31:47.000Z,1678334,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",谜之杰西,Warrior,Arms,dps,Al'ar
+56,288.8,301659822,8,City of Threads,2024-10-20T14:31:47.000Z,1678334,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",林七夜灬,Death Knight,Frost,dps,Silver Hand
+56,288.8,301659822,8,City of Threads,2024-10-20T14:31:47.000Z,1678334,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",墓喵喵,Shaman,Restoration,healer,Frostmane
+56,288.8,301659822,8,City of Threads,2024-10-20T14:31:47.000Z,1678334,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",白游龙,Paladin,Retribution,dps,Silver Hand
+57,288.3,301351186,8,City of Threads,2024-10-19T15:25:00.000Z,1706376,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",硬丷汉,Warrior,Protection,tank,Valley of Kings
+57,288.3,301351186,8,City of Threads,2024-10-19T15:25:00.000Z,1706376,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",最后一包烟丶,Paladin,Holy,healer,Al'ar
+57,288.3,301351186,8,City of Threads,2024-10-19T15:25:00.000Z,1706376,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",夜斗,Paladin,Retribution,dps,Pandaren
+57,288.3,301351186,8,City of Threads,2024-10-19T15:25:00.000Z,1706376,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",洋仔灬小哥哥,Paladin,Retribution,dps,Al'ar
+57,288.3,301351186,8,City of Threads,2024-10-19T15:25:00.000Z,1706376,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",指尖流沙,Paladin,Retribution,dps,Anzu
+58,288.1,301653586,8,City of Threads,2024-10-20T15:05:34.000Z,1716582,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",凡泠战,Warrior,Protection,tank,Force of Elemental
+58,288.1,301653586,8,City of Threads,2024-10-20T15:05:34.000Z,1716582,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",舒克不开飞机,Death Knight,Frost,dps,Anzu
+58,288.1,301653586,8,City of Threads,2024-10-20T15:05:34.000Z,1716582,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我知道要聚怪,Shaman,Restoration,healer,Loken
+58,288.1,301653586,8,City of Threads,2024-10-20T15:05:34.000Z,1716582,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",圣光瘤子,Paladin,Retribution,dps,Hectae
+58,288.1,301653586,8,City of Threads,2024-10-20T15:05:34.000Z,1716582,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",沐柒鸢,Evoker,Augmentation,dps,Anzu
+59,287.8,301910396,8,City of Threads,2024-10-21T15:07:31.000Z,1736172,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",侢戰,Paladin,Protection,tank,Staghelm
+59,287.8,301910396,8,City of Threads,2024-10-21T15:07:31.000Z,1736172,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",你是龙也好,Evoker,Augmentation,dps,Silver Hand
+59,287.8,301910396,8,City of Threads,2024-10-21T15:07:31.000Z,1736172,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",獄寺零,Death Knight,Frost,dps,Rhonin
+59,287.8,301910396,8,City of Threads,2024-10-21T15:07:31.000Z,1736172,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",萨普卧龙,Shaman,Restoration,healer,Eldre'Thalas
+59,287.8,301910396,8,City of Threads,2024-10-21T15:07:31.000Z,1736172,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小红手酸酸,Mage,Frost,dps,Valley of Kings
+60,287.7,301374523,8,City of Threads,2024-10-19T16:34:19.000Z,1741931,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丨明玥丨,Paladin,Retribution,dps,Frostmourne
+60,287.7,301374523,8,City of Threads,2024-10-19T16:34:19.000Z,1741931,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",墨韵审判,Paladin,Retribution,dps,Al'ar
+60,287.7,301374523,8,City of Threads,2024-10-19T16:34:19.000Z,1741931,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",冬月教授,Shaman,Restoration,healer,Silver Hand
+60,287.7,301374523,8,City of Threads,2024-10-19T16:34:19.000Z,1741931,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",一牧十夯,Druid,Guardian,tank,Al'ar
+60,287.7,301374523,8,City of Threads,2024-10-19T16:34:19.000Z,1741931,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",欧大锤,Paladin,Retribution,dps,Al'ar
+61,287.2,301666613,8,City of Threads,2024-10-20T15:01:52.000Z,1767414,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",治疗药水,Paladin,Retribution,dps,Lich King
+61,287.2,301666613,8,City of Threads,2024-10-20T15:01:52.000Z,1767414,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",赞达拉卫兵,Shaman,Restoration,healer,Pandaren
+61,287.2,301666613,8,City of Threads,2024-10-20T15:01:52.000Z,1767414,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Insana,Death Knight,Blood,tank,Pandaren
+61,287.2,301666613,8,City of Threads,2024-10-20T15:01:52.000Z,1767414,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",很短但会旋转,Paladin,Retribution,dps,Deathwing
+61,287.2,301666613,8,City of Threads,2024-10-20T15:01:52.000Z,1767414,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",精灵副酱,Druid,Balance,dps,Pandaren
+62,287.1,301636032,8,City of Threads,2024-10-20T12:42:13.000Z,1776708,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",问情无尘,Monk,Mistweaver,healer,Eldre'Thalas
+62,287.1,301636032,8,City of Threads,2024-10-20T12:42:13.000Z,1776708,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",髬耏,Death Knight,Blood,tank,Eldre'Thalas
+62,287.1,301636032,8,City of Threads,2024-10-20T12:42:13.000Z,1776708,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",天生打灰圣体,Paladin,Retribution,dps,Eldre'Thalas
+62,287.1,301636032,8,City of Threads,2024-10-20T12:42:13.000Z,1776708,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Bigpipe,Paladin,Retribution,dps,Eldre'Thalas
+62,287.1,301636032,8,City of Threads,2024-10-20T12:42:13.000Z,1776708,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",蓉蓉不痛,Monk,Windwalker,dps,Eldre'Thalas
+63,285.6,301329865,8,City of Threads,2024-10-19T11:47:01.000Z,1861018,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",忘千宝,Hunter,Survival,dps,Pandaren
+63,285.6,301329865,8,City of Threads,2024-10-19T11:47:01.000Z,1861018,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雪音克利丝,Death Knight,Frost,dps,Kel'Thuzad
+63,285.6,301329865,8,City of Threads,2024-10-19T11:47:01.000Z,1861018,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亖阶堂千鸟丶,Warrior,Protection,tank,Anzu
+63,285.6,301329865,8,City of Threads,2024-10-19T11:47:01.000Z,1861018,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",快乐山牛,Shaman,Restoration,healer,Echo Ridge
+63,285.6,301329865,8,City of Threads,2024-10-19T11:47:01.000Z,1861018,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",残茑之眼,Mage,Frost,dps,Echo Ridge
+64,285.2,301339332,8,City of Threads,2024-10-19T12:40:46.000Z,1886488,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",是卜瑞斯,Paladin,Holy,healer,World Tree
+64,285.2,301339332,8,City of Threads,2024-10-19T12:40:46.000Z,1886488,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",活动人偶,Death Knight,Blood,tank,Alleria
+64,285.2,301339332,8,City of Threads,2024-10-19T12:40:46.000Z,1886488,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",新島真,Warlock,Destruction,dps,Scarlet Crusade
+64,285.2,301339332,8,City of Threads,2024-10-19T12:40:46.000Z,1886488,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Geass,Death Knight,Frost,dps,Kaleidoscope Star
+64,285.2,301339332,8,City of Threads,2024-10-19T12:40:46.000Z,1886488,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",艾莉芬特,Shaman,Elemental,dps,Scarlet Crusade
+65,284.8,300818567,8,City of Threads,2024-10-17T09:04:49.000Z,1912786,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桃小爷,Druid,Guardian,tank,Al'ar
+65,284.8,300818567,8,City of Threads,2024-10-17T09:04:49.000Z,1912786,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+65,284.8,300818567,8,City of Threads,2024-10-17T09:04:49.000Z,1912786,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Skywiz,Warlock,Demonology,dps,Deathwing
+65,284.8,300818567,8,City of Threads,2024-10-17T09:04:49.000Z,1912786,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",天蓝色的我,Mage,Frost,dps,Archimonde
+65,284.8,300818567,8,City of Threads,2024-10-17T09:04:49.000Z,1912786,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",叶冰,Priest,Shadow,dps,Deathwing
+66,284.7,302097317,8,City of Threads,2024-10-22T10:38:42.000Z,1917649,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",花开陨落,Shaman,Elemental,dps,Echo Ridge
+66,284.7,302097317,8,City of Threads,2024-10-22T10:38:42.000Z,1917649,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",鲜榨小白兔,Shaman,Elemental,dps,Holy Chanter
+66,284.7,302097317,8,City of Threads,2024-10-22T10:38:42.000Z,1917649,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",狐狐震爆,Priest,Shadow,dps,Echo Ridge
+66,284.7,302097317,8,City of Threads,2024-10-22T10:38:42.000Z,1917649,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吃我飞饼,Paladin,Protection,tank,Al'ar
+66,284.7,302097317,8,City of Threads,2024-10-22T10:38:42.000Z,1917649,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",黑白白奶牛牛,Shaman,Restoration,healer,Chillwind Point
+67,284.6,301414746,8,City of Threads,2024-10-19T18:02:54.000Z,1923741,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",费丶托雷斯,Mage,Frost,dps,Blanchard
+67,284.6,301414746,8,City of Threads,2024-10-19T18:02:54.000Z,1923741,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",流云傲,Paladin,Retribution,dps,Dun Modr
+67,284.6,301414746,8,City of Threads,2024-10-19T18:02:54.000Z,1923741,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",茅坑挖煤,Shaman,Restoration,healer,Echo Ridge
+67,284.6,301414746,8,City of Threads,2024-10-19T18:02:54.000Z,1923741,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Tdruid,Druid,Guardian,tank,Al'ar
+67,284.6,301414746,8,City of Threads,2024-10-19T18:02:54.000Z,1923741,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",悲剧的莉莉斯,Hunter,Marksmanship,dps,Al'ar
+68,284.6,301098972,8,City of Threads,2024-10-18T15:32:39.000Z,1924180,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",真丶无限火力,Hunter,Marksmanship,dps,Shadowmourne
+68,284.6,301098972,8,City of Threads,2024-10-18T15:32:39.000Z,1924180,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我爱神牧,Monk,Brewmaster,tank,Rhonin
+68,284.6,301098972,8,City of Threads,2024-10-18T15:32:39.000Z,1924180,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",谷雨灬,Warlock,Destruction,dps,Rhonin
+68,284.6,301098972,8,City of Threads,2024-10-18T15:32:39.000Z,1924180,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",沧月樱,Priest,Discipline,healer,Rhonin
+68,284.6,301098972,8,City of Threads,2024-10-18T15:32:39.000Z,1924180,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",繁荣,Death Knight,Frost,dps,Shadowmourne
+69,284.1,301096034,8,City of Threads,2024-10-18T15:14:19.000Z,1951874,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",朴昌范,Paladin,Protection,tank,Al'ar
+69,284.1,301096034,8,City of Threads,2024-10-18T15:14:19.000Z,1951874,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",黑糖教主,Monk,Mistweaver,healer,Rhonin
+69,284.1,301096034,8,City of Threads,2024-10-18T15:14:19.000Z,1951874,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",術师傅丶,Warlock,Destruction,dps,Al'ar
+69,284.1,301096034,8,City of Threads,2024-10-18T15:14:19.000Z,1951874,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",十七十七,Monk,Windwalker,dps,The Master's Glaive
+69,284.1,301096034,8,City of Threads,2024-10-18T15:14:19.000Z,1951874,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",挽尘因,Paladin,Retribution,dps,The Master's Glaive
+70,284.1,301072359,8,City of Threads,2024-10-18T13:31:35.000Z,1953532,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Suzume,Priest,Holy,healer,Silver Hand
+70,284.1,301072359,8,City of Threads,2024-10-18T13:31:35.000Z,1953532,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",红手的冰决,Mage,Frost,dps,Deathwing
+70,284.1,301072359,8,City of Threads,2024-10-18T13:31:35.000Z,1953532,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",铁牛牛肉面,Druid,Balance,dps,Silver Hand
+70,284.1,301072359,8,City of Threads,2024-10-18T13:31:35.000Z,1953532,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Lisby,Shaman,Elemental,dps,Force of Elemental
+70,284.1,301072359,8,City of Threads,2024-10-18T13:31:35.000Z,1953532,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",纵是千千晚星,Demon Hunter,Vengeance,tank,Rhonin
+71,283.6,301596571,8,City of Threads,2024-10-20T09:04:28.000Z,1981217,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Nigihayami,Evoker,Devastation,dps,Deathwing
+71,283.6,301596571,8,City of Threads,2024-10-20T09:04:28.000Z,1981217,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吹云,Priest,Holy,healer,Frostwolf
+71,283.6,301596571,8,City of Threads,2024-10-20T09:04:28.000Z,1981217,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",少冰半糖丶,Warrior,Protection,tank,Deathwing
+71,283.6,301596571,8,City of Threads,2024-10-20T09:04:28.000Z,1981217,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",刀一抬死壹排,Demon Hunter,Havoc,dps,Pandaren
+71,283.6,301596571,8,City of Threads,2024-10-20T09:04:28.000Z,1981217,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",老司机带我,Paladin,Retribution,dps,Pandaren
+72,283.4,301597080,8,City of Threads,2024-10-20T11:08:19.000Z,1993813,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",朵蜜,Shaman,Restoration,healer,Isillien
+72,283.4,301597080,8,City of Threads,2024-10-20T11:08:19.000Z,1993813,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+72,283.4,301597080,8,City of Threads,2024-10-20T11:08:19.000Z,1993813,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",枪林箭雨,Hunter,Survival,dps,Al'ar
+72,283.4,301597080,8,City of Threads,2024-10-20T11:08:19.000Z,1993813,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",卢夲偉,Hunter,Marksmanship,dps,Al'ar
+72,283.4,301597080,8,City of Threads,2024-10-20T11:08:19.000Z,1993813,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",津门爱因斯坦,Hunter,Beast Mastery,dps,Scarlet Crusade
+73,282.9,301600124,8,City of Threads,2024-10-20T09:50:41.000Z,2020817,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",超酷小猪,Mage,Frost,dps,Al'ar
+73,282.9,301600124,8,City of Threads,2024-10-20T09:50:41.000Z,2020817,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",奶狗狗丶,Death Knight,Blood,tank,Al'ar
+73,282.9,301600124,8,City of Threads,2024-10-20T09:50:41.000Z,2020817,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",图图的圣光,Paladin,Retribution,dps,Silver Hand
+73,282.9,301600124,8,City of Threads,2024-10-20T09:50:41.000Z,2020817,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",叠溪,Paladin,Retribution,dps,Al'ar
+73,282.9,301600124,8,City of Threads,2024-10-20T09:50:41.000Z,2020817,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",马筱萌,Shaman,Restoration,healer,Grim Batol
+74,282.4,301867264,8,City of Threads,2024-10-21T08:43:17.000Z,2051058,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",夜斗,Paladin,Retribution,dps,Pandaren
+74,282.4,301867264,8,City of Threads,2024-10-21T08:43:17.000Z,2051058,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",菜的雅皮的粉,Paladin,Protection,tank,The Master's Glaive
+74,282.4,301867264,8,City of Threads,2024-10-21T08:43:17.000Z,2051058,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶新二,Paladin,Retribution,dps,Barrens
+74,282.4,301867264,8,City of Threads,2024-10-21T08:43:17.000Z,2051058,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",圣光眷顾着你,Paladin,Retribution,dps,Varian
+74,282.4,301867264,8,City of Threads,2024-10-21T08:43:17.000Z,2051058,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",哈酷辣玛塔塔,Shaman,Restoration,healer,Barrens
+75,282.1,302304691,8,City of Threads,2024-10-23T13:43:40.000Z,2069349,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",傻幽,Mage,Fire,dps,Dreadmist Peak
+75,282.1,302304691,8,City of Threads,2024-10-23T13:43:40.000Z,2069349,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",毛毛奶芙,Priest,Discipline,healer,Grim Batol
+75,282.1,302304691,8,City of Threads,2024-10-23T13:43:40.000Z,2069349,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Okoow,Paladin,Retribution,dps,Pandaren
+75,282.1,302304691,8,City of Threads,2024-10-23T13:43:40.000Z,2069349,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",芒果冰奶昔,Druid,Balance,dps,Al'ar
+75,282.1,302304691,8,City of Threads,2024-10-23T13:43:40.000Z,2069349,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",外设,Warrior,Protection,tank,Grim Batol
+76,281.9,301599664,8,City of Threads,2024-10-20T09:42:51.000Z,2081050,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",泆忆,Warlock,Demonology,dps,The Great Sea
+76,281.9,301599664,8,City of Threads,2024-10-20T09:42:51.000Z,2081050,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Toolshaman,Shaman,Elemental,dps,Bronzebeard
+76,281.9,301599664,8,City of Threads,2024-10-20T09:42:51.000Z,2081050,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",磕了牙,Mage,Arcane,dps,Bronzebeard
+76,281.9,301599664,8,City of Threads,2024-10-20T09:42:51.000Z,2081050,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",工具锄头,Priest,Holy,healer,Bronzebeard
+76,281.9,301599664,8,City of Threads,2024-10-20T09:42:51.000Z,2081050,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",工具蛋,Demon Hunter,Vengeance,tank,Bronzebeard
+77,281.8,301620320,8,City of Threads,2024-10-20T11:18:41.000Z,2084227,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",三上枝织,Demon Hunter,Havoc,dps,Deathwing
+77,281.8,301620320,8,City of Threads,2024-10-20T11:18:41.000Z,2084227,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",黎梦沉月,Death Knight,Blood,tank,Rhonin
+77,281.8,301620320,8,City of Threads,2024-10-20T11:18:41.000Z,2084227,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",夕寻小狮子,Druid,Restoration,healer,Rhonin
+77,281.8,301620320,8,City of Threads,2024-10-20T11:18:41.000Z,2084227,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",城北徐公丶,Hunter,Marksmanship,dps,Pandaren
+77,281.8,301620320,8,City of Threads,2024-10-20T11:18:41.000Z,2084227,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",套头圣骑,Paladin,Retribution,dps,The Great Sea
+78,281.8,301830068,8,City of Threads,2024-10-21T03:45:04.000Z,2087939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",呜了个汪喵咪,Death Knight,Blood,tank,Grim Batol
+78,281.8,301830068,8,City of Threads,2024-10-21T03:45:04.000Z,2087939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",引雷针,Shaman,Elemental,dps,Rhonin
+78,281.8,301830068,8,City of Threads,2024-10-21T03:45:04.000Z,2087939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",洒家呗想施主,Paladin,Retribution,dps,Scarlet Crusade
+78,281.8,301830068,8,City of Threads,2024-10-21T03:45:04.000Z,2087939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",欧鍠,Death Knight,Frost,dps,Burning Blade
+78,281.8,301830068,8,City of Threads,2024-10-21T03:45:04.000Z,2087939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",谢思雪,Priest,Discipline,healer,Nozdormu
+79,281.8,301680842,8,City of Threads,2024-10-20T16:01:30.000Z,2088282,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",羞羞的小伟伟,Druid,Guardian,tank,The Master's Glaive
+79,281.8,301680842,8,City of Threads,2024-10-20T16:01:30.000Z,2088282,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",朱砂变,Druid,Restoration,healer,Zalazane
+79,281.8,301680842,8,City of Threads,2024-10-20T16:01:30.000Z,2088282,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",诡沭妖姬,Mage,Frost,dps,Zalazane
+79,281.8,301680842,8,City of Threads,2024-10-20T16:01:30.000Z,2088282,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶睡叔叔,Evoker,Augmentation,dps,Silver Hand
+79,281.8,301680842,8,City of Threads,2024-10-20T16:01:30.000Z,2088282,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",额米陀佛,Monk,Windwalker,dps,Zalazane
+80,280.6,301895058,8,City of Threads,2024-10-21T13:31:52.000Z,2154037,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",犬田悌顺,Death Knight,Blood,tank,Eldre'Thalas
+80,280.6,301895058,8,City of Threads,2024-10-21T13:31:52.000Z,2154037,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",康大牛,Warrior,Fury,dps,Galakrond
+80,280.6,301895058,8,City of Threads,2024-10-21T13:31:52.000Z,2154037,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",靈獸鳴途,Shaman,Elemental,dps,Eldre'Thalas
+80,280.6,301895058,8,City of Threads,2024-10-21T13:31:52.000Z,2154037,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",你被强化了,Evoker,Augmentation,dps,Eldre'Thalas
+80,280.6,301895058,8,City of Threads,2024-10-21T13:31:52.000Z,2154037,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",西瓜狐,Shaman,Restoration,healer,Silverpine Forest
+81,280.2,302126710,8,City of Threads,2024-10-22T14:50:58.000Z,2182011,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",瓜瓜雎鸠,Death Knight,Frost,dps,Deathwing
+81,280.2,302126710,8,City of Threads,2024-10-22T14:50:58.000Z,2182011,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Vaelira,Rogue,Assassination,dps,Rhonin
+81,280.2,302126710,8,City of Threads,2024-10-22T14:50:58.000Z,2182011,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",到此為止,Druid,Guardian,tank,Frostmourne
+81,280.2,302126710,8,City of Threads,2024-10-22T14:50:58.000Z,2182011,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",想长大高个,Shaman,Restoration,healer,Anzu
+81,280.2,302126710,8,City of Threads,2024-10-22T14:50:58.000Z,2182011,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",奥德彪灬,Evoker,Augmentation,dps,Chillwind Point
+82,279.9,304212668,7,City of Threads,2024-10-20T06:55:09.000Z,1264875,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小只大萌德,Druid,Balance,dps,Ravencrest
+82,279.9,304212668,7,City of Threads,2024-10-20T06:55:09.000Z,1264875,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",幻影之舞,Paladin,Retribution,dps,Well of Eternity
+82,279.9,304212668,7,City of Threads,2024-10-20T06:55:09.000Z,1264875,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桀哥不要啊,Demon Hunter,Vengeance,tank,Well of Eternity
+82,279.9,304212668,7,City of Threads,2024-10-20T06:55:09.000Z,1264875,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",圣圣月,Paladin,Holy,healer,Well of Eternity
+82,279.9,304212668,7,City of Threads,2024-10-20T06:55:09.000Z,1264875,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Ghdfhdee,Druid,Balance,dps,The Master's Glaive
+83,279.4,304212672,7,City of Threads,2024-10-20T07:55:02.000Z,1296811,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小只大萌德,Druid,Balance,dps,Ravencrest
+83,279.4,304212672,7,City of Threads,2024-10-20T07:55:02.000Z,1296811,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桀哥不要啊,Demon Hunter,Vengeance,tank,Well of Eternity
+83,279.4,304212672,7,City of Threads,2024-10-20T07:55:02.000Z,1296811,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",圣圣月,Paladin,Retribution,dps,Well of Eternity
+83,279.4,304212672,7,City of Threads,2024-10-20T07:55:02.000Z,1296811,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",大内高手丨,Demon Hunter,Havoc,dps,Crushridge
+83,279.4,304212672,7,City of Threads,2024-10-20T07:55:02.000Z,1296811,2100999,3,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",夺萃之镰,Shaman,Restoration,healer,Well of Eternity
+84,279.1,301633160,7,City of Threads,2024-10-20T12:21:15.000Z,1366177,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",二苟,Death Knight,Blood,tank,Al'ar
+84,279.1,301633160,7,City of Threads,2024-10-20T12:21:15.000Z,1366177,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",风后奇门丶,Paladin,Retribution,dps,Chillwind Point
+84,279.1,301633160,7,City of Threads,2024-10-20T12:21:15.000Z,1366177,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",李火旺丶,Death Knight,Frost,dps,Chillwind Point
+84,279.1,301633160,7,City of Threads,2024-10-20T12:21:15.000Z,1366177,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",关之琳塞篮球,Paladin,Retribution,dps,Kel'Thuzad
+84,279.1,301633160,7,City of Threads,2024-10-20T12:21:15.000Z,1366177,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",杨玲玲,Paladin,Holy,healer,Chillwind Point
+85,278.5,301876813,7,City of Threads,2024-10-21T10:37:06.000Z,1399436,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",因吹斯霆,Shaman,Restoration,healer,Deathwing
+85,278.5,301876813,7,City of Threads,2024-10-21T10:37:06.000Z,1399436,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",艾师傅,Mage,Frost,dps,Isillien
+85,278.5,301876813,7,City of Threads,2024-10-21T10:37:06.000Z,1399436,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",女施主请赐教,Druid,Guardian,tank,Anzu
+85,278.5,301876813,7,City of Threads,2024-10-21T10:37:06.000Z,1399436,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",句句不提,Mage,Frost,dps,Al'ar
+85,278.5,301876813,7,City of Threads,2024-10-21T10:37:06.000Z,1399436,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",毓婷放心爱丶,Paladin,Retribution,dps,Pandaren
+86,278.1,301567458,7,City of Threads,2024-10-20T05:46:57.000Z,1426936,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",南瓜七七,Priest,Discipline,healer,Doomwalker
+86,278.1,301567458,7,City of Threads,2024-10-20T05:46:57.000Z,1426936,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿露酱丶嗷呜,Evoker,Augmentation,dps,Doomwalker
+86,278.1,301567458,7,City of Threads,2024-10-20T05:46:57.000Z,1426936,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我就是法神,Mage,Frost,dps,Doomwalker
+86,278.1,301567458,7,City of Threads,2024-10-20T05:46:57.000Z,1426936,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桃桃圣,Paladin,Retribution,dps,Silver Hand
+86,278.1,301567458,7,City of Threads,2024-10-20T05:46:57.000Z,1426936,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",三人日二人,Druid,Guardian,tank,Isillien
+87,277.9,301339844,7,City of Threads,2024-10-19T12:47:36.000Z,1435054,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Yoasaobi,Paladin,Retribution,dps,Silver Hand
+87,277.9,301339844,7,City of Threads,2024-10-19T12:47:36.000Z,1435054,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",璀璨天星,Shaman,Restoration,healer,Silver Hand
+87,277.9,301339844,7,City of Threads,2024-10-19T12:47:36.000Z,1435054,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",洞烛先机,Warrior,Protection,tank,Eldre'Thalas
+87,277.9,301339844,7,City of Threads,2024-10-19T12:47:36.000Z,1435054,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Crilde,Mage,Fire,dps,Rhonin
+87,277.9,301339844,7,City of Threads,2024-10-19T12:47:36.000Z,1435054,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",关东水饺,Paladin,Retribution,dps,Eldre'Thalas
+88,277.6,301985975,7,City of Threads,2024-10-21T20:15:16.000Z,1452179,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",江阴狡猾男,Death Knight,Frost,dps,Chillwind Point
+88,277.6,301985975,7,City of Threads,2024-10-21T20:15:16.000Z,1452179,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",伯克戴帅哥牧,Priest,Discipline,healer,Chillwind Point
+88,277.6,301985975,7,City of Threads,2024-10-21T20:15:16.000Z,1452179,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Archswordd,Paladin,Protection,tank,Wing of the Whelping
+88,277.6,301985975,7,City of Threads,2024-10-21T20:15:16.000Z,1452179,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",聖珖無用,Paladin,Retribution,dps,Scarlet Crusade
+88,277.6,301985975,7,City of Threads,2024-10-21T20:15:16.000Z,1452179,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",离去小龙人,Evoker,Augmentation,dps,Scarlet Crusade
+89,277.6,301914815,7,City of Threads,2024-10-21T15:50:24.000Z,1454789,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Lovelss,Death Knight,Frost,dps,Thrall
+89,277.6,301914815,7,City of Threads,2024-10-21T15:50:24.000Z,1454789,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",减伤交过了,Monk,Mistweaver,healer,Thrall
+89,277.6,301914815,7,City of Threads,2024-10-21T15:50:24.000Z,1454789,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",常山赵子龙,Evoker,Augmentation,dps,Thrall
+89,277.6,301914815,7,City of Threads,2024-10-21T15:50:24.000Z,1454789,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",这我奶不上,Paladin,Protection,tank,Burning Blade
+89,277.6,301914815,7,City of Threads,2024-10-21T15:50:24.000Z,1454789,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",十级闪电,Shaman,Elemental,dps,Flame Crest
+90,277.3,302200456,7,City of Threads,2024-10-22T21:43:28.000Z,1474109,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",赛博牛马,Warlock,Demonology,dps,Peak of Serenity
+90,277.3,302200456,7,City of Threads,2024-10-22T21:43:28.000Z,1474109,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",海苔壽司,Paladin,Holy,healer,Sunstrider
+90,277.3,302200456,7,City of Threads,2024-10-22T21:43:28.000Z,1474109,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",冲锋盾挡释放,Warrior,Protection,tank,Scarlet Crusade
+90,277.3,302200456,7,City of Threads,2024-10-22T21:43:28.000Z,1474109,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",随便搞一个,Paladin,Retribution,dps,Barrens
+90,277.3,302200456,7,City of Threads,2024-10-22T21:43:28.000Z,1474109,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Giggitygiggi,Evoker,Augmentation,dps,Isillien
+91,277.2,301547428,7,City of Threads,2024-10-20T03:44:19.000Z,1481088,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",不想名字了丶,Druid,Balance,dps,Isillien
+91,277.2,301547428,7,City of Threads,2024-10-20T03:44:19.000Z,1481088,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",绝对英雄丶,Demon Hunter,Havoc,dps,Isillien
+91,277.2,301547428,7,City of Threads,2024-10-20T03:44:19.000Z,1481088,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",殘剣,Warrior,Fury,dps,Chillwind Point
+91,277.2,301547428,7,City of Threads,2024-10-20T03:44:19.000Z,1481088,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",别怕有哥在,Warrior,Protection,tank,Dark Iron
+91,277.2,301547428,7,City of Threads,2024-10-20T03:44:19.000Z,1481088,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",傻灬銱,Shaman,Restoration,healer,Grim Batol
+92,276.7,302325018,7,City of Threads,2024-10-23T16:10:07.000Z,1505665,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",村口恶霸王,Mage,Frost,dps,Shadowmourne
+92,276.7,302325018,7,City of Threads,2024-10-23T16:10:07.000Z,1505665,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我又不乱来,Death Knight,Frost,dps,Demon Fall Canyon
+92,276.7,302325018,7,City of Threads,2024-10-23T16:10:07.000Z,1505665,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",圣骑小妹,Paladin,Holy,healer,Ahn'Qiraj
+92,276.7,302325018,7,City of Threads,2024-10-23T16:10:07.000Z,1505665,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桀骜丶苍穹,Druid,Guardian,tank,Deathwing
+92,276.7,302325018,7,City of Threads,2024-10-23T16:10:07.000Z,1505665,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",低调下头男,Hunter,Marksmanship,dps,Windrunner
+93,276.6,300881649,7,City of Threads,2024-10-17T16:50:13.000Z,1513581,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小叶子啊,Druid,Balance,dps,Rhonin
+93,276.6,300881649,7,City of Threads,2024-10-17T16:50:13.000Z,1513581,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",高圈圈,Druid,Restoration,healer,Scarlet Crusade
+93,276.6,300881649,7,City of Threads,2024-10-17T16:50:13.000Z,1513581,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+93,276.6,300881649,7,City of Threads,2024-10-17T16:50:13.000Z,1513581,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",豆豆的传说,Druid,Restoration,healer,Frostmourne
+93,276.6,300881649,7,City of Threads,2024-10-17T16:50:13.000Z,1513581,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吃柠檬丶,Demon Hunter,Havoc,dps,Isillien
+94,275.8,301327772,7,City of Threads,2024-10-19T11:19:04.000Z,1560638,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Asruthless,Rogue,Assassination,dps,Scarlet Crusade
+94,275.8,301327772,7,City of Threads,2024-10-19T11:19:04.000Z,1560638,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Kalazh,Rogue,Assassination,dps,Scarlet Crusade
+94,275.8,301327772,7,City of Threads,2024-10-19T11:19:04.000Z,1560638,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",捏个小程,Paladin,Holy,healer,Scarlet Crusade
+94,275.8,301327772,7,City of Threads,2024-10-19T11:19:04.000Z,1560638,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",列里尔,Hunter,Marksmanship,dps,Rhonin
+94,275.8,301327772,7,City of Threads,2024-10-19T11:19:04.000Z,1560638,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",释度爱别离,Demon Hunter,Vengeance,tank,Al'ar
+95,275.8,301647853,7,City of Threads,2024-10-20T14:47:16.000Z,1560928,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Nastykikoz,Mage,Arcane,dps,Bladefist
+95,275.8,301647853,7,City of Threads,2024-10-20T14:47:16.000Z,1560928,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",爱偷腥丶猫,Paladin,Retribution,dps,Deathwing
+95,275.8,301647853,7,City of Threads,2024-10-20T14:47:16.000Z,1560928,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",泰山上的老鹅,Warrior,Protection,tank,Al'ar
+95,275.8,301647853,7,City of Threads,2024-10-20T14:47:16.000Z,1560928,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",兽哥一怒之下,Shaman,Restoration,healer,Bladefist
+95,275.8,301647853,7,City of Threads,2024-10-20T14:47:16.000Z,1560928,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",慢跑星人,Death Knight,Frost,dps,Scarlet Crusade
+96,275.4,301076591,7,City of Threads,2024-10-18T13:19:11.000Z,1583528,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",兎你一脸,Demon Hunter,Vengeance,tank,Burning Blade
+96,275.4,301076591,7,City of Threads,2024-10-18T13:19:11.000Z,1583528,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",温柔如初丷,Shaman,Restoration,healer,Silver Hand
+96,275.4,301076591,7,City of Threads,2024-10-18T13:19:11.000Z,1583528,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",香辣鱼丸,Evoker,Augmentation,dps,Burning Blade
+96,275.4,301076591,7,City of Threads,2024-10-18T13:19:11.000Z,1583528,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",柠丶檬丶,Paladin,Retribution,dps,Runetotem
+96,275.4,301076591,7,City of Threads,2024-10-18T13:19:11.000Z,1583528,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Linnsm,Shaman,Elemental,dps,Al'ar
+97,275.3,302272059,7,City of Threads,2024-10-23T07:09:03.000Z,1587240,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",潇洒盖姚明,Shaman,Restoration,healer,Chillwind Point
+97,275.3,302272059,7,City of Threads,2024-10-23T07:09:03.000Z,1587240,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",南城旧梦丶,Paladin,Protection,tank,Burning Steppes
+97,275.3,302272059,7,City of Threads,2024-10-23T07:09:03.000Z,1587240,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",香蕉上的唇印,Shaman,Elemental,dps,Deathwing
+97,275.3,302272059,7,City of Threads,2024-10-23T07:09:03.000Z,1587240,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",後青春期的诗,Mage,Frost,dps,Lich King
+97,275.3,302272059,7,City of Threads,2024-10-23T07:09:03.000Z,1587240,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",风车车儿,Paladin,Retribution,dps,Barrens
+98,275,301100641,7,City of Threads,2024-10-18T15:42:27.000Z,1603926,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亅七二七丨,Paladin,Retribution,dps,Anzu
+98,275,301100641,7,City of Threads,2024-10-18T15:42:27.000Z,1603926,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雪音克利丝,Death Knight,Frost,dps,Kel'Thuzad
+98,275,301100641,7,City of Threads,2024-10-18T15:42:27.000Z,1603926,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",亖阶堂千鸟丶,Warrior,Protection,tank,Anzu
+98,275,301100641,7,City of Threads,2024-10-18T15:42:27.000Z,1603926,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",雷光电舞,Shaman,Elemental,dps,Valley of Kings
+98,275,301100641,7,City of Threads,2024-10-18T15:42:27.000Z,1603926,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",彡桔梗彡,Priest,Holy,healer,The Master's Glaive
+99,274.8,302115007,7,City of Threads,2024-10-22T13:09:01.000Z,1621287,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",苍越孤鸣,Death Knight,Frost,dps,Dalvengyr
+99,274.8,302115007,7,City of Threads,2024-10-22T13:09:01.000Z,1621287,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",牛奶巧克力丿,Death Knight,Unholy,dps,Al'ar
+99,274.8,302115007,7,City of Threads,2024-10-22T13:09:01.000Z,1621287,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",兜里有糖豆包,Shaman,Restoration,healer,Rhonin
+99,274.8,302115007,7,City of Threads,2024-10-22T13:09:01.000Z,1621287,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",云乄曦,Demon Hunter,Vengeance,tank,Dalvengyr
+99,274.8,302115007,7,City of Threads,2024-10-22T13:09:01.000Z,1621287,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",暮色年华,Mage,Frost,dps,Pandaren
+100,274.1,301599833,7,City of Threads,2024-10-20T09:45:46.000Z,1656823,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",落樱八方绝,Death Knight,Unholy,dps,Deathwing
+100,274.1,301599833,7,City of Threads,2024-10-20T09:45:46.000Z,1656823,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",勇猛的国宝,Shaman,Restoration,healer,Rhonin
+100,274.1,301599833,7,City of Threads,2024-10-20T09:45:46.000Z,1656823,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",秉性纯良,Hunter,Marksmanship,dps,Holy Chanter
+100,274.1,301599833,7,City of Threads,2024-10-20T09:45:46.000Z,1656823,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",薄荷糖浆,Druid,Guardian,tank,Deathwing
+100,274.1,301599833,7,City of Threads,2024-10-20T09:45:46.000Z,1656823,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",鲨鱻辣椒,Paladin,Retribution,dps,Whisperwind
+101,273.4,302137980,7,City of Threads,2024-10-22T15:59:19.000Z,1698621,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",倪倪颜,Priest,Discipline,healer,Al'ar
+101,273.4,302137980,7,City of Threads,2024-10-22T15:59:19.000Z,1698621,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",真就血压拉满,Death Knight,Blood,tank,Anzu
+101,273.4,302137980,7,City of Threads,2024-10-22T15:59:19.000Z,1698621,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",殺手不太冷乄,Priest,Shadow,dps,Al'ar
+101,273.4,302137980,7,City of Threads,2024-10-22T15:59:19.000Z,1698621,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",爱喝美年达,Death Knight,Frost,dps,Al'ar
+101,273.4,302137980,7,City of Threads,2024-10-22T15:59:19.000Z,1698621,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小飞萨满,Shaman,Enhancement,dps,Al'ar
+102,273,300875886,7,City of Threads,2024-10-17T16:10:54.000Z,1721075,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小叶子啊,Druid,Balance,dps,Rhonin
+102,273,300875886,7,City of Threads,2024-10-17T16:10:54.000Z,1721075,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+102,273,300875886,7,City of Threads,2024-10-17T16:10:54.000Z,1721075,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",灬红灬手灬,Druid,Restoration,healer,Deathwing
+102,273,300875886,7,City of Threads,2024-10-17T16:10:54.000Z,1721075,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",豆豆的传说,Druid,Feral,dps,Frostmourne
+102,273,300875886,7,City of Threads,2024-10-17T16:10:54.000Z,1721075,2190999,2,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",一条咕,Druid,Balance,dps,Shadowmourne
+103,272.1,301579150,7,City of Threads,2024-10-20T07:01:49.000Z,1773629,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",南瓜七七,Priest,Discipline,healer,Doomwalker
+103,272.1,301579150,7,City of Threads,2024-10-20T07:01:49.000Z,1773629,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",清舞菲菲,Shaman,Enhancement,dps,Doomwalker
+103,272.1,301579150,7,City of Threads,2024-10-20T07:01:49.000Z,1773629,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",阿露酱丶嗷呜,Evoker,Augmentation,dps,Doomwalker
+103,272.1,301579150,7,City of Threads,2024-10-20T07:01:49.000Z,1773629,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",了了雄,Druid,Guardian,tank,Doomwalker
+103,272.1,301579150,7,City of Threads,2024-10-20T07:01:49.000Z,1773629,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我就是法神,Mage,Frost,dps,Doomwalker
+104,271.7,301296537,7,City of Threads,2024-10-19T07:27:30.000Z,1798980,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",恶魔丶魂,Warlock,Demonology,dps,Eldre'Thalas
+104,271.7,301296537,7,City of Threads,2024-10-19T07:27:30.000Z,1798980,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",团长給我大饼,Demon Hunter,Vengeance,tank,Eldre'Thalas
+104,271.7,301296537,7,City of Threads,2024-10-19T07:27:30.000Z,1798980,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",灬奎爷丿,Rogue,Assassination,dps,Eldre'Thalas
+104,271.7,301296537,7,City of Threads,2024-10-19T07:27:30.000Z,1798980,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Kpig,Warrior,Fury,dps,Eldre'Thalas
+104,271.7,301296537,7,City of Threads,2024-10-19T07:27:30.000Z,1798980,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",求求了别震了,Priest,Discipline,healer,Holy Chanter
+105,271.3,301559779,7,City of Threads,2024-10-20T04:57:03.000Z,1823443,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",南京吴孟达,Paladin,Retribution,dps,Anzu
+105,271.3,301559779,7,City of Threads,2024-10-20T04:57:03.000Z,1823443,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",兰斯阿洛,Paladin,Retribution,dps,Anzu
+105,271.3,301559779,7,City of Threads,2024-10-20T04:57:03.000Z,1823443,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",暴力腾,Warrior,Protection,tank,Anzu
+105,271.3,301559779,7,City of Threads,2024-10-20T04:57:03.000Z,1823443,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",德卟偿失,Druid,Restoration,healer,Valley of Kings
+105,271.3,301559779,7,City of Threads,2024-10-20T04:57:03.000Z,1823443,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",魔剑士兰格莉,Mage,Frost,dps,The Golden Plains
+106,271,300848231,7,City of Threads,2024-10-17T13:49:42.000Z,1842036,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",内谢你,Paladin,Protection,tank,Deathwing
+106,271,300848231,7,City of Threads,2024-10-17T13:49:42.000Z,1842036,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",神秘的加菲猫,Death Knight,Frost,dps,Silver Hand
+106,271,300848231,7,City of Threads,2024-10-17T13:49:42.000Z,1842036,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Cathinone,Priest,Discipline,healer,Swiftwind
+106,271,300848231,7,City of Threads,2024-10-17T13:49:42.000Z,1842036,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",银河星云,Warrior,Fury,dps,Deathwing
+106,271,300848231,7,City of Threads,2024-10-17T13:49:42.000Z,1842036,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",克里斯蒂娜,Death Knight,Frost,dps,Arathi
+107,270.8,301876643,7,City of Threads,2024-10-21T10:32:11.000Z,1850729,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Lisassr,Paladin,Protection,tank,Pandaren
+107,270.8,301876643,7,City of Threads,2024-10-21T10:32:11.000Z,1850729,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",星野爱,Priest,Shadow,dps,Frostmourne
+107,270.8,301876643,7,City of Threads,2024-10-21T10:32:11.000Z,1850729,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",睡觉时候不困,Priest,Shadow,dps,Pandaren
+107,270.8,301876643,7,City of Threads,2024-10-21T10:32:11.000Z,1850729,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",老四,Priest,Holy,healer,Anachronos
+107,270.8,301876643,7,City of Threads,2024-10-21T10:32:11.000Z,1850729,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",秋天第一个吻,Death Knight,Frost,dps,Valley of Kings
+108,270.5,301853710,7,City of Threads,2024-10-21T06:05:01.000Z,1871747,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",达克妮丝丶,Paladin,Retribution,dps,Anzu
+108,270.5,301853710,7,City of Threads,2024-10-21T06:05:01.000Z,1871747,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",驴是念着倒,Death Knight,Frost,dps,Maim
+108,270.5,301853710,7,City of Threads,2024-10-21T06:05:01.000Z,1871747,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",逐颜术,Warlock,Affliction,dps,Kel'Thuzad
+108,270.5,301853710,7,City of Threads,2024-10-21T06:05:01.000Z,1871747,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",黑甲丶王爷,Shaman,Restoration,healer,Dreadmist Peak
+108,270.5,301853710,7,City of Threads,2024-10-21T06:05:01.000Z,1871747,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",忧落的小德,Druid,Guardian,tank,Sargeras
+109,269.5,301256055,7,City of Threads,2024-10-19T02:59:46.000Z,1927066,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",维涅斯海德林,Paladin,Retribution,dps,Deathwing
+109,269.5,301256055,7,City of Threads,2024-10-19T02:59:46.000Z,1927066,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Owlheron,Paladin,Protection,tank,Deathwing
+109,269.5,301256055,7,City of Threads,2024-10-19T02:59:46.000Z,1927066,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Stephanie,Warlock,Affliction,dps,Booty Bay
+109,269.5,301256055,7,City of Threads,2024-10-19T02:59:46.000Z,1927066,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",大十字军,Paladin,Retribution,dps,Deathwing
+109,269.5,301256055,7,City of Threads,2024-10-19T02:59:46.000Z,1927066,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",教主玩萨满咯,Shaman,Restoration,healer,Booty Bay
+110,268.2,301646461,7,City of Threads,2024-10-20T14:21:57.000Z,2002019,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",原子核可乐,Shaman,Restoration,healer,Pandaren
+110,268.2,301646461,7,City of Threads,2024-10-20T14:21:57.000Z,2002019,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",法力药水,Mage,Frost,dps,Lich King
+110,268.2,301646461,7,City of Threads,2024-10-20T14:21:57.000Z,2002019,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吃夜宵吗,Warlock,Destruction,dps,Deathwing
+110,268.2,301646461,7,City of Threads,2024-10-20T14:21:57.000Z,2002019,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",尾小尾,Paladin,Protection,tank,Pandaren
+110,268.2,301646461,7,City of Threads,2024-10-20T14:21:57.000Z,2002019,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Playerjbiiwn,Demon Hunter,Havoc,dps,Pandaren
+111,268.1,302358695,7,City of Threads,2024-10-23T18:39:47.000Z,2010939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",我滴天啊,Shaman,Restoration,healer,Emeriss
+111,268.1,302358695,7,City of Threads,2024-10-23T18:39:47.000Z,2010939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",大号蓝色坏蛋,Mage,Frost,dps,Arygos
+111,268.1,302358695,7,City of Threads,2024-10-23T18:39:47.000Z,2010939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",大家吃番茄,Death Knight,Blood,tank,Garr
+111,268.1,302358695,7,City of Threads,2024-10-23T18:39:47.000Z,2010939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",防暴骑士丶,Paladin,Retribution,dps,Al'ar
+111,268.1,302358695,7,City of Threads,2024-10-23T18:39:47.000Z,2010939,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Sternstunde,Paladin,Retribution,dps,Well of Eternity
+112,267.2,301728837,7,City of Threads,2024-10-20T19:01:16.000Z,2063707,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",村口恶霸龙,Evoker,Augmentation,dps,Shadowmourne
+112,267.2,301728837,7,City of Threads,2024-10-20T19:01:16.000Z,2063707,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",桃白柠,Shaman,Restoration,healer,The Master's Glaive
+112,267.2,301728837,7,City of Threads,2024-10-20T19:01:16.000Z,2063707,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",凡雅,Paladin,Retribution,dps,Argus
+112,267.2,301728837,7,City of Threads,2024-10-20T19:01:16.000Z,2063707,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",秽浊异言,Mage,Arcane,dps,The Master's Glaive
+112,267.2,301728837,7,City of Threads,2024-10-20T19:01:16.000Z,2063707,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",微笑之领主,Death Knight,Blood,tank,The Great Sea
+113,266.4,300897583,7,City of Threads,2024-10-17T18:04:15.000Z,2106489,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",冷艳刺客,Rogue,Assassination,dps,Pandaren
+113,266.4,300897583,7,City of Threads,2024-10-17T18:04:15.000Z,2106489,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",小叶子啊,Druid,Restoration,healer,Rhonin
+113,266.4,300897583,7,City of Threads,2024-10-17T18:04:15.000Z,2106489,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",丶咕咾肉,Druid,Guardian,tank,Burning Blade
+113,266.4,300897583,7,City of Threads,2024-10-17T18:04:15.000Z,2106489,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",豆豆的传说,Druid,Restoration,healer,Frostmourne
+113,266.4,300897583,7,City of Threads,2024-10-17T18:04:15.000Z,2106489,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",吃柠檬丶,Demon Hunter,Havoc,dps,Isillien
+114,265.3,301122443,7,City of Threads,2024-10-18T17:31:42.000Z,2174592,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",大牛海棠,Death Knight,Blood,tank,Al'ar
+114,265.3,301122443,7,City of Threads,2024-10-18T17:31:42.000Z,2174592,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",烟雨平生丶,Paladin,Retribution,dps,Kel'Thuzad
+114,265.3,301122443,7,City of Threads,2024-10-18T17:31:42.000Z,2174592,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Honour,Paladin,Retribution,dps,Pandaren
+114,265.3,301122443,7,City of Threads,2024-10-18T17:31:42.000Z,2174592,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",Medk,Death Knight,Frost,dps,The Master's Glaive
+114,265.3,301122443,7,City of Threads,2024-10-18T17:31:42.000Z,2174592,2190999,1,"Xal'atath's Bargain: Oblivion, Tyrannical, Challenger's Peril",南江第一深情,Priest,Discipline,healer,The Master's Glaive

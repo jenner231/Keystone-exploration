@@ -1,0 +1,76 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,300162159,3,Grim Batol,2024-10-14T15:28:13.000Z,1107135,2040999,3,Xal'atath's Bargain: Devour,引雷针,Shaman,Elemental,dps,Rhonin
+1,195,300162159,3,Grim Batol,2024-10-14T15:28:13.000Z,1107135,2040999,3,Xal'atath's Bargain: Devour,Xlgrape,Priest,Discipline,healer,Grim Batol
+1,195,300162159,3,Grim Batol,2024-10-14T15:28:13.000Z,1107135,2040999,3,Xal'atath's Bargain: Devour,狵丶,Warrior,Protection,tank,Silver Hand
+1,195,300162159,3,Grim Batol,2024-10-14T15:28:13.000Z,1107135,2040999,3,Xal'atath's Bargain: Devour,Zoeycognomen,Death Knight,Frost,dps,Silver Hand
+1,195,300162159,3,Grim Batol,2024-10-14T15:28:13.000Z,1107135,2040999,3,Xal'atath's Bargain: Devour,肾虚噵长,Mage,Frost,dps,Daggerspine
+2,195,304720134,3,Grim Batol,2024-11-03T14:53:17.000Z,1218346,2040999,3,Xal'atath's Bargain: Devour,牛至,Warrior,Fury,dps,Hectae
+2,195,304720134,3,Grim Batol,2024-11-03T14:53:17.000Z,1218346,2040999,3,Xal'atath's Bargain: Devour,Minicoco,Shaman,Elemental,dps,Hogger
+2,195,304720134,3,Grim Batol,2024-11-03T14:53:17.000Z,1218346,2040999,3,Xal'atath's Bargain: Devour,滴滴打德,Druid,Restoration,healer,Loken
+2,195,304720134,3,Grim Batol,2024-11-03T14:53:17.000Z,1218346,2040999,3,Xal'atath's Bargain: Devour,凡泠骑,Paladin,Protection,tank,Force of Elemental
+2,195,304720134,3,Grim Batol,2024-11-03T14:53:17.000Z,1218346,2040999,3,Xal'atath's Bargain: Devour,Cocogoldball,Evoker,Augmentation,dps,Hogger
+3,194.8,299891027,3,Grim Batol,2024-10-13T14:06:49.000Z,1237931,2040999,2,Xal'atath's Bargain: Devour,乀阿暴乄,Warrior,Protection,tank,Chillwind Point
+3,194.8,299891027,3,Grim Batol,2024-10-13T14:06:49.000Z,1237931,2040999,2,Xal'atath's Bargain: Devour,懒龙露娜,Evoker,Preservation,healer,Chillwind Point
+3,194.8,299891027,3,Grim Batol,2024-10-13T14:06:49.000Z,1237931,2040999,2,Xal'atath's Bargain: Devour,哦豁豁,Shaman,Elemental,dps,Deathwhisper
+3,194.8,299891027,3,Grim Batol,2024-10-13T14:06:49.000Z,1237931,2040999,2,Xal'atath's Bargain: Devour,邋遢的恶魔,Demon Hunter,Havoc,dps,Thrall
+3,194.8,299891027,3,Grim Batol,2024-10-13T14:06:49.000Z,1237931,2040999,2,Xal'atath's Bargain: Devour,Gunnimad,Paladin,Retribution,dps,Anzu
+4,192,305317758,3,Grim Batol,2024-11-06T03:35:09.000Z,1390004,2040999,2,Xal'atath's Bargain: Devour,莱茵河的落秋,Rogue,Assassination,dps,Shadowmourne
+4,192,305317758,3,Grim Batol,2024-11-06T03:35:09.000Z,1390004,2040999,2,Xal'atath's Bargain: Devour,寶貝宸,Paladin,Retribution,dps,Scarlet Crusade
+4,192,305317758,3,Grim Batol,2024-11-06T03:35:09.000Z,1390004,2040999,2,Xal'atath's Bargain: Devour,米兰球王,Paladin,Protection,tank,Barrens
+4,192,305317758,3,Grim Batol,2024-11-06T03:35:09.000Z,1390004,2040999,2,Xal'atath's Bargain: Devour,电击疗法灬,Priest,Discipline,healer,Deathwing
+4,192,305317758,3,Grim Batol,2024-11-06T03:35:09.000Z,1390004,2040999,2,Xal'atath's Bargain: Devour,怀梦美少女,Shaman,Enhancement,dps,Deathwing
+5,180,300143500,2,Grim Batol,2024-10-14T13:21:57.000Z,1044361,2040999,3,Xal'atath's Bargain: Devour,蛇姬师琴爹,Mage,Arcane,dps,Anzu
+5,180,300143500,2,Grim Batol,2024-10-14T13:21:57.000Z,1044361,2040999,3,Xal'atath's Bargain: Devour,亅七二七丨,Paladin,Retribution,dps,Anzu
+5,180,300143500,2,Grim Batol,2024-10-14T13:21:57.000Z,1044361,2040999,3,Xal'atath's Bargain: Devour,雪音克利丝,Death Knight,Frost,dps,Kel'Thuzad
+5,180,300143500,2,Grim Batol,2024-10-14T13:21:57.000Z,1044361,2040999,3,Xal'atath's Bargain: Devour,亖阶堂千鸟丶,Warrior,Protection,tank,Anzu
+5,180,300143500,2,Grim Batol,2024-10-14T13:21:57.000Z,1044361,2040999,3,Xal'atath's Bargain: Devour,小炭仔,Shaman,Restoration,healer,Valley of Kings
+6,180,305153073,2,Grim Batol,2024-11-05T13:01:01.000Z,1111807,2040999,3,Xal'atath's Bargain: Devour,叶瀏,Rogue,Outlaw,dps,Echo Ridge
+6,180,305153073,2,Grim Batol,2024-11-05T13:01:01.000Z,1111807,2040999,3,Xal'atath's Bargain: Devour,Vensamanos,Shaman,Enhancement,dps,The Forgotten Coast
+6,180,305153073,2,Grim Batol,2024-11-05T13:01:01.000Z,1111807,2040999,3,Xal'atath's Bargain: Devour,逍遥肖骁六世,Druid,Guardian,tank,The Forgotten Coast
+6,180,305153073,2,Grim Batol,2024-11-05T13:01:01.000Z,1111807,2040999,3,Xal'atath's Bargain: Devour,Momoji,Warlock,Destruction,dps,Dream Bough
+6,180,305153073,2,Grim Batol,2024-11-05T13:01:01.000Z,1111807,2040999,3,Xal'atath's Bargain: Devour,白泽粥,Shaman,Restoration,healer,Silver Hand
+7,180,304699352,2,Grim Batol,2024-11-03T12:35:36.000Z,1145421,2040999,3,Xal'atath's Bargain: Devour,萨起码,Shaman,Enhancement,dps,Anzu
+7,180,304699352,2,Grim Batol,2024-11-03T12:35:36.000Z,1145421,2040999,3,Xal'atath's Bargain: Devour,贵州在逃母猴,Priest,Shadow,dps,Kil'jaeden
+7,180,304699352,2,Grim Batol,2024-11-03T12:35:36.000Z,1145421,2040999,3,Xal'atath's Bargain: Devour,再会了,Monk,Mistweaver,healer,Pandaren
+7,180,304699352,2,Grim Batol,2024-11-03T12:35:36.000Z,1145421,2040999,3,Xal'atath's Bargain: Devour,七六山风蛊,Rogue,Assassination,dps,Isillien
+7,180,304699352,2,Grim Batol,2024-11-03T12:35:36.000Z,1145421,2040999,3,Xal'atath's Bargain: Devour,夜阑,Demon Hunter,Vengeance,tank,Al'Akir
+8,179.4,304728195,2,Grim Batol,2024-11-03T15:22:58.000Z,1255917,2040999,2,Xal'atath's Bargain: Devour,牛至,Warrior,Fury,dps,Hectae
+8,179.4,304728195,2,Grim Batol,2024-11-03T15:22:58.000Z,1255917,2040999,2,Xal'atath's Bargain: Devour,滴滴打德,Druid,Restoration,healer,Loken
+8,179.4,304728195,2,Grim Batol,2024-11-03T15:22:58.000Z,1255917,2040999,2,Xal'atath's Bargain: Devour,凡泠骑,Paladin,Protection,tank,Force of Elemental
+8,179.4,304728195,2,Grim Batol,2024-11-03T15:22:58.000Z,1255917,2040999,2,Xal'atath's Bargain: Devour,红色浩劫,Death Knight,Frost,dps,Anzu
+8,179.4,304728195,2,Grim Batol,2024-11-03T15:22:58.000Z,1255917,2040999,2,Xal'atath's Bargain: Devour,Badz,Death Knight,Frost,dps,Shadowmourne
+9,179.2,299857605,2,Grim Batol,2024-10-13T11:55:23.000Z,1269682,2040999,2,Xal'atath's Bargain: Devour,Toolshaman,Shaman,Restoration,healer,Bronzebeard
+9,179.2,299857605,2,Grim Batol,2024-10-13T11:55:23.000Z,1269682,2040999,2,Xal'atath's Bargain: Devour,工具帷幕,Rogue,Outlaw,dps,Bronzebeard
+9,179.2,299857605,2,Grim Batol,2024-10-13T11:55:23.000Z,1269682,2040999,2,Xal'atath's Bargain: Devour,桐宇,Warrior,Protection,tank,Bronzebeard
+9,179.2,299857605,2,Grim Batol,2024-10-13T11:55:23.000Z,1269682,2040999,2,Xal'atath's Bargain: Devour,工具蛋,Demon Hunter,Havoc,dps,Bronzebeard
+9,179.2,299857605,2,Grim Batol,2024-10-13T11:55:23.000Z,1269682,2040999,2,Xal'atath's Bargain: Devour,失忆丨骑士,Paladin,Retribution,dps,The Great Sea
+10,177.4,299970235,2,Grim Batol,2024-10-13T19:22:25.000Z,1368627,2040999,2,Xal'atath's Bargain: Devour,宁尘,Paladin,Holy,healer,Rhonin
+10,177.4,299970235,2,Grim Batol,2024-10-13T19:22:25.000Z,1368627,2040999,2,Xal'atath's Bargain: Devour,丿紫魂灬冰魄,Druid,Guardian,tank,Anzu
+10,177.4,299970235,2,Grim Batol,2024-10-13T19:22:25.000Z,1368627,2040999,2,Xal'atath's Bargain: Devour,化绍新,Hunter,Marksmanship,dps,Argus
+10,177.4,299970235,2,Grim Batol,2024-10-13T19:22:25.000Z,1368627,2040999,2,Xal'atath's Bargain: Devour,不灭虔诚丶,Paladin,Retribution,dps,Al'ar
+10,177.4,299970235,2,Grim Batol,2024-10-13T19:22:25.000Z,1368627,2040999,2,Xal'atath's Bargain: Devour,千刃逆鳞,Rogue,Assassination,dps,Azshara
+11,175.3,300162324,2,Grim Batol,2024-10-14T15:30:09.000Z,1481802,2040999,2,Xal'atath's Bargain: Devour,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+11,175.3,300162324,2,Grim Batol,2024-10-14T15:30:09.000Z,1481802,2040999,2,Xal'atath's Bargain: Devour,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+11,175.3,300162324,2,Grim Batol,2024-10-14T15:30:09.000Z,1481802,2040999,2,Xal'atath's Bargain: Devour,黑塑水,Mage,Frost,dps,Deathwing
+11,175.3,300162324,2,Grim Batol,2024-10-14T15:30:09.000Z,1481802,2040999,2,Xal'atath's Bargain: Devour,水晶流星,Monk,Mistweaver,healer,Kel'Thuzad
+11,175.3,300162324,2,Grim Batol,2024-10-14T15:30:09.000Z,1481802,2040999,2,Xal'atath's Bargain: Devour,Anyan,Paladin,Retribution,dps,Anzu
+12,175.2,300150614,2,Grim Batol,2024-10-14T14:13:36.000Z,1483452,2040999,2,Xal'atath's Bargain: Devour,冲钅释放灵魂,Warrior,Protection,tank,Grim Batol
+12,175.2,300150614,2,Grim Batol,2024-10-14T14:13:36.000Z,1483452,2040999,2,Xal'atath's Bargain: Devour,猎祖猎宗,Hunter,Marksmanship,dps,Chillwind Point
+12,175.2,300150614,2,Grim Batol,2024-10-14T14:13:36.000Z,1483452,2040999,2,Xal'atath's Bargain: Devour,素盏鸣丶尊,Shaman,Restoration,healer,Sunwell
+12,175.2,300150614,2,Grim Batol,2024-10-14T14:13:36.000Z,1483452,2040999,2,Xal'atath's Bargain: Devour,唐可可丶,Death Knight,Frost,dps,The Master's Glaive
+12,175.2,300150614,2,Grim Batol,2024-10-14T14:13:36.000Z,1483452,2040999,2,Xal'atath's Bargain: Devour,黑塑水,Mage,Frost,dps,Deathwing
+13,175,304485979,2,Grim Batol,2024-11-02T14:50:17.000Z,1494901,2040999,2,Xal'atath's Bargain: Devour,叶瀏,Rogue,Outlaw,dps,Echo Ridge
+13,175,304485979,2,Grim Batol,2024-11-02T14:50:17.000Z,1494901,2040999,2,Xal'atath's Bargain: Devour,章鱼张,Paladin,Retribution,dps,Frostmourne
+13,175,304485979,2,Grim Batol,2024-11-02T14:50:17.000Z,1494901,2040999,2,Xal'atath's Bargain: Devour,一盾牌闷死,Paladin,Protection,tank,Echo Ridge
+13,175,304485979,2,Grim Batol,2024-11-02T14:50:17.000Z,1494901,2040999,2,Xal'atath's Bargain: Devour,工地闪电侠,Shaman,Restoration,healer,Dream Bough
+13,175,304485979,2,Grim Batol,2024-11-02T14:50:17.000Z,1494901,2040999,2,Xal'atath's Bargain: Devour,小小财迷,Mage,Frost,dps,Frostmourne
+14,172.7,300658581,2,Grim Batol,2024-10-16T17:32:06.000Z,1624432,2040999,2,Xal'atath's Bargain: Devour,清风小宝贝,Death Knight,Frost,dps,Rhonin
+14,172.7,300658581,2,Grim Batol,2024-10-16T17:32:06.000Z,1624432,2040999,2,Xal'atath's Bargain: Devour,与你青绿,Paladin,Retribution,dps,Al'ar
+14,172.7,300658581,2,Grim Batol,2024-10-16T17:32:06.000Z,1624432,2040999,2,Xal'atath's Bargain: Devour,冰激凌匠人,Warrior,Fury,dps,Deathwing
+14,172.7,300658581,2,Grim Batol,2024-10-16T17:32:06.000Z,1624432,2040999,2,Xal'atath's Bargain: Devour,伊利达雷突然,Demon Hunter,Vengeance,tank,The Great Sea
+14,172.7,300658581,2,Grim Batol,2024-10-16T17:32:06.000Z,1624432,2040999,2,Xal'atath's Bargain: Devour,可耐耐,Shaman,Restoration,healer,Aessina
+15,172.3,299591864,2,Grim Batol,2024-10-12T14:48:55.000Z,1643416,2040999,1,Xal'atath's Bargain: Devour,列里尔,Hunter,Marksmanship,dps,Rhonin
+15,172.3,299591864,2,Grim Batol,2024-10-12T14:48:55.000Z,1643416,2040999,1,Xal'atath's Bargain: Devour,微醺骑士,Paladin,Protection,tank,Al'ar
+15,172.3,299591864,2,Grim Batol,2024-10-12T14:48:55.000Z,1643416,2040999,1,Xal'atath's Bargain: Devour,养了几只猫,Paladin,Retribution,dps,Al'ar
+15,172.3,299591864,2,Grim Batol,2024-10-12T14:48:55.000Z,1643416,2040999,1,Xal'atath's Bargain: Devour,稳腔司,Paladin,Retribution,dps,Blanchard
+15,172.3,299591864,2,Grim Batol,2024-10-12T14:48:55.000Z,1643416,2040999,1,Xal'atath's Bargain: Devour,奶不动一点,Shaman,Restoration,healer,Isillien

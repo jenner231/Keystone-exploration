@@ -1,0 +1,66 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,194.1,304691876,3,The Necrotic Wake,2024-11-03T11:36:47.000Z,1162823,1860999,2,Xal'atath's Bargain: Devour,你看我扫不扫,Evoker,Augmentation,dps,Grim Batol
+1,194.1,304691876,3,The Necrotic Wake,2024-11-03T11:36:47.000Z,1162823,1860999,2,Xal'atath's Bargain: Devour,泡泡蘑菇,Paladin,Retribution,dps,Grim Batol
+1,194.1,304691876,3,The Necrotic Wake,2024-11-03T11:36:47.000Z,1162823,1860999,2,Xal'atath's Bargain: Devour,缺糖爱甜,Death Knight,Frost,dps,Arthas
+1,194.1,304691876,3,The Necrotic Wake,2024-11-03T11:36:47.000Z,1162823,1860999,2,Xal'atath's Bargain: Devour,Aludiaba,Paladin,Protection,tank,Arthas
+1,194.1,304691876,3,The Necrotic Wake,2024-11-03T11:36:47.000Z,1162823,1860999,2,Xal'atath's Bargain: Devour,暮春丝柳,Shaman,Restoration,healer,Arthas
+2,187.3,304455921,3,The Necrotic Wake,2024-11-02T11:31:52.000Z,1500914,1860999,1,Xal'atath's Bargain: Devour,超级喜欢可乐,Priest,Holy,healer,Burning Blade
+2,187.3,304455921,3,The Necrotic Wake,2024-11-02T11:31:52.000Z,1500914,1860999,1,Xal'atath's Bargain: Devour,只身打马,Warlock,Destruction,dps,Swiftwind
+2,187.3,304455921,3,The Necrotic Wake,2024-11-02T11:31:52.000Z,1500914,1860999,1,Xal'atath's Bargain: Devour,代达羅斯之殇,Warrior,Protection,tank,Deathwing
+2,187.3,304455921,3,The Necrotic Wake,2024-11-02T11:31:52.000Z,1500914,1860999,1,Xal'atath's Bargain: Devour,我的鯤呢,Mage,Frost,dps,The Master's Glaive
+2,187.3,304455921,3,The Necrotic Wake,2024-11-02T11:31:52.000Z,1500914,1860999,1,Xal'atath's Bargain: Devour,文纳斯,Death Knight,Frost,dps,Malygos
+3,183.3,304689490,3,The Necrotic Wake,2024-11-03T11:07:03.000Z,1698252,1860999,1,Xal'atath's Bargain: Devour,你看我扫不扫,Evoker,Devastation,dps,Grim Batol
+3,183.3,304689490,3,The Necrotic Wake,2024-11-03T11:07:03.000Z,1698252,1860999,1,Xal'atath's Bargain: Devour,彩虹灌,Monk,Windwalker,dps,Skywall
+3,183.3,304689490,3,The Necrotic Wake,2024-11-03T11:07:03.000Z,1698252,1860999,1,Xal'atath's Bargain: Devour,我与争天下丶,Paladin,Protection,tank,Al'ar
+3,183.3,304689490,3,The Necrotic Wake,2024-11-03T11:07:03.000Z,1698252,1860999,1,Xal'atath's Bargain: Devour,给你的承诺,Mage,Frost,dps,Rhonin
+3,183.3,304689490,3,The Necrotic Wake,2024-11-03T11:07:03.000Z,1698252,1860999,1,Xal'atath's Bargain: Devour,塞恩特,Shaman,Restoration,healer,Skywall
+4,180,299347354,2,The Necrotic Wake,2024-10-11T17:29:12.000Z,726576,1860999,3,Xal'atath's Bargain: Devour,胖黑黒,Paladin,Retribution,dps,Al'ar
+4,180,299347354,2,The Necrotic Wake,2024-10-11T17:29:12.000Z,726576,1860999,3,Xal'atath's Bargain: Devour,一只奶熊,Shaman,Restoration,healer,Al'ar
+4,180,299347354,2,The Necrotic Wake,2024-10-11T17:29:12.000Z,726576,1860999,3,Xal'atath's Bargain: Devour,麦香牛,Paladin,Retribution,dps,Burning Blade
+4,180,299347354,2,The Necrotic Wake,2024-10-11T17:29:12.000Z,726576,1860999,3,Xal'atath's Bargain: Devour,图图的圣光,Paladin,Protection,tank,Silver Hand
+4,180,299347354,2,The Necrotic Wake,2024-10-11T17:29:12.000Z,726576,1860999,3,Xal'atath's Bargain: Devour,浊尘,Paladin,Retribution,dps,Deathwing
+5,180,304959575,2,The Necrotic Wake,2024-11-04T14:14:11.000Z,902540,1860999,3,Xal'atath's Bargain: Devour,Gwoemul,Rogue,Assassination,dps,Al'ar
+5,180,304959575,2,The Necrotic Wake,2024-11-04T14:14:11.000Z,902540,1860999,3,Xal'atath's Bargain: Devour,Tutuyay,Priest,Discipline,healer,Al'ar
+5,180,304959575,2,The Necrotic Wake,2024-11-04T14:14:11.000Z,902540,1860999,3,Xal'atath's Bargain: Devour,Dayl,Paladin,Protection,tank,Chillwind Point
+5,180,304959575,2,The Necrotic Wake,2024-11-04T14:14:11.000Z,902540,1860999,3,Xal'atath's Bargain: Devour,丶圣,Paladin,Retribution,dps,Pandaren
+5,180,304959575,2,The Necrotic Wake,2024-11-04T14:14:11.000Z,902540,1860999,3,Xal'atath's Bargain: Devour,刀刀,Warrior,Fury,dps,Anzu
+6,179.4,300150733,2,The Necrotic Wake,2024-10-14T14:14:41.000Z,1144617,1860999,2,Xal'atath's Bargain: Devour,凌寒清影,Hunter,Marksmanship,dps,Burning Blade
+6,179.4,300150733,2,The Necrotic Wake,2024-10-14T14:14:41.000Z,1144617,1860999,2,Xal'atath's Bargain: Devour,上杉明日奈,Mage,Arcane,dps,Burning Blade
+6,179.4,300150733,2,The Necrotic Wake,2024-10-14T14:14:41.000Z,1144617,1860999,2,Xal'atath's Bargain: Devour,卡士猫,Warlock,Destruction,dps,Burning Blade
+6,179.4,300150733,2,The Necrotic Wake,2024-10-14T14:14:41.000Z,1144617,1860999,2,Xal'atath's Bargain: Devour,丨本若未央丨,Druid,Guardian,tank,Burning Blade
+6,179.4,300150733,2,The Necrotic Wake,2024-10-14T14:14:41.000Z,1144617,1860999,2,Xal'atath's Bargain: Devour,克嬉尔,Shaman,Restoration,healer,Grim Batol
+7,179.4,300269548,2,The Necrotic Wake,2024-10-14T22:18:16.000Z,1148319,1860999,2,Xal'atath's Bargain: Devour,天才无二,Druid,Guardian,tank,Al'ar
+7,179.4,300269548,2,The Necrotic Wake,2024-10-14T22:18:16.000Z,1148319,1860999,2,Xal'atath's Bargain: Devour,军火贩子,Warrior,Fury,dps,Theramore
+7,179.4,300269548,2,The Necrotic Wake,2024-10-14T22:18:16.000Z,1148319,1860999,2,Xal'atath's Bargain: Devour,熊猫就是吊,Hunter,Marksmanship,dps,Anzu
+7,179.4,300269548,2,The Necrotic Wake,2024-10-14T22:18:16.000Z,1148319,1860999,2,Xal'atath's Bargain: Devour,梯田神萨,Shaman,Restoration,healer,Varian
+7,179.4,300269548,2,The Necrotic Wake,2024-10-14T22:18:16.000Z,1148319,1860999,2,Xal'atath's Bargain: Devour,狗杖悠仁,Warlock,Demonology,dps,Echo Ridge
+8,177.2,299610896,2,The Necrotic Wake,2024-10-12T15:56:22.000Z,1253906,1860999,2,Xal'atath's Bargain: Devour,列里尔,Hunter,Marksmanship,dps,Rhonin
+8,177.2,299610896,2,The Necrotic Wake,2024-10-12T15:56:22.000Z,1253906,1860999,2,Xal'atath's Bargain: Devour,奶不动一点,Shaman,Restoration,healer,Isillien
+8,177.2,299610896,2,The Necrotic Wake,2024-10-12T15:56:22.000Z,1253906,1860999,2,Xal'atath's Bargain: Devour,肆野,Druid,Guardian,tank,Rhonin
+8,177.2,299610896,2,The Necrotic Wake,2024-10-12T15:56:22.000Z,1253906,1860999,2,Xal'atath's Bargain: Devour,这一刀很帅,Death Knight,Unholy,dps,Shadowmourne
+8,177.2,299610896,2,The Necrotic Wake,2024-10-12T15:56:22.000Z,1253906,1860999,2,Xal'atath's Bargain: Devour,小黑子的计较,Warlock,Destruction,dps,Silver Hand
+9,176.6,304484960,2,The Necrotic Wake,2024-11-02T14:35:08.000Z,1284284,1860999,2,Xal'atath's Bargain: Devour,懒龙露娜,Evoker,Preservation,healer,Chillwind Point
+9,176.6,304484960,2,The Necrotic Wake,2024-11-02T14:35:08.000Z,1284284,1860999,2,Xal'atath's Bargain: Devour,塞翁吃犸,Mage,Frost,dps,Chillwind Point
+9,176.6,304484960,2,The Necrotic Wake,2024-11-02T14:35:08.000Z,1284284,1860999,2,Xal'atath's Bargain: Devour,Twodogs,Hunter,Survival,dps,Hectae
+9,176.6,304484960,2,The Necrotic Wake,2024-11-02T14:35:08.000Z,1284284,1860999,2,Xal'atath's Bargain: Devour,乀阿彪乄,Hunter,Survival,dps,Chillwind Point
+9,176.6,304484960,2,The Necrotic Wake,2024-11-02T14:35:08.000Z,1284284,1860999,2,Xal'atath's Bargain: Devour,没事没事,Death Knight,Blood,tank,Thaurissan
+10,172.5,304234233,2,The Necrotic Wake,2024-11-01T10:42:59.000Z,1488462,1860999,2,Xal'atath's Bargain: Devour,达克妮丝丶,Paladin,Retribution,dps,Anzu
+10,172.5,304234233,2,The Necrotic Wake,2024-11-01T10:42:59.000Z,1488462,1860999,2,Xal'atath's Bargain: Devour,油边丶,Paladin,Protection,tank,Anzu
+10,172.5,304234233,2,The Necrotic Wake,2024-11-01T10:42:59.000Z,1488462,1860999,2,Xal'atath's Bargain: Devour,業灬痕,Death Knight,Unholy,dps,Valley of Kings
+10,172.5,304234233,2,The Necrotic Wake,2024-11-01T10:42:59.000Z,1488462,1860999,2,Xal'atath's Bargain: Devour,离人巴赫丶,Warrior,Fury,dps,Smolderthorn
+10,172.5,304234233,2,The Necrotic Wake,2024-11-01T10:42:59.000Z,1488462,1860999,2,Xal'atath's Bargain: Devour,琼染,Priest,Discipline,healer,Burning Blade
+11,171.7,299601563,2,The Necrotic Wake,2024-10-12T15:10:45.000Z,1529295,1860999,1,Xal'atath's Bargain: Devour,乀阿暴乄,Warrior,Protection,tank,Chillwind Point
+11,171.7,299601563,2,The Necrotic Wake,2024-10-12T15:10:45.000Z,1529295,1860999,1,Xal'atath's Bargain: Devour,懒龙露娜,Evoker,Preservation,healer,Chillwind Point
+11,171.7,299601563,2,The Necrotic Wake,2024-10-12T15:10:45.000Z,1529295,1860999,1,Xal'atath's Bargain: Devour,嘿里乔,Paladin,Retribution,dps,Detheroc
+11,171.7,299601563,2,The Necrotic Wake,2024-10-12T15:10:45.000Z,1529295,1860999,1,Xal'atath's Bargain: Devour,觉醒之刺,Hunter,Marksmanship,dps,Jin'do
+11,171.7,299601563,2,The Necrotic Wake,2024-10-12T15:10:45.000Z,1529295,1860999,1,Xal'atath's Bargain: Devour,不买票,Mage,Frost,dps,Rexxar
+12,170.4,304092745,2,The Necrotic Wake,2024-10-31T16:38:06.000Z,1590833,1860999,1,Xal'atath's Bargain: Devour,亦天凛,Priest,Discipline,healer,The Great Sea
+12,170.4,304092745,2,The Necrotic Wake,2024-10-31T16:38:06.000Z,1590833,1860999,1,Xal'atath's Bargain: Devour,卡散之源,Paladin,Retribution,dps,The Great Sea
+12,170.4,304092745,2,The Necrotic Wake,2024-10-31T16:38:06.000Z,1590833,1860999,1,Xal'atath's Bargain: Devour,Heymitty,Warrior,Protection,tank,Burning Blade
+12,170.4,304092745,2,The Necrotic Wake,2024-10-31T16:38:06.000Z,1590833,1860999,1,Xal'atath's Bargain: Devour,双马尾缰绳,Monk,Windwalker,dps,Echo Ridge
+12,170.4,304092745,2,The Necrotic Wake,2024-10-31T16:38:06.000Z,1590833,1860999,1,Xal'atath's Bargain: Devour,一鸡嘎嘎,Druid,Balance,dps,The Great Sea
+13,166.4,299750386,2,The Necrotic Wake,2024-10-12T23:07:18.000Z,1791346,1860999,1,Xal'atath's Bargain: Devour,带法師郭德纲,Mage,Frost,dps,Black Dragonflight
+13,166.4,299750386,2,The Necrotic Wake,2024-10-12T23:07:18.000Z,1791346,1860999,1,Xal'atath's Bargain: Devour,貂很大你蝉吗,Hunter,Marksmanship,dps,Al'ar
+13,166.4,299750386,2,The Necrotic Wake,2024-10-12T23:07:18.000Z,1791346,1860999,1,Xal'atath's Bargain: Devour,脚趾摸頭,Druid,Guardian,tank,Archaedas
+13,166.4,299750386,2,The Necrotic Wake,2024-10-12T23:07:18.000Z,1791346,1860999,1,Xal'atath's Bargain: Devour,Xrkzw,Evoker,Augmentation,dps,Shadowmourne
+13,166.4,299750386,2,The Necrotic Wake,2024-10-12T23:07:18.000Z,1791346,1860999,1,Xal'atath's Bargain: Devour,一小只团子丶,Shaman,Restoration,healer,Stormrage

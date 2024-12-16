@@ -1,0 +1,126 @@
+rank,score,keystone_team_id,mythic_level,dungeon_name,completed_at,clear_time_ms,keystone_time_ms,num_chests,affixes,player_name,player_class,player_spec,player_role,player_realm,player_faction
+1,195,309228758,3,"Ara-Kara, City of Echoes",2024-11-26T15:27:10.000Z,1027886,1800999,3,Xal'atath's Bargain: Oblivion,飞行兵,Druid,Guardian,tank,Eldre'Thalas
+1,195,309228758,3,"Ara-Kara, City of Echoes",2024-11-26T15:27:10.000Z,1027886,1800999,3,Xal'atath's Bargain: Oblivion,法克世界,Priest,Shadow,dps,Thunderlord
+1,195,309228758,3,"Ara-Kara, City of Echoes",2024-11-26T15:27:10.000Z,1027886,1800999,3,Xal'atath's Bargain: Oblivion,邪火,Warlock,Destruction,dps,Shadow Labyrinth
+1,195,309228758,3,"Ara-Kara, City of Echoes",2024-11-26T15:27:10.000Z,1027886,1800999,3,Xal'atath's Bargain: Oblivion,先积分后求导,Monk,Mistweaver,healer,Deathwing
+1,195,309228758,3,"Ara-Kara, City of Echoes",2024-11-26T15:27:10.000Z,1027886,1800999,3,Xal'atath's Bargain: Oblivion,你看见我了吗,Mage,Frost,dps,Thunderlord
+2,194.9,301591127,3,"Ara-Kara, City of Echoes",2024-10-20T08:34:54.000Z,1084193,1800999,2,Xal'atath's Bargain: Oblivion,Serendipiity,Shaman,Elemental,dps,Al'ar
+2,194.9,301591127,3,"Ara-Kara, City of Echoes",2024-10-20T08:34:54.000Z,1084193,1800999,2,Xal'atath's Bargain: Oblivion,走路的云,Hunter,Marksmanship,dps,Al'ar
+2,194.9,301591127,3,"Ara-Kara, City of Echoes",2024-10-20T08:34:54.000Z,1084193,1800999,2,Xal'atath's Bargain: Oblivion,Miyoshiayaka,Priest,Discipline,healer,Dark Iron
+2,194.9,301591127,3,"Ara-Kara, City of Echoes",2024-10-20T08:34:54.000Z,1084193,1800999,2,Xal'atath's Bargain: Oblivion,云不来,Warrior,Protection,tank,Shadowmourne
+2,194.9,301591127,3,"Ara-Kara, City of Echoes",2024-10-20T08:34:54.000Z,1084193,1800999,2,Xal'atath's Bargain: Oblivion,拉娅,Death Knight,Frost,dps,The Golden Plains
+3,194.9,308736968,3,"Ara-Kara, City of Echoes",2024-11-23T13:30:03.000Z,1084674,1800999,2,Xal'atath's Bargain: Oblivion,闪电的触手,Shaman,Enhancement,dps,Argus
+3,194.9,308736968,3,"Ara-Kara, City of Echoes",2024-11-23T13:30:03.000Z,1084674,1800999,2,Xal'atath's Bargain: Oblivion,Massive,Paladin,Holy,healer,Argus
+3,194.9,308736968,3,"Ara-Kara, City of Echoes",2024-11-23T13:30:03.000Z,1084674,1800999,2,Xal'atath's Bargain: Oblivion,德三,Druid,Feral,dps,The Great Sea
+3,194.9,308736968,3,"Ara-Kara, City of Echoes",2024-11-23T13:30:03.000Z,1084674,1800999,2,Xal'atath's Bargain: Oblivion,不可诉之轻,Warlock,Affliction,dps,Argus
+3,194.9,308736968,3,"Ara-Kara, City of Echoes",2024-11-23T13:30:03.000Z,1084674,1800999,2,Xal'atath's Bargain: Oblivion,惊鸿丨索关,Demon Hunter,Vengeance,tank,Argus
+4,193,309063398,3,"Ara-Kara, City of Echoes",2024-11-25T09:43:32.000Z,1177876,1800999,2,Xal'atath's Bargain: Oblivion,葶苈,Mage,Frost,dps,Valley of Kings
+4,193,309063398,3,"Ara-Kara, City of Echoes",2024-11-25T09:43:32.000Z,1177876,1800999,2,Xal'atath's Bargain: Oblivion,曾丝黑,Paladin,Protection,tank,Burning Blade
+4,193,309063398,3,"Ara-Kara, City of Echoes",2024-11-25T09:43:32.000Z,1177876,1800999,2,Xal'atath's Bargain: Oblivion,风雷企鹅,Shaman,Enhancement,dps,Aessina
+4,193,309063398,3,"Ara-Kara, City of Echoes",2024-11-25T09:43:32.000Z,1177876,1800999,2,Xal'atath's Bargain: Oblivion,野性且迷人,Warrior,Fury,dps,Pandaren
+4,193,309063398,3,"Ara-Kara, City of Echoes",2024-11-25T09:43:32.000Z,1177876,1800999,2,Xal'atath's Bargain: Oblivion,馨莲,Shaman,Restoration,healer,Silver Hand
+5,189.2,297124682,3,"Ara-Kara, City of Echoes",2024-10-02T06:38:03.000Z,1357134,1800999,2,Xal'atath's Bargain: Oblivion,瓦东东,Death Knight,Unholy,dps,Grim Batol
+5,189.2,297124682,3,"Ara-Kara, City of Echoes",2024-10-02T06:38:03.000Z,1357134,1800999,2,Xal'atath's Bargain: Oblivion,小鸟乖乖,Druid,Guardian,tank,Grim Batol
+5,189.2,297124682,3,"Ara-Kara, City of Echoes",2024-10-02T06:38:03.000Z,1357134,1800999,2,Xal'atath's Bargain: Oblivion,哈吉龙,Evoker,Augmentation,dps,Grim Batol
+5,189.2,297124682,3,"Ara-Kara, City of Echoes",2024-10-02T06:38:03.000Z,1357134,1800999,2,Xal'atath's Bargain: Oblivion,阿狸璐垭,Paladin,Retribution,dps,Wintergrasp
+5,189.2,297124682,3,"Ara-Kara, City of Echoes",2024-10-02T06:38:03.000Z,1357134,1800999,2,Xal'atath's Bargain: Oblivion,少林丶牛,Monk,Mistweaver,healer,Anzu
+6,188.4,302115799,3,"Ara-Kara, City of Echoes",2024-10-22T13:15:34.000Z,1398240,1800999,2,Xal'atath's Bargain: Oblivion,冰镇丶七喜,Death Knight,Blood,tank,Swiftwind
+6,188.4,302115799,3,"Ara-Kara, City of Echoes",2024-10-22T13:15:34.000Z,1398240,1800999,2,Xal'atath's Bargain: Oblivion,小米椒拌饭,Death Knight,Frost,dps,Swiftwind
+6,188.4,302115799,3,"Ara-Kara, City of Echoes",2024-10-22T13:15:34.000Z,1398240,1800999,2,Xal'atath's Bargain: Oblivion,紫色鼠鼠球,Priest,Holy,healer,Elune
+6,188.4,302115799,3,"Ara-Kara, City of Echoes",2024-10-22T13:15:34.000Z,1398240,1800999,2,Xal'atath's Bargain: Oblivion,全村最丑丶,Paladin,Retribution,dps,Anzu
+6,188.4,302115799,3,"Ara-Kara, City of Echoes",2024-10-22T13:15:34.000Z,1398240,1800999,2,Xal'atath's Bargain: Oblivion,灬令狐冫钅,Warrior,Fury,dps,Stonetalon Peak
+7,180,308407104,2,"Ara-Kara, City of Echoes",2024-11-21T09:17:33.000Z,697808,1800999,3,Xal'atath's Bargain: Oblivion,Bakey,Mage,Frost,dps,Tyrande
+7,180,308407104,2,"Ara-Kara, City of Echoes",2024-11-21T09:17:33.000Z,697808,1800999,3,Xal'atath's Bargain: Oblivion,Dresde,Paladin,Protection,tank,Echo Ridge
+7,180,308407104,2,"Ara-Kara, City of Echoes",2024-11-21T09:17:33.000Z,697808,1800999,3,Xal'atath's Bargain: Oblivion,来碗热干粉,Monk,Mistweaver,healer,Silver Hand
+7,180,308407104,2,"Ara-Kara, City of Echoes",2024-11-21T09:17:33.000Z,697808,1800999,3,Xal'atath's Bargain: Oblivion,愤怒的土灵,Paladin,Retribution,dps,Archimonde
+7,180,308407104,2,"Ara-Kara, City of Echoes",2024-11-21T09:17:33.000Z,697808,1800999,3,Xal'atath's Bargain: Oblivion,饭来了,Death Knight,Frost,dps,Caverns of Time
+8,180,296911233,2,"Ara-Kara, City of Echoes",2024-10-01T06:34:48.000Z,770107,1800999,3,Xal'atath's Bargain: Oblivion,长谷川天心,Shaman,Elemental,dps,Rhonin
+8,180,296911233,2,"Ara-Kara, City of Echoes",2024-10-01T06:34:48.000Z,770107,1800999,3,Xal'atath's Bargain: Oblivion,诺艾尔,Paladin,Protection,tank,Deephome
+8,180,296911233,2,"Ara-Kara, City of Echoes",2024-10-01T06:34:48.000Z,770107,1800999,3,Xal'atath's Bargain: Oblivion,长不狐了,Shaman,Restoration,healer,The Forgotten Coast
+8,180,296911233,2,"Ara-Kara, City of Echoes",2024-10-01T06:34:48.000Z,770107,1800999,3,Xal'atath's Bargain: Oblivion,龙主任,Evoker,Devastation,dps,Suramar
+8,180,296911233,2,"Ara-Kara, City of Echoes",2024-10-01T06:34:48.000Z,770107,1800999,3,Xal'atath's Bargain: Oblivion,梦断之后,Death Knight,Frost,dps,Kel'Thuzad
+9,180,308917064,2,"Ara-Kara, City of Echoes",2024-11-24T12:30:30.000Z,866031,1800999,3,Xal'atath's Bargain: Oblivion,一头披肩发,Paladin,Protection,tank,Al'ar
+9,180,308917064,2,"Ara-Kara, City of Echoes",2024-11-24T12:30:30.000Z,866031,1800999,3,Xal'atath's Bargain: Oblivion,武猫,Monk,Mistweaver,healer,Al'ar
+9,180,308917064,2,"Ara-Kara, City of Echoes",2024-11-24T12:30:30.000Z,866031,1800999,3,Xal'atath's Bargain: Oblivion,慕容雪儿,Mage,Frost,dps,Al'ar
+9,180,308917064,2,"Ara-Kara, City of Echoes",2024-11-24T12:30:30.000Z,866031,1800999,3,Xal'atath's Bargain: Oblivion,小红手阳仔,Hunter,Marksmanship,dps,Al'ar
+9,180,308917064,2,"Ara-Kara, City of Echoes",2024-11-24T12:30:30.000Z,866031,1800999,3,Xal'atath's Bargain: Oblivion,秃彦祖,Rogue,Assassination,dps,The Great Sea
+10,180,308703103,2,"Ara-Kara, City of Echoes",2024-11-23T07:02:36.000Z,880729,1800999,3,Xal'atath's Bargain: Oblivion,时光丶阿秋,Paladin,Protection,tank,Greymane
+10,180,308703103,2,"Ara-Kara, City of Echoes",2024-11-23T07:02:36.000Z,880729,1800999,3,Xal'atath's Bargain: Oblivion,丿丶很萌灬,Druid,Balance,dps,The Master's Glaive
+10,180,308703103,2,"Ara-Kara, City of Echoes",2024-11-23T07:02:36.000Z,880729,1800999,3,Xal'atath's Bargain: Oblivion,英仔,Mage,Frost,dps,Rhonin
+10,180,308703103,2,"Ara-Kara, City of Echoes",2024-11-23T07:02:36.000Z,880729,1800999,3,Xal'atath's Bargain: Oblivion,哦尼酱,Mage,Frost,dps,The Golden Plains
+10,180,308703103,2,"Ara-Kara, City of Echoes",2024-11-23T07:02:36.000Z,880729,1800999,3,Xal'atath's Bargain: Oblivion,肆零捌,Priest,Discipline,healer,The Master's Glaive
+11,180,309339455,2,"Ara-Kara, City of Echoes",2024-11-27T05:26:25.000Z,896598,1800999,3,Xal'atath's Bargain: Oblivion,莫德小蓝手,Shaman,Restoration,healer,Al'ar
+11,180,309339455,2,"Ara-Kara, City of Echoes",2024-11-27T05:26:25.000Z,896598,1800999,3,Xal'atath's Bargain: Oblivion,思之以珩,Warlock,Demonology,dps,Rhonin
+11,180,309339455,2,"Ara-Kara, City of Echoes",2024-11-27T05:26:25.000Z,896598,1800999,3,Xal'atath's Bargain: Oblivion,于笙丿,Monk,Brewmaster,tank,Al'ar
+11,180,309339455,2,"Ara-Kara, City of Echoes",2024-11-27T05:26:25.000Z,896598,1800999,3,Xal'atath's Bargain: Oblivion,萨飒哥,Shaman,Enhancement,dps,Anzu
+11,180,309339455,2,"Ara-Kara, City of Echoes",2024-11-27T05:26:25.000Z,896598,1800999,3,Xal'atath's Bargain: Oblivion,一甁黄豆酱,Hunter,Survival,dps,Doomwalker
+12,180,301405453,2,"Ara-Kara, City of Echoes",2024-10-19T17:33:57.000Z,971547,1800999,3,Xal'atath's Bargain: Oblivion,厉害死你,Hunter,Marksmanship,dps,Al'ar
+12,180,301405453,2,"Ara-Kara, City of Echoes",2024-10-19T17:33:57.000Z,971547,1800999,3,Xal'atath's Bargain: Oblivion,风莲心宗,Evoker,Devastation,dps,Al'ar
+12,180,301405453,2,"Ara-Kara, City of Echoes",2024-10-19T17:33:57.000Z,971547,1800999,3,Xal'atath's Bargain: Oblivion,蓝莓超人,Demon Hunter,Vengeance,tank,Barrens
+12,180,301405453,2,"Ara-Kara, City of Echoes",2024-10-19T17:33:57.000Z,971547,1800999,3,Xal'atath's Bargain: Oblivion,梅森救我,Shaman,Restoration,healer,Al'ar
+12,180,301405453,2,"Ara-Kara, City of Echoes",2024-10-19T17:33:57.000Z,971547,1800999,3,Xal'atath's Bargain: Oblivion,Silencezero,Paladin,Retribution,dps,Dreadmist Peak
+13,180,302291319,2,"Ara-Kara, City of Echoes",2024-10-23T11:20:42.000Z,1008214,1800999,3,Xal'atath's Bargain: Oblivion,筱红帽丶,Paladin,Retribution,dps,The Great Sea
+13,180,302291319,2,"Ara-Kara, City of Echoes",2024-10-23T11:20:42.000Z,1008214,1800999,3,Xal'atath's Bargain: Oblivion,糖小兔,Paladin,Protection,tank,The Great Sea
+13,180,302291319,2,"Ara-Kara, City of Echoes",2024-10-23T11:20:42.000Z,1008214,1800999,3,Xal'atath's Bargain: Oblivion,小熊熊起床叻,Druid,Balance,dps,The Great Sea
+13,180,302291319,2,"Ara-Kara, City of Echoes",2024-10-23T11:20:42.000Z,1008214,1800999,3,Xal'atath's Bargain: Oblivion,姒雨樱,Priest,Discipline,healer,Shadowmourne
+13,180,302291319,2,"Ara-Kara, City of Echoes",2024-10-23T11:20:42.000Z,1008214,1800999,3,Xal'atath's Bargain: Oblivion,峰情万种,Mage,Frost,dps,Echo Ridge
+14,180,301685043,2,"Ara-Kara, City of Echoes",2024-10-20T16:06:25.000Z,1008975,1800999,3,Xal'atath's Bargain: Oblivion,在打在打,Druid,Restoration,healer,Barrens
+14,180,301685043,2,"Ara-Kara, City of Echoes",2024-10-20T16:06:25.000Z,1008975,1800999,3,Xal'atath's Bargain: Oblivion,天津周杰伦丶,Rogue,Assassination,dps,Illidan
+14,180,301685043,2,"Ara-Kara, City of Echoes",2024-10-20T16:06:25.000Z,1008975,1800999,3,Xal'atath's Bargain: Oblivion,Supremenn,Warrior,Fury,dps,Barrens
+14,180,301685043,2,"Ara-Kara, City of Echoes",2024-10-20T16:06:25.000Z,1008975,1800999,3,Xal'atath's Bargain: Oblivion,雷电牛牛,Shaman,Enhancement,dps,Frostmourne
+14,180,301685043,2,"Ara-Kara, City of Echoes",2024-10-20T16:06:25.000Z,1008975,1800999,3,Xal'atath's Bargain: Oblivion,花开淡墨痕,Warrior,Protection,tank,Ashenvale
+15,180,309205538,2,"Ara-Kara, City of Echoes",2024-11-26T10:49:18.000Z,1019750,1800999,3,Xal'atath's Bargain: Oblivion,Peekabooii,Demon Hunter,Vengeance,tank,The Master's Glaive
+15,180,309205538,2,"Ara-Kara, City of Echoes",2024-11-26T10:49:18.000Z,1019750,1800999,3,Xal'atath's Bargain: Oblivion,青靓白净,Warlock,Destruction,dps,Astalor
+15,180,309205538,2,"Ara-Kara, City of Echoes",2024-11-26T10:49:18.000Z,1019750,1800999,3,Xal'atath's Bargain: Oblivion,虚空丶冰神,Mage,Frost,dps,The Master's Glaive
+15,180,309205538,2,"Ara-Kara, City of Echoes",2024-11-26T10:49:18.000Z,1019750,1800999,3,Xal'atath's Bargain: Oblivion,特大号大黑牛,Shaman,Enhancement,dps,Dreadmist Peak
+15,180,309205538,2,"Ara-Kara, City of Echoes",2024-11-26T10:49:18.000Z,1019750,1800999,3,Xal'atath's Bargain: Oblivion,狼人殺,Shaman,Restoration,healer,Burning Blade
+16,180,301134859,2,"Ara-Kara, City of Echoes",2024-10-18T18:24:49.000Z,1041161,1800999,3,Xal'atath's Bargain: Oblivion,Asruthless,Rogue,Assassination,dps,Scarlet Crusade
+16,180,301134859,2,"Ara-Kara, City of Echoes",2024-10-18T18:24:49.000Z,1041161,1800999,3,Xal'atath's Bargain: Oblivion,列里尔,Hunter,Marksmanship,dps,Rhonin
+16,180,301134859,2,"Ara-Kara, City of Echoes",2024-10-18T18:24:49.000Z,1041161,1800999,3,Xal'atath's Bargain: Oblivion,氵沧澜踏歌丶,Shaman,Elemental,dps,Grim Batol
+16,180,301134859,2,"Ara-Kara, City of Echoes",2024-10-18T18:24:49.000Z,1041161,1800999,3,Xal'atath's Bargain: Oblivion,北雱小生,Paladin,Protection,tank,Anzu
+16,180,301134859,2,"Ara-Kara, City of Echoes",2024-10-18T18:24:49.000Z,1041161,1800999,3,Xal'atath's Bargain: Oblivion,芥末三思,Druid,Restoration,healer,Al'ar
+17,180,309349639,2,"Ara-Kara, City of Echoes",2024-11-27T08:13:12.000Z,1042199,1800999,3,Xal'atath's Bargain: Oblivion,江南,Demon Hunter,Vengeance,tank,Silver Hand
+17,180,309349639,2,"Ara-Kara, City of Echoes",2024-11-27T08:13:12.000Z,1042199,1800999,3,Xal'atath's Bargain: Oblivion,锦瑟箜篌,Monk,Mistweaver,healer,The Golden Plains
+17,180,309349639,2,"Ara-Kara, City of Echoes",2024-11-27T08:13:12.000Z,1042199,1800999,3,Xal'atath's Bargain: Oblivion,孤夜微凉,Warlock,Destruction,dps,Silver Hand
+17,180,309349639,2,"Ara-Kara, City of Echoes",2024-11-27T08:13:12.000Z,1042199,1800999,3,Xal'atath's Bargain: Oblivion,Jmybot,Evoker,Augmentation,dps,Al'ar
+17,180,309349639,2,"Ara-Kara, City of Echoes",2024-11-27T08:13:12.000Z,1042199,1800999,3,Xal'atath's Bargain: Oblivion,嫂子你扶稳,Warlock,Destruction,dps,Chillwind Point
+18,179.9,309345952,2,"Ara-Kara, City of Echoes",2024-11-27T07:09:49.000Z,1086092,1800999,2,Xal'atath's Bargain: Oblivion,小猫吉他手,Hunter,Survival,dps,Scarlet Crusade
+18,179.9,309345952,2,"Ara-Kara, City of Echoes",2024-11-27T07:09:49.000Z,1086092,1800999,2,Xal'atath's Bargain: Oblivion,格哦麻辣烫么,Warrior,Arms,dps,Arthas
+18,179.9,309345952,2,"Ara-Kara, City of Echoes",2024-11-27T07:09:49.000Z,1086092,1800999,2,Xal'atath's Bargain: Oblivion,蓝色以太,Mage,Frost,dps,Anzu
+18,179.9,309345952,2,"Ara-Kara, City of Echoes",2024-11-27T07:09:49.000Z,1086092,1800999,2,Xal'atath's Bargain: Oblivion,诺玛朵别,Druid,Guardian,tank,Zealot Blade
+18,179.9,309345952,2,"Ara-Kara, City of Echoes",2024-11-27T07:09:49.000Z,1086092,1800999,2,Xal'atath's Bargain: Oblivion,我特硬,Priest,Holy,healer,Rhonin
+19,178.4,308442556,2,"Ara-Kara, City of Echoes",2024-11-21T15:47:48.000Z,1156933,1800999,2,Xal'atath's Bargain: Oblivion,超人伸懒腰,Mage,Arcane,dps,Chillwind Point
+19,178.4,308442556,2,"Ara-Kara, City of Echoes",2024-11-21T15:47:48.000Z,1156933,1800999,2,Xal'atath's Bargain: Oblivion,梦醒九分,Warrior,Protection,tank,Dark Iron
+19,178.4,308442556,2,"Ara-Kara, City of Echoes",2024-11-21T15:47:48.000Z,1156933,1800999,2,Xal'atath's Bargain: Oblivion,道格拉斯,Hunter,Survival,dps,Blanchard
+19,178.4,308442556,2,"Ara-Kara, City of Echoes",2024-11-21T15:47:48.000Z,1156933,1800999,2,Xal'atath's Bargain: Oblivion,前后天,Druid,Restoration,healer,Hearthglen
+19,178.4,308442556,2,"Ara-Kara, City of Echoes",2024-11-21T15:47:48.000Z,1156933,1800999,2,Xal'atath's Bargain: Oblivion,残阳玫瑰,Paladin,Retribution,dps,Burning Blade
+20,177.1,302106412,2,"Ara-Kara, City of Echoes",2024-10-22T12:04:20.000Z,1220100,1800999,2,Xal'atath's Bargain: Oblivion,地皮的帝楷体,Death Knight,Blood,tank,Danath Trollbane
+20,177.1,302106412,2,"Ara-Kara, City of Echoes",2024-10-22T12:04:20.000Z,1220100,1800999,2,Xal'atath's Bargain: Oblivion,廉价把戏丶,Evoker,Augmentation,dps,Silver Hand
+20,177.1,302106412,2,"Ara-Kara, City of Echoes",2024-10-22T12:04:20.000Z,1220100,1800999,2,Xal'atath's Bargain: Oblivion,熊熊蟹皇堡,Shaman,Restoration,healer,Silver Hand
+20,177.1,302106412,2,"Ara-Kara, City of Echoes",2024-10-22T12:04:20.000Z,1220100,1800999,2,Xal'atath's Bargain: Oblivion,你的大坝,Paladin,Retribution,dps,Silver Hand
+20,177.1,302106412,2,"Ara-Kara, City of Echoes",2024-10-22T12:04:20.000Z,1220100,1800999,2,Xal'atath's Bargain: Oblivion,遇见明月,Druid,Balance,dps,Silver Hand
+21,176.1,300770118,2,"Ara-Kara, City of Echoes",2024-10-17T00:54:55.000Z,1267871,1800999,2,Xal'atath's Bargain: Oblivion,Camila,Rogue,Assassination,dps,Deathforge
+21,176.1,300770118,2,"Ara-Kara, City of Echoes",2024-10-17T00:54:55.000Z,1267871,1800999,2,Xal'atath's Bargain: Oblivion,阿波痛击老六,Druid,Guardian,tank,Emeriss
+21,176.1,300770118,2,"Ara-Kara, City of Echoes",2024-10-17T00:54:55.000Z,1267871,1800999,2,Xal'atath's Bargain: Oblivion,奶孩子的辣妈,Priest,Discipline,healer,Wintergrasp
+21,176.1,300770118,2,"Ara-Kara, City of Echoes",2024-10-17T00:54:55.000Z,1267871,1800999,2,Xal'atath's Bargain: Oblivion,我们要相信光,Mage,Frost,dps,Thunderlord
+21,176.1,300770118,2,"Ara-Kara, City of Echoes",2024-10-17T00:54:55.000Z,1267871,1800999,2,Xal'atath's Bargain: Oblivion,笑世殇,Shaman,Elemental,dps,Echo Ridge
+22,176,296361317,2,"Ara-Kara, City of Echoes",2024-09-29T07:23:51.000Z,1272376,1800999,2,Xal'atath's Bargain: Oblivion,艺术系教授,Death Knight,Blood,tank,Anzu
+22,176,296361317,2,"Ara-Kara, City of Echoes",2024-09-29T07:23:51.000Z,1272376,1800999,2,Xal'atath's Bargain: Oblivion,耀不狐了,Priest,Discipline,healer,The Forgotten Coast
+22,176,296361317,2,"Ara-Kara, City of Echoes",2024-09-29T07:23:51.000Z,1272376,1800999,2,Xal'atath's Bargain: Oblivion,柴郡猫酱,Warrior,Fury,dps,Doom's Vigil
+22,176,296361317,2,"Ara-Kara, City of Echoes",2024-09-29T07:23:51.000Z,1272376,1800999,2,Xal'atath's Bargain: Oblivion,在睡了在睡了,Mage,Frost,dps,Anvilmar
+22,176,296361317,2,"Ara-Kara, City of Echoes",2024-09-29T07:23:51.000Z,1272376,1800999,2,Xal'atath's Bargain: Oblivion,Icedragon,Death Knight,Frost,dps,Falathim
+23,174.7,308866230,2,"Ara-Kara, City of Echoes",2024-11-24T03:16:40.000Z,1334109,1800999,2,Xal'atath's Bargain: Oblivion,神奇的阿瓷,Paladin,Retribution,dps,Scarlet Crusade
+23,174.7,308866230,2,"Ara-Kara, City of Echoes",2024-11-24T03:16:40.000Z,1334109,1800999,2,Xal'atath's Bargain: Oblivion,海派甜心,Priest,Discipline,healer,Ahn'Qiraj
+23,174.7,308866230,2,"Ara-Kara, City of Echoes",2024-11-24T03:16:40.000Z,1334109,1800999,2,Xal'atath's Bargain: Oblivion,欧洲脸丶,Paladin,Retribution,dps,Silver Hand
+23,174.7,308866230,2,"Ara-Kara, City of Echoes",2024-11-24T03:16:40.000Z,1334109,1800999,2,Xal'atath's Bargain: Oblivion,无上圣光,Paladin,Protection,tank,The Botanica
+23,174.7,308866230,2,"Ara-Kara, City of Echoes",2024-11-24T03:16:40.000Z,1334109,1800999,2,Xal'atath's Bargain: Oblivion,死亡丨如风,Shaman,Elemental,dps,Shadowmourne
+24,174.2,308864394,2,"Ara-Kara, City of Echoes",2024-11-24T03:03:01.000Z,1358740,1800999,2,Xal'atath's Bargain: Oblivion,想吃汤圆,Druid,Guardian,tank,Dark Iron
+24,174.2,308864394,2,"Ara-Kara, City of Echoes",2024-11-24T03:03:01.000Z,1358740,1800999,2,Xal'atath's Bargain: Oblivion,界限丶丶,Paladin,Retribution,dps,Isillien
+24,174.2,308864394,2,"Ara-Kara, City of Echoes",2024-11-24T03:03:01.000Z,1358740,1800999,2,Xal'atath's Bargain: Oblivion,天籁小奶爸,Priest,Discipline,healer,Ashenvale
+24,174.2,308864394,2,"Ara-Kara, City of Echoes",2024-11-24T03:03:01.000Z,1358740,1800999,2,Xal'atath's Bargain: Oblivion,可染丶,Mage,Frost,dps,Echo Ridge
+24,174.2,308864394,2,"Ara-Kara, City of Echoes",2024-11-24T03:03:01.000Z,1358740,1800999,2,Xal'atath's Bargain: Oblivion,逗比很逗丶,Shaman,Elemental,dps,Chillwind Point
+25,170.5,301883181,2,"Ara-Kara, City of Echoes",2024-10-21T13:12:01.000Z,1537031,1800999,1,Xal'atath's Bargain: Oblivion,噗噗的踏风,Monk,Windwalker,dps,Grim Batol
+25,170.5,301883181,2,"Ara-Kara, City of Echoes",2024-10-21T13:12:01.000Z,1537031,1800999,1,Xal'atath's Bargain: Oblivion,蹼哧打次,Death Knight,Blood,tank,Grim Batol
+25,170.5,301883181,2,"Ara-Kara, City of Echoes",2024-10-21T13:12:01.000Z,1537031,1800999,1,Xal'atath's Bargain: Oblivion,呼市最强大脑,Paladin,Retribution,dps,Grim Batol
+25,170.5,301883181,2,"Ara-Kara, City of Echoes",2024-10-21T13:12:01.000Z,1537031,1800999,1,Xal'atath's Bargain: Oblivion,短门先生,Evoker,Augmentation,dps,Grim Batol
+25,170.5,301883181,2,"Ara-Kara, City of Echoes",2024-10-21T13:12:01.000Z,1537031,1800999,1,Xal'atath's Bargain: Oblivion,五里营愣头青,Evoker,Preservation,healer,Grim Batol
